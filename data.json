@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-07-29T16:14:29Z",
+  "generated_at": "2026-07-29T16:19:38Z",
   "total_verified": 275,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -30,23 +32,23 @@
   },
   {
    "topic": "services",
-   "count": 64
+   "count": 65
   },
   {
-   "topic": "gulf news",
-   "count": 57
-  },
-  {
-   "topic": "flights",
-   "count": 34
+   "topic": "gulfnews",
+   "count": 58
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 33
+  },
+  {
+   "topic": "flights",
+   "count": 33
   },
   {
    "topic": "passport visa",
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-9ccfae7f2d54",
+   "id": "bn-5e51c5142368",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
-   "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a26e5bf114330b0f3584c19cea2ef&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "time": "Wed, 22 Jul 2026 08:54:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a2819faba498cbfe3e841f7be736b&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -121,9 +123,9 @@
   {
    "id": "gn-56c2327bed5c",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
+   "text": "First look: Inside new Indian passport centres in UAE as rush begins - gulfnews.com",
    "time": "Wed, 22 Jul 2026 08:14:33 GMT",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
    "sentiment": "neutral",
@@ -181,9 +183,9 @@
   {
    "id": "gn-8c15095a2817",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - gulfnews.com",
    "time": "Wed, 22 Jul 2026 05:10:37 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
    "sentiment": "neutral",
@@ -205,9 +207,9 @@
   {
    "id": "gn-914dca3391c3",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "How to apply for an Indian passport in the UAE with new service provider Alhind Tours & Travels - Gulf News",
+   "text": "How to apply for an Indian passport in the UAE with new service provider Alhind Tours & Travels - gulfnews.com",
    "time": "Wed, 22 Jul 2026 02:22:31 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDlDdmozZjhnNmJwNGhObVJHc2w5WlFiOVJPcWpRVHN2QUNrRTR1dUdUM19GZW55UENvSklrOGFYWWM5c0xBc2xLcl9MRE9PM2VQdWFULV9LNm9HcENUb0k4VlpuRHJoZWw5YjVlOTVmTUpCby1aNHBJS25OSDJ0TThqOTg4RUhpU09hdHRqZGJDU0hGbnJ6T25iYkZUdjZMRDJ2eWJHNFc2Qnk4TzdzcUdYTmJOZERpSURpM3hWVlVJbWNqUVUzWmhvSdIB2wFBVV95cUxQdWtXRUhuR2dtNmRrTXMtV01adTVOaXhLckdkZC1tQzlpaEZGdmpIanFuY3NyWFNpVUh4VWJTRzZQeE9xYWRBU204UWNnVTdvaWxGRFNGMHlmMHRyelFaclhEQ0JYc3doRk1hSjNPVzFCU2ZoZXBwdzd2ZFQ3YVlJbzJETWR1XzFYNmFGQlAycUlpbUsxbm9jNWktTmJFVUNRUW1NV0tidGUyeThTMXJDVGxjdHV4SGxURk5naW1TcVZjUTZyNTdJa21UaDZwSzI5UDByY2tHck1VRDg?oc=5",
    "sentiment": "neutral",
@@ -215,25 +217,25 @@
    "engagement": null
   },
   {
-   "id": "bn-5b89b38be3d5",
+   "id": "bn-a13ac7a5bf8e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
-   "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a26e5bf114330b0f3584c19cea2ef&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "text": "Indian passport, visa services in UAE now via Al Hind Tours & Travels",
+   "time": "Wed, 22 Jul 2026 00:59:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a2819faba498cbfe3e841f7be736b&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-passport-visa-attestation-services-in-uae-now-via-al-hind-tours-travels-from-22-july-2026%2f3849&c=16156068157230005560&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-03af86fc6ab5",
+   "id": "bn-9a2ce66a6ddc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE Opens New Indian Consular Centres for Passport Services",
-   "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a26e5bf114330b0f3584c19cea2ef&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
+   "time": "Wed, 22 Jul 2026 00:17:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6a2819faba498cbfe3e841f7be736b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -313,9 +315,9 @@
   {
    "id": "gn-f6bdcae27966",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
+   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - gulfnews.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB0gHyAUFVX3lxTE0zX0VRYXlBS18yTVhXa3l3T2o5Y3NWd0tzUzk3VWI1MTljblVCTDJOS2Q2bTFya0ZGVWdsLUlqWjFVTHlhbm1fVHVYU1FVYjJoQXQ3LTJPNEFKZEFXWkVOVkJBRjV5ZHNwcXFReU1sVVpJQ3laUkVXTnotYXJKUHdwMEExSmNveHRYUUZsV3pVQnZVdXBjZEc2c0hZdWFYQ2F4RVg4RGllTVNEbmNybEhiaUJkY000d1pmTWJ3WmtMTzBYV0Q4bkhXSWJUa01OQzBOOVdDVmtEeFBGYkdKR2NydWRzN1cwREhfX1BUQTk3cENB?oc=5",
    "sentiment": "neutral",
@@ -385,9 +387,9 @@
   {
    "id": "gn-b54efb0bc57c",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "UAE travel advisory: Flight cancellations, Gulf airspace warnings — what travellers need to know now - Gulf News",
+   "text": "UAE travel advisory: Flight cancellations, Gulf airspace warnings — what travellers need to know now - gulfnews.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGswQnA0Rl9WeFZIRENGTjA3MXlIQUdvMUo2V25qUzVZUzJ3d1AzNllBX3lXaEo5Y0NHZjEyY0FPSzlGWVZfNDgtVVJBRXB0T1NjS21oTkJCRjlZMjZiV1ctTWFiVllNeFBfSlE4OEhUbVFpNVlsRkMtNlFLWVZETFNwMmNac0VDX3F1UFppeDNvVGlmWW14MFNsUE5ybXk0MnFSWUticnozTTNZMVhjTW5RMXJnYVNtamtYMjJYWkN2cDVQNVZvSFREdW5fYmNBN3JqbklKSE5NVmNkVnYzN9IB8wFBVV95cUxNYWFxeFFUUXJsZHRZSzFldExlZEs2cG9XODZHTW43YS0xemFqWkxpMGJrRXVFVTVySnFSbURxMnd3OUkwZzl3NE9PMkQxNTgzXzZKaHUxdW9TdE9GTS1PeTFkb25ZSmMwT0pwazlQUzdzZ19fdzY3ZjFlZ1dMYnVlSjRsaDI5NUNsMnQyai00dWhWNWpuQ0xoMXdJN3RLT2p2WnMxd2h2dWlSTTlRWHQtSDdhcmZQX1ktOUhLUnNteUM3dHhlZkdLaDMzYWZvU1h6VGVwNGVvZkIyb2tYWWlPSG8ycE1xYjdVMUlzSzZpdXdBbXc?oc=5",
    "sentiment": "neutral",
@@ -402,6 +404,18 @@
    "text": "Is it safe to travel to Dubai right now? What travellers need to know about visiting the UAE - Condé Nast Traveller India",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ff083e983c62",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian passport slips to 80th rank: UAE travellers can still visit 56 visa-free countries - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NNcHZRM1BTZHRkaGI4eEs4Y3k5OWJRbkdSUWUyQmxrN3A1TjJScVdrOHdqNlZhVEM5XzVkYy03Yzg4N21tVFVEcWItX3BRc3Z1THRDU2hqR1pzcXZmMnd5djgwbHkwQVRVUjJDX1ozX1hESm16UTNQbFJOWVpES05MdDd0YVZ6Mmd0dktRcDhaWVZ4SS1EemNOb2h6NnpfY1BSdmY4WW5HM3NESlVFOUUwOVXSAbwBQVVfeXFMTk83cFpndWdLLUhuUzB6dVRIRFhUSTY3SzF5YXQzZ1R1NnY4TkRWeDFYa0FCREZtM1ZFc1lXakVnUFR5cUJpMGxOLUlVakJrWElFZlNqOGlJbi1mblBrZW1sRlhVMjZkcWFIUHdsYlpQVlc4cWJBZm1oajJjT2QxRDRTQ3A0eGlpVnNGdlB6NXJSRzVZQ01hR1ZxZjF0Nm9RQmFfZVFIZVduS1ZFbURRNFFGTzNZTVZIQ08xR2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,9 +519,9 @@
   {
    "id": "gn-effb508f70e1",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - Gulf News",
+   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - gulfnews.com",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTZuTDZ4dWdheEEyeG1yYk9hMGxZNmdvUFIzSndCRzNNRUtwZTh0MzZ6Yy1adjdjUVg0LWYzUk01dEhNZUNwNnl2WnlQdmt5UVFsX200blFZc3k2eXdta1pFN1dRdnhoakJpYzRtc3hUOTY5QU8zRjZBT3dLai1zX2ozWkdrUkZjZHJsUTV4MUZ6X005dEdscFdKV0k4OE9TLWw4Z3cwSV9qT3hZYl95ZHVrUWxXbWRlczFMR09zbjhrMWPSAdMBQVVfeXFMTWxLVXV2Yld4bGxGbUJjWmFSVkF1VTMxeE14SFFXQmxySDBBajk1Zy1tMThET1JnaGpHbHBrWkc0SVlramNKQXc1UlozNmU5YjVoRXlfR3A0S3F5X254Tk85anVJeDR5WmFXOWprTnJWYzRKSWJ3VDk3bmZfdmd6a2xSSjJpVUtObFJtM2VRNjRzUTcyT1Rla0dvenZVdC1BN3FvQjlkaGQyaFVFeC1KR0ZRMFJCcXowem9VSlgtd1B3VC1RR19RMjBENG5KTDAtYkJpNA?oc=5",
    "sentiment": "negative",
@@ -522,18 +536,6 @@
    "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-5b41ac567dbd",
-   "channel": "press",
-   "author": "timesofindia.indiatimes.com",
-   "role": "press",
-   "text": "Indian Consulate in Dubai allows Class 12 students to get NRI certificates through one-time walk-in on Ap - timesofindia.indiatimes.com",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPN3RuaE1FX05sMzJfbUFkXzk0VmdlSWJBeExHczkzV25xWFVLdUlsYW03aTRjM2cwLUV3WG0yQVg0UHdadjRaNUxSMDhlWExmS1I3TWx0WkpoYmF5VXFCWGFqaVB3Qld6T2pUOFZoZ2dXRGpQdEdjQ21RNGpVYko4OXZiNGJFTGRieF8tMWh1YnpFRjU2MGs0ekhHN2l0b3I2a196RXU2eEIyZ1VsdTBnT2lCdXhzd003RjRlQ1VpM1VLemxUQWI1MHg2dnNyczE0aG5QM0FoN01pWW5WOFd3bEdseHRKRU9fOXg3dXNaY2J0dmRDLXI1ZFhBaDU5d2trcFpTTndvUkdOa1pDVElrQmxOVlFEcWxKT0NUVHhyemRyaFJ6SEHSAasCQVVfeXFMTnlvcGlkRk9McnR2MzMySUZGVUFMM09YaFg2OEprTHFMcE8xejk5UmlxYVpkVTlMVkhtaVZrMmlnT1hEb0pRWV9UV2JJaTVTVTJKSGhRRG5fTDlsWGtPUjAzMkpJR00zT2hTQkYyellrQ2MzVkZLOXFTUjhlelAxUVpCQ0FIYnd3VmJoSXJRM0ZnbGpGNVNfMmE0UGZlSmY0RVRfTk5pZnk2SEVtTVNGdjZYc3JDek1hMVRfZXhuN3pTR1dLcjczeGJSQ1hDZDhqTGI4RmZjd0JiNHJxckpzM0dpRGx2UENYZnZ4Y2NXQ2Z5dUZHWTBvNmt4VHB0QWhLSXgyMlM4Y1NQWW5WSElzNTNnSG5GZ291bWJXMmVjTklWZkhkSXBjUkFTZnc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -567,9 +569,9 @@
   {
    "id": "gn-bba0e56ad7d3",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
+   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - gulfnews.com",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
    "sentiment": "negative",
