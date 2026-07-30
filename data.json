@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-07-30T23:30:04Z",
-  "total_verified": 270,
+  "generated_at": "2026-07-30T23:35:13Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 271,
   "sentiment": {
    "positive": 13,
-   "neutral": 224,
-   "negative": 33
+   "neutral": 226,
+   "negative": 32
   },
   "channels": {
-   "press": 266,
+   "press": 267,
    "official": 4
   },
-  "negative_alerts": 33,
+  "negative_alerts": 32,
   "handles_active": 2
  },
  "topics": [
@@ -34,11 +36,11 @@
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 55
   },
   {
    "topic": "flights",
-   "count": 34
+   "count": 35
   },
   {
    "topic": "khaleej times",
@@ -131,13 +133,13 @@
    "engagement": null
   },
   {
-   "id": "bn-465f0df9808a",
+   "id": "bn-6f25db51bf4a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bde7a40a14f248916c054c5d1a19b&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bdfb0006542a9935797af4197a6b8&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -227,25 +229,25 @@
    "engagement": null
   },
   {
-   "id": "bn-7ea3da5665a2",
+   "id": "bn-9b70ba8512d0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
    "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bde7a40a14f248916c054c5d1a19b&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bdfb0006542a9935797af4197a6b8&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-69a06f716c97",
+   "id": "bn-9cb362218b82",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE Opens New Indian Consular Centres for Passport Services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bde7a40a14f248916c054c5d1a19b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6bdfb0006542a9935797af4197a6b8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -270,6 +272,18 @@
    "text": "Indian mission closely coordinating with UAE to provide support to deceased sailors family - Daily Excelsior",
    "time": "Wed, 15 Jul 2026 22:58:51 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlBtdXRaVG1NUDdkR2Q5bzJibS1VMWpfb0prRmhKbHRic3d4NHpWeXRSM2lWVllQMVNHbGVlMzFLZGVMRk1BMTBzMTQ4RTRoY2RhYnpkRUh2V3doNUh4cjM2Zjlta252SFVJdWVieDhyTGNfX0lhbGV6NzZ1WFhNYmZSMmdqbU1QQVNBYkJQNjJZS0VUVmNWUWdrMVF6N1pZczZoSWkyaXduRllaWkprdW1MV1lTNnJ6eVpwOTNsTdIBwwFBVV95cUxPbjE2WnBuUEExb1BaNnNiMXdNcnhJTlRwSGJTU2JRZjBERVRfOVNnNXZqYlJCanM2RVZheUpjMExIQ0RXWW1lOS1HZGhqM0JJTjQzYUZvSmtIUS1VcElsX1JLZm1KdlVJYTd5ZVo2d2ZYdWRGSWxYaGRVNVZvZWMtcVdocjRhbnZoQzN1bzBwRmhXWW4wajZiajFnYS1vOVdGS3NVMkZjZVBSMDZrZzA2Mk5XaHJqNFY2d1VfdXNka0FVYzQ?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4f9922c81890",
+   "channel": "press",
+   "author": "NDTV Profit",
+   "role": "press",
+   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
+   "time": "Wed, 15 Jul 2026 13:02:43 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -403,18 +417,6 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-4f9922c81890",
-   "channel": "press",
-   "author": "NDTV Profit",
-   "role": "press",
-   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -579,9 +581,9 @@
   {
    "id": "gn-d90c0c4a43a3",
    "channel": "press",
-   "author": "economictimes.com",
+   "author": "The Economic Times",
    "role": "press",
-   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - economictimes.com",
+   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - The Economic Times",
    "time": "Fri, 17 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ29tU0wxc2c1U1pkNVdSeF9HQVdDdC1aQ0lVbVAydWVXNDAzd0R3cGFZQ2Rmd1JZbE40WkxwTEFaS21mQ2QtZ2JkNmNqaVIxcmZIcUd4cWFWS1l6blAyd3VOUGJKN0FKeFdBSENCQ2tieFdJb05vZ3JWVVZBTmU3dEd4NlpYQmh6cFZENk1GblozZUg5aTRzNnduSTA0eXdFVF84c29lUTdsWGNJYWdfMkFLZFQ0dTZMUlcxMWdMQ3RXUlVPSmtFR214Rnl3eDJPbmlRVTJpQ2o3RHppMFQ3MmJUSWtlbnZCQzR6WS0xVzVkaWtOZXVCTGtn0gH_AUFVX3lxTE1qWlMtdThYOEF3YUVma0QxSWRVY19YeWQxVHRXR3dMVDM2MnFGY3VFeldwZFVSOVZDZ0dpRGdaLUs3eG1ScjhUZ0pZNElLanZoU3p2cFlOUUZPRXFzNC03cVEyUEVXUjI2VEUyRlJzVkNjRDZkUEpIS2NPOGlMalJpbG5pczZuWS16QVQ5aVo1bDFuWmplc1VVeWlTV0x5NGQzTVMzbC1nT1ZSRktlNDU5NElGcDBMbVh1VVVyQ2E4VzROR1p2WWU4NTZnX2lTd0otZ0NlaFc3cjJQTEIwQjNiQ3BLSEU2T2NoREgtWGZiSHpoY2t3cXJkXzVCMFFFWQ?oc=5",
    "sentiment": "negative",
@@ -613,6 +615,18 @@
    "engagement": null
   },
   {
+   "id": "gn-61ee2a7d0e70",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
+   "time": "Mon, 06 Jul 2026 12:11:59 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-4e05a06287f2",
    "channel": "press",
    "author": "News India Times",
@@ -632,18 +646,6 @@
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-61ee2a7d0e70",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
-   "time": "Mon, 06 Jul 2026 12:11:59 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
