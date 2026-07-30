@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-07-30T12:26:52Z",
-  "total_verified": 271,
+  "generated_at": "2026-07-30T12:32:28Z",
+  "total_verified": 263,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 271,
+  "verified_mentions": 263,
   "sentiment": {
-   "positive": 13,
-   "neutral": 225,
-   "negative": 33
+   "positive": 14,
+   "neutral": 215,
+   "negative": 34
   },
   "channels": {
-   "press": 267,
-   "official": 4
+   "press": 263
   },
-  "negative_alerts": 33,
-  "handles_active": 2
+  "negative_alerts": 34,
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 92
+   "count": 91
   },
   {
    "topic": "services",
@@ -36,27 +35,27 @@
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "flights",
-   "count": 35
-  },
-  {
-   "topic": "khaleej times",
-   "count": 29
-  },
-  {
-   "topic": "khaleej",
-   "count": 29
+   "count": 31
   },
   {
    "topic": "passport visa",
+   "count": 27
+  },
+  {
+   "topic": "khaleej times",
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 22
+   "topic": "khaleej",
+   "count": 26
+  },
+  {
+   "topic": "passport services",
+   "count": 23
   }
  ],
  "mentions": [
@@ -133,13 +132,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f3165f352405",
+   "id": "bn-ef7335c9559e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b430a03714da7a5dda7e0e20bd0ff&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b4444f0dd4481a80a254dec4b053e&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -152,18 +151,6 @@
    "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
    "time": "Wed, 22 Jul 2026 08:14:33 GMT",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-491e4af9e998",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport renewal in UAE: Alhind targets 30-minute service, no premium queues - Khaleej Times",
-   "time": "Wed, 22 Jul 2026 08:09:45 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1k0NkFiajdJZ3djNGJ3RWFuTEk2cnVxV2pfNnJDYUJOMVkwc3VlaVNZOXg2a1ppWDRNRFBlSi1nLXhUSGtzSVpUOHNKVUhCUTBKc0NBR0ZYM1V3Q2dhWU5YQmxxVEJuQS02WnBiSGtBeHljYlJJWGtadGJjTFhtWXEyY09NNzk3amRjTWM4Y2l6NVFKeWU5RtIBoAFBVV95cUxQNW5BUEpWVTN1U194NFRzVTFLY0lrU0R3SUxPbzdzWnFwazNMMkh3aTBWQk9OSm85cVZHMG5NYUdJRVBKMkozaG4zZ3dSUUhsRmEyRzNFRnRiSkdudmxxLUQ0NEdicUhRT2kzSGVqS05oRC1kOTc4VGtXbVlhdDExT3FVLXlVcFhCZlNfZ2N4T3NuYXVvSENweFpEMW91ektE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -241,25 +228,37 @@
    "engagement": null
   },
   {
-   "id": "bn-3ab7146c631f",
+   "id": "gn-ca363e845106",
    "channel": "press",
-   "author": "Bing News",
+   "author": "madhyamamonline.com",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
-   "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b430a03714da7a5dda7e0e20bd0ff&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "text": "India appoints Al Hind to run passport, visa and attestation services across UAE - madhyamamonline.com",
+   "time": "Wed, 22 Jul 2026 02:43:55 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXRZWHlKNVFtbG1CYWI0TE42LWhsX0R0OUdNNTU5V0xhU2hxcGRocFI1RE5ha1Y4NXE5RDQ1N25vYzFnbFdhQVBQLU5WcW5TNmFTQXZmb2xaUmtxYkpkWEJqS0R0OW9VUGFRSzkyZy0tZTF5MTRHTlpiWHZhcEcxZnNONlc2aERBZFZ6Z0JCeWlvM3ZRRVQtc1A0d0hOM1NTNWVST3Bad2NJODI2WmxpbXhuOGJMTXBQSUtIQ2Fn0gHDAUFVX3lxTE1aeTdWTXNDRFVGZUlWNHNLZG5BT1dBMFNpWXZwQm5SUzBTd0JqZEVpdm92VGxBSF9PaTBhcGdoZG1FcWNFZzFGdnk1TmJRZ0d5ek1JRXhiaXpLUW9DYkZ0RVY4a1dUNFczeWJjSVYwOGtZX3lIRnpCZWcxaXYzZVcyalRMS1JLcEx0ZUZ1cW00dGVkTHhKam15Y1FRZDc5NTc4a19YRndXTUl5bFQzLUhWT1hXYTJSMG5FT3VMNGhWMmRNVQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-f11803c3b963",
+   "id": "bn-cf7077ca1274",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
+   "time": "Wed, 22 Jul 2026 02:10:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b4444f0dd4481a80a254dec4b053e&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-b7b665634fb4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE Opens New Indian Consular Centres for Passport Services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b430a03714da7a5dda7e0e20bd0ff&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b4444f0dd4481a80a254dec4b053e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -285,6 +284,18 @@
    "time": "Wed, 15 Jul 2026 22:58:51 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlBtdXRaVG1NUDdkR2Q5bzJibS1VMWpfb0prRmhKbHRic3d4NHpWeXRSM2lWVllQMVNHbGVlMzFLZGVMRk1BMTBzMTQ4RTRoY2RhYnpkRUh2V3doNUh4cjM2Zjlta252SFVJdWVieDhyTGNfX0lhbGV6NzZ1WFhNYmZSMmdqbU1QQVNBYkJQNjJZS0VUVmNWUWdrMVF6N1pZczZoSWkyaXduRllaWkprdW1MV1lTNnJ6eVpwOTNsTdIBwwFBVV95cUxPbjE2WnBuUEExb1BaNnNiMXdNcnhJTlRwSGJTU2JRZjBERVRfOVNnNXZqYlJCanM2RVZheUpjMExIQ0RXWW1lOS1HZGhqM0JJTjQzYUZvSmtIUS1VcElsX1JLZm1KdlVJYTd5ZVo2d2ZYdWRGSWxYaGRVNVZvZWMtcVdocjRhbnZoQzN1bzBwRmhXWW4wajZiajFnYS1vOVdGS3NVMkZjZVBSMDZrZzA2Mk5XaHJqNFY2d1VfdXNka0FVYzQ?oc=5",
    "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ad344f9852f7",
+   "channel": "press",
+   "author": "Pratidin Time",
+   "role": "press",
+   "text": "Air India Express to Begin Direct Guwahati–UAE Flights on August 4 and 7 - Pratidin Time",
+   "time": "Wed, 15 Jul 2026 17:38:47 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1Bwc3N6dlhYeU5LQ21CSXdSQ3dqY1JibWtIRlpIYXNBeTRadFJfMUFoamxpMy1SMGVuMEZNV3diMnZSanAtTGZDSFZSREVDYTdvZWU5ckVtS1lwNEZoMUN0QXU4TTZZQ3NxdWhic2lsQzFGQmJsWjdMQldDYW9fN1RIOE1SMzdUWDZaM0xfWGR3Mzh3TS1CTDdQTkh5SXhZN0huT2l2OGJXVWo0NHgyRdIBsAFBVV95cUxQQ1Bwc3N6dlhYeU5LQ21CSXdSQ3dqY1JibWtIRlpIYXNBeTRadFJfMUFoamxpMy1SMGVuMEZNV3diMnZSanAtTGZDSFZSREVDYTdvZWU5ckVtS1lwNEZoMUN0QXU4TTZZQ3NxdWhic2lsQzFGQmJsWjdMQldDYW9fN1RIOE1SMzdUWDZaM0xfWGR3Mzh3TS1CTDdQTkh5SXhZN0huT2l2OGJXVWo0NHgyRQ?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -397,6 +408,18 @@
    "engagement": null
   },
   {
+   "id": "gn-fdbd85013b97",
+   "channel": "press",
+   "author": "Business Today",
+   "role": "press",
+   "text": "Flying to India from the UAE? Make sure you complete this step before boarding your flight - Business Today",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSld4VnBQbVNYTVFFbmRyWGlPUEZkZE9mdVJlbHNFaENYTnNhX09HbWt3bUhyQlM3dVE2RTNnUGtwb0poMXpneDZfY2VKcjhnSzlpZUR6QTFYRU1qNUJHOGRwd1pIdjRYSGdNRENfTV9UMFBpTHJZQXVtdmhNUS13RnN3WkFybkxGY2dVQ2JmQnMzdTlwQlhrZmZlV3VTczFNQmlIQ3VjR01oZ1JGMXlMS1gwWHZHUGRteXZTYTBYZEY1U2tQaHlkWXY0OFBUMl9tTWpoa09lNnlDTEV4VVc4M2xRU0FLUdIB6wFBVV95cUxNbjE0cktwZmFmTGo4dXFMSlFQRGkyUmdrQWF0eUszZy05c3RrMTB6czdhVXdGa2ZaMjRabUE5UWh4cDc5N1M5VlR1V240aUtWa3o2cUttMENvODFXUVBsd0JabUppZjdPUER2NXF3N2ctbjhGNmJ0XzdzaGZEaGhOblRlRkloVU5mRzRPTllEM1dCdnVGdkgyTU0tXzZKQ253U0I5c09ldEtSNnMzNXlPZVM5N3daWFhNU0FkRF9CcTFJWU82azhnRVJ1YnRWdmdoZFdESUFtdldfMXRwVV9yZjdIQ2g2S2h5V3hN?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-b54efb0bc57c",
    "channel": "press",
    "author": "Gulf News",
@@ -428,18 +451,6 @@
    "text": "Indian passport slips to 80th rank: UAE travellers can still visit 56 visa-free countries - Khaleej Times",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NNcHZRM1BTZHRkaGI4eEs4Y3k5OWJRbkdSUWUyQmxrN3A1TjJScVdrOHdqNlZhVEM5XzVkYy03Yzg4N21tVFVEcWItX3BRc3Z1THRDU2hqR1pzcXZmMnd5djgwbHkwQVRVUjJDX1ozX1hESm16UTNQbFJOWVpES05MdDd0YVZ6Mmd0dktRcDhaWVZ4SS1EemNOb2h6NnpfY1BSdmY4WW5HM3NESlVFOUUwOVXSAbwBQVVfeXFMTk83cFpndWdLLUhuUzB6dVRIRFhUSTY3SzF5YXQzZ1R1NnY4TkRWeDFYa0FCREZtM1ZFc1lXakVnUFR5cUJpMGxOLUlVakJrWElFZlNqOGlJbi1mblBrZW1sRlhVMjZkcWFIUHdsYlpQVlc4cWJBZm1oajJjT2QxRDRTQ3A0eGlpVnNGdlB6NXJSRzVZQ01hR1ZxZjF0Nm9RQmFfZVFIZVduS1ZFbURRNFFGTzNZTVZIQ08xR2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-406eb9b1737a",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport delays in UAE: Delhi court cancels Alhind services, orders retendering - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWt3RnBRYzVudmNQX1p2Yllmc19HQnhKdXJlTFowV0k3emdSeTlsTExaTmRDYmRKYlRKMHZOdFUwY3FqVG9RMkQwam9FZy1nMFJGM0stR0ROZmw1ZU9YUzdIYnV5bU1GRWc5NTd5MGN3QWNOZVdXN2VxWlNZblFwMkNWblhQNmRBRUNDTlhtTTNxLTN6NkZJWTNDWTNYOHV2LURhZlJaOE11TFnSAbMBQVVfeXFMTmU1bm14SE9WZHEzSDBQV21BcUl0OHdlbG00bVJmTkRsOUdFQ3ZtT0JUbzJzNHdhZ3ZSQ1k0Sy1haXZjMEhFeUk2R0VEUUlhRjcyMTg3SVdnQTBCQjVQVTgzSEJmSTdqdno0MThZRmdKdGF3LVk4UXRUZ2FfbFIzbWpqdzhsNTlJS3hkTzVGTVZlX3F3VG5NMUtnMEgxTldnNG1WM0hja18xcklKeVRlbVBOdWc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -500,18 +511,6 @@
    "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - DD India",
    "time": "Wed, 08 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRsZGV1M1VvSEJ0bHBLcnBHY2NwYjBlTDJxNi1TV0pZc0dxNElIdTgySTF3eER6cDdwQkQtWGpldkw0aVd2RFctUkhCMDRyQUNlZVhpSmotcXVPV1VHQ2JhTkIwSEFva2dXWTFNTmJ4VlBod3dzM3BiLVZxTG5lSmU1Rm1DdEJyaGJiRkZrTzV3ZS1KbnZ3Q3RSMzNYRGJDOFZWQzhtbDYtdU4zeXUxdHNB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
