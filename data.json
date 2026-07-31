@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-07-31T23:54:13Z",
+  "generated_at": "2026-07-31T23:59:28Z",
   "total_verified": 267,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5f0440c390c7",
+   "id": "bn-c838e3a0ebd3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consular services in UAE: 3 major changes starting July 2026",
    "time": "Wed, 01 Jul 2026 21:28:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d35a1b186487b842410a7c0c5e568&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d36dd927e4e7dac4f7a7f2f601f49&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
