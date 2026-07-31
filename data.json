@@ -1,14 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-07-31T18:33:07Z",
+  "generated_at": "2026-07-31T18:38:23Z",
   "total_verified": 268,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -28,11 +26,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 90
+   "count": 91
   },
   {
    "topic": "services",
-   "count": 64
+   "count": 63
   },
   {
    "topic": "gulf news",
@@ -44,19 +42,19 @@
   },
   {
    "topic": "khaleej times",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "khaleej",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "passport visa",
-   "count": 27
+   "count": 26
   },
   {
-   "topic": "consular",
-   "count": 21
+   "topic": "passport services",
+   "count": 22
   }
  ],
  "mentions": [
@@ -459,9 +457,9 @@
   {
    "id": "gn-3c6eaf5bd905",
    "channel": "press",
-   "author": "DD News",
+   "author": "ddnews.gov.in",
    "role": "press",
-   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - DD News",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - ddnews.gov.in",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
    "sentiment": "neutral",
@@ -493,13 +491,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d05ee8e8cb45",
+   "id": "bn-e8d0b85aafad",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consular services in UAE: 3 major changes starting July 2026",
    "time": "Wed, 01 Jul 2026 21:28:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6cea60c1174cdf866afb5875fae4df&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ceb9c8a3a40f98890f28b8cb3ed57&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -603,18 +601,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "newsindiatimes.com",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - newsindiatimes.com",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-61ee2a7d0e70",
    "channel": "press",
    "author": "Gulf Business",
@@ -622,6 +608,18 @@
    "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
    "time": "Mon, 06 Jul 2026 12:11:59 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "newsindiatimes.com",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - newsindiatimes.com",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
