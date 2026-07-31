@@ -1,36 +1,38 @@
 {
  "meta": {
-  "generated_at": "2026-07-31T17:19:21Z",
-  "total_verified": 268,
+  "generated_at": "2026-07-31T17:24:37Z",
+  "total_verified": 267,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 268,
+  "verified_mentions": 267,
   "sentiment": {
    "positive": 13,
    "neutral": 221,
-   "negative": 34
+   "negative": 33
   },
   "channels": {
-   "press": 264,
+   "press": 263,
    "official": 4
   },
-  "negative_alerts": 34,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 91
+   "count": 90
   },
   {
    "topic": "services",
-   "count": 64
+   "count": 63
   },
   {
    "topic": "gulf news",
@@ -479,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-55ef72d31aa7",
+   "id": "bn-a95a1e4fd85e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consular services in UAE: 3 major changes starting July 2026",
    "time": "Wed, 01 Jul 2026 21:28:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6cd917994c4c29ab5d4157c5cda770&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6cda52b50548abb501ad5594ecbdf8&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
