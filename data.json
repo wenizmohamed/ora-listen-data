@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-07-31T19:25:47Z",
+  "generated_at": "2026-07-31T19:31:02Z",
   "total_verified": 268,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 90
+   "count": 91
   },
   {
    "topic": "services",
-   "count": 64
+   "count": 63
   },
   {
    "topic": "gulf news",
@@ -42,19 +44,19 @@
   },
   {
    "topic": "khaleej times",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "khaleej",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "passport visa",
-   "count": 27
+   "count": 26
   },
   {
-   "topic": "consular",
-   "count": 21
+   "topic": "passport services",
+   "count": 22
   }
  ],
  "mentions": [
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-4df8d435b022",
+   "id": "bn-88fcabc5a3d3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consular services in UAE: 3 major changes starting July 2026",
    "time": "Wed, 01 Jul 2026 21:28:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6cf6b8978b46ffa094c0dbcabbdd44&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6cf7f4d2e04f158f4de776d2f64a8c&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -546,7 +548,7 @@
    "author": "News On AIR",
    "role": "press",
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
-   "time": "Fri, 31 Jul 2026 17:48:58 GMT",
+   "time": "Fri, 31 Jul 2026 07:08:16 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
    "verified": true,
