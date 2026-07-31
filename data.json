@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-07-31T21:37:22Z",
+  "generated_at": "2026-07-31T21:42:38Z",
   "total_verified": 267,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 90
+   "count": 91
   },
   {
    "topic": "services",
-   "count": 64
+   "count": 63
   },
   {
    "topic": "gulf news",
@@ -50,7 +52,7 @@
   },
   {
    "topic": "passport visa",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "passport services",
@@ -131,18 +133,6 @@
    "engagement": null
   },
   {
-   "id": "gn-56c2327bed5c",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
-   "time": "Wed, 22 Jul 2026 08:14:33 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-491e4af9e998",
    "channel": "press",
    "author": "Khaleej Times",
@@ -162,6 +152,18 @@
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-56c2327bed5c",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-8281d0aae097",
+   "id": "bn-4eec347c3b08",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consular services in UAE: 3 major changes starting July 2026",
    "time": "Wed, 01 Jul 2026 21:28:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d158f72fb4d799349800edc633680&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d16cb2f1a4680b61f9a242f28ba53&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -546,7 +548,7 @@
    "author": "News On AIR",
    "role": "press",
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
-   "time": "Fri, 31 Jul 2026 07:08:16 GMT",
+   "time": "Fri, 31 Jul 2026 17:48:58 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
    "verified": true,
