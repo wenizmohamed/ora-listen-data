@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T03:40:28Z",
+  "generated_at": "2026-08-01T03:45:42Z",
   "total_verified": 277,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -34,11 +36,11 @@
   },
   {
    "topic": "gulf news",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "flights",
-   "count": 44
+   "count": 43
   },
   {
    "topic": "khaleej times",
@@ -50,7 +52,7 @@
   },
   {
    "topic": "express",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "passport services",
@@ -179,13 +181,13 @@
    "engagement": null
   },
   {
-   "id": "bn-4ab85f5e55d0",
+   "id": "bn-cec987e95c1c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE opens new Indian consular centres for passport services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d6aab1dc34340aea1adf5792d66ff&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d6be49ce3493291ed10d5a64ec8da&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
