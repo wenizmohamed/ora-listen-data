@@ -1,59 +1,61 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T05:56:22Z",
-  "total_verified": 279,
+  "generated_at": "2026-08-01T06:01:35Z",
+  "total_verified": 278,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 278,
   "sentiment": {
    "positive": 11,
    "neutral": 233,
-   "negative": 35
+   "negative": 34
   },
   "channels": {
-   "press": 275,
+   "press": 274,
    "official": 4
   },
-  "negative_alerts": 35,
+  "negative_alerts": 34,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 84
+   "count": 85
   },
   {
    "topic": "services",
-   "count": 60
+   "count": 62
   },
   {
    "topic": "gulf news",
-   "count": 59
+   "count": 58
   },
   {
    "topic": "flights",
-   "count": 46
+   "count": 45
   },
   {
    "topic": "khaleej times",
-   "count": 27
+   "count": 28
   },
   {
    "topic": "khaleej",
-   "count": 27
+   "count": 28
   },
   {
    "topic": "express",
    "count": 25
   },
   {
-   "topic": "passport services",
+   "topic": "passport visa",
    "count": 23
   }
  ],
@@ -179,13 +181,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b915f1f59a5e",
+   "id": "bn-4fede1edd5b8",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE opens new Indian consular centres for passport services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d8a84a03349679e398b2efeaf3745&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d8bbd56844660ad604fe655f65176&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -431,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "gn-6a29662cf7c8",
+   "id": "gn-3c6eaf5bd905",
    "channel": "press",
-   "author": "ddindia.co.in",
+   "author": "DD News",
    "role": "press",
-   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - ddindia.co.in",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - DD News",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVUtOXJuTjJlN2M5SGFYVDhIYVE0U1N6djdMR2twVVJYS1BWblNFWjN5dEgzX25ZV21rdWJobWRJYVduR1VjSHNFS1Z5bEk2ZmZmcFZWbHR4bXVNb1MxdDZZQk00RTlBRTFJMTU5UlBEdzRzS3pJUVl2d1BvclhrMHJMY3lRT2VFd1N2NjNJWGpjZEN3S3dCNElSVldSVmh4YVprZF9hU0EtdmFiem5qYg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -601,18 +603,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "News India Times",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-61ee2a7d0e70",
    "channel": "press",
    "author": "Gulf Business",
@@ -656,6 +646,18 @@
    "text": "UAE Indian Consular Services To Be Suspended For Five Days From June 26 - Outlook Traveller",
    "time": "Thu, 25 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01mMmRxVnIxMk9BZWxwWi1vbmZyUElKZmozMzg1TFJnQnhwUzcxREJxZV9YREZYNHl6ODdjRGNNMWp2R29WOVBpdlFnSkdqNmYxcDc2TUdabmdlZGVLcWVHc1RXZ0hPcmFINXBJNk9ySzBKOXRSWlZKZ0lyNlcxbnRsSDBRQ3FxSXNXYzBKc0dnelFCZ3pva1NYVXUxNmc5Y1FXTmFrOGFaZVJuV2c?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d55843f96a2c",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Pakistan e-Passport launch in UAE delayed: Embassy cites technical issues - Khaleej Times",
+   "time": "Sun, 19 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnFEMHN2YWxDak5CVy1DVWlEWUdwMllHYlMxYnR3aTBCc3k4dW1QSlRiRHRkb2dvY19fRVpYWk13bVJfdDBlbG85OWRtV2ZCYW1oYlM4OTlUT1Yzb1FzVEtmWWNrUWk4M29lazVJbjVwWl82emNGckRGdXNBMFhvRHlRejdCOXNRa1d4TlpVS3JFS0hXcGhmadIBoAFBVV95cUxPOEVMV09KNzVuRDRJTGV4MGVVekprc2d3dTlPdDNmU3NLV1BZRnZmQU9URDdibk1vMUN4MUhUeWN0WXVJLWRLS3FzcEJqMHQxeHBsZVdMcTlCcm9leVFOWDNVQnZUZ1hURmo4U01yM1pxV2NPZ1M2ZzlpOElxdm13QjRkb0kwbTJkeTgydXEwR1FRX1N5b2l6SHR5czBJdjRy?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
