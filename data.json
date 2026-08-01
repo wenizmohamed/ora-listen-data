@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T05:40:41Z",
-  "total_verified": 278,
+  "generated_at": "2026-08-01T05:45:54Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 11,
-   "neutral": 233,
+   "neutral": 234,
    "negative": 34
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 4
   },
   "negative_alerts": 34,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 84
+   "count": 85
   },
   {
    "topic": "services",
@@ -179,13 +181,13 @@
    "engagement": null
   },
   {
-   "id": "bn-af9669a6b91d",
+   "id": "bn-62eb6dd7bcac",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE opens new Indian consular centres for passport services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d86d6a72a4c7b8a8f35ede9d174eb&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d88108dd847e994f8688ff02f71ba&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -445,9 +447,9 @@
   {
    "id": "gn-c157e30d24e3",
    "channel": "press",
-   "author": "DD India",
+   "author": "ddindia.co.in",
    "role": "press",
-   "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - DD India",
+   "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - ddindia.co.in",
    "time": "Wed, 08 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRsZGV1M1VvSEJ0bHBLcnBHY2NwYjBlTDJxNi1TV0pZc0dxNElIdTgySTF3eER6cDdwQkQtWGpldkw0aVd2RFctUkhCMDRyQUNlZVhpSmotcXVPV1VHQ2JhTkIwSEFva2dXWTFNTmJ4VlBod3dzM3BiLVZxTG5lSmU1Rm1DdEJyaGJiRkZrTzV3ZS1KbnZ3Q3RSMzNYRGJDOFZWQzhtbDYtdU4zeXUxdHNB?oc=5",
    "sentiment": "neutral",
