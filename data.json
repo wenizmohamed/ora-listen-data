@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T07:00:49Z",
-  "total_verified": 280,
+  "generated_at": "2026-08-01T07:06:03Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 11,
-   "neutral": 235,
+   "neutral": 234,
    "negative": 34
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 4
   },
   "negative_alerts": 34,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 86
+   "count": 85
   },
   {
    "topic": "services",
@@ -73,9 +75,9 @@
   {
    "id": "gn-682fa3120fe9",
    "channel": "press",
-   "author": "ndtv.com",
+   "author": "NDTV",
    "role": "press",
-   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - ndtv.com",
+   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
    "time": "Wed, 29 Jul 2026 04:13:36 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
    "sentiment": "neutral",
@@ -179,13 +181,13 @@
    "engagement": null
   },
   {
-   "id": "bn-62af18d1ed52",
+   "id": "bn-be4872380889",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE opens new Indian consular centres for passport services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d99a0fbee4852a86528ec8c7a7db6&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d9adac63744b7ace9ed1130bbe1e1&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=nl-be",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
