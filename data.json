@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T17:14:12Z",
+  "generated_at": "2026-08-01T17:19:25Z",
   "total_verified": 269,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -97,9 +99,9 @@
   {
    "id": "gn-96bc7066d6d9",
    "channel": "press",
-   "author": "وزارة الخارجية الإماراتية",
+   "author": "mofa.gov.ae",
    "role": "press",
-   "text": "UAE and India Hold the Seventh Session of the Joint Consular Committee in New Delhi - وزارة الخارجية الإماراتية",
+   "text": "UAE and India Hold the Seventh Session of the Joint Consular Committee in New Delhi - mofa.gov.ae",
    "time": "Wed, 22 Jul 2026 12:09:07 GMT",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94YXAyQ2lNUTY5X3BSY2RsWHg3UExLNHpzbko0blZOMzZ4U2lJUUs5N0JUblQxWXNzX3RQay13SkE0VVBFVERIM1Zzb2ZEbHdPZEUzOXNwLUFWeEpfT3ZjOGVkVEo1T091eF9lWA?oc=5",
    "sentiment": "negative",
@@ -227,13 +229,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a1b7077f3ea2",
+   "id": "bn-7ac274a81784",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE opens new Indian consular centres for passport services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e2962b50a40e2b9b86d04674b525c&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=de-at",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e2a9cad5d4f219a089946e4602520&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=de-at",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
