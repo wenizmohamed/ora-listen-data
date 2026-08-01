@@ -1,21 +1,19 @@
 {
  "meta": {
-  "generated_at": "2026-08-01T02:37:21Z",
+  "generated_at": "2026-08-01T02:42:39Z",
   "total_verified": 275,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 275,
   "sentiment": {
-   "positive": 13,
-   "neutral": 229,
+   "positive": 12,
+   "neutral": 230,
    "negative": 33
   },
   "channels": {
@@ -28,11 +26,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 85
+   "count": 84
   },
   {
    "topic": "services",
-   "count": 61
+   "count": 62
   },
   {
    "topic": "gulf news",
@@ -55,7 +53,7 @@
    "count": 28
   },
   {
-   "topic": "passport visa",
+   "topic": "consular",
    "count": 23
   }
  ],
@@ -105,18 +103,6 @@
    "time": "Wed, 22 Jul 2026 12:09:07 GMT",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94YXAyQ2lNUTY5X3BSY2RsWHg3UExLNHpzbko0blZOMzZ4U2lJUUs5N0JUblQxWXNzX3RQay13SkE0VVBFVERIM1Zzb2ZEbHdPZEUzOXNwLUFWeEpfT3ZjOGVkVEo1T091eF9lWA?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-26f0bf5c6a62",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
-   "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d5be1a3254557aa071265304e7810&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -188,6 +174,18 @@
    "text": "Indian expats in Dubai queue outside Alhind passport centre after weeks of uncertainty - Khaleej Times",
    "time": "Wed, 22 Jul 2026 04:36:46 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRklPSWlGLURCQjFIcDdWM2RfVXFWR2RXMkxIYnFFTWVsYVpMX2N6aVRJLUV2ZzJKSDZFT3NVWDJ0NEQzVnJDejV3UF96NFhjNEN3SFBzREE3YXJQa0tiXzB5cmlvUVk5dURrV0NtSVRmajAwQ1NNaW5rMmo5eG81enlxSWluU0NsVkkwZlE3N1FNd9IBmgFBVV95cUxQeFlZUnZSRHZPalhFUmFpUEdHZkdCbkJwTFdVVUw0U1h2Q3ZCT2dCMkx2MTZYTTVvZl9xZDBlTnFLaThkczNGV0xJbmVPN2k2cThYeG11c053NFc2TGkySFNLRVc2YThIc3lDUWdSYWFBUnNiN3gxMjUtSC0wSTlYcHJBUnJlUExWeE9fd0dJOHlQeU9ScFlzb0NR?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-1d965804f0cb",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE opens new Indian consular centres for passport services",
+   "time": "Wed, 22 Jul 2026 00:14:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6d5d1c751c46e0a63f20883fd7cd78&url=https%3a%2f%2fwww.msn.com%2fen-us%2ftravel%2ftravel-preparation%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=1955249128687062162&mkt=en-ww",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -567,18 +565,6 @@
    "engagement": null
   },
   {
-   "id": "gn-bba0e56ad7d3",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
-   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-d90c0c4a43a3",
    "channel": "press",
    "author": "The Economic Times",
@@ -591,6 +577,18 @@
    "engagement": null
   },
   {
+   "id": "gn-bba0e56ad7d3",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-be88c35dcb79",
    "channel": "press",
    "author": "Khaleej Times",
@@ -598,6 +596,18 @@
    "text": "Indian embassy in UAE offers condolences on death of crew member in Iran attack - Khaleej Times",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHFMQ25fUkFaZlF0U3N3NnRQSWowMkt0S094ODEyODY4R25xcW9SVmJoU3I2VFhmUzQtckJ0RlVYX0xLdG9GTVdYdDNoTFNDaWhnQ2dQRlg3MVlpX2QwU2NKNm5jZ2xjVVl2WFdDV05rN2xmdkJrZnpvSnFzdk1zR09WNTZHY0s5YlloNjFSdlVrSkNONWfSAZ4BQVVfeXFMT25wcDJxY0lya2xUOEtSeVNMYWNTS2dPME5vY3ZERTcyZ296RHhPZzFsVHlmUTRpbzhPVUZGZ2NFTzRlNU5nUEd5aGFCQkpHWGRyczFuMzdudTlXWDhoY1BNODZsdEZGZWVrdktvVDFBVldTaU1KRHRRWllXeEozb1ZjdW1IQ0ZHZ3AxTVM2NUdYQWhwMWZ2V3gwV2lHNUE?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "News India Times",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -646,18 +656,6 @@
    "text": "UAE Indian Consular Services To Be Suspended For Five Days From June 26 - Outlook Traveller",
    "time": "Thu, 25 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01mMmRxVnIxMk9BZWxwWi1vbmZyUElKZmozMzg1TFJnQnhwUzcxREJxZV9YREZYNHl6ODdjRGNNMWp2R29WOVBpdlFnSkdqNmYxcDc2TUdabmdlZGVLcWVHc1RXZ0hPcmFINXBJNk9ySzBKOXRSWlZKZ0lyNlcxbnRsSDBRQ3FxSXNXYzBKc0dnelFCZ3pva1NYVXUxNmc5Y1FXTmFrOGFaZVJuV2c?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d55843f96a2c",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Pakistan e-Passport launch in UAE delayed: Embassy cites technical issues - Khaleej Times",
-   "time": "Sun, 19 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnFEMHN2YWxDak5CVy1DVWlEWUdwMllHYlMxYnR3aTBCc3k4dW1QSlRiRHRkb2dvY19fRVpYWk13bVJfdDBlbG85OWRtV2ZCYW1oYlM4OTlUT1Yzb1FzVEtmWWNrUWk4M29lazVJbjVwWl82emNGckRGdXNBMFhvRHlRejdCOXNRa1d4TlpVS3JFS0hXcGhmadIBoAFBVV95cUxPOEVMV09KNzVuRDRJTGV4MGVVekprc2d3dTlPdDNmU3NLV1BZRnZmQU9URDdibk1vMUN4MUhUeWN0WXVJLWRLS3FzcEJqMHQxeHBsZVdMcTlCcm9leVFOWDNVQnZUZ1hURmo4U01yM1pxV2NPZ1M2ZzlpOElxdm13QjRkb0kwbTJkeTgydXEwR1FRX1N5b2l6SHR5czBJdjRy?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
