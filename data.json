@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-02T04:21:19Z",
-  "total_verified": 268,
+  "generated_at": "2026-08-02T04:26:34Z",
+  "total_verified": 267,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 268,
+  "verified_mentions": 267,
   "sentiment": {
-   "positive": 11,
-   "neutral": 223,
-   "negative": 34
+   "positive": 12,
+   "neutral": 222,
+   "negative": 33
   },
   "channels": {
-   "press": 264,
+   "press": 263,
    "official": 4
   },
-  "negative_alerts": 34,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 91
+   "count": 93
   },
   {
    "topic": "services",
@@ -36,42 +36,30 @@
   },
   {
    "topic": "gulf news",
-   "count": 46
+   "count": 51
   },
   {
    "topic": "flights",
    "count": 36
   },
   {
-   "topic": "passport visa",
+   "topic": "khaleej times",
    "count": 28
   },
   {
-   "topic": "khaleej times",
-   "count": 27
-  },
-  {
    "topic": "khaleej",
+   "count": 28
+  },
+  {
+   "topic": "passport visa",
    "count": 27
   },
   {
-   "topic": "business",
+   "topic": "consular",
    "count": 21
   }
  ],
  "mentions": [
-  {
-   "id": "gn-1645f4d8c26d",
-   "channel": "press",
-   "author": "The Siasat Daily",
-   "role": "press",
-   "text": "Indian travellers can pay via UPI for Burj Khalifa tickets - The Siasat Daily",
-   "time": "Wed, 29 Jul 2026 11:23:45 GMT",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalBjeUs5UXRmRHpLTjZLcWpRTnRYcEgwMFhVNXpDT3FEY0dwc3UwWVVSUnZYT2FoRDdWaXhha2h5b0EzWDlvTDc3S1hnNHVXZDZLMlIxMXdSM1pSd1RvYWZzbWFqYk0ySFlzUDVfVG9CdzV6dTFHTmU1NlRXajFnUGJZMVh6TlFSSlVndFdNWlVkcTFN0gGaAUFVX3lxTE5aaG96ZnhzT3pZa09MRFZfVk5xSzZYUGNYYUVPU1ZzQ1hIeXRMN0ZWVDJRNTBYUlo0MW1Ya2Y2SFVmZkVyZThKenFKLUlxcWRrVWN6azdEamFZdEVMMUJLUnVYd2xWQVc1QmRIaFdBZkxYMDZBSTVGaC1xNmhVUnpjWEdJSk1XUEk4N0xpV3IyUlhfYWRhaEw0UFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-682fa3120fe9",
    "channel": "press",
@@ -121,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3b74e45577bb",
+   "id": "bn-08d6f60813c3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ec5beaf0b477e9765538356285f5b&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ec6f9789746c3af98ed02c2cd3c90&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -253,13 +241,25 @@
    "engagement": null
   },
   {
-   "id": "bn-3c75aeeb9cc2",
+   "id": "bn-f37c9d45171b",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
+   "time": "Wed, 22 Jul 2026 02:10:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ec6f9789746c3af98ed02c2cd3c90&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-d520ad297ee4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE Opens New Indian Consular Centres for Passport Services",
    "time": "Wed, 22 Jul 2026 00:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ec5beaf0b477e9765538356285f5b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6ec6f9789746c3af98ed02c2cd3c90&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fnational%2fuae-opens-new-indian-consular-centres-for-passport-services%2far-AA28qJ9d&c=13686596091353640383&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
