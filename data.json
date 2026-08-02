@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-02T22:12:43Z",
+  "generated_at": "2026-08-02T22:17:57Z",
   "total_verified": 266,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -227,13 +229,13 @@
    "engagement": null
   },
   {
-   "id": "bn-eb6cbd76e13f",
+   "id": "bn-58c99ed60776",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
    "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6fc0dac06c4a8a9ca5bfa786b55074&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=en-gb",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6fc213c77442c2960c1e3f1fc5be6a&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=en-gb",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
