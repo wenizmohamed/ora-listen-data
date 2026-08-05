@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-08-05T15:29:29Z",
+  "generated_at": "2026-08-05T15:34:42Z",
   "total_verified": 266,
   "channels_live": [
    "official",
@@ -14,8 +14,8 @@
  "kpis": {
   "verified_mentions": 266,
   "sentiment": {
-   "positive": 12,
-   "neutral": 227,
+   "positive": 13,
+   "neutral": 226,
    "negative": 27
   },
   "channels": {
@@ -28,19 +28,19 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 90
+   "count": 89
   },
   {
    "topic": "services",
-   "count": 57
-  },
-  {
-   "topic": "gulf news",
    "count": 56
   },
   {
+   "topic": "gulf news",
+   "count": 54
+  },
+  {
    "topic": "flights",
-   "count": 39
+   "count": 38
   },
   {
    "topic": "khaleej times",
@@ -52,7 +52,7 @@
   },
   {
    "topic": "passport visa",
-   "count": 24
+   "count": 23
   },
   {
    "topic": "business",
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a347e3d0b373",
+   "id": "bn-cf6b1509be06",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7356d943284a878b22b2686a0cec18&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a735812f7584f7b9962a965078621ed&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -169,18 +169,6 @@
    "engagement": null
   },
   {
-   "id": "gn-cf757d57b54b",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-36ab06ef0afd",
    "channel": "press",
    "author": "NDTV",
@@ -188,6 +176,18 @@
    "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTTSAcgBQVVfeXFMTWZneC0zUmNwNl85cG1YdThrMTFyZUN4TzIwYmMwOUVKTVUzVktEUktQYUxSSlNVR2swQkkyV2ZOVW56TFpZQTdpTVhHLWdHakI2MW9JQkNSNmJEQ1k4am9VMjZKOEgxMTM1WHI3enBGOS1WUnVwT1VVWldFYTZXanNzRWVaTjlPTEZZR2FsbDB1Z3kwUEZ6R0c5LWZqRGJEcllBbjdpUjFOYndUcUpFS1RTbExoSFhRYkhSTG5xM3FVU3ZKRXRPWVc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cf757d57b54b",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -457,6 +457,18 @@
    "engagement": null
   },
   {
+   "id": "gn-fa869907d87c",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar | Akashvani News - News On AIR",
+   "time": "Wed, 05 Aug 2026 11:16:46 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5wNFU1YTZXYWdHZURBb3h4cHo5dV9BWGFxSkFxcUc1NGl1ZWF1YzFNbThDTUEtNUFhZHpjQnhDWXdjQldCMkNnZS1ja1haZkN5T1h2b0ktRHBvR1h4ZlZrb0VMejAzejNEeWNtOWl5T2VLMU0wUmRFMXJBU2ctTm9nV3ZVTjV0Q3paM3VRWXo5UW56YnR6YXhB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-4487db32273c",
    "channel": "press",
    "author": "The New Indian Express",
@@ -517,25 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-84d0dd49b912",
+   "id": "bn-aef7c11a41bb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
    "time": "Wed, 05 Aug 2026 00:16:07 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7356d943284a878b22b2686a0cec18&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-93c2f6cde8ab",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a735812f7584f7b9962a965078621ed&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
