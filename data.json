@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-05T18:20:21Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-05T18:25:35Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
@@ -12,27 +12,27 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 272,
   "sentiment": {
-   "positive": 13,
-   "neutral": 230,
-   "negative": 27
+   "positive": 14,
+   "neutral": 229,
+   "negative": 29
   },
   "channels": {
-   "press": 266,
+   "press": 268,
    "official": 4
   },
-  "negative_alerts": 27,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 91
+   "count": 90
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 57
   },
   {
    "topic": "services",
@@ -44,18 +44,18 @@
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "passport visa",
    "count": 23
   },
   {
-   "topic": "express",
+   "topic": "business",
    "count": 22
   }
  ],
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3b7331af9afd",
+   "id": "bn-2dbb7ca3a884",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a737ee4981e4a27a945630c5c3716e7&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a73801f193c42cca43aced4333ebf96&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -241,6 +241,18 @@
    "engagement": null
   },
   {
+   "id": "gn-289675586359",
+   "channel": "press",
+   "author": "Daily Excelsior",
+   "role": "press",
+   "text": "Indian mission closely coordinating with UAE to provide support to deceased sailors family - Daily Excelsior",
+   "time": "Wed, 15 Jul 2026 22:58:51 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlBtdXRaVG1NUDdkR2Q5bzJibS1VMWpfb0prRmhKbHRic3d4NHpWeXRSM2lWVllQMVNHbGVlMzFLZGVMRk1BMTBzMTQ4RTRoY2RhYnpkRUh2V3doNUh4cjM2Zjlta252SFVJdWVieDhyTGNfX0lhbGV6NzZ1WFhNYmZSMmdqbU1QQVNBYkJQNjJZS0VUVmNWUWdrMVF6N1pZczZoSWkyaXduRllaWkprdW1MV1lTNnJ6eVpwOTNsTdIBwwFBVV95cUxPbjE2WnBuUEExb1BaNnNiMXdNcnhJTlRwSGJTU2JRZjBERVRfOVNnNXZqYlJCanM2RVZheUpjMExIQ0RXWW1lOS1HZGhqM0JJTjQzYUZvSmtIUS1VcElsX1JLZm1KdlVJYTd5ZVo2d2ZYdWRGSWxYaGRVNVZvZWMtcVdocjRhbnZoQzN1bzBwRmhXWW4wajZiajFnYS1vOVdGS3NVMkZjZVBSMDZrZzA2Mk5XaHJqNFY2d1VfdXNka0FVYzQ?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-85cea7902adc",
    "channel": "press",
    "author": "Gulf Business",
@@ -289,6 +301,18 @@
    "engagement": null
   },
   {
+   "id": "gn-c72da6bc4351",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-27b7834bc983",
    "channel": "press",
    "author": "inkl",
@@ -320,6 +344,18 @@
    "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e9316453ae61",
+   "channel": "press",
+   "author": "orissapost.com",
+   "role": "press",
+   "text": "Indian sailor died in attack on MV GFS Galaxy: Indian mission - orissapost.com",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcW1vR3FjUFNycW5yaUdPWkZhVmdmMkFqQzQwWWhxX1pMUlNuN0NkSXZLTjcwem0yZ2JicmRqZmZBZW1Nam5sOUNGelVZMXUySzJUMzEwQUp0NDVXZzVHcXVMMkM1MzZfdjRldkp0dUZWekU0U1h0OFJ1b1VmNFVGZ0doRWhDOFM1bmVQZXBHSGRLUdIBkgFBVV95cUxOcW1vR3FjUFNycW5yaUdPWkZhVmdmMkFqQzQwWWhxX1pMUlNuN0NkSXZLTjcwem0yZ2JicmRqZmZBZW1Nam5sOUNGelVZMXUySzJUMzEwQUp0NDVXZzVHcXVMMkM1MzZfdjRldkp0dUZWekU0U1h0OFJ1b1VmNFVGZ0doRWhDOFM1bmVQZXBHSGRLUQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -445,18 +481,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a877b1955a6c",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
-   "time": "Wed, 05 Aug 2026 15:23:46 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmpQdFVmQWg4Z09TaFJOUy1LcHNHcDdpeE1IbXdIQmxUMEx4VGN4ZE15SS1Fc3dXRGJzcHlWMlRMNHJMWndZdjEyQ3MxTzlzUU5DNndWQTBpMkRUYnlydkhPbXBRTXpPQ0RUMFV4TWFWSW1zUWNpeE9YN2Zvd3N4WXJKR3RWOG0tbjNDWmpZaC11ZjlXOGdvZEI1SHBJUFMtWE53WXFDUXktMV9nVjhUWHRUNTZaYmJnSllPNzVWaHNQMjJSc29SbjVKZVpWMmlZRnfSAdIBQVVfeXFMT05qUHRVZkFoOGdPU2hSTlMtS3BzR3A3aXhNSG13SEJsVDBMeFRjeGRNeUktRXN3V0Ric3B5VjJUTDRyTFp3WXYxMkNzMU85c1FOQzZ3VkEwaTJEVGJ5cnZIT21wUU16T0NEVDBVeE1hVkltc1FjaXhPWDdmb3dzeFlySkd0VjhtLW4zQ1pqWWgtdWY5Vzhnb2RCNUhwSVBTLVhOd1lxQ1F5LTFfZ1Y4VFh0VDU2WmJiZ0pZTzc1VmhzUDIyUnNvUm41SmVaVjJpWUZ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f448775ba783",
    "channel": "press",
    "author": "Khaleej Times",
@@ -493,13 +517,13 @@
    "engagement": null
   },
   {
-   "id": "gn-4487db32273c",
+   "id": "gn-eb40d993a783",
    "channel": "press",
    "author": "The New Indian Express",
    "role": "press",
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
-   "time": "Wed, 05 Aug 2026 10:19:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWvSAc8BQVVfeXFMT29jTXpWdl85VVpINnNBTWpZY0xJcWh5NlppVi1PNi1JazVGU2VwaktPZ3hwVElRUnUxNmNQX2JBQ0hFN1gyMFoxVVkzT254VXN3ampRMFBBdlJ5WV9BcHJFRXV5ZlF2S2FIMHBZTk52QXYyYk9GOGFURTUtVkZDb2FWQ1JHMG0wZW5JMHRJWjAxTWRnenRmN01QUlBwSlpMNmxwS3JqZkoydTBjTWdXX0w4NTZXZTRpMnZabmtGejBBeGJZd3hHZDlfZWNwUXlr?oc=5",
+   "time": "Wed, 05 Aug 2026 10:19:17 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -512,30 +536,6 @@
    "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
    "time": "Wed, 05 Aug 2026 09:38:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObHNCN1FPeE16a0JGaEhOaWpLWEZSQko2elZLWXBPVVIwT1BoZVRjV1c5bkk3dFRmektsbzR1NUNKZmpMdmtwMThFcTBNLVc1UllTZ1p6MFJmdnRrTWVWYWhxbXd4b2hMT20ybFNPLWNveE1MemlsMnhicHhxSE1YNHNVZExnS2VJVkF4MldvaWJha2E4el9HdUtPaTRKdGZfUTd2azRJa01DMUdQNm1zbXU1NUFzRVRpdEw5cERvWHpwcmdZb3N4aUlaNm1CRkxxdDRYanpzODJfRUNaeE4xX2hKT3k2TVBPQ3VzVUJLaUw4R29ZZDhGQWhuOXFHU2tjVEF6dEFpMzdtUFFfalI2VWtLTXTSAZQCQVVfeXFMTmxzQjdRT3hNemtCRmhITmlqS1hGUkJKNnpWS1lwT1VSME9QaGVUY1dXOW5JN3RUZnpLbG80dTVDSmZqTHZrcDE4RXEwTS1XNVJZU2daejBSZnZ0a01lVmFocW13eG9oTE9tMmxTTy1jb3hNTHppbDJ4YnB4cUhNWDRzVWRMZ0tlSVZBeDJXb2liYWthOHpfR3VLT2k0SnRmX1E3dms0SWtNQzFHUDZtc211NTVBc0VUaXRMOXBEb1h6cHJnWW9zeGlJWjZtQkZMcXQ0WGp6czgyX0VDWnhOMV9oSk95Nk1QT0N1c1VCS2lMOEdvWWQ4RkFobjlxR1NrY1RBenRBaTM3bVBRX2pSNlVrS010?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-408d8327ddbd",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai",
-   "time": "Wed, 05 Aug 2026 08:55:10 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a737ee4981e4a27a945630c5c3716e7&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fworld%2fnew-passport-centres-for-indians-in-uae-to-save-money-and-time-says-consul-general-in-dubai%2far-AA29syc2&c=4528571096039408587&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cde58619f000",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian expat killed in gas cylinder blast in Dubai car showroom: Report - The Economic Times",
-   "time": "Wed, 05 Aug 2026 08:30:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bdIB4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
