@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T16:44:20Z",
-  "total_verified": 265,
+  "generated_at": "2026-08-06T16:49:29Z",
+  "total_verified": 266,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 265,
+  "verified_mentions": 266,
   "sentiment": {
-   "positive": 12,
-   "neutral": 227,
+   "positive": 14,
+   "neutral": 226,
    "negative": 26
   },
   "channels": {
-   "press": 261,
+   "press": 262,
    "official": 4
   },
   "negative_alerts": 26,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 89
+   "count": 90
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 54
   },
   {
    "topic": "flights",
@@ -51,11 +51,11 @@
    "count": 30
   },
   {
-   "topic": "business",
-   "count": 24
+   "topic": "passport visa",
+   "count": 25
   },
   {
-   "topic": "passport visa",
+   "topic": "business",
    "count": 24
   }
  ],
@@ -229,18 +229,6 @@
    "engagement": null
   },
   {
-   "id": "gn-6551c340b995",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f6bdcae27966",
    "channel": "press",
    "author": "Gulf News",
@@ -248,6 +236,18 @@
    "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB0gHyAUFVX3lxTE0zX0VRYXlBS18yTVhXa3l3T2o5Y3NWd0tzUzk3VWI1MTljblVCTDJOS2Q2bTFya0ZGVWdsLUlqWjFVTHlhbm1fVHVYU1FVYjJoQXQ3LTJPNEFKZEFXWkVOVkJBRjV5ZHNwcXFReU1sVVpJQ3laUkVXTnotYXJKUHdwMEExSmNveHRYUUZsV3pVQnZVdXBjZEc2c0hZdWFYQ2F4RVg4RGllTVNEbmNybEhiaUJkY000d1pmTWJ3WmtMTzBYV0Q4bkhXSWJUa01OQzBOOVdDVmtEeFBGYkdKR2NydWRzN1cwREhfX1BUQTk3cENB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-6551c340b995",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f2abc59dcfe6",
+   "id": "bn-8d179b81e61b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74b9e36530426594bf975de4f08928&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74bb1884164027a847af5f4508d291&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
