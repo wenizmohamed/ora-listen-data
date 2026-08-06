@@ -1,38 +1,36 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T04:10:29Z",
+  "generated_at": "2026-08-06T04:15:39Z",
   "total_verified": 267,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 267,
   "sentiment": {
-   "positive": 13,
-   "neutral": 227,
-   "negative": 27
+   "positive": 12,
+   "neutral": 229,
+   "negative": 26
   },
   "channels": {
    "press": 263,
    "official": 4
   },
-  "negative_alerts": 27,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 88
+   "count": 89
   },
   {
    "topic": "services",
-   "count": 56
+   "count": 55
   },
   {
    "topic": "gulf news",
@@ -52,10 +50,10 @@
   },
   {
    "topic": "passport visa",
-   "count": 24
+   "count": 23
   },
   {
-   "topic": "express",
+   "topic": "business",
    "count": 22
   }
  ],
@@ -85,25 +83,13 @@
    "engagement": null
   },
   {
-   "id": "gn-96bc7066d6d9",
-   "channel": "press",
-   "author": "mofa.gov.ae",
-   "role": "press",
-   "text": "UAE and India Hold the Seventh Session of the Joint Consular Committee in New Delhi - mofa.gov.ae",
-   "time": "Wed, 22 Jul 2026 12:09:07 GMT",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94YXAyQ2lNUTY5X3BSY2RsWHg3UExLNHpzbko0blZOMzZ4U2lJUUs5N0JUblQxWXNzX3RQay13SkE0VVBFVERIM1Zzb2ZEbHdPZEUzOXNwLUFWeEpfT3ZjOGVkVEo1T091eF9lWA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-024e13611ebc",
+   "id": "bn-a7054ae9766a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport centres provide relief for Indians in UAE after weeks of delays",
    "time": "Wed, 22 Jul 2026 08:35:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a740933f1cf4d698af0474072cdfd52&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a740a6a391640eb9ab10f0d1cc8004d&url=https%3a%2f%2fwww.thenationalnews.com%2fnews%2fuae%2f2026%2f07%2f22%2fnew-passport-centres-provide-relief-for-indians-in-uae-after-weeks-of-delays%2f&c=2064255364825014724&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -205,13 +191,13 @@
    "engagement": null
   },
   {
-   "id": "gn-67006e91a744",
+   "id": "gn-6550fd225262",
    "channel": "press",
    "author": "Daily Pioneer",
    "role": "press",
    "text": "Indian Passport, Visa Services in UAE Shift to Al Hind Tours From July 22 - Daily Pioneer",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlhLNDlla1h0RnFiRUsxb0FkQzROd3o1UDFYSFFNRWlZbnY3eWNwTTNaQWFCdVJLRUxWWDRJS2Y5TG9LSTR3ZW5lNVI3dHhHN1RNU2hMSE9udXAtYXhtTlh3QWdUeVIzUXpxT3VJZmNLcWVrWUlZQU9xeHNWNHE3ZjJrNVdhSEh6c2FJSUJ4X21HaERna1Q2SWh5Zk5GcjJOdkFYWlp6MW10UjJQdEV3X1ZRY0QzY3NDNHpLcmhNNkFpY1Z1VXFDUVZLeTFpaV83MktPS3NB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVI1UUg0bDJxeGdHcGVBTXY5NGtJcTh3Z1hQSXJuUDFLRjAwWnRSeE1NbzhkVnlvWUZnZ3c1UWFSSEhkUmludHZ1czVNRFZXajJnRkkzYnM2RnJpNzRvNDFWQmt4UXBBZmY0YVd1VEhPS0dfTFdFcDVwcGdNUjVudkIxeGdMdXZyT1dKa0plbGxEd2RPbVRMaUpYcmlzNUp4aU8wUnl1bWFiRjM1VHhCUHNOM0lPMWdzNGxj?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -222,7 +208,7 @@
    "author": "curlytales.com",
    "role": "press",
    "text": "Indian Passport, Visa & Attestation Services In UAE Shift To Al Hind From July 22 - curlytales.com",
-   "time": "Wed, 22 Jul 2026 06:47:54 GMT",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE56NmxBOUZMRFJ0NzFmc3JsckRxVzgxdUJqcmNwV0F5dnJHeGR1WVd1dXNFeEt1Mjh4S1lpdV9Qa0tpY2dLZnNTVzRSSjRtb2VtdWFEeEIwbGJERjlrRE1YcjZjMEpMZ2FyVC1oN1ZXS24zdTBtNDYwTDluckY5TjItd203YWEzUEllNTF1SGN2VndSMlRfT3FOZ3I1VjZyY1hsbkFSTmN6aDZBY3M3X0RteWJ3TG9JeHfSAb8BQVVfeXFMT2dZY1pqSlVHZlJZR3JpY3JUOUVUMFM5cThmcDhEZDZybDgzajF2Q1Q2c1BwdHRCTk1la0VuZWNQMUFyQ1NEZG1yMndaQzlfQ2YtVEdHZDBkRHdSb0dZR3FCSmlLSDhPdDIwLUVEdmc4REg1Z3BMUjcwYnc1c2RJZEZiZW56dWNfc2lWN0lOd1JpYk5TaGx1aWZvbzB3NmlSNGVUU1pVWldWNXo5Q3VZVmdjOVBjSm82a3VyOGFMVFU?oc=5",
    "sentiment": "neutral",
    "verified": true,
@@ -536,6 +522,18 @@
    "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
    "time": "Wed, 05 Aug 2026 13:03:56 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-fa869907d87c",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar | Akashvani News - News On AIR",
+   "time": "Wed, 05 Aug 2026 11:16:46 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5wNFU1YTZXYWdHZURBb3h4cHo5dV9BWGFxSkFxcUc1NGl1ZWF1YzFNbThDTUEtNUFhZHpjQnhDWXdjQldCMkNnZS1ja1haZkN5T1h2b0ktRHBvR1h4ZlZrb0VMejAzejNEeWNtOWl5T2VLMU0wUmRFMXJBU2ctTm9nV3ZVTjV0Q3paM3VRWXo5UW56YnR6YXhB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
