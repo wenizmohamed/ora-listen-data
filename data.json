@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T22:25:26Z",
-  "total_verified": 268,
+  "generated_at": "2026-08-06T22:30:35Z",
+  "total_verified": 266,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 268,
+  "verified_mentions": 266,
   "sentiment": {
-   "positive": 13,
-   "neutral": 227,
-   "negative": 28
+   "positive": 15,
+   "neutral": 224,
+   "negative": 27
   },
   "channels": {
-   "press": 264,
+   "press": 262,
    "official": 4
   },
-  "negative_alerts": 28,
+  "negative_alerts": 27,
   "handles_active": 2
  },
  "topics": [
@@ -36,7 +36,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 52
+   "count": 56
   },
   {
    "topic": "flights",
@@ -56,22 +56,10 @@
   },
   {
    "topic": "business",
-   "count": 21
+   "count": 22
   }
  ],
  "mentions": [
-  {
-   "id": "gn-1645f4d8c26d",
-   "channel": "press",
-   "author": "The Siasat Daily",
-   "role": "press",
-   "text": "Indian travellers can pay via UPI for Burj Khalifa tickets - The Siasat Daily",
-   "time": "Wed, 29 Jul 2026 11:23:45 GMT",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalBjeUs5UXRmRHpLTjZLcWpRTnRYcEgwMFhVNXpDT3FEY0dwc3UwWVVSUnZYT2FoRDdWaXhha2h5b0EzWDlvTDc3S1hnNHVXZDZLMlIxMXdSM1pSd1RvYWZzbWFqYk0ySFlzUDVfVG9CdzV6dTFHTmU1NlRXajFnUGJZMVh6TlFSSlVndFdNWlVkcTFN0gGaAUFVX3lxTE5aaG96ZnhzT3pZa09MRFZfVk5xSzZYUGNYYUVPU1ZzQ1hIeXRMN0ZWVDJRNTBYUlo0MW1Ya2Y2SFVmZkVyZThKenFKLUlxcWRrVWN6azdEamFZdEVMMUJLUnVYd2xWQVc1QmRIaFdBZkxYMDZBSTVGaC1xNmhVUnpjWEdJSk1XUEk4N0xpV3IyUlhfYWRhaEw0UFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-37d2f7e23b82",
    "channel": "press",
@@ -253,18 +241,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-27b7834bc983",
    "channel": "press",
    "author": "inkl",
@@ -361,6 +337,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6baee5589add",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Advisory issued: US Embassy lifts shelter alert in the UAE - Gulf Business",
+   "time": "Wed, 15 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -445,18 +433,6 @@
    "engagement": null
   },
   {
-   "id": "gn-fc5e61e45e67",
-   "channel": "press",
-   "author": "The Siasat Daily",
-   "role": "press",
-   "text": "Telangana’s Vishnu Vardhan Reddy named India’s Dubai Consul General - The Siasat Daily",
-   "time": "Wed, 05 Aug 2026 14:11:03 GMT",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcW9MTDRBVkpCQ0ZsQWpnTEdBSTBwVXAyUFZGZFhmT3VUNGxpTk9wcEFtZzhEd3lRQ09IZm5OMk5NelpnNXdJNWhoc25LZW1UQmI3NC1aNU53NVFudWtXeS1XU0p1WXI5c0ktdk1xMUczcDRZemdsTDEzSjF4cDJHMUdDaWtZdmpIbUxHd1pWeFBuRWlEb1ZPZ3Z3eXpjUdIBowFBVV95cUxPUUh0MzVwanVKSUh2bUxYUlFocmZzaFhLYW53cDc1c3pqbDNoaUNqYXlucThkY2lmQnZlN1hXMzE3RG9pQ2lIQlQ3cTM2N0ltRkhndzEyQ1BiTlZfanRzQXh4a2xXVkItdGg1V3hVa0ZZMXVkazlMb1U2c0dRMUZSUmFBWVZuRzdsZTRwNFhTX1ZJRVBGY3YxcUZYWmZudFlOajNF?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-47964e00de9a",
    "channel": "press",
    "author": "Khaleej Times",
@@ -481,13 +457,13 @@
    "engagement": null
   },
   {
-   "id": "bn-41c01da81db7",
+   "id": "bn-8fd138a6716d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7509d434f841bb807b1f579179bc8e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a750b096dd04d4096be233446d7d3a4&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -500,18 +476,6 @@
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
    "time": "Wed, 05 Aug 2026 10:19:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWvSAc8BQVVfeXFMT29jTXpWdl85VVpINnNBTWpZY0xJcWh5NlppVi1PNi1JazVGU2VwaktPZ3hwVElRUnUxNmNQX2JBQ0hFN1gyMFoxVVkzT254VXN3ampRMFBBdlJ5WV9BcHJFRXV5ZlF2S2FIMHBZTk52QXYyYk9GOGFURTUtVkZDb2FWQ1JHMG0wZW5JMHRJWjAxTWRnenRmN01QUlBwSlpMNmxwS3JqZkoydTBjTWdXX0w4NTZXZTRpMnZabmtGejBBeGJZd3hHZDlfZWNwUXlr?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-f01ca65e2c5e",
-   "channel": "press",
-   "author": "Mid-Day",
-   "role": "press",
-   "text": "Indian expat from Kerala killed in gas cylinder explosion at Dubai car showroom: Report - Mid-Day",
-   "time": "Wed, 05 Aug 2026 09:58:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeXlvQ1ZfRnc2VzNCV1hHTHFBcFlxRG5LU19tQVB2V3RpTk40QzNEamJXQ3FiOXFrb0s4TlNKZUZOVUVuNFJWZnBiLWR3cTB4U3JQTllXeVZBRUJTS1YyY3FMLWNHZHZjVnR6RVpBRTJKUmkyZWtPajF6SUxhejRHTV9PU3BIalhIZXREd0FUTWc1M0pWVkJoM1lNSERjaFJkQUY3UW9OVFZid1ZTNk5zOEpwMmNYMnkwNXF3c3NscThKUnNYdnFqMkVuVzlMQktBOXF5ZVJ2T2dSQdIB3wFBVV95cUxOVDZGRFp1ajBJLVdELWZwMUZWbm5hRWw5cE4wQmJ1azA2ZkJNUm0yT3FLc1dHaEZPcjhyR3duUFF1QWFQVDZhSUQtRVVPNTNOQlNORXh6R1JvQkhUdkw4a2JoRlRiUHBUaV9uVngxNVlSZjJobnV6QkIxWlNiQXZmajJVbUF2dC11N0xmalZRRVdvNnp0bTlYUUNiLUlZeEFLM1NFeTJicmtJb1A0b3FqNFZxLWZoODdnM0JUQy1icUFDM0F1OURkeHlzWFdaQTJMc3Fic1Ntem85UkctX0FZ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +500,42 @@
    "text": "Indian expat killed in gas cylinder blast in Dubai car showroom: Report - The Economic Times",
    "time": "Wed, 05 Aug 2026 08:30:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bdIB4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-44eddfdbe289",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 06:17:40 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhXbDdWWl92ejdwaGhIMjNuaFk0ZXE2cEJIOGRoSmxtR2hYQmVZMElTd3hvTVd2MkhoSGlXSzR3V1ZqNmdlVmo2dkRCN2dJWnYxZHVlLUdoa2VHVFlKNzZHZmxKZ1BsY3dKa1lGQzNkeVJ6eWZBQ2NBSC1LU1pILVh5b0gxLTVVN2gzLTk5aEtxb3pkd1Q5dTJXc3YtSm5BUFZKUGFGaFFqWURl?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-42fd1c53f875",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Flying back to UAE in summer? Ticket prices jump up to over 100% towards August end - Khaleej Times",
+   "time": "Wed, 05 Aug 2026 02:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVNtYXg1NDEyYjNwdEZULXFseWE3VHdXQ0NqS0YyUTdjYVMzMW1WMGJ4Y0JTZ2E0ZGZDMnk4TUFHTENEUGpCVXY2amNiLVlBa3doS2lidEVpaXlITkVqVURKQ0Q1WTk4dEloRGhuTEVnS0JFci1CQ1BGNVgzYjM3QjZQdVhhaUt0dnJiaG93?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-f20b18df48fc",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
+   "time": "Wed, 05 Aug 2026 00:16:07 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a750b096dd04d4096be233446d7d3a4&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -615,18 +615,6 @@
    "engagement": null
   },
   {
-   "id": "gn-d55843f96a2c",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Pakistan e-Passport launch in UAE delayed: Embassy cites technical issues - Khaleej Times",
-   "time": "Sun, 19 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnFEMHN2YWxDak5CVy1DVWlEWUdwMllHYlMxYnR3aTBCc3k4dW1QSlRiRHRkb2dvY19fRVpYWk13bVJfdDBlbG85OWRtV2ZCYW1oYlM4OTlUT1Yzb1FzVEtmWWNrUWk4M29lazVJbjVwWl82emNGckRGdXNBMFhvRHlRejdCOXNRa1d4TlpVS3JFS0hXcGhmadIBoAFBVV95cUxPOEVMV09KNzVuRDRJTGV4MGVVekprc2d3dTlPdDNmU3NLV1BZRnZmQU9URDdibk1vMUN4MUhUeWN0WXVJLWRLS3FzcEJqMHQxeHBsZVdMcTlCcm9leVFOWDNVQnZUZ1hURmo4U01yM1pxV2NPZ1M2ZzlpOElxdm13QjRkb0kwbTJkeTgydXEwR1FRX1N5b2l6SHR5czBJdjRy?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-61ee2a7d0e70",
    "channel": "press",
    "author": "Gulf Business",
@@ -634,6 +622,18 @@
    "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
    "time": "Mon, 06 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d55843f96a2c",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Pakistan e-Passport launch in UAE delayed: Embassy cites technical issues - Khaleej Times",
+   "time": "Sun, 19 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnFEMHN2YWxDak5CVy1DVWlEWUdwMllHYlMxYnR3aTBCc3k4dW1QSlRiRHRkb2dvY19fRVpYWk13bVJfdDBlbG85OWRtV2ZCYW1oYlM4OTlUT1Yzb1FzVEtmWWNrUWk4M29lazVJbjVwWl82emNGckRGdXNBMFhvRHlRejdCOXNRa1d4TlpVS3JFS0hXcGhmadIBoAFBVV95cUxPOEVMV09KNzVuRDRJTGV4MGVVekprc2d3dTlPdDNmU3NLV1BZRnZmQU9URDdibk1vMUN4MUhUeWN0WXVJLWRLS3FzcEJqMHQxeHBsZVdMcTlCcm9leVFOWDNVQnZUZ1hURmo4U01yM1pxV2NPZ1M2ZzlpOElxdm13QjRkb0kwbTJkeTgydXEwR1FRX1N5b2l6SHR5czBJdjRy?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
