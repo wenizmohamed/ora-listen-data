@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T07:41:54Z",
-  "total_verified": 269,
+  "generated_at": "2026-08-06T07:47:02Z",
+  "total_verified": 268,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 269,
+  "verified_mentions": 268,
   "sentiment": {
-   "positive": 14,
-   "neutral": 228,
-   "negative": 27
+   "positive": 13,
+   "neutral": 229,
+   "negative": 26
   },
   "channels": {
-   "press": 265,
+   "press": 264,
    "official": 4
   },
-  "negative_alerts": 27,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
@@ -36,7 +36,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 56
   },
   {
    "topic": "flights",
@@ -44,22 +44,34 @@
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "passport visa",
    "count": 25
   },
   {
-   "topic": "express",
+   "topic": "business",
    "count": 23
   }
  ],
  "mentions": [
+  {
+   "id": "gn-5c3c863c36f4",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - News On AIR",
+   "time": "Wed, 27 May 2026 10:42:25 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFUV2tMZHdtTGlyUVUxaVROSlFNVUhtaWFkSlBBZy1naGFpNHpqZmFjYWN4anp6M0FXOENVUlFHb0RlcmUxOUZ2dVFJaUNoMXRnaDFiYnVTMlJBVUF3SG5xWTRqc3FzVHNZYU9ETm83RXM3YW51SFJ1c3Q1ejhnSUt5VVF4aE1ZMlNBekN4ci1hWDRvVko4bDJQWDhuOFNPV294eFNFbkpUZE5SNkRkWTg1NA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-37d2f7e23b82",
    "channel": "press",
@@ -147,9 +159,9 @@
   {
    "id": "gn-36ab06ef0afd",
    "channel": "press",
-   "author": "ndtv.com",
+   "author": "NDTV",
    "role": "press",
-   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - ndtv.com",
+   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTTSAcgBQVVfeXFMTWZneC0zUmNwNl85cG1YdThrMTFyZUN4TzIwYmMwOUVKTVUzVktEUktQYUxSSlNVR2swQkkyV2ZOVW56TFpZQTdpTVhHLWdHakI2MW9JQkNSNmJEQ1k4am9VMjZKOEgxMTM1WHI3enBGOS1WUnVwT1VVWldFYTZXanNzRWVaTjlPTEZZR2FsbDB1Z3kwUEZ6R0c5LWZqRGJEcllBbjdpUjFOYndUcUpFS1RTbExoSFhRYkhSTG5xM3FVU3ZKRXRPWVc?oc=5",
    "sentiment": "neutral",
@@ -205,18 +217,6 @@
    "engagement": null
   },
   {
-   "id": "gn-289675586359",
-   "channel": "press",
-   "author": "Daily Excelsior",
-   "role": "press",
-   "text": "Indian mission closely coordinating with UAE to provide support to deceased sailors family - Daily Excelsior",
-   "time": "Wed, 15 Jul 2026 22:58:51 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlBtdXRaVG1NUDdkR2Q5bzJibS1VMWpfb0prRmhKbHRic3d4NHpWeXRSM2lWVllQMVNHbGVlMzFLZGVMRk1BMTBzMTQ4RTRoY2RhYnpkRUh2V3doNUh4cjM2Zjlta252SFVJdWVieDhyTGNfX0lhbGV6NzZ1WFhNYmZSMmdqbU1QQVNBYkJQNjJZS0VUVmNWUWdrMVF6N1pZczZoSWkyaXduRllaWkprdW1MV1lTNnJ6eVpwOTNsTdIBwwFBVV95cUxPbjE2WnBuUEExb1BaNnNiMXdNcnhJTlRwSGJTU2JRZjBERVRfOVNnNXZqYlJCanM2RVZheUpjMExIQ0RXWW1lOS1HZGhqM0JJTjQzYUZvSmtIUS1VcElsX1JLZm1KdlVJYTd5ZVo2d2ZYdWRGSWxYaGRVNVZvZWMtcVdocjRhbnZoQzN1bzBwRmhXWW4wajZiajFnYS1vOVdGS3NVMkZjZVBSMDZrZzA2Mk5XaHJqNFY2d1VfdXNka0FVYzQ?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-85cea7902adc",
    "channel": "press",
    "author": "Gulf Business",
@@ -265,18 +265,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-27b7834bc983",
    "channel": "press",
    "author": "inkl",
@@ -308,18 +296,6 @@
    "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-e9316453ae61",
-   "channel": "press",
-   "author": "orissapost.com",
-   "role": "press",
-   "text": "Indian sailor died in attack on MV GFS Galaxy: Indian mission - orissapost.com",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcW1vR3FjUFNycW5yaUdPWkZhVmdmMkFqQzQwWWhxX1pMUlNuN0NkSXZLTjcwem0yZ2JicmRqZmZBZW1Nam5sOUNGelVZMXUySzJUMzEwQUp0NDVXZzVHcXVMMkM1MzZfdjRldkp0dUZWekU0U1h0OFJ1b1VmNFVGZ0doRWhDOFM1bmVQZXBHSGRLUdIBkgFBVV95cUxOcW1vR3FjUFNycW5yaUdPWkZhVmdmMkFqQzQwWWhxX1pMUlNuN0NkSXZLTjcwem0yZ2JicmRqZmZBZW1Nam5sOUNGelVZMXUySzJUMzEwQUp0NDVXZzVHcXVMMkM1MzZfdjRldkp0dUZWekU0U1h0OFJ1b1VmNFVGZ0doRWhDOFM1bmVQZXBHSGRLUQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -381,6 +357,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NNcHZRM1BTZHRkaGI4eEs4Y3k5OWJRbkdSUWUyQmxrN3A1TjJScVdrOHdqNlZhVEM5XzVkYy03Yzg4N21tVFVEcWItX3BRc3Z1THRDU2hqR1pzcXZmMnd5djgwbHkwQVRVUjJDX1ozX1hESm16UTNQbFJOWVpES05MdDd0YVZ6Mmd0dktRcDhaWVZ4SS1EemNOb2h6NnpfY1BSdmY4WW5HM3NESlVFOUUwOVXSAbwBQVVfeXFMTk83cFpndWdLLUhuUzB6dVRIRFhUSTY3SzF5YXQzZ1R1NnY4TkRWeDFYa0FCREZtM1ZFc1lXakVnUFR5cUJpMGxOLUlVakJrWElFZlNqOGlJbi1mblBrZW1sRlhVMjZkcWFIUHdsYlpQVlc4cWJBZm1oajJjT2QxRDRTQ3A0eGlpVnNGdlB6NXJSRzVZQ01hR1ZxZjF0Nm9RQmFfZVFIZVduS1ZFbURRNFFGTzNZTVZIQ08xR2c?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-6baee5589add",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Advisory issued: US Embassy lifts shelter alert in the UAE - Gulf Business",
+   "time": "Wed, 15 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -536,6 +524,18 @@
    "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
    "time": "Wed, 05 Aug 2026 09:38:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObHNCN1FPeE16a0JGaEhOaWpLWEZSQko2elZLWXBPVVIwT1BoZVRjV1c5bkk3dFRmektsbzR1NUNKZmpMdmtwMThFcTBNLVc1UllTZ1p6MFJmdnRrTWVWYWhxbXd4b2hMT20ybFNPLWNveE1MemlsMnhicHhxSE1YNHNVZExnS2VJVkF4MldvaWJha2E4el9HdUtPaTRKdGZfUTd2azRJa01DMUdQNm1zbXU1NUFzRVRpdEw5cERvWHpwcmdZb3N4aUlaNm1CRkxxdDRYanpzODJfRUNaeE4xX2hKT3k2TVBPQ3VzVUJLaUw4R29ZZDhGQWhuOXFHU2tjVEF6dEFpMzdtUFFfalI2VWtLTXTSAZQCQVVfeXFMTmxzQjdRT3hNemtCRmhITmlqS1hGUkJKNnpWS1lwT1VSME9QaGVUY1dXOW5JN3RUZnpLbG80dTVDSmZqTHZrcDE4RXEwTS1XNVJZU2daejBSZnZ0a01lVmFocW13eG9oTE9tMmxTTy1jb3hNTHppbDJ4YnB4cUhNWDRzVWRMZ0tlSVZBeDJXb2liYWthOHpfR3VLT2k0SnRmX1E3dms0SWtNQzFHUDZtc211NTVBc0VUaXRMOXBEb1h6cHJnWW9zeGlJWjZtQkZMcXQ0WGp6czgyX0VDWnhOMV9oSk95Nk1QT0N1c1VCS2lMOEdvWWQ4RkFobjlxR1NrY1RBenRBaTM3bVBRX2pSNlVrS010?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-0d83e0040c01",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai",
+   "time": "Wed, 05 Aug 2026 08:55:10 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a743bf461534a38aa2aebe17eaaf367&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fworld%2fnew-passport-centres-for-indians-in-uae-to-save-money-and-time-says-consul-general-in-dubai%2far-AA29syc2&c=4528571096039408587&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
