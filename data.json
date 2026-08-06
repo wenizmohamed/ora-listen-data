@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T21:02:50Z",
-  "total_verified": 271,
+  "generated_at": "2026-08-06T21:08:01Z",
+  "total_verified": 266,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 271,
+  "verified_mentions": 266,
   "sentiment": {
    "positive": 14,
-   "neutral": 230,
+   "neutral": 225,
    "negative": 27
   },
   "channels": {
-   "press": 267,
+   "press": 262,
    "official": 4
   },
   "negative_alerts": 27,
@@ -28,19 +28,19 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 89
+   "count": 88
   },
   {
    "topic": "services",
-   "count": 56
+   "count": 57
+  },
+  {
+   "topic": "gulfnews",
+   "count": 55
   },
   {
    "topic": "flights",
    "count": 38
-  },
-  {
-   "topic": "gulfnews",
-   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -55,8 +55,8 @@
    "count": 24
   },
   {
-   "topic": "gulf news",
-   "count": 24
+   "topic": "business",
+   "count": 22
   }
  ],
  "mentions": [
@@ -145,13 +145,13 @@
    "engagement": null
   },
   {
-   "id": "gn-8c15095a2817",
+   "id": "gn-4071c3715a00",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
+   "text": "Indian expats in Dubai queue outside Alhind passport centre after weeks of uncertainty - Khaleej Times",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRklPSWlGLURCQjFIcDdWM2RfVXFWR2RXMkxIYnFFTWVsYVpMX2N6aVRJLUV2ZzJKSDZFT3NVWDJ0NEQzVnJDejV3UF96NFhjNEN3SFBzREE3YXJQa0tiXzB5cmlvUVk5dURrV0NtSVRmajAwQ1NNaW5rMmo5eG81enlxSWluU0NsVkkwZlE3N1FNd9IBmgFBVV95cUxQeFlZUnZSRHZPalhFUmFpUEdHZkdCbkJwTFdVVUw0U1h2Q3ZCT2dCMkx2MTZYTTVvZl9xZDBlTnFLaThkczNGV0xJbmVPN2k2cThYeG11c053NFc2TGkySFNLRVc2YThIc3lDUWdSYWFBUnNiN3gxMjUtSC0wSTlYcHJBUnJlUExWeE9fd0dJOHlQeU9ScFlzb0NR?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -200,6 +200,18 @@
    "text": "Dubai Airport March 18: UAE Airspace Reopens After Tuesday Closure, Emirates and Etihad Back in the Air - TravelPirates",
    "time": "Wed, 18 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhSa2VQQ1B5WGVBb0x2bEpJd2x3dnMta2NLWTEtZTgxdGJ6MWt0TGpwUEpEdkpsSTBoc2ZIclo5dGNvc1Zrcmo1RTRRa1FNVzZHcUhGSDRWdzNIemszc2E3U2VYQ2tPSXhxS1o5RXZuc05nNFpDdjR3Ti1VWFFmQjZva1BpcWhnTjQwOTdiVk03WkxKbDBEX1locHE3Yy1ub0FCXw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-aa79c1a857b3",
+   "channel": "press",
+   "author": "theweek.in",
+   "role": "press",
+   "text": "Setback for Indian expats: Delhi High Court Quashes Alhind Contract for Indian Passport Services in UAE - theweek.in",
+   "time": "Wed, 15 Jul 2026 10:29:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmQtM3F2MTRsMFZlXzNiS1h6REhUTWZHMDN2QkhsQlVfcHlkeXJ4RkZnZWVtSnFaUDBlaGNGbXJ6QXJEOHc3T0hsSVFURVkwT1ctYmVtc2Zaa0RyM3JueTlGMUZyU1pqb1hXZ2VYaDhFbHZ3eHRhUWh6UXlyNlZoSGVNSnNVZlN3WEtkMWVoaWkzNk1rcDZsR01ScGk3aW1HUkN6c0t0QmpOMk1UVTM3ZFp1bnVieDFtaENIUG9RRUFVT1FBWXF1QXk4dVlwSWlNSzctWTNEUlppMzVIb3F2WHd6NTNwZzE1eE5Bc3I2Z9IB9AFBVV95cUxPVU9RTE16cWp2RGFaUEhHdDN3R1pkdGh5ZmQyNnExS3pGalpOc3RqOFF2eHo3VGlUcGhHbDB6YjIyYjlIdlRXQjVvcVhlcFRxaHB3aVZkWFBzd0JVVi1TbF9YX3poQ191N3dNYmU0a2s1SEE0OWFBRzVBQUtEX25xZ05SRkZVWldfRkRoLWJtMzBCT21HVWNPdkdVempYSmJTZFUwUTYtUE9YZ0ZMeEI1bjVXYXAyc2h3TmI5bmpjb2FEbm1pbTd5UzJMa2N1Z3RxaTR4T3h0U0RxdTdOYmxubEZYOHJvaTR3ckg0dm85UGxleEV5?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -471,9 +483,9 @@
   {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - gulfnews.com",
    "time": "Wed, 05 Aug 2026 13:03:56 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
@@ -481,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-43c84cca1b2c",
+   "id": "bn-864f4bd42608",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74f6799779402e9acf121250b61fa9&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74f7af1267495c9fb981710e4167d5&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian expat killed in gas cylinder blast in Dubai car showroom: Report - The Economic Times",
    "time": "Wed, 05 Aug 2026 08:30:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bdIB4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-44eddfdbe289",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
-   "time": "Wed, 05 Aug 2026 06:17:40 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhXbDdWWl92ejdwaGhIMjNuaFk0ZXE2cEJIOGRoSmxtR2hYQmVZMElTd3hvTVd2MkhoSGlXSzR3V1ZqNmdlVmo2dkRCN2dJWnYxZHVlLUdoa2VHVFlKNzZHZmxKZ1BsY3dKa1lGQzNkeVJ6eWZBQ2NBSC1LU1pILVh5b0gxLTVVN2gzLTk5aEtxb3pkd1Q5dTJXc3YtSm5BUFZKUGFGaFFqWURl?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
