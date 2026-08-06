@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-06T16:23:44Z",
-  "total_verified": 266,
+  "generated_at": "2026-08-06T16:28:53Z",
+  "total_verified": 267,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 266,
+  "verified_mentions": 267,
   "sentiment": {
-   "positive": 13,
+   "positive": 14,
    "neutral": 226,
    "negative": 27
   },
   "channels": {
-   "press": 262,
+   "press": 263,
    "official": 4
   },
   "negative_alerts": 27,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 91
+   "count": 90
   },
   {
    "topic": "services",
@@ -36,11 +36,11 @@
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 55
   },
   {
    "topic": "flights",
-   "count": 37
+   "count": 39
   },
   {
    "topic": "khaleej times",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "business",
-   "count": 23
+   "count": 22
   }
  ],
  "mentions": [
@@ -145,18 +145,6 @@
    "engagement": null
   },
   {
-   "id": "gn-cf757d57b54b",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-36ab06ef0afd",
    "channel": "press",
    "author": "NDTV",
@@ -169,13 +157,13 @@
    "engagement": null
   },
   {
-   "id": "gn-6550fd225262",
+   "id": "gn-cf757d57b54b",
    "channel": "press",
-   "author": "Daily Pioneer",
+   "author": "Gulf News",
    "role": "press",
-   "text": "Indian Passport, Visa Services in UAE Shift to Al Hind Tours From July 22 - Daily Pioneer",
+   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVI1UUg0bDJxeGdHcGVBTXY5NGtJcTh3Z1hQSXJuUDFLRjAwWnRSeE1NbzhkVnlvWUZnZ3c1UWFSSEhkUmludHZ1czVNRFZXajJnRkkzYnM2RnJpNzRvNDFWQmt4UXBBZmY0YVd1VEhPS0dfTFdFcDVwcGdNUjVudkIxeGdMdXZyT1dKa0plbGxEd2RPbVRMaUpYcmlzNUp4aU8wUnl1bWFiRjM1VHhCUHNOM0lPMWdzNGxj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -517,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-ab12da67a4aa",
+   "id": "bn-24e524e89986",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74b50fdc5944cf8040618208f0425b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a74b644c4a94518ab76017539340d87&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +524,18 @@
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
    "time": "Wed, 05 Aug 2026 10:19:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWvSAc8BQVVfeXFMT29jTXpWdl85VVpINnNBTWpZY0xJcWh5NlppVi1PNi1JazVGU2VwaktPZ3hwVElRUnUxNmNQX2JBQ0hFN1gyMFoxVVkzT254VXN3ampRMFBBdlJ5WV9BcHJFRXV5ZlF2S2FIMHBZTk52QXYyYk9GOGFURTUtVkZDb2FWQ1JHMG0wZW5JMHRJWjAxTWRnenRmN01QUlBwSlpMNmxwS3JqZkoydTBjTWdXX0w4NTZXZTRpMnZabmtGejBBeGJZd3hHZDlfZWNwUXlr?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-61a3d03b6921",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
+   "time": "Wed, 05 Aug 2026 09:38:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObHNCN1FPeE16a0JGaEhOaWpLWEZSQko2elZLWXBPVVIwT1BoZVRjV1c5bkk3dFRmektsbzR1NUNKZmpMdmtwMThFcTBNLVc1UllTZ1p6MFJmdnRrTWVWYWhxbXd4b2hMT20ybFNPLWNveE1MemlsMnhicHhxSE1YNHNVZExnS2VJVkF4MldvaWJha2E4el9HdUtPaTRKdGZfUTd2azRJa01DMUdQNm1zbXU1NUFzRVRpdEw5cERvWHpwcmdZb3N4aUlaNm1CRkxxdDRYanpzODJfRUNaeE4xX2hKT3k2TVBPQ3VzVUJLaUw4R29ZZDhGQWhuOXFHU2tjVEF6dEFpMzdtUFFfalI2VWtLTXTSAZQCQVVfeXFMTmxzQjdRT3hNemtCRmhITmlqS1hGUkJKNnpWS1lwT1VSME9QaGVUY1dXOW5JN3RUZnpLbG80dTVDSmZqTHZrcDE4RXEwTS1XNVJZU2daejBSZnZ0a01lVmFocW13eG9oTE9tMmxTTy1jb3hNTHppbDJ4YnB4cUhNWDRzVWRMZ0tlSVZBeDJXb2liYWthOHpfR3VLT2k0SnRmX1E3dms0SWtNQzFHUDZtc211NTVBc0VUaXRMOXBEb1h6cHJnWW9zeGlJWjZtQkZMcXQ0WGp6czgyX0VDWnhOMV9oSk95Nk1QT0N1c1VCS2lMOEdvWWQ4RkFobjlxR1NrY1RBenRBaTM3bVBRX2pSNlVrS010?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
