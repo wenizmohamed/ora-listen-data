@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-07T14:40:53Z",
-  "total_verified": 266,
+  "generated_at": "2026-08-07T14:46:01Z",
+  "total_verified": 265,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 266,
+  "verified_mentions": 265,
   "sentiment": {
    "positive": 13,
-   "neutral": 226,
+   "neutral": 225,
    "negative": 27
   },
   "channels": {
-   "press": 262,
+   "press": 261,
    "official": 4
   },
   "negative_alerts": 27,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 90
-  },
-  {
-   "topic": "services",
-   "count": 56
+   "count": 89
   },
   {
    "topic": "gulf news",
    "count": 56
+  },
+  {
+   "topic": "services",
+   "count": 55
   },
   {
    "topic": "flights",
@@ -109,18 +109,6 @@
    "engagement": null
   },
   {
-   "id": "gn-56c2327bed5c",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-914dca3391c3",
    "channel": "press",
    "author": "Gulf News",
@@ -128,6 +116,18 @@
    "text": "How to apply for an Indian passport in the UAE with new service provider Alhind Tours & Travels - Gulf News",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDlDdmozZjhnNmJwNGhObVJHc2w5WlFiOVJPcWpRVHN2QUNrRTR1dUdUM19GZW55UENvSklrOGFYWWM5c0xBc2xLcl9MRE9PM2VQdWFULV9LNm9HcENUb0k4VlpuRHJoZWw5YjVlOTVmTUpCby1aNHBJS25OSDJ0TThqOTg4RUhpU09hdHRqZGJDU0hGbnJ6T25iYkZUdjZMRDJ2eWJHNFc2Qnk4TzdzcUdYTmJOZERpSURpM3hWVlVJbWNqUVUzWmhvSdIB2wFBVV95cUxQdWtXRUhuR2dtNmRrTXMtV01adTVOaXhLckdkZC1tQzlpaEZGdmpIanFuY3NyWFNpVUh4VWJTRzZQeE9xYWRBU204UWNnVTdvaWxGRFNGMHlmMHRyelFaclhEQ0JYc3doRk1hSjNPVzFCU2ZoZXBwdzd2ZFQ3YVlJbzJETWR1XzFYNmFGQlAycUlpbUsxbm9jNWktTmJFVUNRUW1NV0tidGUyeThTMXJDVGxjdHV4SGxURk5naW1TcVZjUTZyNTdJa21UaDZwSzI5UDByY2tHck1VRDg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-56c2327bed5c",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "First look: Inside new Indian passport centres in UAE as rush begins - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdm9pVVo5TllReVYyWnl0YS02QkxKWFhLMXM1UjFjUjMzajdDVkNDRjYtSHJ1R01CY1lHVHZjLUFoSXh4Vk0yeW9oMmRaUkd4TmtJT2J5ejIxNE93YTUwY0czZ0VYcWY5TWJjaVBFUDNtZXdQVjhuWnk0MFdtcGdyb0RWY3gwVDNBRlNyTnlUY3N2WVMya1lZSWx0OENuclplRDlGYkF1b9IBtwFBVV95cUxQd3JhbzFWY3NxZ1hnanBzMnpZNWd0UEFwSXp1VVU4Rll5TXhwXzdpU21BMFdXNU5BbXIwRlN6TDZlVjlJSjN4SkpZcndXdzZ6TldzeWl5eFdycUhXS1dWV1IyWDRRZDZER1haalNON3Z4ZDZyVmFiblhzS05aWVFCUmJ6TGdNa3k5MmhtbnlPaU5KS3dRRXlyOTNVZlRTeGI1cGs0dmRUcW9xdWMzWHJhTlRPdTNuZ1k?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -212,18 +212,6 @@
    "text": "Dubai Airport March 18: UAE Airspace Reopens After Tuesday Closure, Emirates and Etihad Back in the Air - TravelPirates",
    "time": "Wed, 18 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhSa2VQQ1B5WGVBb0x2bEpJd2x3dnMta2NLWTEtZTgxdGJ6MWt0TGpwUEpEdkpsSTBoc2ZIclo5dGNvc1Zrcmo1RTRRa1FNVzZHcUhGSDRWdzNIemszc2E3U2VYQ2tPSXhxS1o5RXZuc05nNFpDdjR3Ti1VWFFmQjZva1BpcWhnTjQwOTdiVk03WkxKbDBEX1locHE3Yy1ub0FCXw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-aa79c1a857b3",
-   "channel": "press",
-   "author": "theweek.in",
-   "role": "press",
-   "text": "Setback for Indian expats: Delhi High Court Quashes Alhind Contract for Indian Passport Services in UAE - theweek.in",
-   "time": "Wed, 15 Jul 2026 10:29:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmQtM3F2MTRsMFZlXzNiS1h6REhUTWZHMDN2QkhsQlVfcHlkeXJ4RkZnZWVtSnFaUDBlaGNGbXJ6QXJEOHc3T0hsSVFURVkwT1ctYmVtc2Zaa0RyM3JueTlGMUZyU1pqb1hXZ2VYaDhFbHZ3eHRhUWh6UXlyNlZoSGVNSnNVZlN3WEtkMWVoaWkzNk1rcDZsR01ScGk3aW1HUkN6c0t0QmpOMk1UVTM3ZFp1bnVieDFtaENIUG9RRUFVT1FBWXF1QXk4dVlwSWlNSzctWTNEUlppMzVIb3F2WHd6NTNwZzE1eE5Bc3I2Z9IB9AFBVV95cUxPVU9RTE16cWp2RGFaUEhHdDN3R1pkdGh5ZmQyNnExS3pGalpOc3RqOFF2eHo3VGlUcGhHbDB6YjIyYjlIdlRXQjVvcVhlcFRxaHB3aVZkWFBzd0JVVi1TbF9YX3poQ191N3dNYmU0a2s1SEE0OWFBRzVBQUtEX25xZ05SRkZVWldfRkRoLWJtMzBCT21HVWNPdkdVempYSmJTZFUwUTYtUE9YZ0ZMeEI1bjVXYXAyc2h3TmI5bmpjb2FEbm1pbTd5UzJMa2N1Z3RxaTR4T3h0U0RxdTdOYmxubEZYOHJvaTR3ckg0dm85UGxleEV5?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -493,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d1bbcd7bf3d5",
+   "id": "bn-9a7e825715c3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a75ee72f06e413c93d36adbbf044975&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a75efa66098416a917471762e04637f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +524,18 @@
    "text": "Indian expat killed in gas cylinder blast in Dubai car showroom: Report - The Economic Times",
    "time": "Wed, 05 Aug 2026 08:30:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bdIB4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-44eddfdbe289",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 06:17:40 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhXbDdWWl92ejdwaGhIMjNuaFk0ZXE2cEJIOGRoSmxtR2hYQmVZMElTd3hvTVd2MkhoSGlXSzR3V1ZqNmdlVmo2dkRCN2dJWnYxZHVlLUdoa2VHVFlKNzZHZmxKZ1BsY3dKa1lGQzNkeVJ6eWZBQ2NBSC1LU1pILVh5b0gxLTVVN2gzLTk5aEtxb3pkd1Q5dTJXc3YtSm5BUFZKUGFGaFFqWURl?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -639,18 +639,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4948ec4d3294",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian passport services in UAE hit by legal hurdles: Real story behind delay in Alhind's takeover from BLS - Gulf News",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUx3QmhmejRuOWwxR2UyaGk5QnpZeTR2Y1F4T3B5OEpDUnJtWG9kWW81a05ZZ0FldXJHV2x5MVpyclRMRDhMaHlKQmdhb19PSWxVaVBKYXhnMFl6MENYOVNHYUVtdDZGRV85TUZXRjItQzdqRjc4aFJJZXRkTW5SbFZQYV9CeHdsYjNpNnNwb0k2d3J2a3pvYW9MemhJcWZxa21hc19uVHRGdEZXMGZZLW4yeFlyTU0yaS13QlN3dkNhaGpQdkZVZWVOdExOWXJlTWwxZnhQRUFHZ9IB6gFBVV95cUxQWUlWempRREprT0hxMkNJY1JRQ3BGYlV4SHAtOXpuUktxNnZDZFppc0xmdWJiWmp1TG9FQlZnR05NV3VIWFp1M3ZxRi1jQmRDREhKODgzNlo3MTVOaC1IZkRuWkN3b2h4bHc4SVRiSDVSUEVJeDVkRzZ3ZlN6WTgwU3F1cmR2LWZvR2JXLTU3WXNaNlNVZURRbDRFQVoyRUpIS2VZbVBDT3NRT0llcDdrZzhwaWRfSWhhc2ZoaUZydHRJNGVaNWFnbFBtcGc2YlVJR1hXVW9NMml2d3N2TG41SGd6VTkzYXVzNkE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-8e6c5cd0debd",
    "channel": "press",
    "author": "ANI News",
@@ -658,6 +646,18 @@
    "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
    "time": "Thu, 05 Mar 2026 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4948ec4d3294",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian passport services in UAE hit by legal hurdles: Real story behind delay in Alhind's takeover from BLS - Gulf News",
+   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUx3QmhmejRuOWwxR2UyaGk5QnpZeTR2Y1F4T3B5OEpDUnJtWG9kWW81a05ZZ0FldXJHV2x5MVpyclRMRDhMaHlKQmdhb19PSWxVaVBKYXhnMFl6MENYOVNHYUVtdDZGRV85TUZXRjItQzdqRjc4aFJJZXRkTW5SbFZQYV9CeHdsYjNpNnNwb0k2d3J2a3pvYW9MemhJcWZxa21hc19uVHRGdEZXMGZZLW4yeFlyTU0yaS13QlN3dkNhaGpQdkZVZWVOdExOWXJlTWwxZnhQRUFHZ9IB6gFBVV95cUxQWUlWempRREprT0hxMkNJY1JRQ3BGYlV4SHAtOXpuUktxNnZDZFppc0xmdWJiWmp1TG9FQlZnR05NV3VIWFp1M3ZxRi1jQmRDREhKODgzNlo3MTVOaC1IZkRuWkN3b2h4bHc4SVRiSDVSUEVJeDVkRzZ3ZlN6WTgwU3F1cmR2LWZvR2JXLTU3WXNaNlNVZURRbDRFQVoyRUpIS2VZbVBDT3NRT0llcDdrZzhwaWRfSWhhc2ZoaUZydHRJNGVaNWFnbFBtcGc2YlVJR1hXVW9NMml2d3N2TG41SGd6VTkzYXVzNkE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
