@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-07T17:15:46Z",
+  "generated_at": "2026-08-07T17:20:55Z",
   "total_verified": 264,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 88
+   "count": 89
   },
   {
    "topic": "services",
@@ -34,11 +36,11 @@
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 56
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -191,6 +193,18 @@
    "engagement": null
   },
   {
+   "id": "gn-85cea7902adc",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services in UAE face fresh uncertainty after court scraps Alhind tender - Gulf Business",
+   "time": "Wed, 15 Jul 2026 09:04:43 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjB6ZUdTWEMtcmkxWFJodUxLNm5MZm1xRDVKMXVCNGdJb1BZalY0ZDNQXzBxdUFsT215THpEYmZEWldvRncyUXA5QndTNEhmTE9hX1Nsb2xETlh1Ymw4UXJ4M3NzNFJwUERlZDlxdXpXaVJVSGpoRV9QZ1BJaGgzX2dVYklEQzNHZFRCa0p4THRsZmdpRE1NLUhRcUhhckVqYW5DTzNtcl9xeS1zQzVDcGlMYU15aUE2djRNNDNhS000WXJs?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f6bdcae27966",
    "channel": "press",
    "author": "Gulf News",
@@ -323,18 +337,6 @@
    "engagement": null
   },
   {
-   "id": "gn-891f050146f1",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian passport services in UAE face fresh uncertainty after court scraps Alhind tender - Gulf Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWJ5QUxXaUhCRGFOZFFVOEZZdGxUa2ZGSUlEMjdFbkdhR0pacDJURlZsVElaQXVOUHdrWlFXa1g3ZnMxVVV4SnZ0aGJrVTNPLThfVHhoRmRKMEZYWEd4aS1xaGtBbTA0WHpoYnB0SFFXNUFQYWkxZDlPVWQ2c0tSUWIxbTBLekpEZlJzbG8xSEYxbW5oS2J3U2N0VXpzRE5uRE9Lcy1felpuUWp3b3FHMUk4UFBOcmd0ZVRXelY0d08?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-ff083e983c62",
    "channel": "press",
    "author": "Khaleej Times",
@@ -355,18 +357,6 @@
    "time": "Wed, 15 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-189e6812af7c",
-   "channel": "press",
-   "author": "Emirates 24|7",
-   "role": "press",
-   "text": "Air India cuts international flights amid Middle East conflict - Emirates 24|7",
-   "time": "Wed, 13 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hUWEpCUHhWa0Qtc1ZucGFFbVBtVEJKazlxTi10dVIzQlh3N21fa0N2eDFMTy1Gc0dycTlZbmV3NHFJSzMxd0RObklMVFpZeXNnUmN1RWhUNUFmZGg2ZjFQeEpxRjdpMlRBN3NpckUzME94S18zeV9TWEtsUWp6cFc4MXA2SEZpbjRKc3A4NkhiSjFkaVl4LWZsei1pYU0wYUZGb0t0a9IBwgFBVV95cUxONWdwR3g3WnVDLWJGZXFRZ0JTVDIwak9zNU9SRjhpd0tuRnJfeU9mZmozU2VEVVdiMDRsT1JIelJRWTcyUEY0OUJJWTZCM2RmdWZQMmpJdVQ0MC15YThjYWpEdVZZWlFQaDlaWlhPUDVPUk1uNWRFMV9Yc01EMTdqY3FmckRqNXhSTGoxcnNnTlVuWWx3OEVsbUpER1NpRkRMeWI3a0tHdW9CLVJqRmxvZmF0X2dOaXR5M21BZWlYYXROdw?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -467,25 +457,25 @@
    "engagement": null
   },
   {
-   "id": "bn-6aa43649ec08",
+   "id": "bn-a578fcdf232b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7612c1111041b8be882d0a0df148ce&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7613f688524165825b9a45e47eb3f8&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-4487db32273c",
+   "id": "gn-eb40d993a783",
    "channel": "press",
    "author": "The New Indian Express",
    "role": "press",
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
-   "time": "Wed, 05 Aug 2026 10:19:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWvSAc8BQVVfeXFMT29jTXpWdl85VVpINnNBTWpZY0xJcWh5NlppVi1PNi1JazVGU2VwaktPZ3hwVElRUnUxNmNQX2JBQ0hFN1gyMFoxVVkzT254VXN3ampRMFBBdlJ5WV9BcHJFRXV5ZlF2S2FIMHBZTk52QXYyYk9GOGFURTUtVkZDb2FWQ1JHMG0wZW5JMHRJWjAxTWRnenRmN01QUlBwSlpMNmxwS3JqZkoydTBjTWdXX0w4NTZXZTRpMnZabmtGejBBeGJZd3hHZDlfZWNwUXlr?oc=5",
+   "time": "Wed, 05 Aug 2026 10:19:17 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -534,6 +524,18 @@
    "text": "Flying back to UAE in summer? Ticket prices jump up to over 100% towards August end - Khaleej Times",
    "time": "Wed, 05 Aug 2026 02:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVNtYXg1NDEyYjNwdEZULXFseWE3VHdXQ0NqS0YyUTdjYVMzMW1WMGJ4Y0JTZ2E0ZGZDMnk4TUFHTENEUGpCVXY2amNiLVlBa3doS2lidEVpaXlITkVqVURKQ0Q1WTk4dEloRGhuTEVnS0JFci1CQ1BGNVgzYjM3QjZQdVhhaUt0dnJiaG93?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-ce68b5a51fc9",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
+   "time": "Wed, 05 Aug 2026 00:16:07 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7613f688524165825b9a45e47eb3f8&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
