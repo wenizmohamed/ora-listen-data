@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-07T04:42:38Z",
-  "total_verified": 265,
+  "generated_at": "2026-08-07T04:47:48Z",
+  "total_verified": 263,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 265,
+  "verified_mentions": 263,
   "sentiment": {
-   "positive": 14,
-   "neutral": 223,
+   "positive": 13,
+   "neutral": 222,
    "negative": 28
   },
   "channels": {
-   "press": 261,
+   "press": 259,
    "official": 4
   },
   "negative_alerts": 28,
@@ -28,19 +28,19 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 89
+   "count": 88
   },
   {
    "topic": "services",
-   "count": 56
+   "count": 57
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 54
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -145,18 +145,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4071c3715a00",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian expats in Dubai queue outside Alhind passport centre after weeks of uncertainty - Khaleej Times",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRklPSWlGLURCQjFIcDdWM2RfVXFWR2RXMkxIYnFFTWVsYVpMX2N6aVRJLUV2ZzJKSDZFT3NVWDJ0NEQzVnJDejV3UF96NFhjNEN3SFBzREE3YXJQa0tiXzB5cmlvUVk5dURrV0NtSVRmajAwQ1NNaW5rMmo5eG81enlxSWluU0NsVkkwZlE3N1FNd9IBmgFBVV95cUxQeFlZUnZSRHZPalhFUmFpUEdHZkdCbkJwTFdVVUw0U1h2Q3ZCT2dCMkx2MTZYTTVvZl9xZDBlTnFLaThkczNGV0xJbmVPN2k2cThYeG11c053NFc2TGkySFNLRVc2YThIc3lDUWdSYWFBUnNiN3gxMjUtSC0wSTlYcHJBUnJlUExWeE9fd0dJOHlQeU9ScFlzb0NR?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cf757d57b54b",
    "channel": "press",
    "author": "Gulf News",
@@ -217,18 +205,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f6bdcae27966",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB0gHyAUFVX3lxTE0zX0VRYXlBS18yTVhXa3l3T2o5Y3NWd0tzUzk3VWI1MTljblVCTDJOS2Q2bTFya0ZGVWdsLUlqWjFVTHlhbm1fVHVYU1FVYjJoQXQ3LTJPNEFKZEFXWkVOVkJBRjV5ZHNwcXFReU1sVVpJQ3laUkVXTnotYXJKUHdwMEExSmNveHRYUUZsV3pVQnZVdXBjZEc2c0hZdWFYQ2F4RVg4RGllTVNEbmNybEhiaUJkY000d1pmTWJ3WmtMTzBYV0Q4bkhXSWJUa01OQzBOOVdDVmtEeFBGYkdKR2NydWRzN1cwREhfX1BUQTk3cENB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-6551c340b995",
    "channel": "press",
    "author": "Arabian Business",
@@ -236,6 +212,18 @@
    "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f6bdcae27966",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB0gHyAUFVX3lxTE0zX0VRYXlBS18yTVhXa3l3T2o5Y3NWd0tzUzk3VWI1MTljblVCTDJOS2Q2bTFya0ZGVWdsLUlqWjFVTHlhbm1fVHVYU1FVYjJoQXQ3LTJPNEFKZEFXWkVOVkJBRjV5ZHNwcXFReU1sVVpJQ3laUkVXTnotYXJKUHdwMEExSmNveHRYUUZsV3pVQnZVdXBjZEc2c0hZdWFYQ2F4RVg4RGllTVNEbmNybEhiaUJkY000d1pmTWJ3WmtMTzBYV0Q4bkhXSWJUa01OQzBOOVdDVmtEeFBGYkdKR2NydWRzN1cwREhfX1BUQTk3cENB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -469,13 +457,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c03f764b3f4b",
+   "id": "bn-da8d52fa5557",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a75623c5c674d06ae9bbd89d96be007&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a756371f7964baba3ecdf89d19f23f2&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "gn-cde58619f000",
+   "id": "gn-44e10a37f49c",
    "channel": "press",
-   "author": "The Economic Times",
+   "author": "The Tribune",
    "role": "press",
-   "text": "Indian expat killed in gas cylinder blast in Dubai car showroom: Report - The Economic Times",
-   "time": "Wed, 05 Aug 2026 08:30:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bdIB4AFBVV95cUxQUmpyNmMyRHMzRE1lbGh2OW5RVHFLNHVsUVZRRlRyUld4amVCb3ZMN2E2SEtZOVdSTnhWSU1HRk9XelZacFpOWmJtQWp3N0haSktnbWdjQ2JRV3lEVG15bGtCREhMUGxYaklTN3pfdjNsNWp5Q19lSkd5RklENFZtLUdwUGJ0TW5wR1l3ZHBFd0NtU1lTQm1MeURfVERMejJUNWtXSUJkYWRBSmFYSnpLUjFQbm5hamJEczBZWWNOQlRRbGhyN3gtVUlPaTR2OFgwcWFRUWFSdW5Rb1E4Vm01bQ?oc=5",
+   "text": "Indian expat killed in gas cylinder blast at Dubai car showroom: Report - The Tribune",
+   "time": "Wed, 05 Aug 2026 08:19:26 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3BRdlA4bTlaZ1kxWjRETTlZSmxtNXZwckpzaXlDbm1oemd4UlB6cFV1ZkZiMTZnVEdaRmpkYVlWalptczlHeFlOcktqNDI4SVUyVi1TbGdmQXdseF8wcDVFX2NnWVNnZkdfU1N1ODlCSjcxb0xqa185M3NJZnpBYURoRW03aG9zbUwwbXFxdC1ERFZhWS1lc1FRVUd6dkdmNDU1R1QtZjJhM3Y3dmppSmlDZ1c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +524,18 @@
    "text": "Flying back to UAE in summer? Ticket prices jump up to over 100% towards August end - Khaleej Times",
    "time": "Wed, 05 Aug 2026 02:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVNtYXg1NDEyYjNwdEZULXFseWE3VHdXQ0NqS0YyUTdjYVMzMW1WMGJ4Y0JTZ2E0ZGZDMnk4TUFHTENEUGpCVXY2amNiLVlBa3doS2lidEVpaXlITkVqVURKQ0Q1WTk4dEloRGhuTEVnS0JFci1CQ1BGNVgzYjM3QjZQdVhhaUt0dnJiaG93?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-a7d1d625c811",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
+   "time": "Wed, 05 Aug 2026 00:16:07 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a756371f7964baba3ecdf89d19f23f2&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
