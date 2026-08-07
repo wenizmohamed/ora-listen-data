@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-07T20:47:20Z",
-  "total_verified": 266,
+  "generated_at": "2026-08-07T20:52:31Z",
+  "total_verified": 265,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 266,
+  "verified_mentions": 265,
   "sentiment": {
    "positive": 13,
-   "neutral": 225,
+   "neutral": 224,
    "negative": 28
   },
   "channels": {
-   "press": 262,
+   "press": 261,
    "official": 4
   },
   "negative_alerts": 28,
@@ -28,27 +28,27 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 88
+   "count": 89
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 55
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 37
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "passport visa",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "business",
-   "count": 22
+   "count": 23
   }
  ],
  "mentions": [
@@ -193,13 +193,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a02754601793",
+   "id": "bn-c2fc3f1eec9c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Keeta partners with Sony Pictures for Spider-Man campaign in UAE",
    "time": "Wed, 22 Jul 2026 02:06:56 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a764457d9174f7d917d806c0d886fdf&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76458e09064a239391ec9933b463f0&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -289,6 +289,18 @@
    "engagement": null
   },
   {
+   "id": "gn-891f050146f1",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services in UAE face fresh uncertainty after court scraps Alhind tender - Gulf Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWJ5QUxXaUhCRGFOZFFVOEZZdGxUa2ZGSUlEMjdFbkdhR0pacDJURlZsVElaQXVOUHdrWlFXa1g3ZnMxVVV4SnZ0aGJrVTNPLThfVHhoRmRKMEZYWEd4aS1xaGtBbTA0WHpoYnB0SFFXNUFQYWkxZDlPVWQ2c0tSUWIxbTBLekpEZlJzbG8xSEYxbW5oS2J3U2N0VXpzRE5uRE9Lcy1felpuUWp3b3FHMUk4UFBOcmd0ZVRXelY0d08?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-b54efb0bc57c",
    "channel": "press",
    "author": "Gulf News",
@@ -369,18 +381,6 @@
    "time": "Wed, 15 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-189e6812af7c",
-   "channel": "press",
-   "author": "Emirates 24|7",
-   "role": "press",
-   "text": "Air India cuts international flights amid Middle East conflict - Emirates 24|7",
-   "time": "Wed, 13 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hUWEpCUHhWa0Qtc1ZucGFFbVBtVEJKazlxTi10dVIzQlh3N21fa0N2eDFMTy1Gc0dycTlZbmV3NHFJSzMxd0RObklMVFpZeXNnUmN1RWhUNUFmZGg2ZjFQeEpxRjdpMlRBN3NpckUzME94S18zeV9TWEtsUWp6cFc4MXA2SEZpbjRKc3A4NkhiSjFkaVl4LWZsei1pYU0wYUZGb0t0a9IBwgFBVV95cUxONWdwR3g3WnVDLWJGZXFRZ0JTVDIwak9zNU9SRjhpd0tuRnJfeU9mZmozU2VEVVdiMDRsT1JIelJRWTcyUEY0OUJJWTZCM2RmdWZQMmpJdVQ0MC15YThjYWpEdVZZWlFQaDlaWlhPUDVPUk1uNWRFMV9Yc01EMTdqY3FmckRqNXhSTGoxcnNnTlVuWWx3OEVsbUpER1NpRkRMeWI3a0tHdW9CLVJqRmxvZmF0X2dOaXR5M21BZWlYYXROdw?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -481,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3576a3124025",
+   "id": "bn-fd5beb9bca70",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a764457d9174f7d917d806c0d886fdf&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76458e09064a239391ec9933b463f0&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -548,7 +548,7 @@
    "author": "News On AIR",
    "role": "press",
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
-   "time": "Thu, 06 Aug 2026 17:49:15 GMT",
+   "time": "Fri, 07 Aug 2026 19:23:32 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
    "verified": true,
