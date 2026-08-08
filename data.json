@@ -1,25 +1,23 @@
 {
  "meta": {
-  "generated_at": "2026-08-08T20:02:58Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-08T20:08:12Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 272,
   "sentiment": {
-   "positive": 14,
-   "neutral": 224,
+   "positive": 13,
+   "neutral": 227,
    "negative": 32
   },
   "channels": {
-   "press": 266,
+   "press": 268,
    "official": 4
   },
   "negative_alerts": 32,
@@ -28,19 +26,23 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 82
+   "count": 83
+  },
+  {
+   "topic": "services",
+   "count": 57
   },
   {
    "topic": "gulf news",
    "count": 57
   },
   {
-   "topic": "services",
-   "count": 53
-  },
-  {
    "topic": "flights",
    "count": 42
+  },
+  {
+   "topic": "passport visa",
+   "count": 26
   },
   {
    "topic": "khaleej times",
@@ -49,10 +51,6 @@
   {
    "topic": "khaleej",
    "count": 26
-  },
-  {
-   "topic": "business",
-   "count": 25
   },
   {
    "topic": "express",
@@ -469,18 +467,6 @@
    "engagement": null
   },
   {
-   "id": "bn-ec05291c1a07",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
-   "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a778b71fea24ad390ff9b4e1076a2d4&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-eb40d993a783",
    "channel": "press",
    "author": "The New Indian Express",
@@ -517,6 +503,18 @@
    "engagement": null
   },
   {
+   "id": "bn-b3a7d4a4d0e5",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
+   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a778ca9d80842e6a2cef1cef2e1d0ad&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=en-gb",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-44eddfdbe289",
    "channel": "press",
    "author": "Gulf Business",
@@ -529,13 +527,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d5971b5211df",
+   "id": "bn-75566891684e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
-   "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
-   "time": "Wed, 05 Aug 2026 00:16:07 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a778b71fea24ad390ff9b4e1076a2d4&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
+   "text": "Indian consular services in UAE: 3 major changes starting July 2026",
+   "time": "Wed, 01 Jul 2026 21:28:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a778ca9d80842e6a2cef1cef2e1d0ad&url=https%3a%2f%2fwww.emirates247.com%2fuae-guide%2findian-consular-services-in-uae-3-major-changes-starting-july-2026%2f3182&c=9574727910167793728&mkt=en-gb",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
