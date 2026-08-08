@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-08T03:10:46Z",
-  "total_verified": 267,
+  "generated_at": "2026-08-08T03:15:56Z",
+  "total_verified": 266,
   "channels_live": [
    "official",
    "press"
@@ -12,35 +12,39 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 267,
+  "verified_mentions": 266,
   "sentiment": {
    "positive": 13,
    "neutral": 224,
-   "negative": 30
+   "negative": 29
   },
   "channels": {
-   "press": 263,
+   "press": 262,
    "official": 4
   },
-  "negative_alerts": 30,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 80
+   "count": 82
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 61
   },
   {
    "topic": "services",
-   "count": 51
+   "count": 50
   },
   {
    "topic": "flights",
-   "count": 40
+   "count": 38
+  },
+  {
+   "topic": "express",
+   "count": 28
   },
   {
    "topic": "khaleej times",
@@ -53,25 +57,9 @@
   {
    "topic": "business",
    "count": 23
-  },
-  {
-   "topic": "express",
-   "count": 23
   }
  ],
  "mentions": [
-  {
-   "id": "gn-01ca26e36d56",
-   "channel": "press",
-   "author": "Firstpost",
-   "role": "press",
-   "text": "‘Serious issue’: Has UAE imposed a ‘silent visa ban’ on Pakistani businesses? - Firstpost",
-   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlNseC14NlE0bW5KbHcwcUg3d1JGWXR5Wm9zdFZtSGFpTnFlMnhoV01yRkgza1BUdFVHazFaUVJfVmtVV0NzdzJvOUdlaWJMWjgzd0NJY2U0U3ZlcTVNZUxPSG9JcEZZQUVleGFRVzBpU1BwVVF3MFFKWDcyWXZjV1NlSnh6VktlSnBnWVZtMzVnT0l4N1NtaHQzdkZGYXJNZmowZHp2N0kza3dQRS1rWXFXMjN0X1BBWmhkSVp4UdIBxAFBVV95cUxQUWxiemtUMnhEWGZBUlUwLUpZSXlKU0tTOFZBR1laS21ZVG9vME5qZlNxVXJTRlFnQUlOUmhHX3RRX1V2dUZLZWFZa2MydU4zMGdIaVdVX004anNMR2ZUYk9kajF2YTluTkxhWUV0X0J4UzFLeERQdV9SaVpzckZib052SHdjcXNhMHFfV1h6M0hFUGFUcDRoOUYwaWQxNjJ1bUg2eTJJMHpwSGJyampueWJOc19iX1hCREt0ZU9BRlJ6NjFI?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-37d2f7e23b82",
    "channel": "press",
@@ -301,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4f9922c81890",
-   "channel": "press",
-   "author": "NDTV Profit",
-   "role": "press",
-   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-ce7fb0a54865",
    "channel": "press",
    "author": "Arabian Business",
@@ -469,13 +445,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a9058ee06f5e",
+   "id": "bn-9b15aa4709ac",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a769e3567d0468c86c853380672cc49&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a769f6b1732401fb4d771a7d033d07a&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +512,30 @@
    "text": "Flying back to UAE in summer? Ticket prices jump up to over 100% towards August end - Khaleej Times",
    "time": "Wed, 05 Aug 2026 02:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVNtYXg1NDEyYjNwdEZULXFseWE3VHdXQ0NqS0YyUTdjYVMzMW1WMGJ4Y0JTZ2E0ZGZDMnk4TUFHTENEUGpCVXY2amNiLVlBa3doS2lidEVpaXlITkVqVURKQ0Q1WTk4dEloRGhuTEVnS0JFci1CQ1BGNVgzYjM3QjZQdVhhaUt0dnJiaG93?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-c8475adfb9ec",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Saudi-backed Lucid unveils $1.4bn turnaround plan as revenue jumps",
+   "time": "Wed, 05 Aug 2026 00:16:07 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a769f6b1732401fb4d771a7d033d07a&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fsaudi-backed-lucid-unveils-14bn-turnaround-plan-as-revenue-jumps%2far-AA29qJk6&c=18384705076344030002&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-93c2f6cde8ab",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
