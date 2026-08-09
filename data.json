@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-09T23:10:13Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-09T23:15:22Z",
+  "total_verified": 268,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 268,
   "sentiment": {
-   "positive": 11,
-   "neutral": 230,
-   "negative": 29
+   "positive": 12,
+   "neutral": 226,
+   "negative": 30
   },
   "channels": {
-   "press": 266,
+   "press": 264,
    "official": 4
   },
-  "negative_alerts": 29,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
@@ -31,47 +31,35 @@
    "count": 92
   },
   {
-   "topic": "services",
-   "count": 58
-  },
-  {
    "topic": "gulf news",
    "count": 57
   },
   {
+   "topic": "services",
+   "count": 56
+  },
+  {
    "topic": "flights",
-   "count": 40
+   "count": 39
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 31
   },
   {
    "topic": "business",
-   "count": 25
+   "count": 24
   },
   {
    "topic": "passport visa",
-   "count": 25
+   "count": 23
   }
  ],
  "mentions": [
-  {
-   "id": "gn-682fa3120fe9",
-   "channel": "press",
-   "author": "NDTV",
-   "role": "press",
-   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
-   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-01ca26e36d56",
    "channel": "press",
@@ -385,6 +373,18 @@
    "engagement": null
   },
   {
+   "id": "gn-cfbf19bd3027",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian passport fees increase: UAE social workers urge review of price hike - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk9wNWFZUVlSdW8tMHM1U1ZlelpNU2ZFNHE0ODB5ajViN0hucF9rNXJnRVFGbi13Rm1pQTl2bWsyUEMtTmtFemJGcWpacmI0T0YyT2RJYkZxWkNhQU9HOTR1dHEweG5VYU1fU2IxZnJOdWd1ZTM5Y0daOC1MaVFFNtIBiAFBVV95cUxOSEZGQ1BNYnhVMHZPRFhTSFJrVlVmbVMyZldkTWR5cUN0bEZyYjhab3RIMWdlU1AxUk1mSmFBaUw3bVdjU1BrQlJlT2MwMFIxcmgtNUZ1ak94STJkRUI4ZUJjUTV6dTNNck9JNGtxcm93WTZfMDY0OTUwdlRrOEJfeDhJdmlBalJC?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-6baee5589add",
    "channel": "press",
    "author": "Gulf Business",
@@ -393,18 +393,6 @@
    "time": "Wed, 15 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-189e6812af7c",
-   "channel": "press",
-   "author": "Emirates 24|7",
-   "role": "press",
-   "text": "Air India cuts international flights amid Middle East conflict - Emirates 24|7",
-   "time": "Wed, 13 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hUWEpCUHhWa0Qtc1ZucGFFbVBtVEJKazlxTi10dVIzQlh3N21fa0N2eDFMTy1Gc0dycTlZbmV3NHFJSzMxd0RObklMVFpZeXNnUmN1RWhUNUFmZGg2ZjFQeEpxRjdpMlRBN3NpckUzME94S18zeV9TWEtsUWp6cFc4MXA2SEZpbjRKc3A4NkhiSjFkaVl4LWZsei1pYU0wYUZGb0t0a9IBwgFBVV95cUxONWdwR3g3WnVDLWJGZXFRZ0JTVDIwak9zNU9SRjhpd0tuRnJfeU9mZmozU2VEVVdiMDRsT1JIelJRWTcyUEY0OUJJWTZCM2RmdWZQMmpJdVQ0MC15YThjYWpEdVZZWlFQaDlaWlhPUDVPUk1uNWRFMV9Yc01EMTdqY3FmckRqNXhSTGoxcnNnTlVuWWx3OEVsbUpER1NpRkRMeWI3a0tHdW9CLVJqRmxvZmF0X2dOaXR5M21BZWlYYXROdw?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -529,13 +517,25 @@
    "engagement": null
   },
   {
-   "id": "bn-76b5a52f182b",
+   "id": "bn-9641ebaabc03",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7908d3bc8d4cbcad82841ba84e325f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a790a08dc0f48d78c0906dcce5e5d82&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-eb40d993a783",
+   "channel": "press",
+   "author": "The New Indian Express",
+   "role": "press",
+   "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
+   "time": "Wed, 05 Aug 2026 10:19:17 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
