@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-09T21:37:18Z",
-  "total_verified": 268,
+  "generated_at": "2026-08-09T21:42:28Z",
+  "total_verified": 269,
   "channels_live": [
    "official",
    "press"
@@ -12,54 +12,66 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 268,
+  "verified_mentions": 269,
   "sentiment": {
-   "positive": 13,
-   "neutral": 225,
-   "negative": 30
+   "positive": 11,
+   "neutral": 229,
+   "negative": 29
   },
   "channels": {
-   "press": 264,
+   "press": 265,
    "official": 4
   },
-  "negative_alerts": 30,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 92
-  },
-  {
-   "topic": "gulf news",
-   "count": 56
+   "count": 91
   },
   {
    "topic": "services",
-   "count": 55
+   "count": 57
+  },
+  {
+   "topic": "gulf news",
+   "count": 57
   },
   {
    "topic": "flights",
-   "count": 39
+   "count": 40
   },
   {
    "topic": "khaleej times",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "khaleej",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "business",
-   "count": 24
+   "count": 25
   },
   {
    "topic": "passport visa",
-   "count": 23
+   "count": 24
   }
  ],
  "mentions": [
+  {
+   "id": "gn-682fa3120fe9",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
+   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-01ca26e36d56",
    "channel": "press",
@@ -373,18 +385,6 @@
    "engagement": null
   },
   {
-   "id": "gn-cfbf19bd3027",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport fees increase: UAE social workers urge review of price hike - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk9wNWFZUVlSdW8tMHM1U1ZlelpNU2ZFNHE0ODB5ajViN0hucF9rNXJnRVFGbi13Rm1pQTl2bWsyUEMtTmtFemJGcWpacmI0T0YyT2RJYkZxWkNhQU9HOTR1dHEweG5VYU1fU2IxZnJOdWd1ZTM5Y0daOC1MaVFFNtIBiAFBVV95cUxOSEZGQ1BNYnhVMHZPRFhTSFJrVlVmbVMyZldkTWR5cUN0bEZyYjhab3RIMWdlU1AxUk1mSmFBaUw3bVdjU1BrQlJlT2MwMFIxcmgtNUZ1ak94STJkRUI4ZUJjUTV6dTNNck9JNGtxcm93WTZfMDY0OTUwdlRrOEJfeDhJdmlBalJC?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-6baee5589add",
    "channel": "press",
    "author": "Gulf Business",
@@ -529,13 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7775bf550b06",
+   "id": "bn-0ff2c1b26c0c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a78f30c68c84bffa53a5729e2cc35df&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a78f4424c9a41e3a56bf6510154a06e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
