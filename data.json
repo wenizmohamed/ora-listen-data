@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-10T14:28:13Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-10T14:33:23Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 271,
   "sentiment": {
    "positive": 13,
-   "neutral": 226,
-   "negative": 31
+   "neutral": 228,
+   "negative": 30
   },
   "channels": {
-   "press": 266,
+   "press": 267,
    "official": 4
   },
-  "negative_alerts": 31,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 85
+   "count": 84
   },
   {
    "topic": "gulf news",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "flights",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "passport visa",
-   "count": 23
+   "count": 22
   }
  ],
  "mentions": [
@@ -205,13 +205,13 @@
    "engagement": null
   },
   {
-   "id": "bn-03b039658174",
+   "id": "bn-234c81558348",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
    "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79dffa45e44e198266d89e2a74f17d&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79e13032fa468f8e37aebd56f0ea00&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -385,6 +385,18 @@
    "engagement": null
   },
   {
+   "id": "gn-3c6eaf5bd905",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - DD News",
+   "time": "Wed, 10 Jun 2026 04:54:58 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-c157e30d24e3",
    "channel": "press",
    "author": "DD India",
@@ -457,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e02158cd47d0",
+   "id": "bn-2d951670cca8",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79dffa45e44e198266d89e2a74f17d&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79e13032fa468f8e37aebd56f0ea00&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-93c2f6cde8ab",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -562,18 +562,6 @@
    "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "News India Times",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -658,6 +646,18 @@
    "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - The Tribune",
    "time": "Thu, 26 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG5qcUVoOVhHdHlBTGFfQW16bWhkOVlkMlpfOUtOVHVhYXl4UWhFUVlmZUVRVlhZcGliVDFlYmotbHJkTWttZHFwWjVnVmdDalVkRE1sb2pFZUItcnVobnl2NlU3QWxsRDMxcmxPMkRmNmp6Q1BiUFYxSDFsQUpOa3pMd09LTzZNNVdCMlBoTzVDNFlFckprVHNseHd4RTZEbVVQUU9iWmpfMVNJYUIyOW1ZaGFlaXllakxkZmlVM2g0UGJwaS1maHI4b9IBzwFBVV95cUxQOVZuVmxIZzJKQi0tN1RWdzZHb2J2OS1pbzJnUW1WcUpUcEg2eS1qZk5yMlN1RXpwUDJWdU9samxadjF4ZEp6Y3I3eUlKaHJKbzJ5V3UtSWdLVnl3dnNDMjM0WDJKSVk2VkkwR3M3ZzE3VFk0M0hQN3p3V0s2X1ZiaUNfNUJSdHlMcmpBRjhPTVp3VW1WZE1CLXhqWGt2dDlIVnFhUDBCV1JRQU1HMUpEN0pKaFVodHRPXzdMVVRDYWVYSmZMRlhIeExYQTY1LUE?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4948ec4d3294",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian passport services in UAE hit by legal hurdles: Real story behind delay in Alhind's takeover from BLS - Gulf News",
+   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUx3QmhmejRuOWwxR2UyaGk5QnpZeTR2Y1F4T3B5OEpDUnJtWG9kWW81a05ZZ0FldXJHV2x5MVpyclRMRDhMaHlKQmdhb19PSWxVaVBKYXhnMFl6MENYOVNHYUVtdDZGRV85TUZXRjItQzdqRjc4aFJJZXRkTW5SbFZQYV9CeHdsYjNpNnNwb0k2d3J2a3pvYW9MemhJcWZxa21hc19uVHRGdEZXMGZZLW4yeFlyTU0yaS13QlN3dkNhaGpQdkZVZWVOdExOWXJlTWwxZnhQRUFHZ9IB6gFBVV95cUxQWUlWempRREprT0hxMkNJY1JRQ3BGYlV4SHAtOXpuUktxNnZDZFppc0xmdWJiWmp1TG9FQlZnR05NV3VIWFp1M3ZxRi1jQmRDREhKODgzNlo3MTVOaC1IZkRuWkN3b2h4bHc4SVRiSDVSUEVJeDVkRzZ3ZlN6WTgwU3F1cmR2LWZvR2JXLTU3WXNaNlNVZURRbDRFQVoyRUpIS2VZbVBDT3NRT0llcDdrZzhwaWRfSWhhc2ZoaUZydHRJNGVaNWFnbFBtcGc2YlVJR1hXVW9NMml2d3N2TG41SGd6VTkzYXVzNkE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
