@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-10T11:17:33Z",
-  "total_verified": 269,
+  "generated_at": "2026-08-10T11:22:42Z",
+  "total_verified": 270,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 269,
+  "verified_mentions": 270,
   "sentiment": {
-   "positive": 12,
+   "positive": 13,
    "neutral": 226,
    "negative": 31
   },
   "channels": {
-   "press": 265,
+   "press": 266,
    "official": 4
   },
   "negative_alerts": 31,
@@ -28,19 +28,19 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 86
-  },
-  {
-   "topic": "gulf news",
-   "count": 56
+   "count": 89
   },
   {
    "topic": "services",
+   "count": 59
+  },
+  {
+   "topic": "gulf news",
    "count": 55
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -52,11 +52,11 @@
   },
   {
    "topic": "business",
-   "count": 27
+   "count": 30
   },
   {
    "topic": "passport visa",
-   "count": 23
+   "count": 26
   }
  ],
  "mentions": [
@@ -212,6 +212,18 @@
    "text": "Indian passport renewal in UAE: Alhind targets 30-minute service, no premium queues - Khaleej Times",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1k0NkFiajdJZ3djNGJ3RWFuTEk2cnVxV2pfNnJDYUJOMVkwc3VlaVNZOXg2a1ppWDRNRFBlSi1nLXhUSGtzSVpUOHNKVUhCUTBKc0NBR0ZYM1V3Q2dhWU5YQmxxVEJuQS02WnBiSGtBeHljYlJJWGtadGJjTFhtWXEyY09NNzk3amRjTWM4Y2l6NVFKeWU5RtIBoAFBVV95cUxQNW5BUEpWVTN1U194NFRzVTFLY0lrU0R3SUxPbzdzWnFwazNMMkh3aTBWQk9OSm85cVZHMG5NYUdJRVBKMkozaG4zZ3dSUUhsRmEyRzNFRnRiSkdudmxxLUQ0NEdicUhRT2kzSGVqS05oRC1kOTc4VGtXbVlhdDExT3FVLXlVcFhCZlNfZ2N4T3NuYXVvSENweFpEMW91ektE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-40807004104d",
+   "channel": "press",
+   "author": "curlytales.com",
+   "role": "press",
+   "text": "Indian Passport, Visa & Attestation Services In UAE Shift To Al Hind From July 22 - curlytales.com",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE56NmxBOUZMRFJ0NzFmc3JsckRxVzgxdUJqcmNwV0F5dnJHeGR1WVd1dXNFeEt1Mjh4S1lpdV9Qa0tpY2dLZnNTVzRSSjRtb2VtdWFEeEIwbGJERjlrRE1YcjZjMEpMZ2FyVC1oN1ZXS24zdTBtNDYwTDluckY5TjItd203YWEzUEllNTF1SGN2VndSMlRfT3FOZ3I1VjZyY1hsbkFSTmN6aDZBY3M3X0RteWJ3TG9JeHfSAb8BQVVfeXFMT2dZY1pqSlVHZlJZR3JpY3JUOUVUMFM5cThmcDhEZDZybDgzajF2Q1Q2c1BwdHRCTk1la0VuZWNQMUFyQ1NEZG1yMndaQzlfQ2YtVEdHZDBkRHdSb0dZR3FCSmlLSDhPdDIwLUVEdmc4REg1Z3BMUjcwYnc1c2RJZEZiZW56dWNfc2lWN0lOd1JpYk5TaGx1aWZvbzB3NmlSNGVUU1pVWldWNXo5Q3VZVmdjOVBjSm82a3VyOGFMVFU?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -409,18 +421,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-96ab004a6770",
    "channel": "press",
    "author": "Gulf Business",
@@ -481,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e5b2f5d41332",
+   "id": "bn-0bdd11e9e50f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79b34b71a341feb92c1b64ea2745e3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a79b47fcf414fa19bf8bddc1eebd8f4&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
