@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-11T09:46:48Z",
-  "total_verified": 276,
+  "generated_at": "2026-08-11T09:51:58Z",
+  "total_verified": 275,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 276,
+  "verified_mentions": 275,
   "sentiment": {
    "positive": 17,
-   "neutral": 229,
+   "neutral": 228,
    "negative": 30
   },
   "channels": {
-   "press": 272,
+   "press": 271,
    "official": 4
   },
   "negative_alerts": 30,
@@ -31,16 +31,12 @@
    "count": 83
   },
   {
-   "topic": "gulf news",
-   "count": 57
-  },
-  {
    "topic": "services",
    "count": 56
   },
   {
-   "topic": "flights",
-   "count": 31
+   "topic": "gulf news",
+   "count": 55
   },
   {
    "topic": "khaleej times",
@@ -51,8 +47,12 @@
    "count": 30
   },
   {
+   "topic": "flights",
+   "count": 29
+  },
+  {
    "topic": "business",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "passport visa",
@@ -169,13 +169,13 @@
    "engagement": null
   },
   {
-   "id": "bn-31f94bc3e4af",
+   "id": "bn-b587297bc560",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian passport, visa services in UAE now via Al Hind Tours & Travels",
    "time": "Wed, 22 Jul 2026 04:45:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aef898d2446a7bc2ec2ef575bd4ee&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-passport-visa-attestation-services-in-uae-now-via-al-hind-tours-travels-from-22-july-2026%2f3849&c=16156068157230005560&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7af0bf23124e41af78066dc572a19e&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-passport-visa-attestation-services-in-uae-now-via-al-hind-tours-travels-from-22-july-2026%2f3849&c=16156068157230005560&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -289,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-0feea76211ee",
-   "channel": "press",
-   "author": "Condé Nast Traveller India",
-   "role": "press",
-   "text": "Is it safe to travel to Dubai right now? What travellers need to know about visiting the UAE - Condé Nast Traveller India",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-4f9922c81890",
    "channel": "press",
    "author": "NDTV Profit",
@@ -309,6 +297,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
    "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0feea76211ee",
+   "channel": "press",
+   "author": "Condé Nast Traveller India",
+   "role": "press",
+   "text": "Is it safe to travel to Dubai right now? What travellers need to know about visiting the UAE - Condé Nast Traveller India",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -433,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e3dacacbe239",
+   "id": "bn-5d5568712a18",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aef898d2446a7bc2ec2ef575bd4ee&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7af0bf23124e41af78066dc572a19e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
