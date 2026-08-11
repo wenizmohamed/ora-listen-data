@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-11T09:31:20Z",
-  "total_verified": 275,
+  "generated_at": "2026-08-11T09:36:30Z",
+  "total_verified": 277,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 277,
   "sentiment": {
-   "positive": 16,
-   "neutral": 229,
+   "positive": 15,
+   "neutral": 232,
    "negative": 30
   },
   "channels": {
-   "press": 271,
+   "press": 273,
    "official": 4
   },
   "negative_alerts": 30,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 84
+   "count": 86
+  },
+  {
+   "topic": "gulf news",
+   "count": 58
   },
   {
    "topic": "services",
    "count": 57
-  },
-  {
-   "topic": "gulf news",
-   "count": 56
   },
   {
    "topic": "flights",
@@ -44,18 +44,18 @@
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "passport visa",
    "count": 24
   },
   {
-   "topic": "tourists",
+   "topic": "express",
    "count": 20
   }
  ],
@@ -169,13 +169,13 @@
    "engagement": null
   },
   {
-   "id": "bn-091b18c63776",
+   "id": "bn-b5e1c5e0bd55",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian passport, visa services in UAE now via Al Hind Tours & Travels",
    "time": "Wed, 22 Jul 2026 04:45:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aebe97e964b30821a5e2b824546e5&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-passport-visa-attestation-services-in-uae-now-via-al-hind-tours-travels-from-22-july-2026%2f3849&c=16156068157230005560&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aed1f4b2f44e48651932aeddc3e30&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-passport-visa-attestation-services-in-uae-now-via-al-hind-tours-travels-from-22-july-2026%2f3849&c=16156068157230005560&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -241,18 +241,6 @@
    "engagement": null
   },
   {
-   "id": "gn-7e3ca8386bfb",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c72da6bc4351",
    "channel": "press",
    "author": "Khaleej Times",
@@ -260,6 +248,18 @@
    "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-7e3ca8386bfb",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -289,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4f9922c81890",
-   "channel": "press",
-   "author": "NDTV Profit",
-   "role": "press",
-   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-0feea76211ee",
    "channel": "press",
    "author": "Condé Nast Traveller India",
@@ -309,6 +297,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4f9922c81890",
+   "channel": "press",
+   "author": "NDTV Profit",
+   "role": "press",
+   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -356,6 +356,18 @@
    "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-3c6eaf5bd905",
+   "channel": "press",
+   "author": "ddnews.gov.in",
+   "role": "press",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - ddnews.gov.in",
+   "time": "Wed, 10 Jun 2026 04:54:58 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -409,18 +421,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f448775ba783",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
-   "time": "Wed, 05 Aug 2026 14:10:42 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -433,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-12ae31d30da0",
+   "id": "bn-83444b34d631",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aebe97e964b30821a5e2b824546e5&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7aed1f4b2f44e48651932aeddc3e30&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -469,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "gn-d221204dbc25",
+   "id": "gn-0d9bfe0e7dac",
    "channel": "press",
-   "author": "ETV Bharat",
+   "author": "Menafn",
    "role": "press",
-   "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
-   "time": "Wed, 05 Aug 2026 09:26:51 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
+   "text": "Indian Consulate In Dubai Confirms Walk-In Services Open To Tatkal Passport Applicants - Menafn",
+   "time": "Wed, 05 Aug 2026 06:42:07 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTk40bG5BbVFPZFJqWWNLYzdZeE1wME1xR1FUeC1FMTNrbG9HakVVWHExUXdhWTZJYzdKd1RRV0tmR0xWTVZwNFZhejB2c0FqNWc3OXp1czF4dXpYQkZ1QzlVUzNQbEdmclRLSmx2cVpxX25ibDBWQ1RPNllXMHNIajBXd0pRcFlXUWhYR0RhTjdLWUhKQUdPY2JFaTAwSTZnMGhHT0hPYk9yVE1KOVRNOElsLTVfanM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
