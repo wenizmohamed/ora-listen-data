@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-11T02:16:27Z",
-  "total_verified": 281,
+  "generated_at": "2026-08-11T02:21:37Z",
+  "total_verified": 284,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 284,
   "sentiment": {
    "positive": 14,
-   "neutral": 235,
-   "negative": 32
+   "neutral": 237,
+   "negative": 33
   },
   "channels": {
-   "press": 277,
+   "press": 280,
    "official": 4
   },
-  "negative_alerts": 32,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 71
   },
   {
    "topic": "gulf news",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 52
+   "count": 51
   },
   {
    "topic": "flights",
@@ -55,7 +55,7 @@
    "count": 23
   },
   {
-   "topic": "business",
+   "topic": "advisory",
    "count": 23
   }
  ],
@@ -157,13 +157,13 @@
    "engagement": null
   },
   {
-   "id": "bn-085e8dbdf32c",
+   "id": "bn-524a9354819d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1",
    "time": "Wed, 22 Jul 2026 02:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7a85fd4e7847b7a25c42f7c1434b0b&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7a8733a7ee43c8b9b7ddcb80312ea1&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-indian-passport-centres-open-across-uae-thousands-apply-on-day-1-1.500616032&c=12198557013539274729&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -421,13 +421,13 @@
    "engagement": null
   },
   {
-   "id": "bn-283ed53e579d",
+   "id": "bn-ad34abe15090",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7a85fd4e7847b7a25c42f7c1434b0b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7a8733a7ee43c8b9b7ddcb80312ea1&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -543,6 +543,18 @@
  ],
  "alerts": [
   {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "News India Times",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-69224102cef4",
    "channel": "press",
    "author": "The Indian EYE",
@@ -598,18 +610,6 @@
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
    "time": "Fri, 29 May 2026 23:42:27 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-8e6c5cd0debd",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
