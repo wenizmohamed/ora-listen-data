@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-12T18:02:03Z",
-  "total_verified": 275,
+  "generated_at": "2026-08-12T18:07:13Z",
+  "total_verified": 278,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,35 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 278,
   "sentiment": {
-   "positive": 17,
-   "neutral": 227,
-   "negative": 31
+   "positive": 16,
+   "neutral": 232,
+   "negative": 30
   },
   "channels": {
-   "press": 271,
+   "press": 274,
    "official": 4
   },
-  "negative_alerts": 31,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 83
+   "count": 79
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 56
+  },
+  {
+   "topic": "flights",
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -47,16 +51,12 @@
    "count": 31
   },
   {
-   "topic": "tourists",
-   "count": 26
-  },
-  {
    "topic": "passport visa",
-   "count": 23
+   "count": 22
   },
   {
-   "topic": "flights",
-   "count": 23
+   "topic": "tourists",
+   "count": 22
   }
  ],
  "mentions": [
@@ -157,26 +157,14 @@
    "engagement": null
   },
   {
-   "id": "gn-40807004104d",
+   "id": "gn-5af8b23d2ed2",
    "channel": "press",
-   "author": "curlytales.com",
+   "author": "TravelPirates",
    "role": "press",
-   "text": "Indian Passport, Visa & Attestation Services In UAE Shift To Al Hind From July 22 - curlytales.com",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE56NmxBOUZMRFJ0NzFmc3JsckRxVzgxdUJqcmNwV0F5dnJHeGR1WVd1dXNFeEt1Mjh4S1lpdV9Qa0tpY2dLZnNTVzRSSjRtb2VtdWFEeEIwbGJERjlrRE1YcjZjMEpMZ2FyVC1oN1ZXS24zdTBtNDYwTDluckY5TjItd203YWEzUEllNTF1SGN2VndSMlRfT3FOZ3I1VjZyY1hsbkFSTmN6aDZBY3M3X0RteWJ3TG9JeHfSAb8BQVVfeXFMT2dZY1pqSlVHZlJZR3JpY3JUOUVUMFM5cThmcDhEZDZybDgzajF2Q1Q2c1BwdHRCTk1la0VuZWNQMUFyQ1NEZG1yMndaQzlfQ2YtVEdHZDBkRHdSb0dZR3FCSmlLSDhPdDIwLUVEdmc4REg1Z3BMUjcwYnc1c2RJZEZiZW56dWNfc2lWN0lOd1JpYk5TaGx1aWZvbzB3NmlSNGVUU1pVWldWNXo5Q3VZVmdjOVBjSm82a3VyOGFMVFU?oc=5",
+   "text": "Dubai Airport March 18: UAE Airspace Reopens After Tuesday Closure, Emirates and Etihad Back in the Air - TravelPirates",
+   "time": "Wed, 18 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhSa2VQQ1B5WGVBb0x2bEpJd2x3dnMta2NLWTEtZTgxdGJ6MWt0TGpwUEpEdkpsSTBoc2ZIclo5dGNvc1Zrcmo1RTRRa1FNVzZHcUhGSDRWdzNIemszc2E3U2VYQ2tPSXhxS1o5RXZuc05nNFpDdjR3Ti1VWFFmQjZva1BpcWhnTjQwOTdiVk03WkxKbDBEX1locHE3Yy1ub0FCXw?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-37d2f7e23b82",
-   "channel": "press",
-   "author": "curlytales.com",
-   "role": "press",
-   "text": "8 Visa-Friendly Countries Indian Passport Holders Living In The UAE Can Travel To With Ease - curlytales.com",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGpoRU1lM29jeEpWLU1meVpsMEwxN2xUakRYRjRVMjN1MWdsNGlDWGRPZ2NBYmhjQ2RZQXMzcU00SzF4dTgySEU5TV9MMF9lb2l6R2dGZ2I2STlVUC1XREc0MUhrN1NhalZlbkJiSkszT2lCQS1fX0REV1NOTWJvWTNXcVpXWGlTNGZzV04wOEJYYlRuWGxla0haWXotbGJaa25TRDF5VVI3NFkyMFRRQnFoVGgtbENqSXBnQzJBdm9wNmRxWUNFckQtckHSAdIBQVVfeXFMTVZWTW5OUEhMM3JzdEJZSGNmU3phejZhQWhLWjVPYWo1MmFYNU1vTld4bTJod0UtWmpmU1FVSEpsRUJacEgySzhjdHhtSWM3ZzMzTG9ZNDNqdFF0NzFvZmVvUnRaZVdxOVNVSTh5cTN3YnUwNWc3VmhwVVF5YUFqSmNSMnQ4cElUNW1DNjJkWGFKTncySHA1NkVfTnFfQjh6YzNvRm5xRkVmaktaQUJUYzJqTi1Sd1o5SHc5SmNLR2llOHdDN20yeWtCV01JN2NKU2Fn?oc=5",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -243,9 +231,9 @@
   {
    "id": "gn-7e3ca8386bfb",
    "channel": "press",
-   "author": "India Today",
+   "author": "indiatoday.in",
    "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
+   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - indiatoday.in",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
@@ -361,13 +349,13 @@
    "engagement": null
   },
   {
-   "id": "gn-933d02a2c1ef",
+   "id": "gn-680f589c3ed8",
    "channel": "press",
    "author": "India.com",
    "role": "press",
    "text": "Free UAE Visa for Indians! Abu Dhabi announces special offer for travellers; Check eligibility, rules and how - India.com",
    "time": "Wed, 12 Aug 2026 06:15:25 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOE95Y0VTUHFrNXVwY1YwVnR2bjhyZ2dmZm9TcFBlMEFqcHBlQW9JaFFmRmRBLUhKTkRNU3NSQmpydmFIaXgya0dEbVlGUXN5LWxLcUdRaDE5NGc2MG1sRmgtZGtTR3dzWG5RczZwaGJVVjgtNFdZNmp4ZVE0RWNVNmszQ0ptc1Y0M1YzR3JVUjJxdTVUVmdRcUFZR1FFdjFkMVY0Y0I4OWRaUG5oWkl3cmtQcEVLS3l2UHh5VC00NnR3dHR4a2ZHMTcyTmhETk9Ea2p3UkpWVlVFX05CTVNscDUzWERwak1OX1lTZjJNZFp3ZDFfLUlHdXNsZGZCN3VqVHpWcGNSX2EtemxOVFlZT9IBlgJBVV95cUxQa0pJRTJhZWFFUHU2MUlwSUs2SUdtdUlDcmlXd1VpUnlsVkRwbFMwaFY3YVNYaWFMRjlWSEc5TzBKS0tDT1hTSTNDT3JsUGY5ckRGQTVOMElkYXc2U21TVEwzSVNEU0RwbFJXNXkzcHdIazFfZVR4bTdEcHI1S0xqX2VxRDZrZ3lWQnF3QkFEREhLUlRyenR6ang4NFoxVkMzNnhuYld6NFdKbmxNWVJBTW1WNDBtY2tCNVNPR0ZiaXFUZnhJZlFTSDNVR0NfOHhNUDdIaDdMV1FocnUwd24xNmxIRC1zbmw1QU1SNWtZNUNFak9TemUyRm0yZGdlS210WFBwc0syeGN6QUlNYmpudEpqRlp1Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa0pJRTJhZWFFUHU2MUlwSUs2SUdtdUlDcmlXd1VpUnlsVkRwbFMwaFY3YVNYaWFMRjlWSEc5TzBKS0tDT1hTSTNDT3JsUGY5ckRGQTVOMElkYXc2U21TVEwzSVNEU0RwbFJXNXkzcHdIazFfZVR4bTdEcHI1S0xqX2VxRDZrZ3lWQnF3QkFEREhLUlRyenR6ang4NFoxVkMzNnhuYld6NFdKbmxNWVJBTW1WNDBtY2tCNVNPR0ZiaXFUZnhJZlFTSDNVR0NfOHhNUDdIaDdMV1FocnUwd24xNmxIRC1zbmw1QU1SNWtZNUNFak9TemUyRm0yZGdlS210WFBwc0syeGN6QUlNYmpudEpqRlp1Z9IBlgJBVV95cUxQa0pJRTJhZWFFUHU2MUlwSUs2SUdtdUlDcmlXd1VpUnlsVkRwbFMwaFY3YVNYaWFMRjlWSEc5TzBKS0tDT1hTSTNDT3JsUGY5ckRGQTVOMElkYXc2U21TVEwzSVNEU0RwbFJXNXkzcHdIazFfZVR4bTdEcHI1S0xqX2VxRDZrZ3lWQnF3QkFEREhLUlRyenR6ang4NFoxVkMzNnhuYld6NFdKbmxNWVJBTW1WNDBtY2tCNVNPR0ZiaXFUZnhJZlFTSDNVR0NfOHhNUDdIaDdMV1FocnUwd24xNmxIRC1zbmw1QU1SNWtZNUNFak9TemUyRm0yZGdlS210WFBwc0syeGN6QUlNYmpudEpqRlp1Zw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -380,6 +368,18 @@
    "text": "Abu Dhabi offers free UAE entry visas to eligible Indian tourists: Details - business-standard.com",
    "time": "Wed, 12 Aug 2026 06:00:50 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdE5nU0tvVUNET2YtYTdfMFRsSy1RdWhqM0RqcXhvb2xtSjN0cGNQQW94WGM4aGhxYXlTNjh1VngzV1h4M0NKc2JIa19ORFVlQ1JIS1BSX1Z1cWkxUVF3U2FnOXN5dGFIUzJ4eC1KSzAtVDE0SmxfTkVrMkJ4TWVrQXhfNFVIazhYUEowS2F0M1hBU285eURfSHhhU3lnUHZZZ0dKdnNoZXdBTlM0UEtzSExvNkRKZk5OQXNXVGRqRG9TU1M2QXlucVl1cDVEWVVBMm0yUTN30gHbAUFVX3lxTE1qOWFhM3ZkQmtPbFdfc2RIc25JRU5xM0JYRVQtaFZxcnl2WE9CVGVMUjZOclVJLUs0ZGo2SzZ5Q00xNC1kNlNOUXFLNVFNOE9qdFhmNllBbzJfLWRabktkUVVOQko0TDZwWmZBc3dUcWkzWmxhOHNSS1BoYThZWWp6TTRqOElLcThaUy1vaXh6bnRZS1dyUkw3azBWSUFUdGNBakdPR3BYbkhzUFQ3a3ZZanlXZEFPRER3bVZNc3ljTS1MRmdNRFRMV2dnLUxveklrOGUxalN5Sm5pYw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5eb7b6248965",
+   "channel": "press",
+   "author": "Mshale",
+   "role": "press",
+   "text": "India To UAE Flight Big News 😱 Air India 42 Flights Confirm | Jeddah Muscat Update Today | Air India Susie Wiles (xAzWWJZJko) - Mshale",
+   "time": "Wed, 12 Aug 2026 02:21:11 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wRC1xWFpDVHloRVo2SEJ5d2lIblRxZmtUQVRkUkVZWVA4Ylg2dUthOU02OTI0R2ROM1ozb3Uwd05IZ3hURnpqWjh0akpSb0RKVnZNZmpkRElKWnM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -421,6 +421,18 @@
    "engagement": null
   },
   {
+   "id": "gn-38b758c44d74",
+   "channel": "press",
+   "author": "Travel and Leisure Asia",
+   "role": "press",
+   "text": "The UAE Has Reopened Its Airspace: Here’s What That Means For Travellers - Travel and Leisure Asia",
+   "time": "Wed, 06 May 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDZNaWZWU3ZJUUtJdTJ0RndPY3JydmR3NU9zRm9ORldLclduVEFsM29EcnFlQmZveXMzaktTZHpKZ0xFMWF3VTA2MTVNQ1kydFpjN1dfSHlmSHQ1Q2dINmgwUHo3WUpqZ05Sc3BBV0cyYVVGQWlwM1pQazFzWnpDSzMzYzVLcFIxeUJTM0VRei1WUGRsamFaY1BoeEg2OGM4RGFhdWZIcUVYR1d0aUNwUnFEY0lrYmZTOFJNQXFKSFN0OUpfT0tVcjR30gHPAUFVX3lxTE1ENVlpLTR4UFRubm5sNVFvb0h2NVozMjFzYktyS3FtZTB1ZHF0UFVPUVl2dEdrR2QtN1AzN1VzTHhfS0NKSkV1UERsaEhGM2VlcXktREF5SWxPUWlHWll3UFhVRjZKcjVRVHNkM1ZJWXpGNlBzUnc2eUFsdDhkRkxpd1p4WEdsRmVMc3FZcXlka3hleGlSVjhaNkllMFlIT3NBR1ZQRU5tdnEzaUhtd2JjS1MtR1ZQNkNnaFY0NFRMR3pPY0xQbnY4OTM3UU04UQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-96ab004a6770",
    "channel": "press",
    "author": "Gulf Business",
@@ -428,18 +440,6 @@
    "text": "India confirms Alhind takeover of Indian passport services in UAE from July 22 - Gulf Business",
    "time": "Wed, 05 Aug 2026 18:03:23 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjRSMHJENS1zOGd0cUtkN0pHMWpZOEEtb1pvdTN1cnlLOUxSVGJMaUloeXdLallQTThpSWtKZEZxaGtneGh5aXdkcFFGMVlrbjdMOXJyU0NSVXJzS1Z2NWo4VjU2SHlnNUdoMUp6akNCVFVpYmlseGJ1aWh1cTlpRnRwZXZuNmNjVF9YM1F6ZXdlSzFTcERfT19aQjZHTmptZGhLT0VISGtDcXoxM25RSGYza0s?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-ae8b1ac89e08",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai - thenationalnews.com",
-   "time": "Wed, 05 Aug 2026 16:11:48 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOG9yQjdwUFcwS0FQenNmRjF5VkZzSDJNTHhJdmdnYzdLUlUxdlFBb0FOelBITEhNcThzaGtuSlFiS1pES0x0dzU3U3QwWUc2ZWpPN2tfdnJpTzB1VHIxUkk0MTFCbTVMV3BOT1JQQXh1VEdoWGJkNjVnNjUxY1EzUTk1R1gxNWdCVHpwdGhhOHdfQ01hdmhSLUVjUWVjYXhwSFQ4czgzRDRTdDY0RU5UNlNSMWpydjBqdFZxU1NVYVl3c055eFVPejZIYjBTOG14dlFWSVI2aW83c1FY?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -481,6 +481,18 @@
    "engagement": null
   },
   {
+   "id": "bn-3fe201ccab45",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
+   "time": "Wed, 05 Aug 2026 11:10:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7cb6509ebd49d8973bcef13ebeb6d6&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-eb40d993a783",
    "channel": "press",
    "author": "The New Indian Express",
@@ -512,18 +524,6 @@
    "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - etvbharat.com",
    "time": "Wed, 05 Aug 2026 09:26:51 GMT",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-0115bbc716eb",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7cb51ac36c4f88959aa1fdf911f95e&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
