@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-12T12:47:17Z",
-  "total_verified": 280,
+  "generated_at": "2026-08-12T12:52:27Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 18,
    "neutral": 231,
-   "negative": 31
+   "negative": 30
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 4
   },
-  "negative_alerts": 31,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
@@ -47,15 +47,15 @@
    "count": 29
   },
   {
+   "topic": "flights",
+   "count": 25
+  },
+  {
    "topic": "tourists",
    "count": 25
   },
   {
-   "topic": "flights",
-   "count": 24
-  },
-  {
-   "topic": "advisory",
+   "topic": "business",
    "count": 22
   }
  ],
@@ -325,18 +325,6 @@
    "engagement": null
   },
   {
-   "id": "gn-fa869907d87c",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar | Akashvani News - News On AIR",
-   "time": "Wed, 12 Aug 2026 10:54:04 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5wNFU1YTZXYWdHZURBb3h4cHo5dV9BWGFxSkFxcUc1NGl1ZWF1YzFNbThDTUEtNUFhZHpjQnhDWXdjQldCMkNnZS1ja1haZkN5T1h2b0ktRHBvR1h4ZlZrb0VMejAzejNEeWNtOWl5T2VLMU0wUmRFMXJBU2ctTm9nV3ZVTjV0Q3paM3VRWXo5UW56YnR6YXhB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-d0b52a92212b",
    "channel": "press",
    "author": "Outlook Traveller",
@@ -368,6 +356,18 @@
    "text": "Abu Dhabi offers free UAE entry visas to eligible Indian tourists: Details - Business Standard",
    "time": "Wed, 12 Aug 2026 06:00:50 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdE5nU0tvVUNET2YtYTdfMFRsSy1RdWhqM0RqcXhvb2xtSjN0cGNQQW94WGM4aGhxYXlTNjh1VngzV1h4M0NKc2JIa19ORFVlQ1JIS1BSX1Z1cWkxUVF3U2FnOXN5dGFIUzJ4eC1KSzAtVDE0SmxfTkVrMkJ4TWVrQXhfNFVIazhYUEowS2F0M1hBU285eURfSHhhU3lnUHZZZ0dKdnNoZXdBTlM0UEtzSExvNkRKZk5OQXNXVGRqRG9TU1M2QXlucVl1cDVEWVVBMm0yUTN30gHbAUFVX3lxTE1qOWFhM3ZkQmtPbFdfc2RIc25JRU5xM0JYRVQtaFZxcnl2WE9CVGVMUjZOclVJLUs0ZGo2SzZ5Q00xNC1kNlNOUXFLNVFNOE9qdFhmNllBbzJfLWRabktkUVVOQko0TDZwWmZBc3dUcWkzWmxhOHNSS1BoYThZWWp6TTRqOElLcThaUy1vaXh6bnRZS1dyUkw3azBWSUFUdGNBakdPR3BYbkhzUFQ3a3ZZanlXZEFPRER3bVZNc3ljTS1MRmdNRFRMV2dnLUxveklrOGUxalN5Sm5pYw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5eb7b6248965",
+   "channel": "press",
+   "author": "Mshale",
+   "role": "press",
+   "text": "India To UAE Flight Big News 😱 Air India 42 Flights Confirm | Jeddah Muscat Update Today | Air India Susie Wiles (xAzWWJZJko) - Mshale",
+   "time": "Wed, 12 Aug 2026 02:21:11 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wRC1xWFpDVHloRVo2SEJ5d2lIblRxZmtUQVRkUkVZWVA4Ylg2dUthOU02OTI0R2ROM1ozb3Uwd05IZ3hURnpqWjh0akpSb0RKVnZNZmpkRElKWnM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -469,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e397904b47d8",
+   "id": "bn-dcb42a04231e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c6b55dd7d449096e14d5c93acceab&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7c6c8a0d3340088f47d5ae6c89da86&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -543,18 +543,6 @@
  ],
  "alerts": [
   {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "News India Times",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-69224102cef4",
    "channel": "press",
    "author": "The Indian EYE",
@@ -586,6 +574,30 @@
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
    "time": "Fri, 29 May 2026 23:42:27 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-8e6c5cd0debd",
+   "channel": "press",
+   "author": "ANI News",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-61ee2a7d0e70",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
+   "time": "Mon, 06 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -646,18 +658,6 @@
    "text": "Indian passport services in UAE: Alhind explains delay in launch of consular centres - Gulf News",
    "time": "Fri, 03 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnczRUR6dzBJR3RpRkhtT1Z1UkVicENwLWtTUEpMY0lELUhoZkg3bmR0ZUtyUE1KYlpNWjJiVTZDYm1Vamt6ZjdMS2FXOW85aXBaWkJuNW13aXhxclo4aTRuNTFtRTVmcExCei1RWVZzUzhiTTZjV1FTcW82YWJmcjZLYk9YLWRRSElRSi1ZRWNuZjdmRXZROWlCbTlNMkpYTmYwVERhWnd6dTBLTVFEMlVBajAwNVgzUjN3SNIBzAFBVV95cUxQQkE4b3JqR1RyUHI2eC0tdGZIZWRHSl8zQUZzTHNnWEs1YjFMeUJIUHE5WmUzYjA0dmo2YlVsQXA2YzdrcFcwSzF6SGVOYmdtUUVFZWlyeEJmczAxTGV4YzI3NC1NdXBSOVFMOC1hNFlxcl80UlRRbDQ3UmpCZklZaHd0NTdfY0QtZWpmRHpwNFlscmZOVDMtU2hFMmExZ0dfZE93am1vR05HLThNV1EyQ0JmNzFZMEhJQ0FadGZBRGFPN3N5S2VHMVRjVjg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-61ee2a7d0e70",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
-   "time": "Mon, 06 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
