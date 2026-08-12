@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-12T17:41:25Z",
-  "total_verified": 277,
+  "generated_at": "2026-08-12T17:46:35Z",
+  "total_verified": 275,
   "channels_live": [
    "official",
    "press"
@@ -12,27 +12,27 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 277,
+  "verified_mentions": 275,
   "sentiment": {
    "positive": 16,
-   "neutral": 230,
-   "negative": 31
+   "neutral": 229,
+   "negative": 30
   },
   "channels": {
-   "press": 273,
+   "press": 271,
    "official": 4
   },
-  "negative_alerts": 31,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 81
+   "count": 82
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 59
   },
   {
    "topic": "gulf news",
@@ -48,15 +48,15 @@
   },
   {
    "topic": "tourists",
-   "count": 28
+   "count": 26
+  },
+  {
+   "topic": "passport visa",
+   "count": 23
   },
   {
    "topic": "flights",
    "count": 23
-  },
-  {
-   "topic": "business",
-   "count": 22
   }
  ],
  "mentions": [
@@ -152,6 +152,18 @@
    "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-40807004104d",
+   "channel": "press",
+   "author": "curlytales.com",
+   "role": "press",
+   "text": "Indian Passport, Visa & Attestation Services In UAE Shift To Al Hind From July 22 - curlytales.com",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE56NmxBOUZMRFJ0NzFmc3JsckRxVzgxdUJqcmNwV0F5dnJHeGR1WVd1dXNFeEt1Mjh4S1lpdV9Qa0tpY2dLZnNTVzRSSjRtb2VtdWFEeEIwbGJERjlrRE1YcjZjMEpMZ2FyVC1oN1ZXS24zdTBtNDYwTDluckY5TjItd203YWEzUEllNTF1SGN2VndSMlRfT3FOZ3I1VjZyY1hsbkFSTmN6aDZBY3M3X0RteWJ3TG9JeHfSAb8BQVVfeXFMT2dZY1pqSlVHZlJZR3JpY3JUOUVUMFM5cThmcDhEZDZybDgzajF2Q1Q2c1BwdHRCTk1la0VuZWNQMUFyQ1NEZG1yMndaQzlfQ2YtVEdHZDBkRHdSb0dZR3FCSmlLSDhPdDIwLUVEdmc4REg1Z3BMUjcwYnc1c2RJZEZiZW56dWNfc2lWN0lOd1JpYk5TaGx1aWZvbzB3NmlSNGVUU1pVWldWNXo5Q3VZVmdjOVBjSm82a3VyOGFMVFU?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -301,18 +313,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1084ce3767f3",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "Abu Dhabi's free visa package set to attract more Indian tourists to UAE - thenationalnews.com",
-   "time": "Wed, 12 Aug 2026 15:53:59 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2FtX1FnNnhCc0kteGZVZzktZHBrVGZpTUQ1QVJUdnFhVl8wWVE2WjF6cEVMV1JlcHNRX1J4V3ZjdHFBSHFuei1oZ1ZSTE1ra1pBa1N6Vnc3ZVprU0Y1dnpWSU5RQml4b1FscmExZ2F4eDVoWWNFRWo4a0ZwUmd3RzRkTHk4M3BURGhRY1RScWQ1eTByanZtTXZGTXFWamhPLVR1TVAxS0Z3cWV0SFBhay1XWmpEazAyYVl6UHBnSGsxUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-e482a88bc9bc",
    "channel": "press",
    "author": "Firstpost",
@@ -385,18 +385,6 @@
    "engagement": null
   },
   {
-   "id": "gn-5eb7b6248965",
-   "channel": "press",
-   "author": "Mshale",
-   "role": "press",
-   "text": "India To UAE Flight Big News 😱 Air India 42 Flights Confirm | Jeddah Muscat Update Today | Air India Susie Wiles (xAzWWJZJko) - Mshale",
-   "time": "Wed, 12 Aug 2026 02:21:11 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wRC1xWFpDVHloRVo2SEJ5d2lIblRxZmtUQVRkUkVZWVA4Ylg2dUthOU02OTI0R2ROM1ozb3Uwd05IZ3hURnpqWjh0akpSb0RKVnZNZmpkRElKWnM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -411,9 +399,9 @@
   {
    "id": "gn-01c86496996b",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "indianexpress.com",
    "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
+   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - indianexpress.com",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
@@ -459,9 +447,9 @@
   {
    "id": "gn-3dd661923a97",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "indianexpress.com",
    "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - indianexpress.com",
    "time": "Wed, 05 Aug 2026 15:23:46 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2ONIB0gFBVV95cUxPTmpQdFVmQWg4Z09TaFJOUy1LcHNHcDdpeE1IbXdIQmxUMEx4VGN4ZE15SS1Fc3dXRGJzcHlWMlRMNHJMWndZdjEyQ3MxTzlzUU5DNndWQTBpMkRUYnlydkhPbXBRTXpPQ0RUMFV4TWFWSW1zUWNpeE9YN2Zvd3N4WXJKR3RWOG0tbjNDWmpZaC11ZjlXOGdvZEI1SHBJUFMtWE53WXFDUXktMV9nVjhUWHRUNTZaYmJnSllPNzVWaHNQMjJSc29SbjVKZVpWMmlZRnc?oc=5",
    "sentiment": "neutral",
@@ -493,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b04b217e3274",
+   "id": "bn-148326bd92a1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7cb0440a9f495ea959f9d30a36a181&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7cb17a8c63481891de2c98ab2ba733&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +524,18 @@
    "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
    "time": "Wed, 05 Aug 2026 09:26:51 GMT",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-b036f2836ef7",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 06:17:40 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
