@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-13T16:24:13Z",
-  "total_verified": 278,
+  "generated_at": "2026-08-13T16:29:22Z",
+  "total_verified": 277,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 277,
   "sentiment": {
    "positive": 13,
    "neutral": 236,
-   "negative": 29
+   "negative": 28
   },
   "channels": {
-   "press": 274,
+   "press": 273,
    "official": 4
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
@@ -32,15 +32,15 @@
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 56
   },
   {
    "topic": "flights",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -51,23 +51,23 @@
    "count": 31
   },
   {
-   "topic": "business",
-   "count": 23
-  },
-  {
    "topic": "passport visa",
    "count": 22
+  },
+  {
+   "topic": "business",
+   "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-fae7303c36a0",
+   "id": "bn-5404714b64fc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7defa9cbe341e08cebc55ae3d1db01&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7df0df3a4a4fcfa686ac6703723631&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -169,6 +169,18 @@
    "engagement": null
   },
   {
+   "id": "bn-115d3daac698",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Keeta partners with Sony Pictures for Spider-Man campaign in UAE",
+   "time": "Wed, 22 Jul 2026 02:06:56 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7df0df3a4a4fcfa686ac6703723631&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-5af8b23d2ed2",
    "channel": "press",
    "author": "TravelPirates",
@@ -229,18 +241,6 @@
    "engagement": null
   },
   {
-   "id": "gn-27b7834bc983",
-   "channel": "press",
-   "author": "inkl",
-   "role": "press",
-   "text": "Strait of Hormuz attack: Indian Consulate officials… - inkl",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnkyY194YWVGbXVhVXBrbEt2dEdyWWpRSTd4Y3RXNXptMlF4elY4X0pZVGY0aWZkZ3pqNmdaY3drcWgxLWpPX3R1TUp6OVJ3WkZtTDkyXzJiUC1KeWx4MTBYWWpITFc1VEpodE5zTHF6WDVHVEpJZHJUdWlTZFpBS2lzNEcwenN5TVVWbzlxSWttNDZLajRNVTE0a2FfOG1JcG5mTXNaWE4tb1N1aWpLYnZtR01JWFVHc0pwU1VRZHc0SGE3MWxRejZEb3ZVRGZFNkhn?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-70e73e64492a",
    "channel": "press",
    "author": "Rediff",
@@ -289,14 +289,14 @@
    "engagement": null
   },
   {
-   "id": "gn-6baee5589add",
+   "id": "gn-10ae25d26733",
    "channel": "press",
-   "author": "Gulf Business",
+   "author": "mshale.com",
    "role": "press",
-   "text": "Advisory issued: US Embassy lifts shelter alert in the UAE - Gulf Business",
-   "time": "Wed, 15 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
-   "sentiment": "negative",
+   "text": "India–UAE Flights Hit: Air India, Air India Express Cancel Multiple Dubai Services Palmeiras (S5Ocw4s4Sv) - mshale.com",
+   "time": "Wed, 12 Aug 2026 18:46:14 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ib19LcTI0aGxpWUZxU1JyNUlraHVlbjlBdXY3YWxsX3lueHo1dTYtNG5GSnNyUU5pcXM1TmItRzRzUW9veERFR1VvMFZSeHppSUc2bzFMSWJfdHRZVzh3VA?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -493,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-6976156dbce1",
+   "id": "bn-9f81382b6653",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7defa9cbe341e08cebc55ae3d1db01&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7df0df3a4a4fcfa686ac6703723631&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
