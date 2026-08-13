@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-13T17:20:56Z",
-  "total_verified": 279,
+  "generated_at": "2026-08-13T17:26:06Z",
+  "total_verified": 277,
   "channels_live": [
    "official",
    "press"
@@ -12,62 +12,62 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 277,
   "sentiment": {
-   "positive": 12,
-   "neutral": 238,
-   "negative": 29
+   "positive": 13,
+   "neutral": 236,
+   "negative": 28
   },
   "channels": {
-   "press": 275,
+   "press": 273,
    "official": 4
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 81
-  },
-  {
-   "topic": "services",
-   "count": 59
+   "count": 72
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 53
   },
   {
-   "topic": "khaleej times",
-   "count": 34
-  },
-  {
-   "topic": "khaleej",
-   "count": 34
+   "topic": "services",
+   "count": 51
   },
   {
    "topic": "flights",
    "count": 33
   },
   {
-   "topic": "passport visa",
-   "count": 23
+   "topic": "khaleej times",
+   "count": 30
+  },
+  {
+   "topic": "khaleej",
+   "count": 30
   },
   {
    "topic": "business",
    "count": 22
+  },
+  {
+   "topic": "tourists",
+   "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-0bd5bde54a4e",
+   "id": "bn-b5b483fddc27",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7dfcf891614c18a53735000651b2b3&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7dfe2d4a364f06a878f7c565acde41&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -289,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-6baee5589add",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Advisory issued: US Embassy lifts shelter alert in the UAE - Gulf Business",
-   "time": "Wed, 15 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-672c65f1aa83",
    "channel": "press",
    "author": "News On AIR",
@@ -493,6 +481,18 @@
    "engagement": null
   },
   {
+   "id": "bn-cd0e6e813b33",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
+   "time": "Wed, 05 Aug 2026 11:10:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7dfe2d4a364f06a878f7c565acde41&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-eb40d993a783",
    "channel": "press",
    "author": "The New Indian Express",
@@ -517,18 +517,6 @@
    "engagement": null
   },
   {
-   "id": "bn-1a3c13739b7d",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7dfcf891614c18a53735000651b2b3&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-3dd661923a97",
    "channel": "press",
    "author": "The Indian Express",
@@ -536,6 +524,18 @@
    "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2ONIB0gFBVV95cUxPTmpQdFVmQWg4Z09TaFJOUy1LcHNHcDdpeE1IbXdIQmxUMEx4VGN4ZE15SS1Fc3dXRGJzcHlWMlRMNHJMWndZdjEyQ3MxTzlzUU5DNndWQTBpMkRUYnlydkhPbXBRTXpPQ0RUMFV4TWFWSW1zUWNpeE9YN2Zvd3N4WXJKR3RWOG0tbjNDWmpZaC11ZjlXOGdvZEI1SHBJUFMtWE53WXFDUXktMV9nVjhUWHRUNTZaYmJnSllPNzVWaHNQMjJSc29SbjVKZVpWMmlZRnc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d221204dbc25",
+   "channel": "press",
+   "author": "ETV Bharat",
+   "role": "press",
+   "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -579,6 +579,18 @@
    "engagement": null
   },
   {
+   "id": "gn-8e6c5cd0debd",
+   "channel": "press",
+   "author": "ANI News",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-bae100078217",
    "channel": "press",
    "author": "Awaz The Voice",
@@ -598,6 +610,18 @@
    "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
    "time": "Mon, 06 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-6848f581efb6",
+   "channel": "press",
+   "author": "The Tribune",
+   "role": "press",
+   "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - The Tribune",
+   "time": "Thu, 26 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG5qcUVoOVhHdHlBTGFfQW16bWhkOVlkMlpfOUtOVHVhYXl4UWhFUVlmZUVRVlhZcGliVDFlYmotbHJkTWttZHFwWjVnVmdDalVkRE1sb2pFZUItcnVobnl2NlU3QWxsRDMxcmxPMkRmNmp6Q1BiUFYxSDFsQUpOa3pMd09LTzZNNVdCMlBoTzVDNFlFckprVHNseHd4RTZEbVVQUU9iWmpfMVNJYUIyOW1ZaGFlaXllakxkZmlVM2g0UGJwaS1maHI4b9IBzwFBVV95cUxQOVZuVmxIZzJKQi0tN1RWdzZHb2J2OS1pbzJnUW1WcUpUcEg2eS1qZk5yMlN1RXpwUDJWdU9samxadjF4ZEp6Y3I3eUlKaHJKbzJ5V3UtSWdLVnl3dnNDMjM0WDJKSVk2VkkwR3M3ZzE3VFk0M0hQN3p3V0s2X1ZiaUNfNUJSdHlMcmpBRjhPTVp3VW1WZE1CLXhqWGt2dDlIVnFhUDBCV1JRQU1HMUpEN0pKaFVodHRPXzdMVVRDYWVYSmZMRlhIeExYQTY1LUE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -627,37 +651,13 @@
    "engagement": null
   },
   {
-   "id": "gn-effb508f70e1",
+   "id": "gn-d3bf5497c828",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "The Indian Express",
    "role": "press",
-   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - Gulf News",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTZuTDZ4dWdheEEyeG1yYk9hMGxZNmdvUFIzSndCRzNNRUtwZTh0MzZ6Yy1adjdjUVg0LWYzUk01dEhNZUNwNnl2WnlQdmt5UVFsX200blFZc3k2eXdta1pFN1dRdnhoakJpYzRtc3hUOTY5QU8zRjZBT3dLai1zX2ozWkdrUkZjZHJsUTV4MUZ6X005dEdscFdKV0k4OE9TLWw4Z3cwSV9qT3hZYl95ZHVrUWxXbWRlczFMR09zbjhrMWPSAdMBQVVfeXFMTWxLVXV2Yld4bGxGbUJjWmFSVkF1VTMxeE14SFFXQmxySDBBajk1Zy1tMThET1JnaGpHbHBrWkc0SVlramNKQXc1UlozNmU5YjVoRXlfR3A0S3F5X254Tk85anVJeDR5WmFXOWprTnJWYzRKSWJ3VDk3bmZfdmd6a2xSSjJpVUtObFJtM2VRNjRzUTcyT1Rla0dvenZVdC1BN3FvQjlkaGQyaFVFeC1KR0ZRMFJCcXowem9VSlgtd1B3VC1RR19RMjBENG5KTDAtYkJpNA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c38316fb24ff",
-   "channel": "press",
-   "author": "curlytales.com",
-   "role": "press",
-   "text": "Indian Passport Services In UAE: New Walk-In Rules Announced As Alhind Takeover Delayed - curlytales.com",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmlHQ1A3T09CdkZ2WFlzSkJwdW44dmdiNWdaQmhoRmYzaGgyU3dieXQ4M0tmRDI5THQwcVNxUkFraUlzMUtjSDJDZm8wUEFDbjRUdjNxeEJLRU9kQXQ1end0aXVrX0t0bHVrYzJmZWdXdXZhWmFwa01qSWcwMjkzZGowS1RjWGtCRTBIekxuR0I5SmU3aEdCREc5eGRYZWZsaUFDYVJwM0ZUVVZPTHVxako4RnQwYXAzUWZvb2ZNVmlZbHZfWmZsQdIBzgFBVV95cUxObGpzZkozUWxPME9IY2IyYkVQaUcyLWRvbkxzZTBIRGhkVGU2TEMwLUNEc3FBRDducTlUZjU3YldlZTdBYWdodXdVZVFJZ19vQXRWVGZURFVySi1jTndNRS0tcnNEQ3JFdlhJZ3d3eHhhWWlxRXl1d3c5dU9TVGgtaDh2RFlVaVRrRE9XcGZYbERNWE12UTNsWUJ2bThUUU1CX2VpODNNN3E2Yk5RUzh1ZVdvLUNNS2hxUTNXbl9wQzdmUGVaN1M3S2FnZTdlZw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-6848f581efb6",
-   "channel": "press",
-   "author": "The Tribune",
-   "role": "press",
-   "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - The Tribune",
-   "time": "Thu, 26 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG5qcUVoOVhHdHlBTGFfQW16bWhkOVlkMlpfOUtOVHVhYXl4UWhFUVlmZUVRVlhZcGliVDFlYmotbHJkTWttZHFwWjVnVmdDalVkRE1sb2pFZUItcnVobnl2NlU3QWxsRDMxcmxPMkRmNmp6Q1BiUFYxSDFsQUpOa3pMd09LTzZNNVdCMlBoTzVDNFlFckprVHNseHd4RTZEbVVQUU9iWmpfMVNJYUIyOW1ZaGFlaXllakxkZmlVM2g0UGJwaS1maHI4b9IBzwFBVV95cUxQOVZuVmxIZzJKQi0tN1RWdzZHb2J2OS1pbzJnUW1WcUpUcEg2eS1qZk5yMlN1RXpwUDJWdU9samxadjF4ZEp6Y3I3eUlKaHJKbzJ5V3UtSWdLVnl3dnNDMjM0WDJKSVk2VkkwR3M3ZzE3VFk0M0hQN3p3V0s2X1ZiaUNfNUJSdHlMcmpBRjhPTVp3VW1WZE1CLXhqWGt2dDlIVnFhUDBCV1JRQU1HMUpEN0pKaFVodHRPXzdMVVRDYWVYSmZMRlhIeExYQTY1LUE?oc=5",
+   "text": "Iran conflict: What can NRIs do if stuck in Middle East countries? Special flights, advisories, helplines and more - The Indian Express",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnppYVRtZnBGT0NDOGNVazl5bzFTcVlPSk1OZmYyWGVMRXdOWFZQaU9RLVhoNGFBNVlaOGgyWFpVNTNaa2Z1bE9JOFBTU2NKQUc3MFBORTByOFNTYzJUUkNwYTMyNUVoZmxSVUdnaDNydFRNY2luTC0tcHoxdzREOFNYX25EbmFiOTFlejdtYkVkX1lOa0tuczdOYWg3ZzViQzVzN1d3UlA2ZUJFdXRybHlyVmpwR1lqZHJ4UC11RFM2bU3SAcoBQVVfeXFMUE5mMzBSVW5QYk5mNUZTcFQwUk5nRlM2SWZIdGNGTkVucEszRUFDUkY4RFJuZlZGQlpzSVVKTGRMelR4STJEaFZmMjhManRCSlZkUW1CVld6NDJ4SDY2V3NvSDRDc3d2dmpYZng1a2piMXVYeHpfNWNQcUIya1JURkxVYVhXa1BxbDJjNTUtM2pRZUVYMFBZSzlxbTdWUTNEaE9UOXlGSlRDMWRVZHQ4NmV1Mkk3d3BRX29MSmVWOXNxWGNHRU9ENVdXUQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
