@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-13T20:53:27Z",
-  "total_verified": 277,
+  "generated_at": "2026-08-13T20:58:42Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 277,
+  "verified_mentions": 276,
   "sentiment": {
    "positive": 14,
-   "neutral": 235,
-   "negative": 28
+   "neutral": 233,
+   "negative": 29
   },
   "channels": {
-   "press": 273,
+   "press": 272,
    "official": 4
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
@@ -56,18 +56,18 @@
   },
   {
    "topic": "business",
-   "count": 22
+   "count": 23
   }
  ],
  "mentions": [
   {
-   "id": "bn-6bba1f28ef51",
+   "id": "bn-617b3c9adbf2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e2ec67d9643cb9edc7be1f50f98ef&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e3001bf9c4cd485d60ab3c436d489&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -75,9 +75,9 @@
   {
    "id": "gn-5c3c863c36f4",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "Newsonair",
    "role": "press",
-   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - News On AIR",
+   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - Newsonair",
    "time": "Wed, 27 May 2026 10:42:25 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFUV2tMZHdtTGlyUVUxaVROSlFNVUhtaWFkSlBBZy1naGFpNHpqZmFjYWN4anp6M0FXOENVUlFHb0RlcmUxOUZ2dVFJaUNoMXRnaDFiYnVTMlJBVUF3SG5xWTRqc3FzVHNZYU9ETm83RXM3YW51SFJ1c3Q1ejhnSUt5VVF4aE1ZMlNBekN4ci1hWDRvVko4bDJQWDhuOFNPV294eFNFbkpUZE5SNkRkWTg1NA?oc=5",
    "sentiment": "neutral",
@@ -301,6 +301,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6baee5589add",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Advisory issued: US Embassy lifts shelter alert in the UAE - Gulf Business",
+   "time": "Wed, 15 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFhSc2Z2Zm84dHlnWGtTRkwtbHU4LXNhZkpBMlVLcFhRSmR3QUdPV21zVUZ4Tzhic3lzOTNqdmREVE5lbDJsYnZfUnkwR1BnTDdmMFZGUDltcUxtQldjNV85LVF4RnRPOHd4NW9LT3JmSjNJNUdud28tWXRjRkFULW91Y3FWR2FBLTYxNkRuNDE1VmUxR2lLbQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-10ae25d26733",
    "channel": "press",
    "author": "Mshale",
@@ -315,9 +327,9 @@
   {
    "id": "gn-672c65f1aa83",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "Newsonair",
    "role": "press",
-   "text": "Air India, Air India Express to Operate 24 Flights to and from West Asia Today - News On AIR",
+   "text": "Air India, Air India Express to Operate 24 Flights to and from West Asia Today - Newsonair",
    "time": "Wed, 12 Aug 2026 18:16:59 GMT",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGxneGVhYWNpckxaT1liV1VIYTZUX1dKS0xwc3JCTzRqSnBUYWFLNHdhVTdWbGxQejRlalRkMVpCT21wVmlCRWdrWjVPck9wb3BoQ09ad2RoTVU1Y3hKdENRalc1WkVseC01WmoxSTYza0RnT3RnTVJER3RDRktoSXNxaE1hdHVVR3N1Z0YxMDR0RWZ4eGxBNkRKdU85YWlYZGQyWFhB?oc=5",
    "sentiment": "neutral",
@@ -527,27 +539,15 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "bn-05c4544df811",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e2ec67d9643cb9edc7be1f50f98ef&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
   {
    "id": "gn-08e49102df87",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "Newsonair",
    "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - Newsonair",
    "time": "Thu, 13 Aug 2026 08:00:51 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
