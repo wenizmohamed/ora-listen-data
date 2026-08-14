@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-08-14T13:27:03Z",
+  "generated_at": "2026-08-14T13:32:13Z",
   "total_verified": 276,
   "channels_live": [
    "official",
@@ -15,24 +15,24 @@
   "verified_mentions": 276,
   "sentiment": {
    "positive": 14,
-   "neutral": 233,
-   "negative": 29
+   "neutral": 234,
+   "negative": 28
   },
   "channels": {
    "press": 272,
    "official": 4
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 80
+   "count": 81
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "gulf news",
@@ -55,19 +55,31 @@
    "count": 23
   },
   {
-   "topic": "tourists",
+   "topic": "passport services",
    "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-646aef56a6f6",
+   "id": "bn-5a1a60098e59",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f17a7a43f446e956c2b18e6527130&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f18ddd22848f5ad0b1f8ca3c1ed0b&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5c3c863c36f4",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - News On AIR",
+   "time": "Wed, 27 May 2026 10:42:25 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFUV2tMZHdtTGlyUVUxaVROSlFNVUhtaWFkSlBBZy1naGFpNHpqZmFjYWN4anp6M0FXOENVUlFHb0RlcmUxOUZ2dVFJaUNoMXRnaDFiYnVTMlJBVUF3SG5xWTRqc3FzVHNZYU9ETm83RXM3YW51SFJ1c3Q1ejhnSUt5VVF4aE1ZMlNBekN4ci1hWDRvVko4bDJQWDhuOFNPV294eFNFbkpUZE5SNkRkWTg1NA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -217,18 +229,6 @@
    "engagement": null
   },
   {
-   "id": "gn-70e73e64492a",
-   "channel": "press",
-   "author": "Rediff",
-   "role": "press",
-   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - Rediff",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHdhdUw1NHpCVkdFbkMxMU1LNVB0bjlNT0FOZDF4cnZTbnlUWVZ1T2dyRmlsTkY5OGg5SjhlMTlMdmVkM0tybUZhYmZDMFUtalFFNkhWM1h4VnF1NVBUOEoxSVlfbHBnb1AzcDZWWDR5bDFCcV9LWmJGRkExc2dGRDQ0Z0JxdzZ0YUdMQnhCdHJBOU41cjBkbHdrc3c5T2hOdWJkaFpTUUh0eVXSAa4BQVVfeXFMT2loRmo3cTN6eWJkNmZOQ0xwemlOTjBOajBTZ0hBSXZWZl8tc2lvMlpQYVFjbzM4c3lkTmlzQUxWbEVveGQxcURSU2lpQzZTTUx3MVJaSXY1MWZZLUZ2SFhIeDRaUGRXZEp1bEhRQlVhQkpLU20xT05tM0lfeHBNUkRveE1XT2dnaW5ja21FbE91cXA2YjVXUk0xMUJVaGVaUmxycERSUl92WklIbVR3?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-27b7834bc983",
    "channel": "press",
    "author": "inkl",
@@ -236,6 +236,18 @@
    "text": "Strait of Hormuz attack: Indian Consulate officials… - inkl",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnkyY194YWVGbXVhVXBrbEt2dEdyWWpRSTd4Y3RXNXptMlF4elY4X0pZVGY0aWZkZ3pqNmdaY3drcWgxLWpPX3R1TUp6OVJ3WkZtTDkyXzJiUC1KeWx4MTBYWWpITFc1VEpodE5zTHF6WDVHVEpJZHJUdWlTZFpBS2lzNEcwenN5TVVWbzlxSWttNDZLajRNVTE0a2FfOG1JcG5mTXNaWE4tb1N1aWpLYnZtR01JWFVHc0pwU1VRZHc0SGE3MWxRejZEb3ZVRGZFNkhn?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-70e73e64492a",
+   "channel": "press",
+   "author": "Rediff",
+   "role": "press",
+   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - Rediff",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHdhdUw1NHpCVkdFbkMxMU1LNVB0bjlNT0FOZDF4cnZTbnlUWVZ1T2dyRmlsTkY5OGg5SjhlMTlMdmVkM0tybUZhYmZDMFUtalFFNkhWM1h4VnF1NVBUOEoxSVlfbHBnb1AzcDZWWDR5bDFCcV9LWmJGRkExc2dGRDQ0Z0JxdzZ0YUdMQnhCdHJBOU41cjBkbHdrc3c5T2hOdWJkaFpTUUh0eVXSAa4BQVVfeXFMT2loRmo3cTN6eWJkNmZOQ0xwemlOTjBOajBTZ0hBSXZWZl8tc2lvMlpQYVFjbzM4c3lkTmlzQUxWbEVveGQxcURSU2lpQzZTTUx3MVJaSXY1MWZZLUZ2SFhIeDRaUGRXZEp1bEhRQlVhQkpLU20xT05tM0lfeHBNUkRveE1XT2dnaW5ja21FbE91cXA2YjVXUk0xMUJVaGVaUmxycERSUl92WklIbVR3?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -469,25 +481,25 @@
    "engagement": null
   },
   {
-   "id": "bn-49a3ed761209",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f17a7a43f446e956c2b18e6527130&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
    "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "time": "Wed, 05 Aug 2026 13:03:56 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-bfb4fc16357a",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
+   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f18ddd22848f5ad0b1f8ca3c1ed0b&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d221204dbc25",
-   "channel": "press",
-   "author": "ETV Bharat",
-   "role": "press",
-   "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
