@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-14T17:04:02Z",
-  "total_verified": 275,
+  "generated_at": "2026-08-14T17:09:11Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 276,
   "sentiment": {
    "positive": 13,
    "neutral": 235,
-   "negative": 27
+   "negative": 28
   },
   "channels": {
-   "press": 271,
+   "press": 272,
    "official": 4
   },
-  "negative_alerts": 27,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
@@ -36,19 +36,19 @@
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 52
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "flights",
-   "count": 28
+   "count": 29
   },
   {
    "topic": "passport visa",
@@ -61,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-0991d9b8fdb3",
+   "id": "bn-a0ebdaaed81a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f4a8119fe404eaf3f0286dcff970b&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f4bb62534463294466f2f9cfb85f9&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -75,9 +75,9 @@
   {
    "id": "gn-5c3c863c36f4",
    "channel": "press",
-   "author": "Newsonair",
+   "author": "News On AIR",
    "role": "press",
-   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - Newsonair",
+   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - News On AIR",
    "time": "Wed, 27 May 2026 10:42:25 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFUV2tMZHdtTGlyUVUxaVROSlFNVUhtaWFkSlBBZy1naGFpNHpqZmFjYWN4anp6M0FXOENVUlFHb0RlcmUxOUZ2dVFJaUNoMXRnaDFiYnVTMlJBVUF3SG5xWTRqc3FzVHNZYU9ETm83RXM3YW51SFJ1c3Q1ejhnSUt5VVF4aE1ZMlNBekN4ci1hWDRvVko4bDJQWDhuOFNPV294eFNFbkpUZE5SNkRkWTg1NA?oc=5",
    "sentiment": "neutral",
@@ -543,6 +543,18 @@
  ],
  "alerts": [
   {
+   "id": "gn-69224102cef4",
+   "channel": "press",
+   "author": "The Indian EYE",
+   "role": "press",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - The Indian EYE",
+   "time": "Tue, 14 Jul 2026 10:58:18 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWYyU3d2RjFIbmpsZzFveVNNVEg5aS1vUDBwMHJPVWRka1o0QlBPNndKR3JUeHYzU0trdWE3Z2xCQ0pZeV9SckdPbDN1X3lxS1F4ZEdkNGRTYUlnTC14LTdFWXFmck5TWklaYzJZbzdZTE9pWjdjLUo0UkJndkVxelNNYjg0Z3Z3UXhjUFRBbnZoT090OHhqV2xKbUdfQWN0dDkwcF9yM1NLTVRlX1pRdTFUWUtaUzVBeUdGWTdkS3MtVVRIQ0RsLWZodGFaMjQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-875abf8eead0",
    "channel": "press",
    "author": "Khaleej Times",
@@ -557,9 +569,9 @@
   {
    "id": "gn-08e49102df87",
    "channel": "press",
-   "author": "Newsonair",
+   "author": "News On AIR",
    "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - Newsonair",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
    "time": "Fri, 29 May 2026 23:42:27 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
@@ -646,18 +658,6 @@
    "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - The Tribune",
    "time": "Thu, 26 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG5qcUVoOVhHdHlBTGFfQW16bWhkOVlkMlpfOUtOVHVhYXl4UWhFUVlmZUVRVlhZcGliVDFlYmotbHJkTWttZHFwWjVnVmdDalVkRE1sb2pFZUItcnVobnl2NlU3QWxsRDMxcmxPMkRmNmp6Q1BiUFYxSDFsQUpOa3pMd09LTzZNNVdCMlBoTzVDNFlFckprVHNseHd4RTZEbVVQUU9iWmpfMVNJYUIyOW1ZaGFlaXllakxkZmlVM2g0UGJwaS1maHI4b9IBzwFBVV95cUxQOVZuVmxIZzJKQi0tN1RWdzZHb2J2OS1pbzJnUW1WcUpUcEg2eS1qZk5yMlN1RXpwUDJWdU9samxadjF4ZEp6Y3I3eUlKaHJKbzJ5V3UtSWdLVnl3dnNDMjM0WDJKSVk2VkkwR3M3ZzE3VFk0M0hQN3p3V0s2X1ZiaUNfNUJSdHlMcmpBRjhPTVp3VW1WZE1CLXhqWGt2dDlIVnFhUDBCV1JRQU1HMUpEN0pKaFVodHRPXzdMVVRDYWVYSmZMRlhIeExYQTY1LUE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-67ad8b8133e3",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - ANI News",
-   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNV3Q2YnZFeWdzMEluZVhGNEpWbDZUdV9mb3psVURzOVVLbFlnemhhdW9KV093dk94bGNEbFkybzBha0doY3Z3TGJoLVlRMFZ1RTNWT1R2cWdEZEtNUzU1Ym9pS0xlQUdFaWVWY19hRU9fTVBIYkgtM2xpMmNoYnhjeTY2dk12OGs5V2UxVk9VVmRodVhVVWFMNjFleHFYVEIyMFFRT0w1V2l1d1NHUVJScXNELTdfWHBIbzVrMi1BNkV5VXNsY2xScnQ5d3pvTzQ5cGF0dUxMX1BRQl85d1dTUjdJOGItcnZTMFRQTzFfbEwxWUdkNUN5Ri1xc3d5dW5kbmRaa1dlXy1OaXpPcDFLbw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
