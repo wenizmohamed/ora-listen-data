@@ -1,14 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-08-14T07:41:06Z",
+  "generated_at": "2026-08-14T07:46:17Z",
   "total_verified": 276,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -32,7 +30,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "services",
@@ -56,18 +54,18 @@
   },
   {
    "topic": "business",
-   "count": 21
+   "count": 22
   }
  ],
  "mentions": [
   {
-   "id": "bn-1f23f4b1e5eb",
+   "id": "bn-5331b528dcf0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ec6908a8d4a79aca28f2104e68df2&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ec7c700fe44099e7154e8adf48940&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -445,13 +443,25 @@
    "engagement": null
   },
   {
-   "id": "bn-538a6cff0127",
+   "id": "gn-fbc8f566a9de",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Dubai businessman Satish Sanpal denies Indian reports of UAE assets freeze - Gulf Business",
+   "time": "Wed, 05 Aug 2026 11:39:31 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUNIby10aGx1UDVXUHBTcFppTTBCemNlME1tWkxZOFROYXhEUTQzcUQ3OHducHo1SzFESFg5cExhSkt2VE1MQnZmdk82dWVaMHlZSUQtNDZPRW1BZ0NrZzZoa3d4Q25oT3oydFFVOGlnQVp6OXpjSGZ2M1R1c2FraUNlQmRxTDhEU0FMQjVjeXpNUW43dHdRMEJR?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-e44b483487c7",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ec6908a8d4a79aca28f2104e68df2&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7ec7c700fe44099e7154e8adf48940&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +534,6 @@
    "text": "Flights To UAE, Kuwait Affected, Bahrain Closes Airspace After Iran Launches Attack - NDTV Profit",
    "time": "Wed, 03 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUhBLVNrZnVQVTRVMmxZdTYwQzVVZ3dVbHkzamhFdHpmdEZiM1RTNWY5LVQ5dElfTGJkM0ZqNU9KdVl4a2YwOG1RM3JRak9hSUNtN1NHUEVtNEUyVWpudzNjQWpKb0lqZ05mbUJNb3JVeVRWM054dFI4Unh5YUd6a2diMXRHalhUR2ZmMW9JZEF4ZE5YX2FCNnpOM1d0MllqOXJ6MUFXNzFaTkJ1YWU3ck16dzlRMUtXMFBnQXo0QkEzYlh3SEhMMNIB0AFBVV95cUxQeHUyT3I3MTE0ejYzTi1DV3pJV2hZUHZKYkRWZWc5S2hLblpvNkhsajJNWnZDZG1wM1p3VUJQVGZDZFRmUksyUmJUYWNNaVJXMnd6YTI5V2ZSZ1hjTFc0YldvNzhqRFFsa0RseUc5bnBRWnU3VnYxOURYblJXTTNkYmtLSXlEUUJqTjEyUTh5c0tBMFgwQjVSVWVjN1FxdWN6Z3NWNzAycDdOQkY1VXF5Ull0TUMtTkZtMkZ4alFuSF9WNnVtZEthSEdTek45Q2Q3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-93c2f6cde8ab",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
