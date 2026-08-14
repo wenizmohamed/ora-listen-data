@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-08-14T12:40:36Z",
+  "generated_at": "2026-08-14T12:45:45Z",
   "total_verified": 275,
   "channels_live": [
    "official",
@@ -15,28 +15,28 @@
   "verified_mentions": 275,
   "sentiment": {
    "positive": 14,
-   "neutral": 233,
-   "negative": 28
+   "neutral": 232,
+   "negative": 29
   },
   "channels": {
    "press": 271,
    "official": 4
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 81
+   "count": 82
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "gulf news",
-   "count": 52
+   "count": 51
   },
   {
    "topic": "khaleej times",
@@ -55,19 +55,19 @@
    "count": 23
   },
   {
-   "topic": "tourists",
+   "topic": "passport services",
    "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-a9f8d8cec6d7",
+   "id": "bn-071aa5dc3eb9",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f0cc15aae4c6ea7e78211ce3d65c4&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f0df7ac4c43d4b6898f4c8e8807f6&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -469,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5f3558d89f55",
+   "id": "bn-ac1c816d71c4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
-   "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f0cc15aae4c6ea7e78211ce3d65c4&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
+   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7f0df7ac4c43d4b6898f4c8e8807f6&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -542,6 +542,18 @@
   }
  ],
  "alerts": [
+  {
+   "id": "gn-69224102cef4",
+   "channel": "press",
+   "author": "The Indian EYE",
+   "role": "press",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - The Indian EYE",
+   "time": "Tue, 14 Jul 2026 10:58:18 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWYyU3d2RjFIbmpsZzFveVNNVEg5aS1vUDBwMHJPVWRka1o0QlBPNndKR3JUeHYzU0trdWE3Z2xCQ0pZeV9SckdPbDN1X3lxS1F4ZEdkNGRTYUlnTC14LTdFWXFmck5TWklaYzJZbzdZTE9pWjdjLUo0UkJndkVxelNNYjg0Z3Z3UXhjUFRBbnZoT090OHhqV2xKbUdfQWN0dDkwcF9yM1NLTVRlX1pRdTFUWUtaUzVBeUdGWTdkS3MtVVRIQ0RsLWZodGFaMjQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-875abf8eead0",
    "channel": "press",
@@ -641,23 +653,11 @@
   {
    "id": "gn-6848f581efb6",
    "channel": "press",
-   "author": "tribuneindia.com",
+   "author": "The Tribune",
    "role": "press",
-   "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - tribuneindia.com",
+   "text": "Abu Dhabi: Indian Embassy to hold Open House for advices on labour issues, consular services - The Tribune",
    "time": "Thu, 26 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG5qcUVoOVhHdHlBTGFfQW16bWhkOVlkMlpfOUtOVHVhYXl4UWhFUVlmZUVRVlhZcGliVDFlYmotbHJkTWttZHFwWjVnVmdDalVkRE1sb2pFZUItcnVobnl2NlU3QWxsRDMxcmxPMkRmNmp6Q1BiUFYxSDFsQUpOa3pMd09LTzZNNVdCMlBoTzVDNFlFckprVHNseHd4RTZEbVVQUU9iWmpfMVNJYUIyOW1ZaGFlaXllakxkZmlVM2g0UGJwaS1maHI4b9IBzwFBVV95cUxQOVZuVmxIZzJKQi0tN1RWdzZHb2J2OS1pbzJnUW1WcUpUcEg2eS1qZk5yMlN1RXpwUDJWdU9samxadjF4ZEp6Y3I3eUlKaHJKbzJ5V3UtSWdLVnl3dnNDMjM0WDJKSVk2VkkwR3M3ZzE3VFk0M0hQN3p3V0s2X1ZiaUNfNUJSdHlMcmpBRjhPTVp3VW1WZE1CLXhqWGt2dDlIVnFhUDBCV1JRQU1HMUpEN0pKaFVodHRPXzdMVVRDYWVYSmZMRlhIeExYQTY1LUE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-67ad8b8133e3",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - ANI News",
-   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNV3Q2YnZFeWdzMEluZVhGNEpWbDZUdV9mb3psVURzOVVLbFlnemhhdW9KV093dk94bGNEbFkybzBha0doY3Z3TGJoLVlRMFZ1RTNWT1R2cWdEZEtNUzU1Ym9pS0xlQUdFaWVWY19hRU9fTVBIYkgtM2xpMmNoYnhjeTY2dk12OGs5V2UxVk9VVmRodVhVVWFMNjFleHFYVEIyMFFRT0w1V2l1d1NHUVJScXNELTdfWHBIbzVrMi1BNkV5VXNsY2xScnQ5d3pvTzQ5cGF0dUxMX1BRQl85d1dTUjdJOGItcnZTMFRQTzFfbEwxWUdkNUN5Ri1xc3d5dW5kbmRaa1dlXy1OaXpPcDFLbw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
