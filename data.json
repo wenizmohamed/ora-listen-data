@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-14T03:32:31Z",
-  "total_verified": 275,
+  "generated_at": "2026-08-14T03:37:40Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,31 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 276,
   "sentiment": {
-   "positive": 14,
-   "neutral": 233,
-   "negative": 28
+   "positive": 15,
+   "neutral": 234,
+   "negative": 27
   },
   "channels": {
-   "press": 271,
+   "press": 272,
    "official": 4
   },
-  "negative_alerts": 28,
+  "negative_alerts": 27,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 76
+   "count": 74
   },
   {
    "topic": "gulf news",
-   "count": 52
+   "count": 51
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 50
   },
   {
    "topic": "khaleej times",
@@ -48,7 +48,7 @@
   },
   {
    "topic": "flights",
-   "count": 27
+   "count": 30
   },
   {
    "topic": "tourists",
@@ -56,18 +56,18 @@
   },
   {
    "topic": "business",
-   "count": 23
+   "count": 20
   }
  ],
  "mentions": [
   {
-   "id": "bn-09f16306ef43",
+   "id": "bn-e03ba7186b41",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e8c4db2d5428b80f1181d35a77cf3&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e8d8327534c64ab15a437ca58f12a&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -289,6 +289,18 @@
    "engagement": null
   },
   {
+   "id": "gn-672c65f1aa83",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Air India, Air India Express to Operate 24 Flights to and from West Asia Today - News On AIR",
+   "time": "Wed, 12 Aug 2026 18:16:59 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGxneGVhYWNpckxaT1liV1VIYTZUX1dKS0xwc3JCTzRqSnBUYWFLNHdhVTdWbGxQejRlalRkMVpCT21wVmlCRWdrWjVPck9wb3BoQ09ad2RoTVU1Y3hKdENRalc1WkVseC01WmoxSTYza0RnT3RnTVJER3RDRktoSXNxaE1hdHVVR3N1Z0YxMDR0RWZ4eGxBNkRKdU85YWlYZGQyWFhB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f37ca9423c93",
    "channel": "press",
    "author": "Esquire India",
@@ -469,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-8a9d9d1eb55b",
+   "id": "bn-19a0e5261c9d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e8c4db2d5428b80f1181d35a77cf3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7e8d8327534c64ab15a437ca58f12a&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b036f2836ef7",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
-   "time": "Wed, 05 Aug 2026 05:38:03 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
