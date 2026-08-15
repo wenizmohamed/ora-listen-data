@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-15T07:19:25Z",
-  "total_verified": 272,
+  "generated_at": "2026-08-15T07:24:34Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 272,
+  "verified_mentions": 271,
   "sentiment": {
-   "positive": 13,
-   "neutral": 234,
-   "negative": 25
+   "positive": 12,
+   "neutral": 233,
+   "negative": 26
   },
   "channels": {
-   "press": 268,
+   "press": 267,
    "official": 4
   },
-  "negative_alerts": 25,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
@@ -39,20 +39,20 @@
    "count": 48
   },
   {
-   "topic": "khaleej times",
+   "topic": "flights",
    "count": 28
+  },
+  {
+   "topic": "khaleej times",
+   "count": 27
   },
   {
    "topic": "khaleej",
-   "count": 28
-  },
-  {
-   "topic": "flights",
    "count": 27
   },
   {
    "topic": "business",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "advisory",
@@ -61,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-e85a8b9fd5a6",
+   "id": "bn-579fd1548900",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8012fd5a37492aa00bd2ffb24db47c&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8014320d754a02b87508125f994d68&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -157,13 +157,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e6eb1c4e472d",
+   "id": "bn-23b8b5fbd61c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Keeta partners with Sony Pictures for Spider-Man campaign in UAE",
    "time": "Wed, 22 Jul 2026 02:06:56 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8012fd5a37492aa00bd2ffb24db47c&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8014320d754a02b87508125f994d68&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -229,6 +229,18 @@
    "engagement": null
   },
   {
+   "id": "gn-891f050146f1",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services in UAE face fresh uncertainty after court scraps Alhind tender - Gulf Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWJ5QUxXaUhCRGFOZFFVOEZZdGxUa2ZGSUlEMjdFbkdhR0pacDJURlZsVElaQXVOUHdrWlFXa1g3ZnMxVVV4SnZ0aGJrVTNPLThfVHhoRmRKMEZYWEd4aS1xaGtBbTA0WHpoYnB0SFFXNUFQYWkxZDlPVWQ2c0tSUWIxbTBLekpEZlJzbG8xSEYxbW5oS2J3U2N0VXpzRE5uRE9Lcy1felpuUWp3b3FHMUk4UFBOcmd0ZVRXelY0d08?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-70e73e64492a",
    "channel": "press",
    "author": "Rediff",
@@ -249,18 +261,6 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnkyY194YWVGbXVhVXBrbEt2dEdyWWpRSTd4Y3RXNXptMlF4elY4X0pZVGY0aWZkZ3pqNmdaY3drcWgxLWpPX3R1TUp6OVJ3WkZtTDkyXzJiUC1KeWx4MTBYWWpITFc1VEpodE5zTHF6WDVHVEpJZHJUdWlTZFpBS2lzNEcwenN5TVVWbzlxSWttNDZLajRNVTE0a2FfOG1JcG5mTXNaWE4tb1N1aWpLYnZtR01JWFVHc0pwU1VRZHc0SGE3MWxRejZEb3ZVRGZFNkhn?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-891f050146f1",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian passport services in UAE face fresh uncertainty after court scraps Alhind tender - Gulf Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWJ5QUxXaUhCRGFOZFFVOEZZdGxUa2ZGSUlEMjdFbkdhR0pacDJURlZsVElaQXVOUHdrWlFXa1g3ZnMxVVV4SnZ0aGJrVTNPLThfVHhoRmRKMEZYWEd4aS1xaGtBbTA0WHpoYnB0SFFXNUFQYWkxZDlPVWQ2c0tSUWIxbTBLekpEZlJzbG8xSEYxbW5oS2J3U2N0VXpzRE5uRE9Lcy1felpuUWp3b3FHMUk4UFBOcmd0ZVRXelY0d08?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -445,6 +445,18 @@
    "engagement": null
   },
   {
+   "id": "gn-a70b964b8585",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Dubai businessman Satish Sanpal denies Indian reports of UAE assets freeze - Gulf Business",
+   "time": "Wed, 05 Aug 2026 11:39:31 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWdpbEZfVXpvb2Y5eUVtalM1eHFhSnV1cW41VGdEYmw1Rmp3V254bXFyYzJZSERxREJKV1NnMTVTTjl1ekJ3NVMydFR2c0RzMDdJWWdiaXlhVHVzRlRHWUFvd3MzRFl5Rm5uZEtrNU5fc3dJYVhoTk9LaTJYUGFRZVNEb0hULTc3VmpVR1E2MzUybVd1cEFxOTJHdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -524,18 +536,6 @@
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 05:38:03 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-8bd2ad38ac3f",
-   "channel": "press",
-   "author": "NDTV Profit",
-   "role": "press",
-   "text": "Flights To UAE, Kuwait Affected, Bahrain Closes Airspace After Iran Launches Attack - NDTV Profit",
-   "time": "Wed, 03 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUhBLVNrZnVQVTRVMmxZdTYwQzVVZ3dVbHkzamhFdHpmdEZiM1RTNWY5LVQ5dElfTGJkM0ZqNU9KdVl4a2YwOG1RM3JRak9hSUNtN1NHUEVtNEUyVWpudzNjQWpKb0lqZ05mbUJNb3JVeVRWM054dFI4Unh5YUd6a2diMXRHalhUR2ZmMW9JZEF4ZE5YX2FCNnpOM1d0MllqOXJ6MUFXNzFaTkJ1YWU3ck16dzlRMUtXMFBnQXo0QkEzYlh3SEhMMNIB0AFBVV95cUxQeHUyT3I3MTE0ejYzTi1DV3pJV2hZUHZKYkRWZWc5S2hLblpvNkhsajJNWnZDZG1wM1p3VUJQVGZDZFRmUksyUmJUYWNNaVJXMnd6YTI5V2ZSZ1hjTFc0YldvNzhqRFFsa0RseUc5bnBRWnU3VnYxOURYblJXTTNkYmtLSXlEUUJqTjEyUTh5c0tBMFgwQjVSVWVjN1FxdWN6Z3NWNzAycDdOQkY1VXF5Ull0TUMtTkZtMkZ4alFuSF9WNnVtZEthSEdTek45Q2Q3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
