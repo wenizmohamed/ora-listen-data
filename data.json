@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-15T07:40:07Z",
-  "total_verified": 271,
+  "generated_at": "2026-08-15T07:45:21Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 271,
+  "verified_mentions": 272,
   "sentiment": {
    "positive": 13,
-   "neutral": 232,
+   "neutral": 233,
    "negative": 26
   },
   "channels": {
-   "press": 267,
+   "press": 268,
    "official": 4
   },
   "negative_alerts": 26,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 73
+   "count": 75
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "services",
-   "count": 47
+   "count": 48
   },
   {
    "topic": "flights",
@@ -52,7 +52,7 @@
   },
   {
    "topic": "business",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "advisory",
@@ -61,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-9aa634274b1a",
+   "id": "bn-7f9f86a6f3cf",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8017d6c3b34380a1607037abe51444&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801911f26043db9165f36ed114a705&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -109,6 +109,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6405f6ff6747",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian passport services no longer available at Dubai Consulate or Abu Dhabi Embassy - Arabian Business",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDN001WnVmMXNCM3ZZLVpRRWtpcEV5UFVrVFNpczdwbVFaTHJEMVlMTTh2V3BtQkt0SnRsN28zbEpEY3BkV051X1ZZTjRkajRPMlFpY2g1YW9kLU1lblZsc2RtWXB5TmhWTG05dDZhQWJsR0k2THlMck1kdWY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-914dca3391c3",
    "channel": "press",
    "author": "Gulf News",
@@ -145,13 +157,25 @@
    "engagement": null
   },
   {
-   "id": "bn-988c8712d252",
+   "id": "gn-37d2f7e23b82",
+   "channel": "press",
+   "author": "curlytales.com",
+   "role": "press",
+   "text": "8 Visa-Friendly Countries Indian Passport Holders Living In The UAE Can Travel To With Ease - curlytales.com",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGpoRU1lM29jeEpWLU1meVpsMEwxN2xUakRYRjRVMjN1MWdsNGlDWGRPZ2NBYmhjQ2RZQXMzcU00SzF4dTgySEU5TV9MMF9lb2l6R2dGZ2I2STlVUC1XREc0MUhrN1NhalZlbkJiSkszT2lCQS1fX0REV1NOTWJvWTNXcVpXWGlTNGZzV04wOEJYYlRuWGxla0haWXotbGJaa25TRDF5VVI3NFkyMFRRQnFoVGgtbENqSXBnQzJBdm9wNmRxWUNFckQtckHSAdIBQVVfeXFMTVZWTW5OUEhMM3JzdEJZSGNmU3phejZhQWhLWjVPYWo1MmFYNU1vTld4bTJod0UtWmpmU1FVSEpsRUJacEgySzhjdHhtSWM3ZzMzTG9ZNDNqdFF0NzFvZmVvUnRaZVdxOVNVSTh5cTN3YnUwNWc3VmhwVVF5YUFqSmNSMnQ4cElUNW1DNjJkWGFKTncySHA1NkVfTnFfQjh6YzNvRm5xRkVmaktaQUJUYzJqTi1Sd1o5SHc5SmNLR2llOHdDN20yeWtCV01JN2NKU2Fn?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-70a531fc359a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Keeta partners with Sony Pictures for Spider-Man campaign in UAE",
    "time": "Wed, 22 Jul 2026 02:06:56 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8017d6c3b34380a1607037abe51444&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a801911f26043db9165f36ed114a705&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fmoney%2fnews%2fkeeta-partners-with-sony-pictures-for-spider-man-campaign-in-uae%2far-AA28r43m&c=4276627006933544514&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -512,30 +536,6 @@
    "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai - thenationalnews.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOG9yQjdwUFcwS0FQenNmRjF5VkZzSDJNTHhJdmdnYzdLUlUxdlFBb0FOelBITEhNcThzaGtuSlFiS1pES0x0dzU3U3QwWUc2ZWpPN2tfdnJpTzB1VHIxUkk0MTFCbTVMV3BOT1JQQXh1VEdoWGJkNjVnNjUxY1EzUTk1R1gxNWdCVHpwdGhhOHdfQ01hdmhSLUVjUWVjYXhwSFQ4czgzRDRTdDY0RU5UNlNSMWpydjBqdFZxU1NVYVl3c055eFVPejZIYjBTOG14dlFWSVI2aW83c1FY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b036f2836ef7",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
-   "time": "Wed, 05 Aug 2026 05:38:03 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-8bd2ad38ac3f",
-   "channel": "press",
-   "author": "NDTV Profit",
-   "role": "press",
-   "text": "Flights To UAE, Kuwait Affected, Bahrain Closes Airspace After Iran Launches Attack - NDTV Profit",
-   "time": "Wed, 03 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUhBLVNrZnVQVTRVMmxZdTYwQzVVZ3dVbHkzamhFdHpmdEZiM1RTNWY5LVQ5dElfTGJkM0ZqNU9KdVl4a2YwOG1RM3JRak9hSUNtN1NHUEVtNEUyVWpudzNjQWpKb0lqZ05mbUJNb3JVeVRWM054dFI4Unh5YUd6a2diMXRHalhUR2ZmMW9JZEF4ZE5YX2FCNnpOM1d0MllqOXJ6MUFXNzFaTkJ1YWU3ck16dzlRMUtXMFBnQXo0QkEzYlh3SEhMMNIB0AFBVV95cUxQeHUyT3I3MTE0ejYzTi1DV3pJV2hZUHZKYkRWZWc5S2hLblpvNkhsajJNWnZDZG1wM1p3VUJQVGZDZFRmUksyUmJUYWNNaVJXMnd6YTI5V2ZSZ1hjTFc0YldvNzhqRFFsa0RseUc5bnBRWnU3VnYxOURYblJXTTNkYmtLSXlEUUJqTjEyUTh5c0tBMFgwQjVSVWVjN1FxdWN6Z3NWNzAycDdOQkY1VXF5Ull0TUMtTkZtMkZ4alFuSF9WNnVtZEthSEdTek45Q2Q3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
