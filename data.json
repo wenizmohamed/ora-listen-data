@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-17T07:23:45Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-17T07:28:54Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 271,
   "sentiment": {
    "positive": 10,
    "neutral": 235,
-   "negative": 25
+   "negative": 26
   },
   "channels": {
-   "press": 265,
+   "press": 266,
    "official": 5
   },
-  "negative_alerts": 25,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
@@ -109,18 +109,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a8edecfa1a16",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "New passport centres provide relief for Indians in UAE after weeks of delays - thenationalnews.com",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXNMMk1tSUJKT3hZaGxKOVVxdGEzdUx5MVJtVDczTmdqSGVaSTRUa2c0VVFDZnA3SjNrY3NkeE5vU3hnT1NQamRRUG1SN2xVMVhhRmJkdS1zc01ZVEh2T3lCVzNaT25UUVE5RkZUOW85UWZxSjJqZDhZWDFRYjBUMThrNklhME1lYnhjdkRPWXV3SktnQXFMdHNQNk12c1U4YW1NTjdJYXJxUndoV1NBZmZ4MlBxVWZ6ak5SNVphOG5XTFBLcG02WA?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-36ab06ef0afd",
    "channel": "press",
    "author": "NDTV",
@@ -141,6 +129,18 @@
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a8edecfa1a16",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "New passport centres provide relief for Indians in UAE after weeks of delays - thenationalnews.com",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXNMMk1tSUJKT3hZaGxKOVVxdGEzdUx5MVJtVDczTmdqSGVaSTRUa2c0VVFDZnA3SjNrY3NkeE5vU3hnT1NQamRRUG1SN2xVMVhhRmJkdS1zc01ZVEh2T3lCVzNaT25UUVE5RkZUOW85UWZxSjJqZDhZWDFRYjBUMThrNklhME1lYnhjdkRPWXV3SktnQXFMdHNQNk12c1U4YW1NTjdJYXJxUndoV1NBZmZ4MlBxVWZ6ak5SNVphOG5XTFBLcG02WA?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -373,13 +373,13 @@
    "engagement": null
   },
   {
-   "id": "bn-270137c3ebbd",
+   "id": "bn-b327179c7e63",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
    "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82b6ff1edd45b8aeec52a0bdf2ef23&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82b835e5734ec291963dad1a3e9a5e&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -545,9 +545,9 @@
   {
    "id": "gn-08e49102df87",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "newsonair.gov.in",
    "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - newsonair.gov.in",
    "time": "Sun, 16 Aug 2026 09:00:49 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
@@ -593,9 +593,9 @@
   {
    "id": "gn-bae100078217",
    "channel": "press",
-   "author": "Awaz The Voice",
+   "author": "awazthevoice.in",
    "role": "press",
-   "text": "Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - Awaz The Voice",
+   "text": "Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - awazthevoice.in",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU8wSXZwdGJLaWZRaFAyNU1KX3FlcEp5aEpQWkxJUTVZY1hfZVFicnptVTlPRHgyOHp4OTZ5YVZQYzlZbFRXWjFQdXg1Mm81c0dHTmRSZHhMTG4xM0Q3QXdraE5iMnVaQmRBZmpMOEtqcndjWG1pZk9mdmQ2aFRjNS1tQlhEWUQ4WUozaGcxY2JYV0h4UHZLbU9KSDJTdDhaU09GMXEwbUEzS2NsVWlXVlU0ajBjM05hV19n?oc=5",
    "sentiment": "negative",
