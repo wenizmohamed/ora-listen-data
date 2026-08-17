@@ -1,25 +1,26 @@
 {
  "meta": {
-  "generated_at": "2026-08-17T14:02:17Z",
-  "total_verified": 267,
+  "generated_at": "2026-08-17T14:07:25Z",
+  "total_verified": 257,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "bing_news: no element found: line 1, column 0"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 267,
+  "verified_mentions": 257,
   "sentiment": {
    "positive": 8,
-   "neutral": 233,
+   "neutral": 223,
    "negative": 26
   },
   "channels": {
-   "press": 262,
+   "press": 252,
    "official": 5
   },
   "negative_alerts": 26,
@@ -28,7 +29,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 68
   },
   {
    "topic": "gulf news",
@@ -36,7 +37,7 @@
   },
   {
    "topic": "services",
-   "count": 53
+   "count": 49
   },
   {
    "topic": "flights",
@@ -44,11 +45,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 27
+   "count": 28
   },
   {
    "topic": "khaleej",
-   "count": 27
+   "count": 28
   },
   {
    "topic": "express",
@@ -337,18 +338,6 @@
    "engagement": null
   },
   {
-   "id": "bn-cd5b7e2b617f",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8314685f814bd2937ce006781201a5&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -517,6 +506,18 @@
    "engagement": null
   },
   {
+   "id": "gn-bd96955b9812",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-46af1a218f1f",
    "channel": "press",
    "author": "curlytales.com",
@@ -529,13 +530,13 @@
    "engagement": null
   },
   {
-   "id": "gn-bd96955b9812",
+   "id": "gn-90e6c1ebc253",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "Travel and Leisure Asia",
    "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "text": "UAE Visa Services Paused As Indian Embassy Transitions To New Provider - Travel and Leisure Asia",
+   "time": "Tue, 23 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXp2QVBjSlRtSnV2aUFRNVJMa0d4REMzM0lpVk53TWNySjJqU0xxa1pocWZIUjlrdmZ2ZzloQTJnbF85eHpXU0xNNzRabE1GX2kyZnhkTTVrNTZyckNfYm44SWpHcmpyUnJDZnJfMjlkbUpLVGl5WnE5SEpVdHhUZDhoaDY2c1V3c3h3bDJGTzFQeUtDNHh2WVpoZVoyTkI2TmpoSUxKYlJVck5NWUJvdk9RbEVGWG_SAbwBQVVfeXFMTmdtdWY2dmp6LWhSUFBkU0h0ZWxGUDhXY3lkV1hGTVRqYl9JckFGSE01bm1xTnRnQUJrbEd4R1BtWExnSDh2UnBvOXgwTklxaXZ3VG1WaGlCX05kMWRLQWY3WnBYTHhWM3hINTNxZ2lwTjRKMVdwSmdPSU1aVnpPNTdKVVc0WUJzZzFyLV9tNHpaaXhJNTZVVWloWGFSWlJNa3VCWE1oSFhwOEtEQlpnWTRhZGNzRXJUWk9KbUg?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
