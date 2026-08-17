@@ -1,25 +1,26 @@
 {
  "meta": {
-  "generated_at": "2026-08-17T08:00:25Z",
-  "total_verified": 269,
+  "generated_at": "2026-08-17T08:05:35Z",
+  "total_verified": 260,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "bing_news: no element found: line 1, column 0"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 269,
+  "verified_mentions": 260,
   "sentiment": {
-   "positive": 9,
-   "neutral": 234,
+   "positive": 10,
+   "neutral": 224,
    "negative": 26
   },
   "channels": {
-   "press": 264,
+   "press": 255,
    "official": 5
   },
   "negative_alerts": 26,
@@ -28,7 +29,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 74
+   "count": 69
   },
   {
    "topic": "gulf news",
@@ -36,7 +37,7 @@
   },
   {
    "topic": "services",
-   "count": 55
+   "count": 49
   },
   {
    "topic": "flights",
@@ -55,11 +56,23 @@
    "count": 23
   },
   {
-   "topic": "passport services",
+   "topic": "advisory",
    "count": 21
   }
  ],
  "mentions": [
+  {
+   "id": "gn-a8edecfa1a16",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "New passport centres provide relief for Indians in UAE after weeks of delays - thenationalnews.com",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXNMMk1tSUJKT3hZaGxKOVVxdGEzdUx5MVJtVDczTmdqSGVaSTRUa2c0VVFDZnA3SjNrY3NkeE5vU3hnT1NQamRRUG1SN2xVMVhhRmJkdS1zc01ZVEh2T3lCVzNaT25UUVE5RkZUOW85UWZxSjJqZDhZWDFRYjBUMThrNklhME1lYnhjdkRPWXV3SktnQXFMdHNQNk12c1U4YW1NTjdJYXJxUndoV1NBZmZ4MlBxVWZ6ak5SNVphOG5XTFBLcG02WA?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-56c2327bed5c",
    "channel": "press",
@@ -356,18 +369,6 @@
    "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - DD India",
    "time": "Wed, 08 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRsZGV1M1VvSEJ0bHBLcnBHY2NwYjBlTDJxNi1TV0pZc0dxNElIdTgySTF3eER6cDdwQkQtWGpldkw0aVd2RFctUkhCMDRyQUNlZVhpSmotcXVPV1VHQ2JhTkIwSEFva2dXWTFNTmJ4VlBod3dzM3BiLVZxTG5lSmU1Rm1DdEJyaGJiRkZrTzV3ZS1KbnZ3Q3RSMzNYRGJDOFZWQzhtbDYtdU4zeXUxdHNB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-a5eb2c1a8f4c",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian consulate in Dubai clarifies who is eligible for walk-in passport services",
-   "time": "Wed, 05 Aug 2026 07:10:42 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a82bf97e56b4edb8a445078f6c2f5bb&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services%2far-AA29sdDR&c=6265909187766620197&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
