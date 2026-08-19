@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-19T10:55:58Z",
-  "total_verified": 266,
+  "generated_at": "2026-08-19T11:01:08Z",
+  "total_verified": 267,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 266,
+  "verified_mentions": 267,
   "sentiment": {
    "positive": 7,
-   "neutral": 230,
+   "neutral": 231,
    "negative": 29
   },
   "channels": {
-   "press": 261,
+   "press": 262,
    "official": 5
   },
   "negative_alerts": 29,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 78
+   "count": 79
   },
   {
    "topic": "gulf news",
@@ -36,27 +36,27 @@
   },
   {
    "topic": "services",
-   "count": 59
+   "count": 58
   },
   {
    "topic": "khaleej times",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "khaleej",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "flights",
-   "count": 29
+   "count": 30
+  },
+  {
+   "topic": "business",
+   "count": 23
   },
   {
    "topic": "express",
-   "count": 23
-  },
-  {
-   "topic": "passport visa",
-   "count": 23
+   "count": 22
   }
  ],
  "mentions": [
@@ -99,9 +99,9 @@
   {
    "id": "gn-6405f6ff6747",
    "channel": "press",
-   "author": "arabianbusiness.com",
+   "author": "Arabian Business",
    "role": "press",
-   "text": "Indian passport services no longer available at Dubai Consulate or Abu Dhabi Embassy - arabianbusiness.com",
+   "text": "Indian passport services no longer available at Dubai Consulate or Abu Dhabi Embassy - Arabian Business",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDN001WnVmMXNCM3ZZLVpRRWtpcEV5UFVrVFNpczdwbVFaTHJEMVlMTTh2V3BtQkt0SnRsN28zbEpEY3BkV051X1ZZTjRkajRPMlFpY2g1YW9kLU1lblZsc2RtWXB5TmhWTG05dDZhQWJsR0k2THlMck1kdWY?oc=5",
    "sentiment": "neutral",
@@ -169,6 +169,18 @@
    "engagement": null
   },
   {
+   "id": "gn-fa869907d87c",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar | Akashvani News - News On AIR",
+   "time": "Wed, 19 Aug 2026 09:14:40 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5wNFU1YTZXYWdHZURBb3h4cHo5dV9BWGFxSkFxcUc1NGl1ZWF1YzFNbThDTUEtNUFhZHpjQnhDWXdjQldCMkNnZS1ja1haZkN5T1h2b0ktRHBvR1h4ZlZrb0VMejAzejNEeWNtOWl5T2VLMU0wUmRFMXJBU2ctTm9nV3ZVTjV0Q3paM3VRWXo5UW56YnR6YXhB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f4c198d0d404",
    "channel": "press",
    "author": "TravelBiz Monitor",
@@ -205,23 +217,11 @@
    "engagement": null
   },
   {
-   "id": "gn-5af8b23d2ed2",
-   "channel": "press",
-   "author": "TravelPirates",
-   "role": "press",
-   "text": "Dubai Airport March 18: UAE Airspace Reopens After Tuesday Closure, Emirates and Etihad Back in the Air - TravelPirates",
-   "time": "Wed, 18 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhSa2VQQ1B5WGVBb0x2bEpJd2x3dnMta2NLWTEtZTgxdGJ6MWt0TGpwUEpEdkpsSTBoc2ZIclo5dGNvc1Zrcmo1RTRRa1FNVzZHcUhGSDRWdzNIemszc2E3U2VYQ2tPSXhxS1o5RXZuc05nNFpDdjR3Ti1VWFFmQjZva1BpcWhnTjQwOTdiVk03WkxKbDBEX1locHE3Yy1ub0FCXw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-6551c340b995",
    "channel": "press",
-   "author": "arabianbusiness.com",
+   "author": "Arabian Business",
    "role": "press",
-   "text": "Indian court ruling set to make UAE passport service delays worse - arabianbusiness.com",
+   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
    "sentiment": "neutral",
@@ -291,9 +291,9 @@
   {
    "id": "gn-27b7834bc983",
    "channel": "press",
-   "author": "inkl",
+   "author": "inkl.com",
    "role": "press",
-   "text": "Strait of Hormuz attack: Indian Consulate officials… - inkl",
+   "text": "Strait of Hormuz attack: Indian Consulate officials… - inkl.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnkyY194YWVGbXVhVXBrbEt2dEdyWWpRSTd4Y3RXNXptMlF4elY4X0pZVGY0aWZkZ3pqNmdaY3drcWgxLWpPX3R1TUp6OVJ3WkZtTDkyXzJiUC1KeWx4MTBYWWpITFc1VEpodE5zTHF6WDVHVEpJZHJUdWlTZFpBS2lzNEcwenN5TVVWbzlxSWttNDZLajRNVTE0a2FfOG1JcG5mTXNaWE4tb1N1aWpLYnZtR01JWFVHc0pwU1VRZHc0SGE3MWxRejZEb3ZVRGZFNkhn?oc=5",
    "sentiment": "negative",
@@ -409,13 +409,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0342ab5e449b",
+   "id": "bn-be32dc697b5c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a858bbc64f64039a3d5ea282d2777a3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a858cf2ea1c46808aa5f6143ff1b52a&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -545,9 +545,9 @@
   {
    "id": "gn-08e49102df87",
    "channel": "press",
-   "author": "newsonair.gov.in",
+   "author": "News On AIR",
    "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - newsonair.gov.in",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
    "time": "Tue, 18 Aug 2026 11:03:35 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
