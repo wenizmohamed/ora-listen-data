@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-20T10:31:06Z",
-  "total_verified": 272,
+  "generated_at": "2026-08-20T10:36:16Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 272,
+  "verified_mentions": 271,
   "sentiment": {
    "positive": 8,
-   "neutral": 232,
-   "negative": 32
+   "neutral": 233,
+   "negative": 30
   },
   "channels": {
-   "press": 267,
+   "press": 266,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
@@ -36,23 +36,23 @@
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 59
+  },
+  {
+   "topic": "khaleej times",
+   "count": 31
+  },
+  {
+   "topic": "khaleej",
+   "count": 31
   },
   {
    "topic": "flights",
    "count": 31
   },
   {
-   "topic": "khaleej times",
-   "count": 29
-  },
-  {
-   "topic": "khaleej",
-   "count": 29
-  },
-  {
    "topic": "business",
-   "count": 25
+   "count": 24
   },
   {
    "topic": "express",
@@ -277,18 +277,6 @@
    "engagement": null
   },
   {
-   "id": "gn-7e3ca8386bfb",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-27b7834bc983",
    "channel": "press",
    "author": "inkl",
@@ -296,6 +284,18 @@
    "text": "Strait of Hormuz attack: Indian Consulate officials… - inkl",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnkyY194YWVGbXVhVXBrbEt2dEdyWWpRSTd4Y3RXNXptMlF4elY4X0pZVGY0aWZkZ3pqNmdaY3drcWgxLWpPX3R1TUp6OVJ3WkZtTDkyXzJiUC1KeWx4MTBYWWpITFc1VEpodE5zTHF6WDVHVEpJZHJUdWlTZFpBS2lzNEcwenN5TVVWbzlxSWttNDZLajRNVTE0a2FfOG1JcG5mTXNaWE4tb1N1aWpLYnZtR01JWFVHc0pwU1VRZHc0SGE3MWxRejZEb3ZVRGZFNkhn?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-7e3ca8386bfb",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -421,13 +421,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c21e13c82a41",
+   "id": "bn-6c3431521b12",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86d765f7674a07bd74d7624a830f28&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a86d89b2a704c9eb626ea8640678297&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -543,6 +543,18 @@
  ],
  "alerts": [
   {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "News India Times",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-7cc23754b005",
    "channel": "press",
    "author": "ANI News",
@@ -646,18 +658,6 @@
    "text": "Indian Passport Services In UAE: New Walk-In Rules Announced As Alhind Takeover Delayed - curlytales.com",
    "time": "Thu, 02 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmlHQ1A3T09CdkZ2WFlzSkJwdW44dmdiNWdaQmhoRmYzaGgyU3dieXQ4M0tmRDI5THQwcVNxUkFraUlzMUtjSDJDZm8wUEFDbjRUdjNxeEJLRU9kQXQ1end0aXVrX0t0bHVrYzJmZWdXdXZhWmFwa01qSWcwMjkzZGowS1RjWGtCRTBIekxuR0I5SmU3aEdCREc5eGRYZWZsaUFDYVJwM0ZUVVZPTHVxako4RnQwYXAzUWZvb2ZNVmlZbHZfWmZsQdIBzgFBVV95cUxObGpzZkozUWxPME9IY2IyYkVQaUcyLWRvbkxzZTBIRGhkVGU2TEMwLUNEc3FBRDducTlUZjU3YldlZTdBYWdodXdVZVFJZ19vQXRWVGZURFVySi1jTndNRS0tcnNEQ3JFdlhJZ3d3eHhhWWlxRXl1d3c5dU9TVGgtaDh2RFlVaVRrRE9XcGZYbERNWE12UTNsWUJ2bThUUU1CX2VpODNNN3E2Yk5RUzh1ZVdvLUNNS2hxUTNXbl9wQzdmUGVaN1M3S2FnZTdlZw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d90c0c4a43a3",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - The Economic Times",
-   "time": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ29tU0wxc2c1U1pkNVdSeF9HQVdDdC1aQ0lVbVAydWVXNDAzd0R3cGFZQ2Rmd1JZbE40WkxwTEFaS21mQ2QtZ2JkNmNqaVIxcmZIcUd4cWFWS1l6blAyd3VOUGJKN0FKeFdBSENCQ2tieFdJb05vZ3JWVVZBTmU3dEd4NlpYQmh6cFZENk1GblozZUg5aTRzNnduSTA0eXdFVF84c29lUTdsWGNJYWdfMkFLZFQ0dTZMUlcxMWdMQ3RXUlVPSmtFR214Rnl3eDJPbmlRVTJpQ2o3RHppMFQ3MmJUSWtlbnZCQzR6WS0xVzVkaWtOZXVCTGtn0gH_AUFVX3lxTE1qWlMtdThYOEF3YUVma0QxSWRVY19YeWQxVHRXR3dMVDM2MnFGY3VFeldwZFVSOVZDZ0dpRGdaLUs3eG1ScjhUZ0pZNElLanZoU3p2cFlOUUZPRXFzNC03cVEyUEVXUjI2VEUyRlJzVkNjRDZkUEpIS2NPOGlMalJpbG5pczZuWS16QVQ5aVo1bDFuWmplc1VVeWlTV0x5NGQzTVMzbC1nT1ZSRktlNDU5NElGcDBMbVh1VVVyQ2E4VzROR1p2WWU4NTZnX2lTd0otZ0NlaFc3cjJQTEIwQjNiQ3BLSEU2T2NoREgtWGZiSHpoY2t3cXJkXzVCMFFFWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
