@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-20T06:28:37Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-20T06:33:47Z",
+  "total_verified": 259,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 259,
   "sentiment": {
-   "positive": 9,
-   "neutral": 233,
+   "positive": 8,
+   "neutral": 223,
    "negative": 28
   },
   "channels": {
-   "press": 265,
+   "press": 254,
    "official": 5
   },
   "negative_alerts": 28,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 77
-  },
-  {
-   "topic": "services",
-   "count": 61
+   "count": 72
   },
   {
    "topic": "gulf news",
    "count": 60
+  },
+  {
+   "topic": "services",
+   "count": 56
   },
   {
    "topic": "khaleej times",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "passport visa",
-   "count": 24
+   "count": 22
   }
  ],
  "mentions": [
@@ -433,18 +433,6 @@
    "engagement": null
   },
   {
-   "id": "bn-bae3a858ba9d",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
-   "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a869e91d81841dea30e7d684e085e80&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -536,6 +524,18 @@
    "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai - thenationalnews.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOG9yQjdwUFcwS0FQenNmRjF5VkZzSDJNTHhJdmdnYzdLUlUxdlFBb0FOelBITEhNcThzaGtuSlFiS1pES0x0dzU3U3QwWUc2ZWpPN2tfdnJpTzB1VHIxUkk0MTFCbTVMV3BOT1JQQXh1VEdoWGJkNjVnNjUxY1EzUTk1R1gxNWdCVHpwdGhhOHdfQ01hdmhSLUVjUWVjYXhwSFQ4czgzRDRTdDY0RU5UNlNSMWpydjBqdFZxU1NVYVl3c055eFVPejZIYjBTOG14dlFWSVI2aW83c1FY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-93c2f6cde8ab",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
