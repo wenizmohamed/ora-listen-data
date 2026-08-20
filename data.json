@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-20T03:38:25Z",
-  "total_verified": 267,
+  "generated_at": "2026-08-20T03:43:35Z",
+  "total_verified": 268,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 267,
+  "verified_mentions": 268,
   "sentiment": {
-   "positive": 7,
-   "neutral": 228,
-   "negative": 32
+   "positive": 8,
+   "neutral": 230,
+   "negative": 30
   },
   "channels": {
-   "press": 262,
+   "press": 263,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
@@ -36,26 +36,26 @@
   },
   {
    "topic": "services",
-   "count": 56
-  },
-  {
-   "topic": "khaleej times",
-   "count": 28
-  },
-  {
-   "topic": "khaleej",
-   "count": 28
+   "count": 57
   },
   {
    "topic": "flights",
-   "count": 28
+   "count": 30
+  },
+  {
+   "topic": "khaleej times",
+   "count": 29
+  },
+  {
+   "topic": "khaleej",
+   "count": 29
   },
   {
    "topic": "business",
-   "count": 25
+   "count": 23
   },
   {
-   "topic": "express",
+   "topic": "passport visa",
    "count": 23
   }
  ],
@@ -421,25 +421,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7bf5dbc3f052",
+   "id": "bn-41f22879609c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8676aca3bc423695c14040b04e88fa&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b036f2836ef7",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8677e368294b24b4c57199747c85e1&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,6 +512,18 @@
    "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai - thenationalnews.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOG9yQjdwUFcwS0FQenNmRjF5VkZzSDJNTHhJdmdnYzdLUlUxdlFBb0FOelBITEhNcThzaGtuSlFiS1pES0x0dzU3U3QwWUc2ZWpPN2tfdnJpTzB1VHIxUkk0MTFCbTVMV3BOT1JQQXh1VEdoWGJkNjVnNjUxY1EzUTk1R1gxNWdCVHpwdGhhOHdfQ01hdmhSLUVjUWVjYXhwSFQ4czgzRDRTdDY0RU5UNlNSMWpydjBqdFZxU1NVYVl3c055eFVPejZIYjBTOG14dlFWSVI2aW83c1FY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-b036f2836ef7",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 05:38:03 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
