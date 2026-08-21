@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-21T05:48:06Z",
-  "total_verified": 274,
+  "generated_at": "2026-08-21T05:53:16Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 274,
+  "verified_mentions": 272,
   "sentiment": {
-   "positive": 9,
-   "neutral": 233,
+   "positive": 8,
+   "neutral": 232,
    "negative": 32
   },
   "channels": {
-   "press": 269,
+   "press": 267,
    "official": 5
   },
   "negative_alerts": 32,
@@ -28,46 +28,46 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 75
+   "count": 78
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "flights",
-   "count": 37
+   "count": 36
   },
   {
    "topic": "khaleej times",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "khaleej",
-   "count": 31
+   "count": 30
   },
   {
    "topic": "business",
-   "count": 26
+   "count": 27
   },
   {
-   "topic": "express",
+   "topic": "passport visa",
    "count": 23
   }
  ],
  "mentions": [
   {
-   "id": "bn-e36e74b2a908",
+   "id": "bn-edb643216d85",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87e68ff56c4e49be3cbc4c37d7f986&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87e7c5d21641acb20ccc4ecf71e20a&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -409,25 +409,13 @@
    "engagement": null
   },
   {
-   "id": "bn-77a50dee8d2f",
+   "id": "bn-592b40b227a4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87e68ff56c4e49be3cbc4c37d7f986&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cb3c08c175d4",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87e7c5d21641acb20ccc4ecf71e20a&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -440,6 +428,18 @@
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cb3c08c175d4",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
