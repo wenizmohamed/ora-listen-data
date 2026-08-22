@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-22T09:53:16Z",
-  "total_verified": 270,
+  "generated_at": "2026-08-22T09:58:26Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 272,
   "sentiment": {
-   "positive": 9,
+   "positive": 10,
    "neutral": 233,
-   "negative": 28
+   "negative": 29
   },
   "channels": {
-   "press": 265,
+   "press": 267,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 79
+   "count": 78
   },
   {
    "topic": "services",
@@ -36,15 +36,15 @@
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 58
   },
   {
    "topic": "flights",
-   "count": 40
+   "count": 41
   },
   {
    "topic": "business",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "khaleej times",
@@ -61,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-8b99bd4e516c",
+   "id": "bn-5b63251e2fc8",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a89718ed12f4f65b8632135f44b12ee&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8972c4b27145d0a922d92187c7ce4c&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -337,6 +337,18 @@
    "engagement": null
   },
   {
+   "id": "gn-ce7fb0a54865",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-10ae25d26733",
    "channel": "press",
    "author": "Mshale",
@@ -421,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5ae185303b11",
+   "id": "bn-918c129f7919",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a89718ed12f4f65b8632135f44b12ee&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8972c4b27145d0a922d92187c7ce4c&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-96ab004a6770",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "India confirms Alhind takeover of Indian passport services in UAE from July 22 - Gulf Business",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjRSMHJENS1zOGd0cUtkN0pHMWpZOEEtb1pvdTN1cnlLOUxSVGJMaUloeXdLallQTThpSWtKZEZxaGtneGh5aXdkcFFGMVlrbjdMOXJyU0NSVXJzS1Z2NWo4VjU2SHlnNUdoMUp6akNCVFVpYmlseGJ1aWh1cTlpRnRwZXZuNmNjVF9YM1F6ZXdlSzFTcERfT19aQjZHTmptZGhLT0VISGtDcXoxM25RSGYza0s?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
