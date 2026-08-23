@@ -1,25 +1,23 @@
 {
  "meta": {
-  "generated_at": "2026-08-23T10:10:15Z",
-  "total_verified": 272,
+  "generated_at": "2026-08-23T10:15:32Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 272,
+  "verified_mentions": 271,
   "sentiment": {
    "positive": 10,
-   "neutral": 233,
+   "neutral": 232,
    "negative": 29
   },
   "channels": {
-   "press": 267,
+   "press": 266,
    "official": 5
   },
   "negative_alerts": 29,
@@ -28,14 +26,14 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 78
-  },
-  {
-   "topic": "services",
-   "count": 60
+   "count": 77
   },
   {
    "topic": "gulf news",
+   "count": 59
+  },
+  {
+   "topic": "services",
    "count": 59
   },
   {
@@ -56,18 +54,18 @@
   },
   {
    "topic": "passport visa",
-   "count": 24
+   "count": 23
   }
  ],
  "mentions": [
   {
-   "id": "bn-1f144dde2f1b",
+   "id": "bn-46287d8b9a1d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ac70a728347b4972e78e6a0e901d8&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ac844889c467dacbd8786a3d2e3c4&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=en-ww",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -397,13 +395,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d38e9b02011f",
+   "id": "bn-b4f420c760a9",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ac70a728347b4972e78e6a0e901d8&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ac844889c467dacbd8786a3d2e3c4&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=en-ww",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
