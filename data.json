@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-25T19:51:51Z",
-  "total_verified": 269,
+  "generated_at": "2026-08-25T19:57:04Z",
+  "total_verified": 270,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 269,
+  "verified_mentions": 270,
   "sentiment": {
    "positive": 10,
-   "neutral": 229,
+   "neutral": 230,
    "negative": 30
   },
   "channels": {
-   "press": 264,
+   "press": 265,
    "official": 5
   },
   "negative_alerts": 30,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 82
+   "count": 81
+  },
+  {
+   "topic": "gulf news",
+   "count": 59
   },
   {
    "topic": "services",
    "count": 59
-  },
-  {
-   "topic": "gulf news",
-   "count": 58
   },
   {
    "topic": "flights",
@@ -61,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-1a155794e7a3",
+   "id": "bn-6dc91508c365",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8df2569a6048fdb9a1aae054799379&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8df38eacf9449fb7149172c4a6ff6b&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftravel%2fgeneral%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=15168623265525365136&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -361,13 +361,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a1436bd8226d",
+   "id": "bn-a92ecd5349f0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8df2569a6048fdb9a1aae054799379&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8df38eacf9449fb7149172c4a6ff6b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -481,18 +481,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1d543f64fcee",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-5b41ac567dbd",
    "channel": "press",
    "author": "The Times of India",
@@ -536,6 +524,18 @@
    "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEHSAcgBQVVfeXFMTVotX0xkSWdZQUVLQXhQT3FaaHNnUnRFTEcxbjZYazhjLU5XeVQzbjhNU3JGSWNsZGRVcE9ublVNNW1vN1dpREdheFU2YkFTNTdPSmJiLTc5WW16a3JoRWhyNFdpTG5Wa3BteG9QekVFOFZ2eUFwQVVjWmFOTnJOdWRLSzRNb25Send4dzZHVXRfLTl4X0FvOWhTZW1UUGNlTGg0RU9TUnBYaXpmckhIaU9xV3VWVXhWNW5CbGpGd0cyeEJxM1J2VWM?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-bd96955b9812",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
