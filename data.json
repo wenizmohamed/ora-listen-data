@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-26T12:41:16Z",
-  "total_verified": 274,
+  "generated_at": "2026-08-26T12:46:26Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,35 +12,39 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 274,
+  "verified_mentions": 276,
   "sentiment": {
-   "positive": 11,
-   "neutral": 232,
-   "negative": 31
+   "positive": 12,
+   "neutral": 235,
+   "negative": 29
   },
   "channels": {
-   "press": 269,
+   "press": 271,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 74
+   "count": 76
+  },
+  {
+   "topic": "services",
+   "count": 56
   },
   {
    "topic": "gulf news",
    "count": 55
   },
   {
-   "topic": "services",
-   "count": 53
-  },
-  {
    "topic": "flights",
    "count": 40
+  },
+  {
+   "topic": "business",
+   "count": 32
   },
   {
    "topic": "khaleej times",
@@ -51,12 +55,8 @@
    "count": 30
   },
   {
-   "topic": "business",
-   "count": 29
-  },
-  {
    "topic": "passport visa",
-   "count": 22
+   "count": 23
   }
  ],
  "mentions": [
@@ -373,13 +373,13 @@
    "engagement": null
   },
   {
-   "id": "bn-2e37b611005e",
+   "id": "bn-e2fbf10b8d6c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8edee9ecc14f58babca363e2232a2e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8ee01fe04b4f54b95b9bcaddba7d91&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
