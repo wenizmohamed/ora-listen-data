@@ -1,38 +1,36 @@
 {
  "meta": {
-  "generated_at": "2026-08-26T19:01:40Z",
+  "generated_at": "2026-08-26T19:06:56Z",
   "total_verified": 273,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 273,
   "sentiment": {
    "positive": 12,
-   "neutral": 230,
-   "negative": 31
+   "neutral": 231,
+   "negative": 30
   },
   "channels": {
    "press": 268,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 79
+   "count": 81
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "gulf news",
@@ -81,18 +79,6 @@
    "time": "Wed, 26 Aug 2026 09:01:44 GMT",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGxneGVhYWNpckxaT1liV1VIYTZUX1dKS0xwc3JCTzRqSnBUYWFLNHdhVTdWbGxQejRlalRkMVpCT21wVmlCRWdrWjVPck9wb3BoQ09ad2RoTVU1Y3hKdENRalc1WkVseC01WmoxSTYza0RnT3RnTVJER3RDRktoSXNxaE1hdHVVR3N1Z0YxMDR0RWZ4eGxBNkRKdU85YWlYZGQyWFhB?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-e7c6913e8cd7",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian seafarers stuck in Abu Dhabi's Mina Zayed return home",
-   "time": "Wed, 26 Aug 2026 06:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f380f48c34a4c8373f91342b84aef&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=en-ww",
-   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -397,13 +383,13 @@
    "engagement": null
   },
   {
-   "id": "bn-cd011c49fad7",
+   "id": "bn-d7208bd8e227",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f380f48c34a4c8373f91342b84aef&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=en-ww",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f394bd13a45f393faad7911a12ff7&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=en-ww",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -539,6 +525,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-cb6f38514826",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
+   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -591,18 +589,6 @@
    "engagement": null
   },
   {
-   "id": "gn-bba0e56ad7d3",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
-   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-4e05a06287f2",
    "channel": "press",
    "author": "News India Times",
@@ -610,6 +596,18 @@
    "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
    "time": "Thu, 05 Mar 2026 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-bba0e56ad7d3",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
