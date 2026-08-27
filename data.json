@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-27T12:23:11Z",
-  "total_verified": 273,
+  "generated_at": "2026-08-27T12:28:21Z",
+  "total_verified": 271,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 273,
+  "verified_mentions": 271,
   "sentiment": {
-   "positive": 12,
-   "neutral": 230,
-   "negative": 31
+   "positive": 11,
+   "neutral": 228,
+   "negative": 32
   },
   "channels": {
-   "press": 268,
+   "press": 266,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 32,
   "handles_active": 2
  },
  "topics": [
@@ -32,7 +32,7 @@
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "gulf news",
@@ -44,15 +44,15 @@
   },
   {
    "topic": "khaleej times",
-   "count": 33
+   "count": 32
   },
   {
    "topic": "khaleej",
-   "count": 33
+   "count": 32
   },
   {
    "topic": "business",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "passport visa",
@@ -69,6 +69,18 @@
    "time": "Wed, 29 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-50e51573433e",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian seafarers stuck in Abu Dhabi's Mina Zayed return home",
+   "time": "Wed, 26 Aug 2026 06:48:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902d66ad4f400c8129698f9086b3b3&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=ar-ae",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -325,18 +337,6 @@
    "engagement": null
   },
   {
-   "id": "gn-d0b52a92212b",
-   "channel": "press",
-   "author": "Outlook Traveller",
-   "role": "press",
-   "text": "Abu Dhabi Offers Free UAE Entry Visas To Eligible Indian Travellers For Three Months - Outlook Traveller",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWJJZTBoS2czSnV6RG1mV0pmRU1zQTVwOWlQOG5KY3ptTndNTmdvVDlLdHFfcDNWR0UwLTJvZmpVZXBITy1rTS13blJ3am5ObUtxelctdnFVYzJ1ZzVTZGx3c0wxc3FpZExqNGJnano1enNld1JKQnYyRE1nWVJvVHlBLUdDTHZLREl1YVctcUxMbk44dmNYTURXVkZQeGNBRDY1RDA4VlBlczNCZ2V6XzJ2dEVvbXhvWWRaX1NNbw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -397,13 +397,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3ce60850f9e2",
+   "id": "bn-c7c992b1b619",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902c2ffe9b4c8e9d8612346ed03253&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902d66ad4f400c8129698f9086b3b3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
