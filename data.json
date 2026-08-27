@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-27T12:28:21Z",
-  "total_verified": 271,
+  "generated_at": "2026-08-27T12:33:32Z",
+  "total_verified": 274,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 271,
+  "verified_mentions": 274,
   "sentiment": {
-   "positive": 11,
-   "neutral": 228,
+   "positive": 13,
+   "neutral": 229,
    "negative": 32
   },
   "channels": {
-   "press": 266,
+   "press": 269,
    "official": 5
   },
   "negative_alerts": 32,
@@ -32,7 +32,7 @@
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "gulf news",
@@ -44,11 +44,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 34
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 34
   },
   {
    "topic": "business",
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-50e51573433e",
+   "id": "bn-1d5f8fa8f70e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian seafarers stuck in Abu Dhabi's Mina Zayed return home",
    "time": "Wed, 26 Aug 2026 06:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902d66ad4f400c8129698f9086b3b3&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902e9c6c3c4a09b05daa94483a51e6&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=ar-ae",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -337,6 +337,18 @@
    "engagement": null
   },
   {
+   "id": "gn-d0b52a92212b",
+   "channel": "press",
+   "author": "Outlook Traveller",
+   "role": "press",
+   "text": "Abu Dhabi Offers Free UAE Entry Visas To Eligible Indian Travellers For Three Months - Outlook Traveller",
+   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWJJZTBoS2czSnV6RG1mV0pmRU1zQTVwOWlQOG5KY3ptTndNTmdvVDlLdHFfcDNWR0UwLTJvZmpVZXBITy1rTS13blJ3am5ObUtxelctdnFVYzJ1ZzVTZGx3c0wxc3FpZExqNGJnano1enNld1JKQnYyRE1nWVJvVHlBLUdDTHZLREl1YVctcUxMbk44dmNYTURXVkZQeGNBRDY1RDA4VlBlczNCZ2V6XzJ2dEVvbXhvWWRaX1NNbw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -397,13 +409,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c7c992b1b619",
+   "id": "bn-6fc2ed4c198d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902d66ad4f400c8129698f9086b3b3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a902e9c6c3c4a09b05daa94483a51e6&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-cb6f38514826",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -651,13 +651,13 @@
    "engagement": null
   },
   {
-   "id": "gn-06709618b452",
+   "id": "gn-effb508f70e1",
    "channel": "press",
-   "author": "The Tribune",
+   "author": "Gulf News",
    "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - The Tribune",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDNLSXBBdHlZa3pWVmxsSXlGMkcwdmVWcGZ5azdoSEwxRW1XYmhjWWZzS0ROQVB5bVZVQnJpeG5VczhiRDJfTEk5dkluaFlHeHdYTzNHV1BmTTFiNTI5cEFrX0Nob3RVcFkxT3FNWXRWbG9aS3pUbWxBUFRDVmlXOUwyUEctX3cwX0NVSHF3bmxyYkgxTmtWN18ya0NyVE1ZQjl4ejFDUjJ6eE9UQkpSbzB2Qk52UGVrQlVxOWxjNNIBwwFBVV95cUxNQ3Z2YUJOSHNEOEUzVUVOTTBhX1JNZmx0YWRxelNhN2ZkZ0JfMmQ4ZWUwNVV6SkV4dlM2Q3NLdFR3MmNoeEEwVElhdEJfTkE0NnUtdW11V2VYUEZaRUNueUkzMzRaczlnbzVXNU05eUhnejA3OWo2VkVRRG1uYnhOWm9vZ1k4Q3B2SmpvOFU5b1BnUlI3YmZqVkMxdUZxTm5NNXBFZ29tNmlkVEh4NV9vXzBKLVFEdzdwd0JLeG85amFURVU?oc=5",
+   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - Gulf News",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTZuTDZ4dWdheEEyeG1yYk9hMGxZNmdvUFIzSndCRzNNRUtwZTh0MzZ6Yy1adjdjUVg0LWYzUk01dEhNZUNwNnl2WnlQdmt5UVFsX200blFZc3k2eXdta1pFN1dRdnhoakJpYzRtc3hUOTY5QU8zRjZBT3dLai1zX2ozWkdrUkZjZHJsUTV4MUZ6X005dEdscFdKV0k4OE9TLWw4Z3cwSV9qT3hZYl95ZHVrUWxXbWRlczFMR09zbjhrMWPSAdMBQVVfeXFMTWxLVXV2Yld4bGxGbUJjWmFSVkF1VTMxeE14SFFXQmxySDBBajk1Zy1tMThET1JnaGpHbHBrWkc0SVlramNKQXc1UlozNmU5YjVoRXlfR3A0S3F5X254Tk85anVJeDR5WmFXOWprTnJWYzRKSWJ3VDk3bmZfdmd6a2xSSjJpVUtObFJtM2VRNjRzUTcyT1Rla0dvenZVdC1BN3FvQjlkaGQyaFVFeC1KR0ZRMFJCcXowem9VSlgtd1B3VC1RR19RMjBENG5KTDAtYkJpNA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
