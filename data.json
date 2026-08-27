@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-27T01:11:24Z",
-  "total_verified": 272,
+  "generated_at": "2026-08-27T01:16:33Z",
+  "total_verified": 273,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 272,
+  "verified_mentions": 273,
   "sentiment": {
    "positive": 9,
-   "neutral": 233,
+   "neutral": 234,
    "negative": 30
   },
   "channels": {
-   "press": 267,
+   "press": 268,
    "official": 5
   },
   "negative_alerts": 30,
@@ -28,35 +28,35 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 80
+   "count": 77
+  },
+  {
+   "topic": "gulf news",
+   "count": 58
   },
   {
    "topic": "services",
    "count": 57
   },
   {
-   "topic": "gulf news",
-   "count": 52
-  },
-  {
    "topic": "flights",
-   "count": 36
-  },
-  {
-   "topic": "khaleej times",
-   "count": 32
-  },
-  {
-   "topic": "khaleej",
-   "count": 32
+   "count": 46
   },
   {
    "topic": "business",
-   "count": 31
+   "count": 30
   },
   {
-   "topic": "passport visa",
-   "count": 23
+   "topic": "khaleej times",
+   "count": 30
+  },
+  {
+   "topic": "khaleej",
+   "count": 30
+  },
+  {
+   "topic": "express",
+   "count": 25
   }
  ],
  "mentions": [
@@ -93,18 +93,6 @@
    "time": "Wed, 26 Aug 2026 18:45:45 GMT",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5wNFU1YTZXYWdHZURBb3h4cHo5dV9BWGFxSkFxcUc1NGl1ZWF1YzFNbThDTUEtNUFhZHpjQnhDWXdjQldCMkNnZS1ja1haZkN5T1h2b0ktRHBvR1h4ZlZrb0VMejAzejNEeWNtOWl5T2VLMU0wUmRFMXJBU2ctTm9nV3ZVTjV0Q3paM3VRWXo5UW56YnR6YXhB?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-b6bf6ccd9b72",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian seafarers stuck in Abu Dhabi's Mina Zayed return home",
-   "time": "Wed, 26 Aug 2026 06:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f8ebd528d4cfeb06e96e82aa3d61f&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=ar-ae",
-   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -205,13 +193,13 @@
    "engagement": null
   },
   {
-   "id": "gn-c1a23955dfb7",
+   "id": "gn-5ae7368fb4d5",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "inkl",
    "role": "press",
-   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
-   "time": "Wed, 19 Aug 2026 04:43:08 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
+   "text": "UAE visa fee covered? Indians can save AED 285 on their next Abu Dhabi holiday — here’s how - inkl",
+   "time": "Wed, 19 Aug 2026 07:21:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclhaaktBQTZ1Znh2OWVsTXVOd2NpZ2NZcnlrNlZfeHZYMG5sdTlOeWVHMTJmMWVrWFpwYjcxTUFnejRsRzFHLXJyQ2ZFRDlRYng5WmhPT00zdE5ES0x3ckZsMldSY3BPZ3MxME9YWHhRR1hGZEpXUEY1NDlVbE9CRXNzYm5QenlsclVDYWZDOUwwcHBROWUtSnBKWWdiSFc0bDd0LW9PN0ZzWm94ZEt4dlhNWQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -325,18 +313,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1084ce3767f3",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "Abu Dhabi's free visa package set to attract more Indian tourists to UAE - thenationalnews.com",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2FtX1FnNnhCc0kteGZVZzktZHBrVGZpTUQ1QVJUdnFhVl8wWVE2WjF6cEVMV1JlcHNRX1J4V3ZjdHFBSHFuei1oZ1ZSTE1ra1pBa1N6Vnc3ZVprU0Y1dnpWSU5RQml4b1FscmExZ2F4eDVoWWNFRWo4a0ZwUmd3RzRkTHk4M3BURGhRY1RScWQ1eTByanZtTXZGTXFWamhPLVR1TVAxS0Z3cWV0SFBhay1XWmpEazAyYVl6UHBnSGsxUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -373,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-1bd59d219ab1",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
+   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-38b758c44d74",
    "channel": "press",
    "author": "Travel and Leisure Asia",
@@ -397,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-bbdf493df23c",
+   "id": "bn-7ead267d4d35",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f8ebd528d4cfeb06e96e82aa3d61f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f8ff30cf54487a672d6344da87a91&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -481,18 +469,6 @@
    "engagement": null
   },
   {
-   "id": "gn-ae8b1ac89e08",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "New passport centres for Indians in UAE to save money and time, says consul general in Dubai - thenationalnews.com",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOG9yQjdwUFcwS0FQenNmRjF5VkZzSDJNTHhJdmdnYzdLUlUxdlFBb0FOelBITEhNcThzaGtuSlFiS1pES0x0dzU3U3QwWUc2ZWpPN2tfdnJpTzB1VHIxUkk0MTFCbTVMV3BOT1JQQXh1VEdoWGJkNjVnNjUxY1EzUTk1R1gxNWdCVHpwdGhhOHdfQ01hdmhSLUVjUWVjYXhwSFQ4czgzRDRTdDY0RU5UNlNSMWpydjBqdFZxU1NVYVl3c055eFVPejZIYjBTOG14dlFWSVI2aW83c1FY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-93c2f6cde8ab",
    "channel": "press",
    "author": "Khaleej Times",
@@ -536,6 +512,30 @@
    "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0c0245e9e655",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "Dubai Airports Update April 1: Air India group to run 30 flights; IndiGo shares list of scheduled flights - The Times of India",
+   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkRqWTh5dE4xOEJfME80T2FLZ0pRUGg5TXlpT2dMbkVuU3h4WDdKamY1SFRMVXE5OHdSeVQzZXBBN2toVGdCTE1YYlpITEtzVHVCOE5YWk52VzE2cHdxRmFrU0lkQU1qb0NIVExlVnB5dzhJV29uYnBNaDU5YXJhMlRla251eGVZdEVqTW5WRVhWZzFJR3AxcWw3VWVTb0k1NkpKVkE5Um9OXzdLOHdOYU9FNkJKQVRzNWxmeVZBdmJWMDNacmlpaFV0SHI3WFZjNTBHMVVCeld5WFUtOXVJSjVtY1FEamdCdjl1ZFdsNzAxNU9xaURhLTRrMlQ3Z2s4QnJfdktJUU5Ga3Q5NXo4U0g4UXhUcExabTNpUkF4T3hWZ1JVZlRqNVhpemxPdnkzZ0hZR2xsVFlESUY5SkR2YjVtRdIByAJBVV95cUxPWWpNcnVfS1Noam1wQ1BMaFQ2eFZ4bmFHY0RaRTY0Y1k1TE5lelB0OGpUYTNqckZ0MmktX1BYbXdiSjUwSmEwalBJdE9qQktHd1Q1OEk0cXM3RDRXaUswTWMxb21ib2pCRmpQVGNGZGtlc1lENGswVjBlZU8zbXpjcHFNSUNrTVJBbEhHejR3UVd6VEE3Zl9RMm9PbHdReFJqWGlfUzZuaU5WcWlqdDhjVGVZSV95VG9YRWI1SWl2RmdoOWg5Y3E3UC1vaWwtMnhTcGxCdFdPaW91cUtqQW1IbG5oMU1tSVlnMEx3aExMWTBHSWU1OHV0Ul9rM3ZCQ09BX1IzV05KUF9UdGcwZFRFNERIY242NXdqQnRsa244d2hCbnZmUnJzVVQtQVJSQUVOcXE2d21faV9PMFFTaE1GYkZ1RGVuZEs5?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-4bc700a6e8e6",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1",
+   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8f8ff30cf54487a672d6344da87a91&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
