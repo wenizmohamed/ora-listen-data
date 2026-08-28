@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-08-28T06:03:31Z",
-  "total_verified": 275,
+  "generated_at": "2026-08-28T06:08:42Z",
+  "total_verified": 277,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,35 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 277,
   "sentiment": {
-   "positive": 13,
-   "neutral": 233,
-   "negative": 29
+   "positive": 12,
+   "neutral": 235,
+   "negative": 30
   },
   "channels": {
-   "press": 270,
+   "press": 272,
    "official": 5
   },
-  "negative_alerts": 29,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 81
-  },
-  {
-   "topic": "gulf news",
-   "count": 58
+   "count": 80
   },
   {
    "topic": "services",
+   "count": 57
+  },
+  {
+   "topic": "gulf news",
    "count": 56
+  },
+  {
+   "topic": "flights",
+   "count": 38
   },
   {
    "topic": "khaleej times",
@@ -47,16 +51,12 @@
    "count": 33
   },
   {
-   "topic": "flights",
-   "count": 33
-  },
-  {
    "topic": "business",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "express",
-   "count": 25
+   "count": 23
   }
  ],
  "mentions": [
@@ -69,6 +69,18 @@
    "time": "Wed, 29 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-24332cda8758",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian seafarers stuck in Abu Dhabi's Mina Zayed return home",
+   "time": "Wed, 26 Aug 2026 06:48:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9125ea94094ddc9f223f86f3958635&url=https%3a%2f%2fwww.newsbytesapp.com%2fnews%2findia%2findian-seafarers-stuck-in-abu-dhabis-mina-zayed-return-home%2ftldr&c=15052084848206941913&mkt=ar-ae",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -373,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7322b2b8f28f",
+   "id": "bn-a863fe081969",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9124b41044429ab6e5989cd36e6317&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9125ea94094ddc9f223f86f3958635&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -493,30 +505,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1d543f64fcee",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-9205004bb6b8",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Kerala-born Alhind to handle visa, passport & consular matters for Indians in UAE - The Economic Times",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdzNoTmd4LThXUHFDQVVjOUVUZFZOWEIySlFIaDE2YmNWajZwMlpKYkI0cklUMm9WN2dYalVkZ3lGN09QVXVVZzR4Nzlfbjg2OVItd2ZzLTQ5NjdEYTVNM1N0YV9LTXFRdUVIWTcyNi1oUVctcm5ocDZ5bUk1OWRrYnhETTV6UDJKREswNG9XcW8tZjVvcjRoNUtiRDlVYlJFSWNVdGVYbzF4ZENNRFByMVRjeEdhZktVZEJhaU1nSlpZVDZOcWpzYmNnREdCZkRPamR0cGNXNXNvTERNeHpnQ0dvSzQ2UdIB6wFBVV95cUxPak5ZdHhwelhXLXRLUmZMNEl0enM5bXZ2MlpPVDEwYUE1MTBSeUp2cWZSWkFfSXViYTk3ckdsMnVCa0hWR2pNNGRwOTYzZGxrMnE4YzgySkJiT2c4ZzNHUEhhUE4yTWdIT1JFdXc1NTQzMTRxY0owN09XZ2plVTZBaGJSeVVxeGNIT2pwWGhrcEJ0bWQtdVZ3Q3FPeF9JQm96Z0JCSnFPYVFHV3VNZWFMZ3NDd1RhYVZ6Wnp3LXFJNkJoQUdpcXd2QXpwWWNpVFlmVGFIcGVCd2FXYVJ3STJhMVVuNGEzT1pzd29j?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-5b41ac567dbd",
    "channel": "press",
    "author": "The Times of India",
@@ -536,6 +524,18 @@
    "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-aec10aefe9dc",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1",
+   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9125ea94094ddc9f223f86f3958635&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
