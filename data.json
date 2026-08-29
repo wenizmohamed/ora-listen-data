@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-08-29T13:26:04Z",
-  "total_verified": 280,
+  "generated_at": "2026-08-29T13:31:15Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 13,
-   "neutral": 239,
+   "neutral": 238,
    "negative": 28
   },
   "channels": {
-   "press": 275,
+   "press": 274,
    "official": 5
   },
   "negative_alerts": 28,
@@ -30,15 +32,15 @@
   },
   {
    "topic": "gulf news",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "services",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "flights",
-   "count": 40
+   "count": 39
   },
   {
    "topic": "khaleej times",
@@ -50,7 +52,7 @@
   },
   {
    "topic": "business",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "passport visa",
@@ -383,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b6739e832d24",
+   "id": "bn-cff1f3c173c2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92ddeafc2d493f95a0cc436d223ca5&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92df219ac44976b30859f597e6183b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,13 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-651cc87bb80b",
+   "id": "bn-d665c76b9d9e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92ddeafc2d493f95a0cc436d223ca5&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92df219ac44976b30859f597e6183b&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
