@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-08-29T13:10:31Z",
-  "total_verified": 281,
+  "generated_at": "2026-08-29T13:15:41Z",
+  "total_verified": 278,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 278,
   "sentiment": {
    "positive": 13,
-   "neutral": 240,
+   "neutral": 237,
    "negative": 28
   },
   "channels": {
-   "press": 276,
+   "press": 273,
    "official": 5
   },
   "negative_alerts": 28,
@@ -26,19 +28,19 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 80
-  },
-  {
-   "topic": "services",
-   "count": 59
+   "count": 79
   },
   {
    "topic": "gulf news",
    "count": 58
   },
   {
+   "topic": "services",
+   "count": 58
+  },
+  {
    "topic": "flights",
-   "count": 40
+   "count": 39
   },
   {
    "topic": "khaleej times",
@@ -50,11 +52,11 @@
   },
   {
    "topic": "business",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "passport visa",
-   "count": 25
+   "count": 23
   }
  ],
  "mentions": [
@@ -383,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d33a95e9d65d",
+   "id": "bn-58c0d705731f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92da46725f4995b7a097b859a330d5&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92db7cee2940e5946fbb703da45856&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,13 +529,13 @@
    "engagement": null
   },
   {
-   "id": "gn-143d93cefe35",
+   "id": "bn-0ac58ad7ef83",
    "channel": "press",
-   "author": "The Economic Times",
+   "author": "Bing News",
    "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
+   "text": "New passport fees announced for Indian expats in UAE from July 1",
+   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92db7cee2940e5946fbb703da45856&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
