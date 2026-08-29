@@ -1,34 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-08-29T13:05:20Z",
-  "total_verified": 280,
+  "generated_at": "2026-08-29T13:10:31Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 13,
-   "neutral": 238,
-   "negative": 29
+   "neutral": 240,
+   "negative": 28
   },
   "channels": {
-   "press": 275,
+   "press": 276,
    "official": 5
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 78
+   "count": 80
   },
   {
    "topic": "services",
@@ -52,11 +50,11 @@
   },
   {
    "topic": "business",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "passport visa",
-   "count": 23
+   "count": 25
   }
  ],
  "mentions": [
@@ -385,13 +383,13 @@
    "engagement": null
   },
   {
-   "id": "bn-543252fe3448",
+   "id": "bn-d33a95e9d65d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92d90eca5547da9761d1e20fa68b39&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92da46725f4995b7a097b859a330d5&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -529,13 +527,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3fe1142f31e8",
+   "id": "gn-143d93cefe35",
    "channel": "press",
-   "author": "Bing News",
+   "author": "The Economic Times",
    "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a92d90eca5547da9761d1e20fa68b39&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -615,18 +613,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "News India Times",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c251bd7aa2c0",
    "channel": "press",
    "author": "Outlook Traveller",
@@ -634,6 +620,18 @@
    "text": "UAE Indian Consular Services To Be Suspended For Five Days From June 26 - Outlook Traveller",
    "time": "Thu, 25 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01mMmRxVnIxMk9BZWxwWi1vbmZyUElKZmozMzg1TFJnQnhwUzcxREJxZV9YREZYNHl6ODdjRGNNMWp2R29WOVBpdlFnSkdqNmYxcDc2TUdabmdlZGVLcWVHc1RXZ0hPcmFINXBJNk9ySzBKOXRSWlZKZ0lyNlcxbnRsSDBRQ3FxSXNXYzBKc0dnelFCZ3pva1NYVXUxNmc5Y1FXTmFrOGFaZVJuV2c?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "News India Times",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
