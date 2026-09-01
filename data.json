@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-01T10:28:18Z",
-  "total_verified": 277,
+  "generated_at": "2026-09-01T10:33:27Z",
+  "total_verified": 278,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 277,
+  "verified_mentions": 278,
   "sentiment": {
    "positive": 10,
-   "neutral": 239,
+   "neutral": 240,
    "negative": 28
   },
   "channels": {
-   "press": 272,
+   "press": 273,
    "official": 5
   },
   "negative_alerts": 28,
@@ -347,13 +349,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7388c11bd985",
+   "id": "bn-a73082540510",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96a8c1fbaa49f9b34ebfbed38eb3ab&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96a9f6dbdd4485a215f9663ea09b38&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
