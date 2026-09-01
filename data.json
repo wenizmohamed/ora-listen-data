@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-01T11:45:44Z",
-  "total_verified": 275,
+  "generated_at": "2026-09-01T11:50:54Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 276,
   "sentiment": {
    "positive": 11,
-   "neutral": 236,
+   "neutral": 237,
    "negative": 28
   },
   "channels": {
-   "press": 270,
+   "press": 271,
    "official": 5
   },
   "negative_alerts": 28,
@@ -31,11 +31,11 @@
    "count": 75
   },
   {
-   "topic": "services",
-   "count": 60
+   "topic": "gulfnews",
+   "count": 59
   },
   {
-   "topic": "gulfnews",
+   "topic": "services",
    "count": 59
   },
   {
@@ -52,11 +52,11 @@
   },
   {
    "topic": "business",
-   "count": 26
+   "count": 25
   },
   {
    "topic": "passport visa",
-   "count": 22
+   "count": 23
   }
  ],
  "mentions": [
@@ -349,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-100e7b42c47f",
+   "channel": "press",
+   "author": "connectedtoindia.com",
+   "role": "press",
+   "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
+   "time": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-01c86496996b",
    "channel": "press",
    "author": "The Indian Express",
@@ -373,13 +385,25 @@
    "engagement": null
   },
   {
-   "id": "bn-4af8afcec8c0",
+   "id": "bn-674d074f9b83",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96bae7c8724bedaae9cb1836d98b2e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96bc1d21d548cdbcf917ef3df1ccc1&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cb3c08c175d4",
+   "channel": "press",
+   "author": "gulfnews.com",
+   "role": "press",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - gulfnews.com",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -440,18 +464,6 @@
    "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcmtrb2hmZ1J5MmdsMGMwdDJjVjRjaDVSckJTOFdrenlVZ0NaUFItM0pydy15RnlHYVZkcERjeThFdUxpNlVTUXROMXNLRGI3Q0xiSUNTS2cta1Zhd0tVNFdFMlBlRjl2Z2lrMnNjYWZCcUpfWFdjVFR3bmFaN1l3OG13YnI4THJVTk1FM1RKbDAybVhzYWFZWFZKSm1sVTc2TVc1QnEtcWwxZHNFQ3VodjFHbm1OTkdDS3NzNkxmallWQjI4VG0tWXR6MWlsWnVSeWdmTVVqZXg2bEJMY0YxM1BIRk0tSWhNdWROLWRMalpycENIc3ZWWV9iazYwUFJyYnlBZ0c0UFRXZTNsR3g00gGUAkFVX3lxTE5sc0I3UU94TXprQkZoSE5paktYRlJCSjZ6VktZcE9VUjBPUGhlVGNXVzluSTd0VGZ6S2xvNHU1Q0pmakx2a3AxOEVxME0tVzVSWVNnWnowUmZ2dGtNZVZhaHFtd3hvaExPbTJsU08tY294TUx6aWwyeGJweHFITVg0c1VkTGdLZUlWQXgyV29pYmFrYTh6X0d1S09pNEp0Zl9RN3ZrNElrTUMxR1A2bXNtdTU1QXNFVGl0TDlwRG9YenByZ1lvc3hpSVo2bUJGTHF0NFhqenM4Ml9FQ1p4TjFfaEpPeTZNUE9DdXNVQktpTDhHb1lkOEZBaG45cUdTa2NUQXp0QWkzN21QUV9qUjZVa0tNdA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d221204dbc25",
-   "channel": "press",
-   "author": "ETV Bharat",
-   "role": "press",
-   "text": "Indian Expat Killed In Gas Cylinder Blast In Dubai Car Showroom: Report - ETV Bharat",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpsanV6VWhvcnE0SzlxOFlqOC1oSWYwdERDZXJBUVYzUUN2bFlCZko0SktfWGhzT1JCcGFSUHQyRmltWWVocGZQRWZVckF4UURMZmpmU1otLWFUWFIteGdaX3VTaUdscFE4YlBlYUdPNGEycHl1NC1Fc0xmSmlPd2NYTFJfRHd6V203WEh5MEJpTlZTbFowVEU5alFwd3VwU201QjhWdzdKRmZ1V0ZxRXJZZzJvNkoyMG1yUlhHeG1uNnR3TmV30gHMAUFVX3lxTFBzWGh1SldpT0N3ejVEcUl0MXNkcXZNNTdtTExUY3JmMFBWOVNlOS1mQVhSN1JGQ0lHdjZzRmpjWGdWX2kwbWZxYXpxTDVHWUdFY2IzSmt6YUt2S0NDcmI0S1dmbDN3Q0dSMk9iVkhwQmNoT2g0MTQ2WDk4UGpCcGVmVHJrYzY0elNjMGtUZHVSR2tqUV9Hb2tIUTV4enl1NVZsQk9KRzJON1VwY3ZPZ1E0U1kwdG5iMDkxV2pmNGNuWFM0Q2FBNlV6bWpibg?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-18d1924e4693",
-   "channel": "press",
-   "author": "Business Today",
-   "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
