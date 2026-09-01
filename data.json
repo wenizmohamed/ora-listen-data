@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-01T10:48:57Z",
-  "total_verified": 277,
+  "generated_at": "2026-09-01T10:54:07Z",
+  "total_verified": 278,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 277,
+  "verified_mentions": 278,
   "sentiment": {
    "positive": 10,
-   "neutral": 238,
-   "negative": 29
+   "neutral": 240,
+   "negative": 28
   },
   "channels": {
-   "press": 272,
+   "press": 273,
    "official": 5
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
@@ -55,8 +55,8 @@
    "count": 25
   },
   {
-   "topic": "passport visa",
-   "count": 22
+   "topic": "express",
+   "count": 25
   }
  ],
  "mentions": [
@@ -68,18 +68,6 @@
    "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
    "time": "Wed, 29 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-5c3c863c36f4",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "Indian Mission in Dubai Facilitates Repatriation of Elderly Indian National to Srinagar - News On AIR",
-   "time": "Wed, 27 May 2026 10:42:25 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFUV2tMZHdtTGlyUVUxaVROSlFNVUhtaWFkSlBBZy1naGFpNHpqZmFjYWN4anp6M0FXOENVUlFHb0RlcmUxOUZ2dVFJaUNoMXRnaDFiYnVTMlJBVUF3SG5xWTRqc3FzVHNZYU9ETm83RXM3YW51SFJ1c3Q1ejhnSUt5VVF4aE1ZMlNBekN4ci1hWDRvVko4bDJQWDhuOFNPV294eFNFbkpUZE5SNkRkWTg1NA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -313,11 +301,23 @@
    "engagement": null
   },
   {
+   "id": "gn-100e7b42c47f",
+   "channel": "press",
+   "author": "connectedtoindia.com",
+   "role": "press",
+   "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
+   "time": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-01c86496996b",
    "channel": "press",
-   "author": "indianexpress.com",
+   "author": "The Indian Express",
    "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - indianexpress.com",
+   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
@@ -349,13 +349,13 @@
    "engagement": null
   },
   {
-   "id": "bn-cce3014ac025",
+   "id": "bn-14fcb8dfbb5f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants",
    "time": "Wed, 05 Aug 2026 11:10:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96ad98484f40fa99dbbe34332457a3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96aece068a4513a6e4899016111c1f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services&c=4379875563133784230&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -411,9 +411,9 @@
   {
    "id": "gn-9eea68b2e22a",
    "channel": "press",
-   "author": "indianexpress.com",
+   "author": "The Indian Express",
    "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck | World News - indianexpress.com",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck | World News - The Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2OA?oc=5",
    "sentiment": "neutral",
