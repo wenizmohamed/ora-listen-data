@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-04T10:30:26Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-04T10:35:36Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 15,
-   "neutral": 235,
+   "neutral": 236,
    "negative": 29
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 29,
@@ -30,31 +32,31 @@
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 58
   },
   {
    "topic": "services",
    "count": 50
   },
   {
-   "topic": "khaleej times",
-   "count": 33
-  },
-  {
-   "topic": "khaleej",
-   "count": 33
-  },
-  {
    "topic": "flights",
-   "count": 33
+   "count": 35
   },
   {
-   "topic": "business",
+   "topic": "khaleej times",
    "count": 32
   },
   {
+   "topic": "khaleej",
+   "count": 32
+  },
+  {
+   "topic": "business",
+   "count": 31
+  },
+  {
    "topic": "indians",
-   "count": 24
+   "count": 25
   }
  ],
  "mentions": [
@@ -85,9 +87,9 @@
   {
    "id": "gn-6bb518009f70",
    "channel": "press",
-   "author": "The Economic Times",
+   "author": "economictimes.com",
    "role": "press",
-   "text": "Seven Indian seafarers repatriated from Abu Dhabi after 11 months stranded on MV Sea Star 2 - The Economic Times",
+   "text": "Seven Indian seafarers repatriated from Abu Dhabi after 11 months stranded on MV Sea Star 2 - economictimes.com",
    "time": "Wed, 26 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFZuOTAxY0hMbkplWGdmTXpMQ2VnaEZXbXc0VXhRZXhHQ1gtZFpicEhKYWwxdVZCMEI2TFUtS3kzUFFwT2haV3V4NEZXTnBUc3E1TnN3cXFyRFBYTU1nQ3VxS2R6dXRRYUtWdmNMZC1yYXdEOVNMeXBnVnE0RTgxZmxnQ05ZVzBwbzVvTXlXRXNkbVgtQkNDUkdpZmh2WDZ5N1FKQ09Uay1iVDJWa2ZzbExfbC1ReGZXUlF3Ylppa1MwSFBMWm9zeGx2OGlTVEFPXzBlQms0OWtxUmg2aGtCd2l3YUVqQWRjM1BoWGdQUktDcmRGV2Rj0gH8AUFVX3lxTE9qVkJudHlaRVNtYzA5OUE0Y18yeWZna3hRNGJFT0dIN0JNVk9OV3lsaFpaUHJvZGVNdTNBR2dDcDZ4MHd2VXFrN3p0RW9FclVvRkZ2M0Q1Zy1vNlk4eUpCUEQtQUxfajFtYTBfcEljS2E1UkpEN054cG1zVWduU3ZQdVIyRm5rUnZqVmVXeU1VdzdIWFRVMDhiY2RxREtnLW5vY200SXVIand2aWMzc0Q3elBKejM3QWFGV3FiSDJfbkwteVdQcm1Qd0IyX0VweXIxQTgzLWZlZUY4dUJGZEd0Rmk5aERnMDBKcXdQRFQ4OGV1YUNLbHdkUnJpRA?oc=5",
    "sentiment": "neutral",
@@ -217,9 +219,9 @@
   {
    "id": "gn-e3b0e0e2f79e",
    "channel": "press",
-   "author": "The Economic Times",
+   "author": "economictimes.com",
    "role": "press",
-   "text": "UAE visa fee covered? Indians can save AED 285 on their next Abu Dhabi holiday — here’s how - The Economic Times",
+   "text": "UAE visa fee covered? Indians can save AED 285 on their next Abu Dhabi holiday — here’s how - economictimes.com",
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRm16LXZfUEowdWdhYzhwZnJndHFFWkJPZ0tsZy1hem1UcG93cGs3eHRPWGdBbVNncnVhZjFPdUw3amszcHRuUVYzbVFWb0ZQRlJicl81b0V1aklja0NhenphQmJjeFVwSFIwZDdXSzk5Y08xS3BGYWFrU09taDctYXJBUDlnUlpSQlNvQzQzaXVoVzl5YnNmeHdGQVBHMEtJQTYyY3c5SVVYQTNsY1VGdWc3SzZnTGx4OE9YUzJGdGJiNmdCRFZLQjNxb1FiYk8yX2NFeDBkX1hRWm90anNab2JpNURmd9IB6wFBVV95cUxNRDN2enowR2JyMmV5T21odmZycGFRdzhRdGRiQlVIUW1sLVVFUjFWMExiRm1xSTNSRG90TzZTRmVvdGRta1pwZTJwR2JqOUtBbi01RE1nYlE5NkpNQlotbDB2aGlEU21jcWNRTHFDZk5meFN3NS14TVBzZnA2b011WGxLUUFqOXpFNlJabGE5bmdPWC1XZlNVWDY2UVA2UWluSE1PRHBSQm8zSWpKX2FxSkdFWUJySFpXNnpPb1ZMMnNlV0dpVHZtT2FTcWJKajRBZFZXWGY0NVhEdVdwa29RaUpWWFhtNHZ5ZEo4?oc=5",
    "sentiment": "neutral",
@@ -318,18 +320,6 @@
    "text": "Flying to Europe this summer? EU aviation body issues warning over GCC flights - Gulf Business",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFEQTYya0V2U3hqUU16ajY0ajJCSkpSdE9TVzRxcnhxTDIzZzU5T0ctd2EwcUlSdHFwem1PbW9QZW56dEVQZ1RnVnBtb3NHaC1PNEJ1WVo2Z2Qtb2l2RUxKSThiOW1xRV9hTGpPZlk3VDgwdGxxZWRneDdlLWtWXzEyUUJaRmhlbXAwMTdQcDNrRkUwRHB1RXE2YnBSS21aX09YNC1CUm5OMkZuR3c3dkN5M0xjaVpo?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-8bf94df61db0",
-   "channel": "press",
-   "author": "Business Standard",
-   "role": "press",
-   "text": "Abu Dhabi offers free UAE entry visas to eligible Indian tourists: Details - Business Standard",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdE5nU0tvVUNET2YtYTdfMFRsSy1RdWhqM0RqcXhvb2xtSjN0cGNQQW94WGM4aGhxYXlTNjh1VngzV1h4M0NKc2JIa19ORFVlQ1JIS1BSX1Z1cWkxUVF3U2FnOXN5dGFIUzJ4eC1KSzAtVDE0SmxfTkVrMkJ4TWVrQXhfNFVIazhYUEowS2F0M1hBU285eURfSHhhU3lnUHZZZ0dKdnNoZXdBTlM0UEtzSExvNkRKZk5OQXNXVGRqRG9TU1M2QXlucVl1cDVEWVVBMm0yUTN30gHbAUFVX3lxTE1qOWFhM3ZkQmtPbFdfc2RIc25JRU5xM0JYRVQtaFZxcnl2WE9CVGVMUjZOclVJLUs0ZGo2SzZ5Q00xNC1kNlNOUXFLNVFNOE9qdFhmNllBbzJfLWRabktkUVVOQko0TDZwWmZBc3dUcWkzWmxhOHNSS1BoYThZWWp6TTRqOElLcThaUy1vaXh6bnRZS1dyUkw3azBWSUFUdGNBakdPR3BYbkhzUFQ3a3ZZanlXZEFPRER3bVZNc3ljTS1MRmdNRFRMV2dnLUxveklrOGUxalN5Sm5pYw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -443,18 +433,6 @@
    "engagement": null
   },
   {
-   "id": "gn-e74a5c79b2dc",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - Gulf Business",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjFYLUVpR3BMMHlCeDBLSVpiRWpoTUNWbzR1emYtLUJMOVJaWEVwdTk2b2p1UHlwM24tNDdWOXY1MkUwT0tJNmZXYkpnR1NuSTNCa3A5X3B4dGZWRlhuWUdsdUlZeXY1cTNLeDlfV3laUkRnaWJPT0ZySC0tZzJYdjh5MDB2eHAxTFpzMzQ1OURLck5rX1A5d3ZOdkw1RTkzRjJqdUw2b0tBVl9mNXBfVXRGWQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-b02ce745eb25",
    "channel": "press",
    "author": "Inshorts",
@@ -481,9 +459,9 @@
   {
    "id": "gn-4d977509322b",
    "channel": "press",
-   "author": "hindustantimes.com",
+   "author": "Hindustan Times",
    "role": "press",
-   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - hindustantimes.com",
+   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
    "time": "Wed, 02 Sep 2026 08:43:07 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
    "sentiment": "neutral",
@@ -534,6 +512,30 @@
    "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-46af1a218f1f",
+   "channel": "press",
+   "author": "curlytales.com",
+   "role": "press",
+   "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEHSAcgBQVVfeXFMTVotX0xkSWdZQUVLQXhQT3FaaHNnUnRFTEcxbjZYazhjLU5XeVQzbjhNU3JGSWNsZGRVcE9ublVNNW1vN1dpREdheFU2YkFTNTdPSmJiLTc5WW16a3JoRWhyNFdpTG5Wa3BteG9QekVFOFZ2eUFwQVVjWmFOTnJOdWRLSzRNb25Send4dzZHVXRfLTl4X0FvOWhTZW1UUGNlTGg0RU9TUnBYaXpmckhIaU9xV3VWVXhWNW5CbGpGd0cyeEJxM1J2VWM?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-364f6fe147de",
+   "channel": "press",
+   "author": "Mangalore Today",
+   "role": "press",
+   "text": "Indian Embassy extends suspension of regular Indian passport and visa appointments in UAE - Mangalore Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOem5hOUFtR3JiWWJNUk1iY2lUTTZQTmZXbmQyaHFrRnZ0MDB0UExNWGpEd1N0TkxWSjJkaExyZlpfb1lHSHB0d3pYbHdaZjNxLTRmMGRxT0xGX2RDQlJKUkUyckVhUUV5dV9KS2tVTHdaUlRPWXdveUN4b3VzY2RLS2JBZjBOTGxIUlZPVFdoMXFwdTkweE9SRkxUWmd2UkpScFc5RGEtN1BwNkkwb1dRSWRHS1Q3QlVGOElfT19naUpXTzYtc0ZkTFhxbzR2OHc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
