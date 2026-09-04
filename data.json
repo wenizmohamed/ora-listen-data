@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-04T15:14:32Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-04T15:19:42Z",
+  "total_verified": 277,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 277,
   "sentiment": {
-   "positive": 18,
-   "neutral": 232,
-   "negative": 29
+   "positive": 19,
+   "neutral": 230,
+   "negative": 28
   },
   "channels": {
-   "press": 274,
+   "press": 272,
    "official": 5
   },
-  "negative_alerts": 29,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 65
+   "count": 62
   },
   {
    "topic": "gulfnews",
@@ -44,19 +44,19 @@
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 29
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 29
   },
   {
    "topic": "business",
-   "count": 28
+   "count": 29
   },
   {
    "topic": "indians",
-   "count": 24
+   "count": 25
   }
  ],
  "mentions": [
@@ -265,18 +265,6 @@
    "engagement": null
   },
   {
-   "id": "gn-406eb9b1737a",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport delays in UAE: Delhi court cancels Alhind services, orders retendering - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWt3RnBRYzVudmNQX1p2Yllmc19HQnhKdXJlTFowV0k3emdSeTlsTExaTmRDYmRKYlRKMHZOdFUwY3FqVG9RMkQwam9FZy1nMFJGM0stR0ROZmw1ZU9YUzdIYnV5bU1GRWc5NTd5MGN3QWNOZVdXN2VxWlNZblFwMkNWblhQNmRBRUNDTlhtTTNxLTN6NkZJWTNDWTNYOHV2LURhZlJaOE11TFnSAbMBQVVfeXFMTmU1bm14SE9WZHEzSDBQV21BcUl0OHdlbG00bVJmTkRsOUdFQ3ZtT0JUbzJzNHdhZ3ZSQ1k0Sy1haXZjMEhFeUk2R0VEUUlhRjcyMTg3SVdnQTBCQjVQVTgzSEJmSTdqdno0MThZRmdKdGF3LVk4UXRUZ2FfbFIzbWpqdzhsNTlJS3hkTzVGTVZlX3F3VG5NMUtnMEgxTldnNG1WM0hja18xcklKeVRlbVBOdWc?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c72da6bc4351",
    "channel": "press",
    "author": "Khaleej Times",
@@ -385,13 +373,13 @@
    "engagement": null
   },
   {
-   "id": "gn-44eddfdbe289",
+   "id": "gn-b036f2836ef7",
    "channel": "press",
    "author": "Gulf Business",
    "role": "press",
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhXbDdWWl92ejdwaGhIMjNuaFk0ZXE2cEJIOGRoSmxtR2hYQmVZMElTd3hvTVd2MkhoSGlXSzR3V1ZqNmdlVmo2dkRCN2dJWnYxZHVlLUdoa2VHVFlKNzZHZmxKZ1BsY3dKa1lGQzNkeVJ6eWZBQ2NBSC1LU1pILVh5b0gxLTVVN2gzLTk5aEtxb3pkd1Q5dTJXc3YtSm5BUFZKUGFGaFFqWURl?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWoyckdEOUhQTUYtbDB5OFRBWmFRSnZyS1VnaFlrZTRCNElIWW9pLVJpUlVDX28yV29RQjBBY1V2V21GYjFYOUdIMW9udUFmekZmcENmdXBReERWWEU4MEhpbTRuMlRfdUVNU0NDUHZBN1RhaWxMZGdQUWw1dU1UM0tmZ1M0aktBaUhmc09QLW1XWlp6ZjBoMlJJMGM0anBTaXdRZlpaRkE0aG8?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -488,6 +476,18 @@
    "text": "UAE flight update: Emirates, Etihad, flydubai, Air Arabia cancellations as Iran tensions escalate - gulfnews.com",
    "time": "Wed, 02 Sep 2026 04:40:17 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTTlUS0xRR2dxNDdTa0wyQldtX05DdDdPRHJkWnloeDkyRDRIQ2VBc1RfcFl1QmlRUGY1WlRUR3VBdmJNRmtHUFNsUHhvOXhCMjNqOHNlejZyTS04S19PUGRGMVdhTXp5blJjR3VGQVRSbDhfZkppWWJGSzJKZUtNX29SSTlrbEZmaDI4VlB2VG5UNzIxU3FyMjNQVjBLdFlJa2FmZG5CZjZDM1FPWHVZRk53TDlsbDdtdkwwYnFXSUJBS1MwclhwbGlLeE5QT1NzSjZJRUZqZnh1MmZG0gHvAUFVX3lxTE5KYUtyQW83NEdCbUxHc2I1Q0xwM21Xa3U4MGFrdW5JYzF1ZTR2VXpMQS1zRzRlZXVkZDNKZkZEUTJTQndFZHFZTVhYWjVva2dVSjVZWUx5dzd6QVFNOGF2MWRvejQ2ZnhHTEpiZERyLThMSXM0QnlXVGFfUmpWaUZYZEdLTmRHUW9qS05MYlQ1cjdUUzhBMVZWN2Nkd1UwdkFwYUJ6dEt4WUZRRXkyRjNuSTFRbkcxVUR1ZnEteFNzME0xNzhYb0ExN0F1VGxCSmtXOExtR2NoZW4xb1U0Z0xMSVV5VkhsZ3hHVURGUWcw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-93c2f6cde8ab",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
