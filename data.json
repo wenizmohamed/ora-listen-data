@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-04T09:38:49Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-04T09:43:59Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 16,
-   "neutral": 233,
+   "neutral": 235,
    "negative": 30
   },
   "channels": {
-   "press": 274,
+   "press": 276,
    "official": 5
   },
   "negative_alerts": 30,
@@ -36,14 +36,10 @@
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 47
   },
   {
-   "topic": "khaleej times",
-   "count": 33
-  },
-  {
-   "topic": "khaleej",
+   "topic": "khaleejtimes",
    "count": 33
   },
   {
@@ -52,11 +48,15 @@
   },
   {
    "topic": "business",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "indians",
    "count": 24
+  },
+  {
+   "topic": "passport visa",
+   "count": 21
   }
  ],
  "mentions": [
@@ -255,9 +255,9 @@
   {
    "id": "gn-406eb9b1737a",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian passport delays in UAE: Delhi court cancels Alhind services, orders retendering - Khaleej Times",
+   "text": "Indian passport delays in UAE: Delhi court cancels Alhind services, orders retendering - khaleejtimes.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWt3RnBRYzVudmNQX1p2Yllmc19HQnhKdXJlTFowV0k3emdSeTlsTExaTmRDYmRKYlRKMHZOdFUwY3FqVG9RMkQwam9FZy1nMFJGM0stR0ROZmw1ZU9YUzdIYnV5bU1GRWc5NTd5MGN3QWNOZVdXN2VxWlNZblFwMkNWblhQNmRBRUNDTlhtTTNxLTN6NkZJWTNDWTNYOHV2LURhZlJaOE11TFnSAbMBQVVfeXFMTmU1bm14SE9WZHEzSDBQV21BcUl0OHdlbG00bVJmTkRsOUdFQ3ZtT0JUbzJzNHdhZ3ZSQ1k0Sy1haXZjMEhFeUk2R0VEUUlhRjcyMTg3SVdnQTBCQjVQVTgzSEJmSTdqdno0MThZRmdKdGF3LVk4UXRUZ2FfbFIzbWpqdzhsNTlJS3hkTzVGTVZlX3F3VG5NMUtnMEgxTldnNG1WM0hja18xcklKeVRlbVBOdWc?oc=5",
    "sentiment": "neutral",
@@ -267,9 +267,9 @@
   {
    "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - khaleejtimes.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
@@ -351,11 +351,23 @@
   {
    "id": "gn-3c6eaf5bd905",
    "channel": "press",
-   "author": "ddnews.gov.in",
+   "author": "DD News",
    "role": "press",
-   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - ddnews.gov.in",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - DD News",
    "time": "Wed, 10 Jun 2026 04:54:58 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-8cf71b49ba2d",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "BCP upgrades Dubai office to branch after DFSA licence approval - Gulf Business",
+   "time": "Wed, 08 Apr 2026 21:42:24 GMT",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2thellWdlZDQkpmakZ2OWt2djZmMmg5OGJLamRqVUFnbmplTGtsUlR0RlhfaWVxdFkzQVBBb1ZPUnJMdmt2TVdmbEVMT2FxNDZ3Z1ZleFY1VldwLUpUa1dweDB4djZ5TEJSNldIbE5NSU9US3doVHk5eEs0SWZxWEtrOGMwVjUyU0pnX1k2WVBaY1lKV3dkWGtFSjdvTUJS?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -375,9 +387,9 @@
   {
    "id": "gn-f448775ba783",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - khaleejtimes.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
    "sentiment": "neutral",
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-107c9761ae12",
-   "channel": "press",
-   "author": "aninews.in",
-   "role": "press",
-   "text": "Free UAE Visa For Indians: Akbar Travels Collaborates With DCT Abu Dhabi - aninews.in",
-   "time": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUl3c2czQWk4SWlzQlNNMG8yU0QwTGg3aEtld0F2dW5oWUpDdUo5VnlkWkp3c09KX3gwNVBXcGFUQzljZlpBOWNvR2RYNEJuLVdwTmx4c0RuYmM4Wnk2Y2lHbWhta3Uxa3lKblBVcDRYQlhSZmZwdm9zWVIxSE1UX3dtR3laVlhIUWVGclNLbU5XQzJQYXJZdWJqQkx1TGtZeV95bk1WankxNk5VSG1hYUVqbHY1dXZIdnFMQVlOQQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -569,9 +569,9 @@
   {
    "id": "gn-875abf8eead0",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
+   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - khaleejtimes.com",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
    "sentiment": "negative",
@@ -603,23 +603,11 @@
    "engagement": null
   },
   {
-   "id": "gn-c38316fb24ff",
-   "channel": "press",
-   "author": "curlytales.com",
-   "role": "press",
-   "text": "Indian Passport Services In UAE: New Walk-In Rules Announced As Alhind Takeover Delayed - curlytales.com",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmlHQ1A3T09CdkZ2WFlzSkJwdW44dmdiNWdaQmhoRmYzaGgyU3dieXQ4M0tmRDI5THQwcVNxUkFraUlzMUtjSDJDZm8wUEFDbjRUdjNxeEJLRU9kQXQ1end0aXVrX0t0bHVrYzJmZWdXdXZhWmFwa01qSWcwMjkzZGowS1RjWGtCRTBIekxuR0I5SmU3aEdCREc5eGRYZWZsaUFDYVJwM0ZUVVZPTHVxako4RnQwYXAzUWZvb2ZNVmlZbHZfWmZsQdIBzgFBVV95cUxObGpzZkozUWxPME9IY2IyYkVQaUcyLWRvbkxzZTBIRGhkVGU2TEMwLUNEc3FBRDducTlUZjU3YldlZTdBYWdodXdVZVFJZ19vQXRWVGZURFVySi1jTndNRS0tcnNEQ3JFdlhJZ3d3eHhhWWlxRXl1d3c5dU9TVGgtaDh2RFlVaVRrRE9XcGZYbERNWE12UTNsWUJ2bThUUU1CX2VpODNNN3E2Yk5RUzh1ZVdvLUNNS2hxUTNXbl9wQzdmUGVaN1M3S2FnZTdlZw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-82eb4097f039",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Alhind clarifies reason behind delay in launch of Indian consular services in UAE - Khaleej Times",
+   "text": "Alhind clarifies reason behind delay in launch of Indian consular services in UAE - khaleejtimes.com",
    "time": "Fri, 03 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0tLYWhFWVV0UEFBdDRuUWhWTk1VX3ZUVmtIRm1QWlF3d2M5LTBNV3NHZE5qblJ5UmhXd081Z3k0by1kRk0yVU9CNVV6blZJRmRsNHU3V0xnS1ZhX1diX19EUVFjNWxPSnNHRm84Xy00eEVXZjJYLXk5eXBFc0ZncjdIN0V4ZUhhZU1wYXc2SHpDNFZ0VEJOVk9n0gGiAUFVX3lxTFB2Yll5NE5jd0duSkJwWkFmTUZIekwwQU5NTzJWbmI2NTB2RUdIWU5HVHlrRzR3XzdVaU1qRWxpeVRwZkRidkpueXQyTWxPa1ZZMWhlQndHaldvQy15ajhVNTlyLWFEQk1XWllVMjNYZHV2b0lvTkVBTExHZFlZQzQ5TEVpcTR4clNYSXFaamJiUVFFd1puNHoyd0hpZ252Q1BvQQ?oc=5",
    "sentiment": "negative",
@@ -653,11 +641,23 @@
   {
    "id": "gn-5cbd9a09f238",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "28 Indian sailors rescued after attack on tanker near Iran, India Embassy confirms - Khaleej Times",
+   "text": "28 Indian sailors rescued after attack on tanker near Iran, India Embassy confirms - khaleejtimes.com",
    "time": "Sat, 25 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNby1wUmFTU2JOXzBLbjhFR1JocGZydEdvLW9qV015RmN6TXR3UXhsYmt5RGZJdS0yYVRFOUF2dTFZY0lJWm5WVjRZeHlTMHRoZGZlcWJTUGhfWnh1UFNXXzZUVEN0eU1SYjlFR2g5ZjRSYWRJZ3B5c3NzLXlodXFwOHZ0ONIBiwFBVV95cUxQV292bHdmZDVUaFZHYTFvMFlPTzlhMFptOWlOenVFYzJPbkpBaXlqQ3BjeEZCZDd5ekFKSExFcEZHQWhKY2I5S0RsX2ZaMHZYNGJtSmNydGV3STk4TkhGOGV6T2VQdXRGUGRnMGNSd0tEX0hQcV8xVVJhS0F3YVh0VGwxZHhfZ3hlY1Vr?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1ae569cd81ec",
+   "channel": "press",
+   "author": "khaleejtimes.com",
+   "role": "press",
+   "text": "Indian passport services in UAE hit by delay amid contract battle in Delhi courts - khaleejtimes.com",
+   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWElrSTBtWUlsTWYwQXFXTWc5YmpPNWY0bTVEZDNnakliWkQ5RXJxWnpVeUhoWkxVc0FRTFo0Y0JfWUEyNnBLb2lSbUQtRm1xSlR2cGYyRzR6V3JVRFpmdThOR0NTdEM1d253M0IzWC1sanZqOGtaYWJvV3Y5Wkg1N3pQZDlQT0wtM2xycFhQXzJVblcxTEZOT2Z1MnNGQlFoTjJZOEdkUGMyYXB30gG0AUFVX3lxTFB2YXI5Y29YNmtwNGh0NmVINWNfR2pHZ3VDMURHX0tYci1vNVdnQVdJWVBuMnZzQWhZeTB5N0d5X1lXMXpMU21xeERoWE91NkhXeGhIeDJkbkZhUHN6SkhnSko2QTdyS2w5VXBHeXg5UVhLZzRLMUZiRF9pOVl2RS1oeU9uSTY0VkllUjNkNE5TMWZ2WlJKeDBkdkR4VjZXT3dudWQ5SkE0QWlyUmlpTnkyODdGUA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
