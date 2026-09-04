@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-04T08:26:34Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-04T08:31:43Z",
+  "total_verified": 282,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 282,
   "sentiment": {
    "positive": 15,
-   "neutral": 238,
+   "neutral": 239,
    "negative": 28
   },
   "channels": {
-   "press": 276,
+   "press": 277,
    "official": 5
   },
   "negative_alerts": 28,
@@ -32,31 +32,31 @@
   },
   {
    "topic": "gulf news",
-   "count": 53
+   "count": 56
   },
   {
    "topic": "services",
    "count": 47
   },
   {
-   "topic": "khaleej times",
+   "topic": "flights",
    "count": 35
+  },
+  {
+   "topic": "khaleej times",
+   "count": 34
   },
   {
    "topic": "khaleej",
-   "count": 35
-  },
-  {
-   "topic": "flights",
-   "count": 33
+   "count": 34
   },
   {
    "topic": "indians",
-   "count": 25
+   "count": 26
   },
   {
    "topic": "business",
-   "count": 23
+   "count": 24
   }
  ],
  "mentions": [
@@ -325,18 +325,6 @@
    "engagement": null
   },
   {
-   "id": "gn-8bf94df61db0",
-   "channel": "press",
-   "author": "Business Standard",
-   "role": "press",
-   "text": "Abu Dhabi offers free UAE entry visas to eligible Indian tourists: Details - Business Standard",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdE5nU0tvVUNET2YtYTdfMFRsSy1RdWhqM0RqcXhvb2xtSjN0cGNQQW94WGM4aGhxYXlTNjh1VngzV1h4M0NKc2JIa19ORFVlQ1JIS1BSX1Z1cWkxUVF3U2FnOXN5dGFIUzJ4eC1KSzAtVDE0SmxfTkVrMkJ4TWVrQXhfNFVIazhYUEowS2F0M1hBU285eURfSHhhU3lnUHZZZ0dKdnNoZXdBTlM0UEtzSExvNkRKZk5OQXNXVGRqRG9TU1M2QXlucVl1cDVEWVVBMm0yUTN30gHbAUFVX3lxTE1qOWFhM3ZkQmtPbFdfc2RIc25JRU5xM0JYRVQtaFZxcnl2WE9CVGVMUjZOclVJLUs0ZGo2SzZ5Q00xNC1kNlNOUXFLNVFNOE9qdFhmNllBbzJfLWRabktkUVVOQko0TDZwWmZBc3dUcWkzWmxhOHNSS1BoYThZWWp6TTRqOElLcThaUy1vaXh6bnRZS1dyUkw3azBWSUFUdGNBakdPR3BYbkhzUFQ3a3ZZanlXZEFPRER3bVZNc3ljTS1MRmdNRFRMV2dnLUxveklrOGUxalN5Sm5pYw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-d0b52a92212b",
    "channel": "press",
    "author": "Outlook Traveller",
@@ -411,9 +399,9 @@
   {
    "id": "gn-9eea68b2e22a",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "indianexpress.com",
    "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck | World News - The Indian Express",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck | World News - indianexpress.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2OA?oc=5",
    "sentiment": "neutral",
@@ -428,18 +416,6 @@
    "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcmtrb2hmZ1J5MmdsMGMwdDJjVjRjaDVSckJTOFdrenlVZ0NaUFItM0pydy15RnlHYVZkcERjeThFdUxpNlVTUXROMXNLRGI3Q0xiSUNTS2cta1Zhd0tVNFdFMlBlRjl2Z2lrMnNjYWZCcUpfWFdjVFR3bmFaN1l3OG13YnI4THJVTk1FM1RKbDAybVhzYWFZWFZKSm1sVTc2TVc1QnEtcWwxZHNFQ3VodjFHbm1OTkdDS3NzNkxmallWQjI4VG0tWXR6MWlsWnVSeWdmTVVqZXg2bEJMY0YxM1BIRk0tSWhNdWROLWRMalpycENIc3ZWWV9iazYwUFJyYnlBZ0c0UFRXZTNsR3g00gGUAkFVX3lxTE5sc0I3UU94TXprQkZoSE5paktYRlJCSjZ6VktZcE9VUjBPUGhlVGNXVzluSTd0VGZ6S2xvNHU1Q0pmakx2a3AxOEVxME0tVzVSWVNnWnowUmZ2dGtNZVZhaHFtd3hvaExPbTJsU08tY294TUx6aWwyeGJweHFITVg0c1VkTGdLZUlWQXgyV29pYmFrYTh6X0d1S09pNEp0Zl9RN3ZrNElrTUMxR1A2bXNtdTU1QXNFVGl0TDlwRG9YenByZ1lvc3hpSVo2bUJGTHF0NFhqenM4Ml9FQ1p4TjFfaEpPeTZNUE9DdXNVQktpTDhHb1lkOEZBaG45cUdTa2NUQXp0QWkzN21QUV9qUjZVa0tNdA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-e74a5c79b2dc",
-   "channel": "press",
-   "author": "gulfbusiness.com",
-   "role": "press",
-   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - gulfbusiness.com",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjFYLUVpR3BMMHlCeDBLSVpiRWpoTUNWbzR1emYtLUJMOVJaWEVwdTk2b2p1UHlwM24tNDdWOXY1MkUwT0tJNmZXYkpnR1NuSTNCa3A5X3B4dGZWRlhuWUdsdUlZeXY1cTNLeDlfV3laUkRnaWJPT0ZySC0tZzJYdjh5MDB2eHAxTFpzMzQ1OURLck5rX1A5d3ZOdkw1RTkzRjJqdUw2b0tBVl9mNXBfVXRGWQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +512,30 @@
    "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEHSAcgBQVVfeXFMTVotX0xkSWdZQUVLQXhQT3FaaHNnUnRFTEcxbjZYazhjLU5XeVQzbjhNU3JGSWNsZGRVcE9ublVNNW1vN1dpREdheFU2YkFTNTdPSmJiLTc5WW16a3JoRWhyNFdpTG5Wa3BteG9QekVFOFZ2eUFwQVVjWmFOTnJOdWRLSzRNb25Send4dzZHVXRfLTl4X0FvOWhTZW1UUGNlTGg0RU9TUnBYaXpmckhIaU9xV3VWVXhWNW5CbGpGd0cyeEJxM1J2VWM?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-364f6fe147de",
+   "channel": "press",
+   "author": "Mangalore Today",
+   "role": "press",
+   "text": "Indian Embassy extends suspension of regular Indian passport and visa appointments in UAE - Mangalore Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOem5hOUFtR3JiWWJNUk1iY2lUTTZQTmZXbmQyaHFrRnZ0MDB0UExNWGpEd1N0TkxWSjJkaExyZlpfb1lHSHB0d3pYbHdaZjNxLTRmMGRxT0xGX2RDQlJKUkUyckVhUUV5dV9KS2tVTHdaUlRPWXdveUN4b3VzY2RLS2JBZjBOTGxIUlZPVFdoMXFwdTkweE9SRkxUWmd2UkpScFc5RGEtN1BwNkkwb1dRSWRHS1Q3QlVGOElfT19naUpXTzYtc0ZkTFhxbzR2OHc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-20d567878b12",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE travel update: Flights operate normally as Etihad, Air Arabia and others cancel select Gulf routes - Gulf News",
+   "time": "Tue, 28 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmNuY3VUS1ZQbFhrZ1AzZ2pYU3NYRG14TkFBb1Y5VGVBckFGcjNwNGFUazhyR0tVNVFYYl96QVY2d05UZVVBS3gxNE1BUWdtR2JnZ3ZwVU5GcXhUT28yNGEyYzJoRHZyQ2xESnh6cUJaZnY4QlZiVTVUaURMcGhEdExhcS05bmZvcDV6MEstellMZWhwYW96d0xwRE95MklKWTJjYndXbTItQXpGUnVxNmJ0Y3ktNzhWMUNHeHJMWFZOMHpfYldOUzVfem1lMXRXSGdkYklHZC1zM01vMXk1eFk3X19EUdIB-AFBVV95cUxOMmpJdGV6MEN4MmZkUXMwSGp4eEJxdngxSE1PZm8yYktEbXpOaTVzOG9EbmR6MThqbVRFN1NhdFNsVkkyWFJVS2xFMnhPZWdYN2EyQTltZkRISUotemV6TU9EbkIzbWxNSVRXOTZ6elNpWjRveUJiR3QyNGdiUEROWFVFVWt4NEtRb0VfOWUxb2lUUHpBVEJMQWpTVDZQVWlsZlF1NFpwdFUxQzJfTUlPTWRyLUVFZU1NM3JTeTZid2VPblFnTXdKd2RzY0ExSlE0LWk1WFZUdllVWEZVRkhxTklTS1hZZkxodUpvQnJvRlRieXF0ck5XWQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
