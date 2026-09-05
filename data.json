@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-05T06:02:44Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-05T06:07:54Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,31 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 13,
    "neutral": 238,
-   "negative": 28
+   "negative": 29
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 67
+   "count": 68
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 59
   },
   {
    "topic": "services",
-   "count": 55
+   "count": 54
   },
   {
    "topic": "flights",
@@ -55,7 +55,7 @@
    "count": 30
   },
   {
-   "topic": "passport visa",
+   "topic": "express",
    "count": 24
   }
  ],
@@ -627,6 +627,18 @@
    "engagement": null
   },
   {
+   "id": "gn-b5b1cb05b729",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "US-Iran war: Indian embassy confirms 10 rescued, one missing after GFS Galaxy vessel attack off Oman coast - Gulf News",
+   "time": "Sun, 12 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTmxNbGhWY1g1WTVncVpwWVB5Qmg0bG1IV2ZxVFFibUw0Wkh1Y21fT182WUVvX1FDLVR3Q3JWQ2xHMmhQaGZ6amhiajFsUmdmeXp0dlRYcXpUVmZwbXpKQy1Bb2Z2dTRqaFlXYlEtdzdpTnltMzJSQUpKaU5sY0hFU3NXMm9zSnJkZ29qMEVqYUdVeFB1Qk1qS2ozLWxGdEJoT3FPU2RkUmU1ZjlfUy1wNk5NWVIyMkJfb3NobENFdDNJRDFRSGlwNXdMRjJTOGJuSl9F?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-6bc78072a3ba",
    "channel": "press",
    "author": "Gulf News",
@@ -646,18 +658,6 @@
    "text": "Indian Passport Services In UAE: New Walk-In Rules Announced As Alhind Takeover Delayed - curlytales.com",
    "time": "Thu, 02 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmlHQ1A3T09CdkZ2WFlzSkJwdW44dmdiNWdaQmhoRmYzaGgyU3dieXQ4M0tmRDI5THQwcVNxUkFraUlzMUtjSDJDZm8wUEFDbjRUdjNxeEJLRU9kQXQ1end0aXVrX0t0bHVrYzJmZWdXdXZhWmFwa01qSWcwMjkzZGowS1RjWGtCRTBIekxuR0I5SmU3aEdCREc5eGRYZWZsaUFDYVJwM0ZUVVZPTHVxako4RnQwYXAzUWZvb2ZNVmlZbHZfWmZsQdIBzgFBVV95cUxObGpzZkozUWxPME9IY2IyYkVQaUcyLWRvbkxzZTBIRGhkVGU2TEMwLUNEc3FBRDducTlUZjU3YldlZTdBYWdodXdVZVFJZ19vQXRWVGZURFVySi1jTndNRS0tcnNEQ3JFdlhJZ3d3eHhhWWlxRXl1d3c5dU9TVGgtaDh2RFlVaVRrRE9XcGZYbERNWE12UTNsWUJ2bThUUU1CX2VpODNNN3E2Yk5RUzh1ZVdvLUNNS2hxUTNXbl9wQzdmUGVaN1M3S2FnZTdlZw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-82eb4097f039",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Alhind clarifies reason behind delay in launch of Indian consular services in UAE - Khaleej Times",
-   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0tLYWhFWVV0UEFBdDRuUWhWTk1VX3ZUVmtIRm1QWlF3d2M5LTBNV3NHZE5qblJ5UmhXd081Z3k0by1kRk0yVU9CNVV6blZJRmRsNHU3V0xnS1ZhX1diX19EUVFjNWxPSnNHRm84Xy00eEVXZjJYLXk5eXBFc0ZncjdIN0V4ZUhhZU1wYXc2SHpDNFZ0VEJOVk9n0gGiAUFVX3lxTFB2Yll5NE5jd0duSkJwWkFmTUZIekwwQU5NTzJWbmI2NTB2RUdIWU5HVHlrRzR3XzdVaU1qRWxpeVRwZkRidkpueXQyTWxPa1ZZMWhlQndHaldvQy15ajhVNTlyLWFEQk1XWllVMjNYZHV2b0lvTkVBTExHZFlZQzQ5TEVpcTR4clNYSXFaamJiUVFFd1puNHoyd0hpZ252Q1BvQQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
