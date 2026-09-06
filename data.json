@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-06T22:50:03Z",
-  "total_verified": 278,
+  "generated_at": "2026-09-06T22:55:13Z",
+  "total_verified": 275,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 275,
   "sentiment": {
-   "positive": 10,
-   "neutral": 240,
+   "positive": 11,
+   "neutral": 236,
    "negative": 28
   },
   "channels": {
-   "press": 273,
+   "press": 270,
    "official": 5
   },
   "negative_alerts": 28,
@@ -28,35 +28,35 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 71
+   "count": 70
   },
   {
    "topic": "gulf news",
-   "count": 56
+   "count": 58
   },
   {
    "topic": "services",
-   "count": 52
+   "count": 51
+  },
+  {
+   "topic": "business",
+   "count": 34
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 32
   },
   {
    "topic": "khaleejtimes",
    "count": 31
   },
   {
-   "topic": "business",
-   "count": 29
+   "topic": "express",
+   "count": 25
   },
   {
    "topic": "passport visa",
    "count": 23
-  },
-  {
-   "topic": "indians",
-   "count": 22
   }
  ],
  "mentions": [
@@ -289,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4f9922c81890",
-   "channel": "press",
-   "author": "ndtvprofit.com",
-   "role": "press",
-   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - ndtvprofit.com",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-0c7ac230f4c0",
    "channel": "press",
    "author": "khaleejtimes.com",
@@ -433,6 +421,18 @@
    "engagement": null
   },
   {
+   "id": "gn-e74a5c79b2dc",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - Gulf Business",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjFYLUVpR3BMMHlCeDBLSVpiRWpoTUNWbzR1emYtLUJMOVJaWEVwdTk2b2p1UHlwM24tNDdWOXY1MkUwT0tJNmZXYkpnR1NuSTNCa3A5X3B4dGZWRlhuWUdsdUlZeXY1cTNLeDlfV3laUkRnaWJPT0ZySC0tZzJYdjh5MDB2eHAxTFpzMzQ1OURLck5rX1A5d3ZOdkw1RTkzRjJqdUw2b0tBVl9mNXBfVXRGWQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-86ddabaf9541",
    "channel": "press",
    "author": "Inshorts",
@@ -469,18 +469,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4d977509322b",
-   "channel": "press",
-   "author": "Hindustan Times",
-   "role": "press",
-   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
-   "time": "Wed, 02 Sep 2026 08:43:07 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-cd6616296c32",
    "channel": "press",
    "author": "Gulf News",
@@ -512,6 +500,18 @@
    "text": "Indian consular services in UAE: 3 major changes starting July 2026 - emirates247.com",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTh5UWRJeWlDakJRLTBwNERQdG52Mi1nMzJaX2lENW1Qa3R3RXE4QWpzcWhOQlVzR05neHUxTVRZQkM0RzRRYlM4d0VLOWhRajVQRm5UT3BzamsxWHh0U0RvbVprOEhDRU1WYy1rR0psbmkyVTdmZWJJZ2R1SHNzY0RfNTQzbTR3aHpVNkw4Z1Q0WV92VHZjeVNIaGkxS18ydUZxWXdmTHdETWFLY2fSAcgBQVVfeXFMUEdyRnNjdDRTdnpIV19laGhabGNKUXR1VU51THNlX2xuM1dwSW5KOF9BZ1R0M1ZNLTEzZk15d2p0QVhUaHlMc0l2eUVUYm5XYVFnSWhiNkpuQjhOME8yVUxXWjFneTh2QTlfdlZPdzFtenJFaWlFbjFINTdGaWRHc05MRnNkYWpsVHJBd1ZiLWtuVkxpZ2p3R3FmWTlUXzNtV0JpRjY5a1NpM2N4YVVtRmZMUlZQcDRiX3UzU1ZOYUNfVzRDNzVkd24?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1d543f64fcee",
+   "channel": "press",
+   "author": "The Indian Express",
+   "role": "press",
+   "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
