@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-09-06T15:52:00Z",
-  "total_verified": 278,
+  "generated_at": "2026-09-06T15:57:14Z",
+  "total_verified": 274,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: [WinError 10054] An existing connection was forcibly closed by the remote host"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 274,
   "sentiment": {
    "positive": 11,
-   "neutral": 238,
+   "neutral": 234,
    "negative": 29
   },
   "channels": {
-   "press": 273,
-   "official": 5
+   "press": 274
   },
   "negative_alerts": 29,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 70
+   "count": 69
   },
   {
    "topic": "gulf news",
@@ -36,7 +35,7 @@
   },
   {
    "topic": "services",
-   "count": 53
+   "count": 52
   },
   {
    "topic": "flights",
@@ -471,9 +470,9 @@
   {
    "id": "gn-4d977509322b",
    "channel": "press",
-   "author": "hindustantimes.com",
+   "author": "Hindustan Times",
    "role": "press",
-   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - hindustantimes.com",
+   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
    "time": "Wed, 02 Sep 2026 08:43:07 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
    "sentiment": "neutral",
