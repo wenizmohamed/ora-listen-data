@@ -1,36 +1,38 @@
 {
  "meta": {
-  "generated_at": "2026-09-06T10:15:31Z",
+  "generated_at": "2026-09-06T10:20:40Z",
   "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 279,
   "sentiment": {
-   "positive": 11,
+   "positive": 10,
    "neutral": 240,
-   "negative": 28
+   "negative": 29
   },
   "channels": {
    "press": 274,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 67
+   "count": 69
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 59
   },
   {
    "topic": "services",
@@ -38,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 48
+   "count": 49
   },
   {
    "topic": "khaleej times",
@@ -53,8 +55,8 @@
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 24
+   "topic": "passport visa",
+   "count": 25
   }
  ],
  "mentions": [
