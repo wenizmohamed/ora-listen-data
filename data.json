@@ -1,40 +1,42 @@
 {
  "meta": {
-  "generated_at": "2026-09-07T12:45:19Z",
+  "generated_at": "2026-09-07T12:50:52Z",
   "total_verified": 274,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 274,
   "sentiment": {
    "positive": 10,
-   "neutral": 233,
-   "negative": 31
+   "neutral": 232,
+   "negative": 32
   },
   "channels": {
    "press": 269,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 32,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 73
-  },
-  {
-   "topic": "services",
-   "count": 56
+   "count": 71
   },
   {
    "topic": "gulf news",
    "count": 55
+  },
+  {
+   "topic": "services",
+   "count": 54
   },
   {
    "topic": "flights",
@@ -46,11 +48,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "khaleej",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "passport visa",
@@ -625,6 +627,18 @@
    "engagement": null
   },
   {
+   "id": "gn-bae100078217",
+   "channel": "press",
+   "author": "Awaz The Voice",
+   "role": "press",
+   "text": "Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - Awaz The Voice",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU8wSXZwdGJLaWZRaFAyNU1KX3FlcEp5aEpQWkxJUTVZY1hfZVFicnptVTlPRHgyOHp4OTZ5YVZQYzlZbFRXWjFQdXg1Mm81c0dHTmRSZHhMTG4xM0Q3QXdraE5iMnVaQmRBZmpMOEtqcndjWG1pZk9mdmQ2aFRjNS1tQlhEWUQ4WUozaGcxY2JYV0h4UHZLbU9KSDJTdDhaU09GMXEwbUEzS2NsVWlXVlU0ajBjM05hV19n?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-effb508f70e1",
    "channel": "press",
    "author": "Gulf News",
@@ -644,18 +658,6 @@
    "text": "Indian passport services in UAE: Alhind explains delay in launch of consular centres - Gulf News",
    "time": "Fri, 03 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnczRUR6dzBJR3RpRkhtT1Z1UkVicENwLWtTUEpMY0lELUhoZkg3bmR0ZUtyUE1KYlpNWjJiVTZDYm1Vamt6ZjdMS2FXOW85aXBaWkJuNW13aXhxclo4aTRuNTFtRTVmcExCei1RWVZzUzhiTTZjV1FTcW82YWJmcjZLYk9YLWRRSElRSi1ZRWNuZjdmRXZROWlCbTlNMkpYTmYwVERhWnd6dTBLTVFEMlVBajAwNVgzUjN3SNIBzAFBVV95cUxQQkE4b3JqR1RyUHI2eC0tdGZIZWRHSl8zQUZzTHNnWEs1YjFMeUJIUHE5WmUzYjA0dmo2YlVsQXA2YzdrcFcwSzF6SGVOYmdtUUVFZWlyeEJmczAxTGV4YzI3NC1NdXBSOVFMOC1hNFlxcl80UlRRbDQ3UmpCZklZaHd0NTdfY0QtZWpmRHpwNFlscmZOVDMtU2hFMmExZ0dfZE93am1vR05HLThNV1EyQ0JmNzFZMEhJQ0FadGZBRGFPN3N5S2VHMVRjVjg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c38316fb24ff",
-   "channel": "press",
-   "author": "curlytales.com",
-   "role": "press",
-   "text": "Indian Passport Services In UAE: New Walk-In Rules Announced As Alhind Takeover Delayed - curlytales.com",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmlHQ1A3T09CdkZ2WFlzSkJwdW44dmdiNWdaQmhoRmYzaGgyU3dieXQ4M0tmRDI5THQwcVNxUkFraUlzMUtjSDJDZm8wUEFDbjRUdjNxeEJLRU9kQXQ1end0aXVrX0t0bHVrYzJmZWdXdXZhWmFwa01qSWcwMjkzZGowS1RjWGtCRTBIekxuR0I5SmU3aEdCREc5eGRYZWZsaUFDYVJwM0ZUVVZPTHVxako4RnQwYXAzUWZvb2ZNVmlZbHZfWmZsQdIBzgFBVV95cUxObGpzZkozUWxPME9IY2IyYkVQaUcyLWRvbkxzZTBIRGhkVGU2TEMwLUNEc3FBRDducTlUZjU3YldlZTdBYWdodXdVZVFJZ19vQXRWVGZURFVySi1jTndNRS0tcnNEQ3JFdlhJZ3d3eHhhWWlxRXl1d3c5dU9TVGgtaDh2RFlVaVRrRE9XcGZYbERNWE12UTNsWUJ2bThUUU1CX2VpODNNN3E2Yk5RUzh1ZVdvLUNNS2hxUTNXbl9wQzdmUGVaN1M3S2FnZTdlZw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
