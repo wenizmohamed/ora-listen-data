@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-07T00:33:19Z",
-  "total_verified": 278,
+  "generated_at": "2026-09-07T00:38:29Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,35 +12,35 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 11,
-   "neutral": 239,
-   "negative": 28
+   "neutral": 240,
+   "negative": 29
   },
   "channels": {
-   "press": 273,
+   "press": 275,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 70
+   "count": 72
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "services",
-   "count": 51
+   "count": 53
   },
   {
    "topic": "flights",
-   "count": 36
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -51,12 +51,12 @@
    "count": 31
   },
   {
-   "topic": "express",
+   "topic": "passport visa",
    "count": 23
   },
   {
-   "topic": "passport visa",
-   "count": 23
+   "topic": "indians",
+   "count": 22
   }
  ],
  "mentions": [
@@ -433,18 +433,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f8cc1afb443c",
-   "channel": "press",
-   "author": "gulfbusiness.com",
-   "role": "press",
-   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - gulfbusiness.com",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmViaEVTSEFWSG9kWEVIYU03S29YVk56YjZDdGdYNnhQQlBvckpnTzF5Zllodnc1SEpQd0hGUXlTQk9LWHNtcjRpRFZMTHV6cjhNS0RPVVRMVkIyMG1TaG5MZEoxX1BhN2w2U2JhMktDUnlOU2s2TkdwR3oycU1rQmFmLXh2dWJTU0VXQjJwdVp5dDVsaU5SOEwtakgtd2FjTVd5V0pBeXVXQW5sY1FReg?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-86ddabaf9541",
    "channel": "press",
    "author": "inshorts.com",
@@ -539,15 +527,27 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-cb6f38514826",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
+   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
   {
    "id": "gn-08e49102df87",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "newsonair.gov.in",
    "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - newsonair.gov.in",
    "time": "Sat, 05 Sep 2026 18:10:24 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
@@ -641,9 +641,9 @@
   {
    "id": "gn-bae100078217",
    "channel": "press",
-   "author": "awazthevoice.in",
+   "author": "Awaz The Voice",
    "role": "press",
-   "text": "Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - awazthevoice.in",
+   "text": "Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - Awaz The Voice",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU8wSXZwdGJLaWZRaFAyNU1KX3FlcEp5aEpQWkxJUTVZY1hfZVFicnptVTlPRHgyOHp4OTZ5YVZQYzlZbFRXWjFQdXg1Mm81c0dHTmRSZHhMTG4xM0Q3QXdraE5iMnVaQmRBZmpMOEtqcndjWG1pZk9mdmQ2aFRjNS1tQlhEWUQ4WUozaGcxY2JYV0h4UHZLbU9KSDJTdDhaU09GMXEwbUEzS2NsVWlXVlU0ajBjM05hV19n?oc=5",
    "sentiment": "negative",
