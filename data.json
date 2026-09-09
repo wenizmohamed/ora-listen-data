@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-09T04:45:23Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-09T04:50:34Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 11,
-   "neutral": 239,
+   "neutral": 238,
    "negative": 31
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 31,
@@ -42,11 +44,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "business",
