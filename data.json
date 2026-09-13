@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-09-13T21:31:04Z",
-  "total_verified": 280,
+  "generated_at": "2026-09-13T21:36:13Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 12,
    "neutral": 238,
-   "negative": 30
+   "negative": 29
   },
   "channels": {
-   "press": 275,
+   "press": 274,
    "official": 5
   },
-  "negative_alerts": 30,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
@@ -38,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 39
+   "count": 38
   },
   {
    "topic": "khaleej times",
