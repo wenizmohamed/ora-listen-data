@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-14T23:23:27Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-14T23:28:45Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 280,
   "sentiment": {
-   "positive": 13,
-   "neutral": 236,
+   "positive": 12,
+   "neutral": 238,
    "negative": 30
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 30,
@@ -25,12 +27,12 @@
  },
  "topics": [
   {
-   "topic": "gulf news",
+   "topic": "passport",
    "count": 64
   },
   {
-   "topic": "passport",
-   "count": 63
+   "topic": "gulf news",
+   "count": 64
   },
   {
    "topic": "services",
@@ -53,19 +55,19 @@
    "count": 23
   },
   {
-   "topic": "express",
-   "count": 21
+   "topic": "passport visa",
+   "count": 22
   }
  ],
  "mentions": [
   {
-   "id": "bn-9c27468951a8",
+   "id": "bn-511e3a025c10",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa881ecf4f04ab6a862f91bd7b58452&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=en-us",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8832ae50d4ccd8abad7ed81e66022&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=en-us",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
