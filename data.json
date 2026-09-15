@@ -1,46 +1,44 @@
 {
  "meta": {
-  "generated_at": "2026-09-15T05:41:16Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-15T05:46:27Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 280,
   "sentiment": {
-   "positive": 11,
-   "neutral": 240,
-   "negative": 30
+   "positive": 10,
+   "neutral": 242,
+   "negative": 28
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 5
   },
-  "negative_alerts": 30,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 68
+   "count": 70
   },
   {
    "topic": "gulf news",
-   "count": 64
+   "count": 59
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 49
   },
   {
    "topic": "flights",
-   "count": 40
+   "count": 35
   },
   {
    "topic": "khaleejtimes",
@@ -51,12 +49,12 @@
    "count": 24
   },
   {
-   "topic": "express",
-   "count": 22
+   "topic": "passport visa",
+   "count": 23
   },
   {
-   "topic": "passport visa",
-   "count": 22
+   "topic": "emirates",
+   "count": 23
   }
  ],
  "mentions": [
@@ -133,18 +131,6 @@
    "engagement": null
   },
   {
-   "id": "gn-cf757d57b54b",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c1a23955dfb7",
    "channel": "press",
    "author": "Gulf News",
@@ -152,6 +138,18 @@
    "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-dcb110775b95",
+   "channel": "press",
+   "author": "CNBC TV18",
+   "role": "press",
+   "text": "Abu Dhabi offers free 30-day UAE visa to Indian tourists from August 1 to October 31 - CNBC TV18",
+   "time": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMUIzUzRBdlR5SUNUQ1FfODJ3WkFNTE12aDdaNHBucmdkUmNoMzFGQXNmVnl0MloyUkZCLU50dHFTdW1wX0VpWW5fdEstYzAwWFpaVHMyRnhuLUotaXFaUkhzS2VaV3dSdXBIWjdONVlZNVdyU0c3a2ZjaUR1SlM5UDNyY2pxWjdjWHYteEQyT1NuYldfRUY3bGQwZnlES2REcFZPR0xjSTY1R01lWW1iUW41dGZkRVVEM0tTR0hJdUZWWkZpZUhMVzFyYUlLYXQtdFdGRzA1c1BXUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -529,13 +527,13 @@
    "engagement": null
   },
   {
-   "id": "gn-fae943ea10fa",
+   "id": "gn-30cc8bfce9df",
    "channel": "press",
-   "author": "The Tribune",
+   "author": "Arabian Business",
    "role": "press",
-   "text": "Seven stranded Indian seafarers repatriated from MV Sea Star 2 in Abu Dhabi, says Indian Embassy in UAE - The Tribune",
-   "time": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRXRvQ3otbmhMb2h4bnFQWjMwNVhaYVd2Vm4yZDNVYWwxeEY5RlNaclh2T0kzU1RSMklsVXVPV0EzeHRiWU1MaWhaSXJwaDFQWGxHX0N6V05TRHJUdlB6UUNjQXBydGh4WjNJZFpKM0xvOEpUalBkSnJTaGxDTVhtYnpwUU5vT1FGNm05c1FPZ0MyZXF4SkppM2lIUGVMT0ltVlhDZVo3cjhOT3g4MUZScFNwOGVHQVl3VzdtQU5DN1R0ZklxT3BpMmM2b3gtNmJLb2pJYWh6Smw5YnfSAd8BQVVfeXFMUC05V3VQYkVlNGxERG5nMmJ6cmVEZmtncjZXaFpOekQ3TGpOc3d6QU10TVhiREpRNUZURHFDTVZaYUhkalFGc2dfYklvVm9pc1ZSRlgzaEg5NVVSQTBmcEpZZjNZRlRXQ0xKbGZjaXhXTWlydFlhLWV0dFhPdjEwZHpTb0pSVG1uOGQ4VUtsU1A4TWE0cWhHdERkSmFST2hMYWdNUTBZWUZsMTVtbU14bG1iSGx2eldsOXBIVzJKN0xITkplVjROZDVELVZjWXZzaTRlQnZ0dkdpaU5VNmVodw?oc=5",
+   "text": "UAE flights latest April 28: Emirates and Etihad give fresh updates - Arabian Business",
+   "time": "Tue, 28 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUpiUGtnZDJ4ZGctQU9uTTFSbjVJWlBfemljdkZpZWgyaTRGNUZmcmxJUXlmLXhsVUpwdlcyZHJ6bGcxUm5DNFZQTTRyZEdOTDVMYTMwbkdxVVNjbGl6enRWUWVTczl2Z0NCY05xd01QWnpKeXVHQ3hrSElmUjdVdHozXzl1czdwN1FHeDdoT093VGJXOEpWanNiYnl0T0Vwbm82T3Z2bzg4NXVVQlR5cG1vcTRyZ3Bx?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
