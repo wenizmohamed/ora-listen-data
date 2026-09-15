@@ -1,12 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-09-15T07:19:51Z",
+  "generated_at": "2026-09-15T07:25:08Z",
   "total_verified": 12,
   "channels_live": [
    "press"
   ],
   "errors": [
-   "x_official: [WinError 10054] An existing connection was forcibly closed by the remote host",
+   "x_official: HTTP Error 429: Too Many Requests",
    "google_news[\"Indian Embassy\" UAE]: [WinError 10054] An existing connection was forcibly closed by the remote host",
    "google_news[\"Indian Consulate\" D]: [WinError 10054] An existing connection was forcibly closed by the remote host",
    "google_news[India UAE flights OR]: [WinError 10054] An existing connection was forcibly closed by the remote host",
@@ -30,178 +30,178 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 4
+   "count": 5
   },
   {
    "topic": "services",
    "count": 3
   },
   {
-   "topic": "warns indians",
-   "count": 3
-  },
-  {
-   "topic": "indians against",
-   "count": 3
-  },
-  {
-   "topic": "against",
-   "count": 3
-  },
-  {
-   "topic": "indians",
-   "count": 3
+   "topic": "passport visa",
+   "count": 2
   },
   {
    "topic": "booking",
    "count": 2
   },
   {
+   "topic": "indians against",
+   "count": 2
+  },
+  {
+   "topic": "warns indians",
+   "count": 2
+  },
+  {
    "topic": "biometric",
+   "count": 2
+  },
+  {
+   "topic": "against",
    "count": 2
   }
  ],
  "mentions": [
   {
-   "id": "bn-3c6291bc43c4",
+   "id": "bn-a90511b65750",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate warns expats of emergency certificate, visa fraud",
    "time": "Tue, 01 Sep 2026 16:06:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-consulate-warns-expats-of-emergency-certificate-visa-fraud%2f5132&c=16797308667699851400&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.emirates247.com%2fuae%2findian-consulate-warns-expats-of-emergency-certificate-visa-fraud%2f5132&c=16797308667699851400&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-c53eb6eafe96",
+   "id": "bn-a95ddb173351",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consulate in UAE issues warning over biometric fraud targeting nationals",
    "time": "Tue, 01 Sep 2026 01:13:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fcrime%2fgeneral%2findian-consulate-in-uae-issues-warning-over-biometric-fraud-targeting-nationals%2far-AA2bkXyd&c=17164784681495125374&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fcrime%2fgeneral%2findian-consulate-in-uae-issues-warning-over-biometric-fraud-targeting-nationals%2far-AA2bkXyd&c=17164784681495125374&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-2acb3733fdce",
+   "id": "bn-d6bf8a47238a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian passport renewal in the UAE: Everything you need to know",
    "time": "Thu, 30 Jul 2026 22:50:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.arabianbusiness.com%2fbusiness%2ftourism-hospitality%2findian-passport-renewal-uae-guide&c=3277524906929182607&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.arabianbusiness.com%2fbusiness%2ftourism-hospitality%2findian-passport-renewal-uae-guide&c=3277524906929182607&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-5c8a6750e35f",
+   "id": "bn-ba9e680442e4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues urgent update",
    "time": "Sun, 16 Aug 2026 23:08:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.arabianbusiness.com%2fbusiness%2ftourism-hospitality%2findian-embassy-walk-ins-uae&c=16680153510069850117&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.arabianbusiness.com%2fbusiness%2ftourism-hospitality%2findian-embassy-walk-ins-uae&c=16680153510069850117&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-18593f8891f7",
+   "id": "bn-092a31e176eb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in Abu Dhabi announces walk-in passport services for some Indian expats in UAE",
    "time": "Sun, 16 Aug 2026 06:29:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-embassy-in-abu-dhabi-announces-walk-in-passport-services-for-some-indian-expats-in-uae-1.500642619&c=12129115229484945377&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-embassy-in-abu-dhabi-announces-walk-in-passport-services-for-some-indian-expats-in-uae-1.500642619&c=12129115229484945377&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-4816b080da2a",
+   "id": "bn-9c76dbcb3eb3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian missions in UAE launch online booking for passport and visa services",
    "time": "Sun, 05 Jul 2026 10:23:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-consulate-uae-passport-visa-services-online-appointment&c=2037166178364851728&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-consulate-uae-passport-visa-services-online-appointment&c=2037166178364851728&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-0078085501dc",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "UAE scam: Indian Consulate warns Indians against sharing biometrics",
-   "time": "Mon, 31 Aug 2026 10:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2findianexpress.com%2farticle%2fworld%2fuae-scam-indian-consulate-warns-indians-biometric-data-fake-agents-10857200%2f&c=11979511089938680817&mkt=de-de",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-b49d5ef3374b",
+   "id": "bn-71b37fb1ad03",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE scam alert: Dubai consulate warns Indians against fake agents promising visas, jobs, Emirates IDs",
    "time": "Mon, 31 Aug 2026 07:58:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-scam-alert-dubai-consulate-warns-indians-against-fake-agents-promising-visas-jobs-emirates-ids%2far-AA2bhOs1&c=15267396280356280250&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-scam-alert-dubai-consulate-warns-indians-against-fake-agents-promising-visas-jobs-emirates-ids%2far-AA2bhOs1&c=15267396280356280250&mkt=de-de",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-50386f0128e1",
+   "id": "bn-8148c97afef3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian expats in UAE warned of scammers using face, fingerprint scans to commit fraud",
    "time": "Mon, 31 Aug 2026 06:30:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2fuae-indian-expats-visa-scam-face-fingerprint-biometric-loan-fraud&c=16332160000252029107&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2fuae-indian-expats-visa-scam-face-fingerprint-biometric-loan-fraud&c=16332160000252029107&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-6b0303256137",
+   "id": "bn-ba2b4a08e650",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian consulate in Dubai warns UAE Indians against biometric data fraud",
    "time": "Mon, 31 Aug 2026 05:36:20 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2findian-consulate-in-dubai-warns-uae-indians-against-biometric-data-fraud%2far-AA2bgUoH&c=10461630147509028545&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2findian-consulate-in-dubai-warns-uae-indians-against-biometric-data-fraud%2far-AA2bgUoH&c=10461630147509028545&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-0f1957b34939",
+   "id": "bn-f56418f4f0b0",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian Embassy extends suspension of regular Indian passport and visa appointments in UAE",
+   "time": "Mon, 29 Jun 2026 12:10:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-embassy-extends-suspension-of-regular-indian-passport-and-visa-appointments-in-uae-1.500591012&c=16203212533731902065&mkt=de-de",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-51d36afa08e1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian passport renewal in UAE: What are the steps to book appointment online amid unavailability of walk-in facilities?",
    "time": "Mon, 13 Jul 2026 07:38:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.livemint.com%2fnews%2fworld%2findian-passport-renewal-in-uae-what-are-the-steps-to-book-appointment-online-amid-unavailability-of-walk-in-facilities-11783943931228.html&c=16371646901353079770&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.livemint.com%2fnews%2fworld%2findian-passport-renewal-in-uae-what-are-the-steps-to-book-appointment-online-amid-unavailability-of-walk-in-facilities-11783943931228.html&c=16371646901353079770&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-3c1fc9783efd",
+   "id": "bn-7de54974929d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Consular services shift in UAE: Indian Embassy launches free direct booking portal",
    "time": "Fri, 10 Jul 2026 07:14:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.businesstoday.in%2fnri%2fvisa%2fstory%2fconsular-services-shift-in-uae-indian-embassy-launches-free-direct-booking-portal-542341-2026-07-10&c=6116068157772569327&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.businesstoday.in%2fnri%2fvisa%2fstory%2fconsular-services-shift-in-uae-indian-embassy-launches-free-direct-booking-portal-542341-2026-07-10&c=6116068157772569327&mkt=de-de",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -209,13 +209,13 @@
  ],
  "alerts": [
   {
-   "id": "bn-b49d5ef3374b",
+   "id": "bn-71b37fb1ad03",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE scam alert: Dubai consulate warns Indians against fake agents promising visas, jobs, Emirates IDs",
    "time": "Mon, 31 Aug 2026 07:58:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f193ead049419b64c054f0654c1f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-scam-alert-dubai-consulate-warns-indians-against-fake-agents-promising-visas-jobs-emirates-ids%2far-AA2bhOs1&c=15267396280356280250&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8f2d0eea047439c105a3be1912f9b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-scam-alert-dubai-consulate-warns-indians-against-fake-agents-promising-visas-jobs-emirates-ids%2far-AA2bhOs1&c=15267396280356280250&mkt=de-de",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
