@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-15T17:44:26Z",
-  "total_verified": 283,
+  "generated_at": "2026-09-15T17:49:35Z",
+  "total_verified": 282,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 283,
+  "verified_mentions": 282,
   "sentiment": {
    "positive": 12,
-   "neutral": 239,
+   "neutral": 238,
    "negative": 32
   },
   "channels": {
-   "press": 278,
+   "press": 277,
    "official": 5
   },
   "negative_alerts": 32,
@@ -32,7 +32,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 63
+   "count": 62
   },
   {
    "topic": "services",
@@ -40,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 39
+   "count": 40
   },
   {
    "topic": "khaleej times",
@@ -51,12 +51,12 @@
    "count": 30
   },
   {
-   "topic": "passport visa",
+   "topic": "emirates",
    "count": 23
   },
   {
-   "topic": "emirates",
-   "count": 23
+   "topic": "passport visa",
+   "count": 22
   }
  ],
  "mentions": [
@@ -445,6 +445,18 @@
    "engagement": null
   },
   {
+   "id": "bn-fd72b105df6a",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1",
+   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9852f4f6546cfa1a03dd0bf7e6511&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-143d93cefe35",
    "channel": "press",
    "author": "The Economic Times",
@@ -524,18 +536,6 @@
    "text": "Indian passport, visa and attestation services shift to Al Hind Centres across UAE from July 22 - Gulf Today",
    "time": "Tue, 21 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcXFqVHM3bHFZZklzalc3UVl3VWdIQ0c2M1ZNdjdxR3lqbU5ZYU9zYUd2YnN0UzNiWEk1eE4zRHFReTNobUxzNTBJdjV5M3o3UDVGVGw1eW1GY2ZSLVNKeUtJU2M2NUQwQTZFY3dkbDc3NkVMTUlQdVh0M1E0ano3ZlhHMDVDbjhZdlNjWlR4eDNPT21USU5BMHRRSWp5QXUxNEN5N1hyamptVTZuQ1RXaUVTcDAtZzlOcHQ5QlNjeW9lbi1LSVBLOHMydGRQX0ZP?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a6fd6c40b00b",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian court reveals major update on UAE passport renewal capacity - Arabian Business",
-   "time": "Tue, 21 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iYjlxX2oyMWZhdzBqdjBVeGVSaEJDQmR1VHdrVE5TUFNTbUdKMlowWHZIZGNhRGtRZmVXMnl5aUNoQUpXai1TRjU1ZHJMcTFwSFUyOEJ5NU5kVEpmMndtdmtET3F3YjVxRld4bUxzVGcxeDU5Q3A5VXZBSQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
