@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-15T22:23:06Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-15T22:28:16Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,43 +12,43 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 11,
    "neutral": 239,
-   "negative": 29
+   "negative": 30
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 5
   },
-  "negative_alerts": 29,
+  "negative_alerts": 30,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 71
+   "count": 70
   },
   {
    "topic": "gulf news",
-   "count": 61
+   "count": 63
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 47
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 39
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "express",
@@ -445,13 +445,13 @@
    "engagement": null
   },
   {
-   "id": "bn-73600e1d9ed5",
+   "id": "bn-bf19d0876bcb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9c54a25cf4fbda3883e7b8b041800&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9c6803d6346ce911db8c19e841a6a&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -471,9 +471,9 @@
   {
    "id": "gn-18d1924e4693",
    "channel": "press",
-   "author": "businesstoday.in",
+   "author": "Business Today",
    "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - businesstoday.in",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
@@ -603,6 +603,18 @@
    "engagement": null
   },
   {
+   "id": "gn-bba0e56ad7d3",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-c251bd7aa2c0",
    "channel": "press",
    "author": "Outlook Traveller",
@@ -646,18 +658,6 @@
    "text": "Iran conflict: What can NRIs do if stuck in Middle East countries? Special flights, advisories, helplines and more - The Indian Express",
    "time": "Tue, 03 Mar 2026 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnppYVRtZnBGT0NDOGNVazl5bzFTcVlPSk1OZmYyWGVMRXdOWFZQaU9RLVhoNGFBNVlaOGgyWFpVNTNaa2Z1bE9JOFBTU2NKQUc3MFBORTByOFNTYzJUUkNwYTMyNUVoZmxSVUdnaDNydFRNY2luTC0tcHoxdzREOFNYX25EbmFiOTFlejdtYkVkX1lOa0tuczdOYWg3ZzViQzVzN1d3UlA2ZUJFdXRybHlyVmpwR1lqZHJ4UC11RFM2bU3SAcoBQVVfeXFMUE5mMzBSVW5QYk5mNUZTcFQwUk5nRlM2SWZIdGNGTkVucEszRUFDUkY4RFJuZlZGQlpzSVVKTGRMelR4STJEaFZmMjhManRCSlZkUW1CVld6NDJ4SDY2V3NvSDRDc3d2dmpYZng1a2piMXVYeHpfNWNQcUIya1JURkxVYVhXa1BxbDJjNTUtM2pRZUVYMFBZSzlxbTdWUTNEaE9UOXlGSlRDMWRVZHQ4NmV1Mkk3d3BRX29MSmVWOXNxWGNHRU9ENVdXUQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-effb508f70e1",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - Gulf News",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTZuTDZ4dWdheEEyeG1yYk9hMGxZNmdvUFIzSndCRzNNRUtwZTh0MzZ6Yy1adjdjUVg0LWYzUk01dEhNZUNwNnl2WnlQdmt5UVFsX200blFZc3k2eXdta1pFN1dRdnhoakJpYzRtc3hUOTY5QU8zRjZBT3dLai1zX2ozWkdrUkZjZHJsUTV4MUZ6X005dEdscFdKV0k4OE9TLWw4Z3cwSV9qT3hZYl95ZHVrUWxXbWRlczFMR09zbjhrMWPSAdMBQVVfeXFMTWxLVXV2Yld4bGxGbUJjWmFSVkF1VTMxeE14SFFXQmxySDBBajk1Zy1tMThET1JnaGpHbHBrWkc0SVlramNKQXc1UlozNmU5YjVoRXlfR3A0S3F5X254Tk85anVJeDR5WmFXOWprTnJWYzRKSWJ3VDk3bmZfdmd6a2xSSjJpVUtObFJtM2VRNjRzUTcyT1Rla0dvenZVdC1BN3FvQjlkaGQyaFVFeC1KR0ZRMFJCcXowem9VSlgtd1B3VC1RR19RMjBENG5KTDAtYkJpNA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
