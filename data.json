@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-16T05:48:03Z",
-  "total_verified": 282,
+  "generated_at": "2026-09-16T05:53:13Z",
+  "total_verified": 284,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 282,
+  "verified_mentions": 284,
   "sentiment": {
    "positive": 11,
-   "neutral": 240,
-   "negative": 31
+   "neutral": 241,
+   "negative": 32
   },
   "channels": {
-   "press": 277,
+   "press": 279,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 32,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 73
   },
   {
    "topic": "gulf news",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 49
   },
   {
    "topic": "flights",
@@ -129,6 +129,18 @@
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1c3UVZDYWRZdFZ4c1hZOURPWVg5bUptajlES2ZGd09uS2sxNFJJVFp3RGQ0Q0p4My1xOXBnVEFvUjNUT0lVaWlNSGRJVTktSlhzb2gzZ0NBNWtsQ2tRbnB0MFpzOFg1OENyZnBrZDBuLTk3TTVyQ1JhU2F4anlzYUh3UWtFeWxTYVBuOERzV19KamEwZEdxdWRuQ1p2V2RuUzgzaWcySF9Md3lQWEQyWEdEdkl4QnhXejBqTlFfTHdnVlB0Rnc4YUtNc2Jzd9IB0wFBVV95cUxPeERENnlEeG16cmk2T09WUk5lOUViaDBjR2NleERSRXgzaEtWTUp6WXFkNjBCc3dzRkxWY2ZBZmJ1VFJKWTl0QnIzQk5oUUQwY1VTM2ExLU1JWUtjU1ZmX3czMTliWnppV2VReHBKeXNzS1dOUDBIb3B0RDd1U2ZWYWR3T2JiZEp1VDBaM2JKSjJkN1oyeDhJRkpOZWMzVWJsS1NCU1padzZZRy05cU93NFB3OFNqT1ZyRlZNU1FINEtOMFU0cEdlYjNGd1BvcUNaVDJz?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a2d30d01b87b",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "5,000 Bangladeshis stuck after UAE cancels visas abruptly. Here's why - India Today",
+   "time": "Wed, 16 Sep 2026 05:50:30 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajVVZHJoNW9CQ3B5dXpoUGtlRFJ3N3BzbHYtbU5TUmdYazd3cmJ5WTdiVXpabTZGMU9yS3ZMWU8yUnIzRHpoRjI4d1hCZDU3ZTl6RlVBdzdYOXhIZmNGTWh4WVJOWFd4LWFldlM3eE1nTjZ4N2JBeHZ1TmFhWGY2TlNmazNtekVES092UzFFSkcxMTl3azBpN2w5bGh2ODNQMEQzTnFKUXV0V3g4UVRYOEtPTzVxQTkxVXUyX21KUnR1Umh10gHEAUFVX3lxTE5qNVVkcmg1b0JDcHl1emhQa2VEUnc3cHNsdi1tTlNSZ1hrN3dyYnlZN2JVelptNkYxT3JLdkxZTzJScjNEemhGMjh3WEJkNTdlOXpGVUF3N1g5eEhmY0ZNaHhZUk5YV3gtYWV2Uzd4TWdONng3YkF4dnVOYWFYZjZOU2ZrM216RURLT3ZTMUVKRzExOXdrMGk3bDlsaHY4M1AwRDNOcUpRdXRXeDhRVFg4S09PNXFBOTFVdTJfbUpSdHVSaHU?oc=5",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -255,9 +267,9 @@
   {
    "id": "gn-01c86496996b",
    "channel": "press",
-   "author": "indianexpress.com",
+   "author": "The Indian Express",
    "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - indianexpress.com",
+   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
@@ -303,9 +315,9 @@
   {
    "id": "gn-9eea68b2e22a",
    "channel": "press",
-   "author": "indianexpress.com",
+   "author": "The Indian Express",
    "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - indianexpress.com",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2OA?oc=5",
    "sentiment": "neutral",
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-a882b9da963a",
-   "channel": "press",
-   "author": "Gulf Today",
-   "role": "press",
-   "text": "Indian passport, visa and attestation services shift to Al Hind Centres across UAE from July 22 - Gulf Today",
-   "time": "Tue, 21 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcXFqVHM3bHFZZklzalc3UVl3VWdIQ0c2M1ZNdjdxR3lqbU5ZYU9zYUd2YnN0UzNiWEk1eE4zRHFReTNobUxzNTBJdjV5M3o3UDVGVGw1eW1GY2ZSLVNKeUtJU2M2NUQwQTZFY3dkbDc3NkVMTUlQdVh0M1E0ano3ZlhHMDVDbjhZdlNjWlR4eDNPT21USU5BMHRRSWp5QXUxNEN5N1hyamptVTZuQ1RXaUVTcDAtZzlOcHQ5QlNjeW9lbi1LSVBLOHMydGRQX0ZP?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -569,9 +569,9 @@
   {
    "id": "gn-7cc23754b005",
    "channel": "press",
-   "author": "aninews.in",
+   "author": "ANI News",
    "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - aninews.in",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
    "sentiment": "negative",
