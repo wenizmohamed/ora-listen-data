@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-17T23:32:42Z",
-  "total_verified": 282,
+  "generated_at": "2026-09-17T23:37:53Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 282,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 11,
-   "neutral": 242,
+   "neutral": 241,
    "negative": 29
   },
   "channels": {
-   "press": 277,
+   "press": 276,
    "official": 5
   },
   "negative_alerts": 29,
@@ -40,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 33
+   "count": 32
   },
   {
    "topic": "khaleej times",
@@ -145,23 +145,11 @@
    "engagement": null
   },
   {
-   "id": "gn-8abd1df62486",
-   "channel": "press",
-   "author": "safariindia.com",
-   "role": "press",
-   "text": "Qatar Airways Resumes Daily Flights to United Arab Emirates and Syria - safariindia.com",
-   "time": "Wed, 16 Sep 2026 09:27:41 GMT",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56MTRkaXFJUGxTVkp6bGF5X185Q0VISG5XaG8za2JoaWJjT2M2Q1hiN1VtUFRoNjdKMnp4VVNjcmptcmRWVE5sanlveGxNSERSbHJLMzVSRnVBYjBHSUJxcWJNMkpSdG5KWk9uRQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-5e3de61df8aa",
    "channel": "press",
-   "author": "Arabian Business",
+   "author": "arabianbusiness.com",
    "role": "press",
-   "text": "Abu Dhabi reveals real reason behind the free Indian visa scheme - Arabian Business",
+   "text": "Abu Dhabi reveals real reason behind the free Indian visa scheme - arabianbusiness.com",
    "time": "Wed, 16 Sep 2026 07:51:02 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVlWQ2hGcjZOS2VGYnZDeVBZX2x2WG83cmNzT0NHTURGUTQ5Z05BMWd6Ql9KLW9Bay1tTUJBUUFkRmhSM1U0U0ZmZVVxeFJSWHlyTC1BVklVejlNYjZONTJVOFd6TEVhSDBxV3JrZkMwWUIySWlqRFV5VW5BLXZIOHRfbk9rdTdGaVlqRlRjNzh1SW9JaF8zYkl4cmRCeWJwUm9keVRjaHhHVWtDVWFfQWJoMHNxQWI0M01nTzk2NEZvVDQ?oc=5",
    "sentiment": "neutral",
@@ -539,15 +527,27 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-bd96955b9812",
+   "channel": "press",
+   "author": "gulfnews.com",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - gulfnews.com",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
   {
    "id": "gn-7cc23754b005",
    "channel": "press",
-   "author": "ANI News",
+   "author": "aninews.in",
    "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - aninews.in",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
    "sentiment": "negative",
