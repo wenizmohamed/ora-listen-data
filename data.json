@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-17T04:15:05Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-17T04:20:15Z",
+  "total_verified": 282,
   "channels_live": [
    "official",
    "press"
@@ -12,27 +12,27 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 282,
   "sentiment": {
-   "positive": 10,
-   "neutral": 243,
-   "negative": 28
+   "positive": 9,
+   "neutral": 244,
+   "negative": 29
   },
   "channels": {
-   "press": 276,
+   "press": 277,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 74
+   "count": 71
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 57
   },
   {
    "topic": "services",
@@ -40,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 34
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -51,12 +51,12 @@
    "count": 31
   },
   {
-   "topic": "express",
-   "count": 23
+   "topic": "passport visa",
+   "count": 24
   },
   {
-   "topic": "passport visa",
-   "count": 23
+   "topic": "express",
+   "count": 22
   }
  ],
  "mentions": [
@@ -260,6 +260,18 @@
    "text": "UAE travel advisory: Flight cancellations, Gulf airspace warnings — what travellers need to know now - Gulf News",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGswQnA0Rl9WeFZIRENGTjA3MXlIQUdvMUo2V25qUzVZUzJ3d1AzNllBX3lXaEo5Y0NHZjEyY0FPSzlGWVZfNDgtVVJBRXB0T1NjS21oTkJCRjlZMjZiV1ctTWFiVllNeFBfSlE4OEhUbVFpNVlsRkMtNlFLWVZETFNwMmNac0VDX3F1UFppeDNvVGlmWW14MFNsUE5ybXk0MnFSWUticnozTTNZMVhjTW5RMXJnYVNtamtYMjJYWkN2cDVQNVZvSFREdW5fYmNBN3JqbklKSE5NVmNkVnYzN9IB8wFBVV95cUxNYWFxeFFUUXJsZHRZSzFldExlZEs2cG9XODZHTW43YS0xemFqWkxpMGJrRXVFVTVySnFSbURxMnd3OUkwZzl3NE9PMkQxNTgzXzZKaHUxdW9TdE9GTS1PeTFkb25ZSmMwT0pwazlQUzdzZ19fdzY3ZjFlZ1dMYnVlSjRsaDI5NUNsMnQyai00dWhWNWpuQ0xoMXdJN3RLT2p2WnMxd2h2dWlSTTlRWHQtSDdhcmZQX1ktOUhLUnNteUM3dHhlZkdLaDMzYWZvU1h6VGVwNGVvZkIyb2tYWWlPSG8ycE1xYjdVMUlzSzZpdXdBbXc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cfed75ae1994",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Flying to Europe this summer? EU aviation body issues warning over GCC flights - Gulf Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFEQTYya0V2U3hqUU16ajY0ajJCSkpSdE9TVzRxcnhxTDIzZzU5T0ctd2EwcUlSdHFwem1PbW9QZW56dEVQZ1RnVnBtb3NHaC1PNEJ1WVo2Z2Qtb2l2RUxKSThiOW1xRV9hTGpPZlk3VDgwdGxxZWRneDdlLWtWXzEyUUJaRmhlbXAwMTdQcDNrRkUwRHB1RXE2YnBSS21aX09YNC1CUm5OMkZuR3c3dkN5M0xjaVpo?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -481,18 +493,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1d543f64fcee",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-5b41ac567dbd",
    "channel": "press",
    "author": "The Times of India",
@@ -517,18 +517,6 @@
    "engagement": null
   },
   {
-   "id": "bn-7a4a848ad593",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab69476c3b46c5b0eb64b9b34ac2d0&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-143d93cefe35",
    "channel": "press",
    "author": "The Economic Times",
@@ -536,6 +524,18 @@
    "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-18d1924e4693",
+   "channel": "press",
+   "author": "Business Today",
+   "role": "press",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -569,9 +569,9 @@
   {
    "id": "gn-7cc23754b005",
    "channel": "press",
-   "author": "aninews.in",
+   "author": "ANI News",
    "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - aninews.in",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
    "sentiment": "negative",
