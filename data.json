@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-09-17T00:48:45Z",
+  "generated_at": "2026-09-17T00:53:55Z",
   "total_verified": 283,
   "channels_live": [
    "official",
@@ -14,48 +14,48 @@
  "kpis": {
   "verified_mentions": 283,
   "sentiment": {
-   "positive": 10,
+   "positive": 12,
    "neutral": 245,
-   "negative": 28
+   "negative": 26
   },
   "channels": {
    "press": 278,
    "official": 5
   },
-  "negative_alerts": 28,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 70
   },
   {
    "topic": "gulf news",
-   "count": 59
+   "count": 60
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 49
   },
   {
    "topic": "flights",
-   "count": 37
+   "count": 36
   },
   {
    "topic": "khaleej times",
-   "count": 29
+   "count": 28
   },
   {
    "topic": "khaleej",
-   "count": 29
+   "count": 28
   },
   {
    "topic": "passport visa",
-   "count": 24
+   "count": 25
   },
   {
-   "topic": "express",
+   "topic": "advisory",
    "count": 23
   }
  ],
@@ -325,6 +325,18 @@
    "engagement": null
   },
   {
+   "id": "gn-3c6eaf5bd905",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Dubai Road Accident: Three Each from UP and Telangana Among Six Indian Fatalities - DD News",
+   "time": "Wed, 10 Jun 2026 04:54:58 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1VQaDdVbzhLXzlQbEJCemJFYmkzakdPenlzcVh2UHVNOXlaMWpGVllVWDUzQm5Cbm1RM0lBNEl3dW9qVkVZeTVuT1lmSUVsVDVTTE9vb0w4LVF6Y0xHMW5qRzhWZERSZENsaTBHTXdCVm00YnhsZXQ5cmpyblJ0cFZjY0xiTkhhLWdjSzFBZUxLYmpRRFNhZmtMMC0wbkNzbFdDQk1TYlhEdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -385,18 +397,6 @@
    "engagement": null
   },
   {
-   "id": "gn-846b96e733ee",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcmtrb2hmZ1J5MmdsMGMwdDJjVjRjaDVSckJTOFdrenlVZ0NaUFItM0pydy15RnlHYVZkcERjeThFdUxpNlVTUXROMXNLRGI3Q0xiSUNTS2cta1Zhd0tVNFdFMlBlRjl2Z2lrMnNjYWZCcUpfWFdjVFR3bmFaN1l3OG13YnI4THJVTk1FM1RKbDAybVhzYWFZWFZKSm1sVTc2TVc1QnEtcWwxZHNFQ3VodjFHbm1OTkdDS3NzNkxmallWQjI4VG0tWXR6MWlsWnVSeWdmTVVqZXg2bEJMY0YxM1BIRk0tSWhNdWROLWRMalpycENIc3ZWWV9iazYwUFJyYnlBZ0c0UFRXZTNsR3g00gGUAkFVX3lxTE5sc0I3UU94TXprQkZoSE5paktYRlJCSjZ6VktZcE9VUjBPUGhlVGNXVzluSTd0VGZ6S2xvNHU1Q0pmakx2a3AxOEVxME0tVzVSWVNnWnowUmZ2dGtNZVZhaHFtd3hvaExPbTJsU08tY294TUx6aWwyeGJweHFITVg0c1VkTGdLZUlWQXgyV29pYmFrYTh6X0d1S09pNEp0Zl9RN3ZrNElrTUMxR1A2bXNtdTU1QXNFVGl0TDlwRG9YenByZ1lvc3hpSVo2bUJGTHF0NFhqenM4Ml9FQ1p4TjFfaEpPeTZNUE9DdXNVQktpTDhHb1lkOEZBaG45cUdTa2NUQXp0QWkzN21QUV9qUjZVa0tNdA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-3c296a0f0b83",
    "channel": "press",
    "author": "Deccan Chronicle",
@@ -404,6 +404,18 @@
    "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-846b96e733ee",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "Indian expat from Kerala killed in Dubai gas cylinder blast; colleague recalls moments before explosion - The Times of India",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcmtrb2hmZ1J5MmdsMGMwdDJjVjRjaDVSckJTOFdrenlVZ0NaUFItM0pydy15RnlHYVZkcERjeThFdUxpNlVTUXROMXNLRGI3Q0xiSUNTS2cta1Zhd0tVNFdFMlBlRjl2Z2lrMnNjYWZCcUpfWFdjVFR3bmFaN1l3OG13YnI4THJVTk1FM1RKbDAybVhzYWFZWFZKSm1sVTc2TVc1QnEtcWwxZHNFQ3VodjFHbm1OTkdDS3NzNkxmallWQjI4VG0tWXR6MWlsWnVSeWdmTVVqZXg2bEJMY0YxM1BIRk0tSWhNdWROLWRMalpycENIc3ZWWV9iazYwUFJyYnlBZ0c0UFRXZTNsR3g00gGUAkFVX3lxTE5sc0I3UU94TXprQkZoSE5paktYRlJCSjZ6VktZcE9VUjBPUGhlVGNXVzluSTd0VGZ6S2xvNHU1Q0pmakx2a3AxOEVxME0tVzVSWVNnWnowUmZ2dGtNZVZhaHFtd3hvaExPbTJsU08tY294TUx6aWwyeGJweHFITVg0c1VkTGdLZUlWQXgyV29pYmFrYTh6X0d1S09pNEp0Zl9RN3ZrNElrTUMxR1A2bXNtdTU1QXNFVGl0TDlwRG9YenByZ1lvc3hpSVo2bUJGTHF0NFhqenM4Ml9FQ1p4TjFfaEpPeTZNUE9DdXNVQktpTDhHb1lkOEZBaG45cUdTa2NUQXp0QWkzN21QUV9qUjZVa0tNdA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -440,18 +452,6 @@
    "text": "Indian passport services in UAE: 150 daily walk-ins for Indian expats at one Alhind ICAC - Gulf News",
    "time": "Wed, 02 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGRHTUEtWlNQdE5fVnZQNU5tTmJmamcwM0hNOVlxcVdNM0d2eXZzVW1WSUMwS0t0S09yTmRUUUctX3FnRS1fd1c0MVVXLXgxQUNlYlBXWEJ1S2ZKRDdyb1hIREszMEx4QnhBR21fVC00WHFKOUF5WGNyN3NBa3E3c1NvcXVmYVF6T1RoLW5Rb25ZNEVNeGpZbldhRTlhSzRMVk9NeVM2NXZlVE5XaVJ4NjltVlY1UmNuQUxVZEhka215QdIB0gFBVV95cUxPdzJoOUwxRWtkMFJtQmRKUjBLTWtFbHRCYU5mbTBfZmFGb0ZWNTQ2WVE1WVJFYmwyQUJwZ2dvSXpiSDhsZ3B1T0pWN3czOTdRNDluRk1SOHlhOVNCbnNjWUlLUmhmWFRSWFljbjNUWElqZl8tTFFaWnFVVnZjRDZnVkYwY2RaQzV5ZGlkQmZUR3Frc2ZxNnk3Y01BTk5QVGVkVXFoalVCRnFhS1h2X1lpaGs0RUo5ajBveTUwZXNqSEViczBmUVYwZFNKS2Njci1VTkE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-078220285763",
-   "channel": "press",
-   "author": "Firstpost",
-   "role": "press",
-   "text": "Indian Workers In UAE Targeted By Fake Agents In New Scam | Firstpost Live - Firstpost",
-   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXpkRWJtSDFrV0o3LUFSdGNJd081VTh6UDlyc2h5dVJTYkIwdzQ2RnRnVW4wNlB6ZmRNSEJ0N09QRHdXY2NSZkRQZlVzYV83T1ZVOHVnQ0s1YW9fNDVlb3RBRnFySHROUVgxWFI5c0JKekJiUzh0YkM1WlcxNXdxcTNiQUZ1T0Fmb3JVTUZRUXdYMURoSWNXNEJfckd2SE5sTmRWUS1ENVRTSmoxSWk3cjRaZUdhdUFneTlvbTRhNGNBdEdIek1mb1FYeVlYZ9IB0wFBVV95cUxNdGd6X3h1eVZteUl6QzI1ZGR0QVdpLTlFcW94QlFHbWluMTRHOXFQSnFaUkR3Nm9OTjhheXdkcU5MTnZydXpId2JRZlNiRkItWHFmbjNGREwyd2p6Z0dfYl9Ta205di1qOXc2QUFlOGJJYnQ0cUxEOFd5MTdYemZNV2tGOVQ5Und3SFBfT3VfMEgtcmI4SUJVb1BYck12SlhWZnlPNUpsc1BCbWktRVZSWVpqWWJjS0NIZjM0T0NUejhLZno3Nm1LQVR1cFdUdHhRQ0Jz?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -517,18 +517,6 @@
    "engagement": null
   },
   {
-   "id": "bn-2dca3bf55182",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab38eb53b9493182de431e42cd8765&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-143d93cefe35",
    "channel": "press",
    "author": "The Economic Times",
@@ -536,6 +524,18 @@
    "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-18d1924e4693",
+   "channel": "press",
+   "author": "Business Today",
+   "role": "press",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
