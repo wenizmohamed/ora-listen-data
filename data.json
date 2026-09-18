@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-18T02:02:26Z",
+  "generated_at": "2026-09-18T02:07:35Z",
   "total_verified": 283,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 74
+   "count": 73
   },
   {
    "topic": "gulfnews",
-   "count": 56
+   "count": 55
   },
   {
    "topic": "services",
@@ -349,9 +351,9 @@
   {
    "id": "gn-64b18f41c2d8",
    "channel": "press",
-   "author": "Gulf Business",
+   "author": "gulfbusiness.com",
    "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - gulfbusiness.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
    "sentiment": "neutral",
@@ -567,9 +569,9 @@
   {
    "id": "gn-61ee2a7d0e70",
    "channel": "press",
-   "author": "Gulf Business",
+   "author": "gulfbusiness.com",
    "role": "press",
-   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
+   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - gulfbusiness.com",
    "time": "Mon, 06 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
