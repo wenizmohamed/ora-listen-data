@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-19T20:52:57Z",
-  "total_verified": 279,
+  "generated_at": "2026-09-19T20:58:06Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 279,
+  "verified_mentions": 280,
   "sentiment": {
-   "positive": 12,
+   "positive": 13,
    "neutral": 236,
    "negative": 31
   },
   "channels": {
-   "press": 274,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 31,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 75
   },
   {
    "topic": "gulf news",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 50
   },
   {
    "topic": "flights",
@@ -55,19 +55,19 @@
    "count": 21
   },
   {
-   "topic": "emirates",
+   "topic": "express",
    "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-4655b0b9ae5c",
+   "id": "bn-9e1f4eb73443",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaef628c0854837b612807d3adb0a31&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaef75de45847248bf5bace928e7732&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -217,6 +217,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6551c340b995",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f6bdcae27966",
    "channel": "press",
    "author": "Gulf News",
@@ -285,6 +297,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4f9922c81890",
+   "channel": "press",
+   "author": "NDTV Profit",
+   "role": "press",
+   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -515,30 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "bn-32b8aa1a1dd9",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaef628c0854837b612807d3adb0a31&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-143d93cefe35",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -555,18 +555,6 @@
    "engagement": null
   },
   {
-   "id": "gn-06709618b452",
-   "channel": "press",
-   "author": "The Tribune",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - The Tribune",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDNLSXBBdHlZa3pWVmxsSXlGMkcwdmVWcGZ5azdoSEwxRW1XYmhjWWZzS0ROQVB5bVZVQnJpeG5VczhiRDJfTEk5dkluaFlHeHdYTzNHV1BmTTFiNTI5cEFrX0Nob3RVcFkxT3FNWXRWbG9aS3pUbWxBUFRDVmlXOUwyUEctX3cwX0NVSHF3bmxyYkgxTmtWN18ya0NyVE1ZQjl4ejFDUjJ6eE9UQkpSbzB2Qk52UGVrQlVxOWxjNNIBwwFBVV95cUxNQ3Z2YUJOSHNEOEUzVUVOTTBhX1JNZmx0YWRxelNhN2ZkZ0JfMmQ4ZWUwNVV6SkV4dlM2Q3NLdFR3MmNoeEEwVElhdEJfTkE0NnUtdW11V2VYUEZaRUNueUkzMzRaczlnbzVXNU05eUhnejA3OWo2VkVRRG1uYnhOWm9vZ1k4Q3B2SmpvOFU5b1BnUlI3YmZqVkMxdUZxTm5NNXBFZ29tNmlkVEh4NV9vXzBKLVFEdzdwd0JLeG85amFURVU?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7cc23754b005",
    "channel": "press",
    "author": "ANI News",
@@ -574,6 +562,18 @@
    "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-06709618b452",
+   "channel": "press",
+   "author": "The Tribune",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - The Tribune",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDNLSXBBdHlZa3pWVmxsSXlGMkcwdmVWcGZ5azdoSEwxRW1XYmhjWWZzS0ROQVB5bVZVQnJpeG5VczhiRDJfTEk5dkluaFlHeHdYTzNHV1BmTTFiNTI5cEFrX0Nob3RVcFkxT3FNWXRWbG9aS3pUbWxBUFRDVmlXOUwyUEctX3cwX0NVSHF3bmxyYkgxTmtWN18ya0NyVE1ZQjl4ejFDUjJ6eE9UQkpSbzB2Qk52UGVrQlVxOWxjNNIBwwFBVV95cUxNQ3Z2YUJOSHNEOEUzVUVOTTBhX1JNZmx0YWRxelNhN2ZkZ0JfMmQ4ZWUwNVV6SkV4dlM2Q3NLdFR3MmNoeEEwVElhdEJfTkE0NnUtdW11V2VYUEZaRUNueUkzMzRaczlnbzVXNU05eUhnejA3OWo2VkVRRG1uYnhOWm9vZ1k4Q3B2SmpvOFU5b1BnUlI3YmZqVkMxdUZxTm5NNXBFZ29tNmlkVEh4NV9vXzBKLVFEdzdwd0JLeG85amFURVU?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
