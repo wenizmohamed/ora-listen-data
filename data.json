@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-19T22:46:36Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-19T22:51:45Z",
+  "total_verified": 283,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 283,
   "sentiment": {
-   "positive": 12,
-   "neutral": 238,
-   "negative": 31
+   "positive": 11,
+   "neutral": 239,
+   "negative": 33
   },
   "channels": {
-   "press": 276,
+   "press": 278,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
@@ -32,15 +32,15 @@
   },
   {
    "topic": "gulf news",
-   "count": 61
+   "count": 63
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 50
   },
   {
    "topic": "flights",
-   "count": 39
+   "count": 38
   },
   {
    "topic": "khaleej times",
@@ -51,23 +51,23 @@
    "count": 27
   },
   {
-   "topic": "express",
-   "count": 21
+   "topic": "emirates",
+   "count": 25
   },
   {
    "topic": "business",
-   "count": 21
+   "count": 22
   }
  ],
  "mentions": [
   {
-   "id": "bn-649a1d397827",
+   "id": "bn-b9f105b9f014",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf10cbe285413794020eea90781eb5&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf1200c4ce46ac9044ab541978cdf7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -128,6 +128,18 @@
    "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cf757d57b54b",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Flight cancellations: Full list of disrupted routes to Bahrain, Kuwait, Saudi Arabia and UAE - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3N4SWxXbkt4Q3pqenFlNDdFNng5YXFFd2xLU193aDZuZG85cE5aRXdzS2JXWU1Nb0dqamJRemVoN19FbjgxN0hUR05NZU5OWHpYWWVyZkp5TTd6bDFybTY0bHNCRDY5T3hJd2Y3STZhbXZ4Ym9OZzRRcS1HaC1zRUo0MXp6Ny1ibk1WQXRfdFp6aFJqenFBNHV3TUV2MXZ4cW44Wks4U3pSTFNzdl9NVHo1SmZfXy1kNUR0Rk5sUkREa2k2RmJvSWl5bFlGaUNHT2FBbGhKb9IB6gFBVV95cUxPM01GX1B2RHAxYmZ4d0YzYTA0aU9ndElQLTRBSWxVUmlrZEtYa2QxbDA4ZjlQbDU5SXVOMWVhaHYxeTEyUzBnaE1uZmJjWWdOWjc0UXo3X08xS3c4cEFxdDRhdEk5UUVuNXlmVWN3aWw1TWIzYUVzVXhZSjdrZ2VzekVJVEVTUWFOUnF1blV0TFBObmwyOERiRnI5OExmMW0wNmdQRUhidHk1WHdvejUtWVJXYmdyczJqdDlSb2Vpank5Rm1MZExpMmhwQ3hqSTRIOEl4SkxaSVJYVTZQN2NhYnV2S01zZ3dnN2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -517,25 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3172019f235b",
+   "id": "bn-ac54f1577f98",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf10cbe285413794020eea90781eb5&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-143d93cefe35",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf1200c4ce46ac9044ab541978cdf7&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
