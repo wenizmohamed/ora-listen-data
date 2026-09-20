@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-20T21:29:29Z",
+  "generated_at": "2026-09-20T21:34:43Z",
   "total_verified": 281,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 70
+   "count": 71
   },
   {
-   "topic": "gulf news",
+   "topic": "gulfnews",
    "count": 60
   },
   {
    "topic": "services",
-   "count": 47
+   "count": 48
   },
   {
    "topic": "flights",
@@ -53,19 +55,19 @@
    "count": 21
   },
   {
-   "topic": "advisory",
+   "topic": "express",
    "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-175b96b31b2f",
+   "id": "bn-998644793feb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab050372dfd46d6885f5a503e440980&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-at",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab05171d1294ca390f1e9b4c78c41be&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-at",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -121,9 +123,9 @@
   {
    "id": "gn-8c15095a2817",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - gulfnews.com",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
    "sentiment": "neutral",
@@ -145,9 +147,9 @@
   {
    "id": "gn-c1a23955dfb7",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
+   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - gulfnews.com",
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
    "sentiment": "neutral",
@@ -181,9 +183,9 @@
   {
    "id": "gn-a2e93fb7f78b",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "UAE flights status: Emirates, Etihad, Air Arabia, flydubai delays and cancellations - Gulf News",
+   "text": "UAE flights status: Emirates, Etihad, Air Arabia, flydubai delays and cancellations - gulfnews.com",
    "time": "Wed, 16 Sep 2026 06:06:13 GMT",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV21vbDFFWURfdjg5ampBMWtPYnBrT0kzSVRsZ2c5Skplc2xSM0hZLURmb19tQ0hGaGZxRko2aHprS3J0UU92YmVnbUlHcFBqbUJ1b3p3LWNxUG05YUFBVk1PYUNOcDFQNGxLM1VwVWRjb2pET2plNUtiWldyblNqNEJVLUo1UDU0NzJETzk3cmg5Zk5MOVZMZWRTWmxNT19VaVRlZkVlSktacmJSSWRNZkZDLXc2WUpXQjlzcWViV2d1SGluR0I3WS1sWXrSAd8BQVVfeXFMUHAzOVdGQURKc3loU3hPeFRkdFZiMndLQTRGUHpoaWkyOENSSmc2SEthM25kSDF4cVJzUE93eHctZnM3OHlrdXRPYWRrQ09NZDU0NkV2Rm5kWENwbUpfaV9RdGtWOEFmallFRmxpS0dDV0o5QzgyVkR5NjB5bmJIdVZvcV9CRjBKYjBleUIwNEJuT0NEVGNqeDJIQ3BON3ZqcTJ3ZjBaWGVJaFlZSVgxc1V4RFhEZ0gwZC1MVVBlNDQycmgtWVZMbUlIc2JoSmpIV0tzTnpiZU43UlJVS0tFRQ?oc=5",
    "sentiment": "neutral",
@@ -205,9 +207,9 @@
   {
    "id": "gn-2fec21d135e4",
    "channel": "press",
-   "author": "news18.com",
+   "author": "News18",
    "role": "press",
-   "text": "US, UK Visa Squeeze: Where Can Skilled Workers Go? India Wants Them Back As China, UAE Race For Global Tale - news18.com",
+   "text": "US, UK Visa Squeeze: Where Can Skilled Workers Go? India Wants Them Back As China, UAE Race For Global Tale - News18",
    "time": "Wed, 16 Sep 2026 04:55:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcF9Lai0yelZPbWhYWFhmeVVKNDFvZVBwTENzc0RSLUIxMDJYWmVfNXlvLTFtWkRBZ1ppTE1MM0s4RE81X09kdy1ib1gtejVlTUFkTEt3S3hHSXhMWTRhamc0NUN3S2JsZ0I1M1QxbV9sMW1mWXBNVzZDRjk3NG1pV01IdWpwV3VDU3lXa0dMT1VuaEVPbUdfU2JhSXZtT2NQS0d0ZGFJcDhUOEtpbXV5TElCNUxSWVpaR2VKVkgwcXJFRUxZWS1fMjliUUxSZ05pWVF0MFNWMlM4aGU5QnpfYkZRUFNET0RhUVp4MGpCR09MZVd2Nk9n0gH8AUFVX3lxTE4wbWN0aC1ZeDd4R0pYbXUzelNLX1ByX2RzTGg0UUhHR0g4MmdKSERvMnduQ1A0OGVHbkxnU2VIalZJOGU4a2RhbXVOMnV4WHZtTHZES2Q0d3ptbXdCQlVYbnFBajM2ZkktcnJ0RW11UDZ2cmlzaU1RYjZ1emU3aFJCUjFMTDdKYTA1TmM5V25tNkoybmtnZGRMMFRUZVctSlVxRWh4WGcyYk1xTzhrZmlCUEtsa3FyQjExa3JPdjNlMjlyMkx6R195V0JUZnFsUmJiTk5PaWJpNC1EN1puODJlSUlReGtwR214bmpVaVpGNHVtUzM3bW94bEFKMQ?oc=5",
    "sentiment": "neutral",
@@ -265,9 +267,9 @@
   {
    "id": "gn-f6bdcae27966",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
+   "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - gulfnews.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB0gHyAUFVX3lxTE0zX0VRYXlBS18yTVhXa3l3T2o5Y3NWd0tzUzk3VWI1MTljblVCTDJOS2Q2bTFya0ZGVWdsLUlqWjFVTHlhbm1fVHVYU1FVYjJoQXQ3LTJPNEFKZEFXWkVOVkJBRjV5ZHNwcXFReU1sVVpJQ3laUkVXTnotYXJKUHdwMEExSmNveHRYUUZsV3pVQnZVdXBjZEc2c0hZdWFYQ2F4RVg4RGllTVNEbmNybEhiaUJkY000d1pmTWJ3WmtMTzBYV0Q4bkhXSWJUa01OQzBOOVdDVmtEeFBGYkdKR2NydWRzN1cwREhfX1BUQTk3cENB?oc=5",
    "sentiment": "neutral",
@@ -277,9 +279,9 @@
   {
    "id": "gn-b54efb0bc57c",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "UAE travel advisory: Flight cancellations, Gulf airspace warnings — what travellers need to know now - Gulf News",
+   "text": "UAE travel advisory: Flight cancellations, Gulf airspace warnings — what travellers need to know now - gulfnews.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGswQnA0Rl9WeFZIRENGTjA3MXlIQUdvMUo2V25qUzVZUzJ3d1AzNllBX3lXaEo5Y0NHZjEyY0FPSzlGWVZfNDgtVVJBRXB0T1NjS21oTkJCRjlZMjZiV1ctTWFiVllNeFBfSlE4OEhUbVFpNVlsRkMtNlFLWVZETFNwMmNac0VDX3F1UFppeDNvVGlmWW14MFNsUE5ybXk0MnFSWUticnozTTNZMVhjTW5RMXJnYVNtamtYMjJYWkN2cDVQNVZvSFREdW5fYmNBN3JqbklKSE5NVmNkVnYzN9IB8wFBVV95cUxNYWFxeFFUUXJsZHRZSzFldExlZEs2cG9XODZHTW43YS0xemFqWkxpMGJrRXVFVTVySnFSbURxMnd3OUkwZzl3NE9PMkQxNTgzXzZKaHUxdW9TdE9GTS1PeTFkb25ZSmMwT0pwazlQUzdzZ19fdzY3ZjFlZ1dMYnVlSjRsaDI5NUNsMnQyai00dWhWNWpuQ0xoMXdJN3RLT2p2WnMxd2h2dWlSTTlRWHQtSDdhcmZQX1ktOUhLUnNteUM3dHhlZkdLaDMzYWZvU1h6VGVwNGVvZkIyb2tYWWlPSG8ycE1xYjdVMUlzSzZpdXdBbXc?oc=5",
    "sentiment": "neutral",
@@ -349,9 +351,9 @@
   {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - gulfnews.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
@@ -407,18 +409,6 @@
    "engagement": null
   },
   {
-   "id": "gn-3c296a0f0b83",
-   "channel": "press",
-   "author": "Deccan Chronicle",
-   "role": "press",
-   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-86ddabaf9541",
    "channel": "press",
    "author": "Inshorts",
@@ -445,9 +435,9 @@
   {
    "id": "gn-1010625f72e3",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian passport services in UAE: 150 daily walk-ins for Indian expats at one Alhind ICAC - Gulf News",
+   "text": "Indian passport services in UAE: 150 daily walk-ins for Indian expats at one Alhind ICAC - gulfnews.com",
    "time": "Wed, 02 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGRHTUEtWlNQdE5fVnZQNU5tTmJmamcwM0hNOVlxcVdNM0d2eXZzVW1WSUMwS0t0S09yTmRUUUctX3FnRS1fd1c0MVVXLXgxQUNlYlBXWEJ1S2ZKRDdyb1hIREszMEx4QnhBR21fVC00WHFKOUF5WGNyN3NBa3E3c1NvcXVmYVF6T1RoLW5Rb25ZNEVNeGpZbldhRTlhSzRMVk9NeVM2NXZlVE5XaVJ4NjltVlY1UmNuQUxVZEhka215QdIB0gFBVV95cUxPdzJoOUwxRWtkMFJtQmRKUjBLTWtFbHRCYU5mbTBfZmFGb0ZWNTQ2WVE1WVJFYmwyQUJwZ2dvSXpiSDhsZ3B1T0pWN3czOTdRNDluRk1SOHlhOVNCbnNjWUlLUmhmWFRSWFljbjNUWElqZl8tTFFaWnFVVnZjRDZnVkYwY2RaQzV5ZGlkQmZUR3Frc2ZxNnk3Y01BTk5QVGVkVXFoalVCRnFhS1h2X1lpaGs0RUo5ajBveTUwZXNqSEViczBmUVYwZFNKS2Njci1VTkE?oc=5",
    "sentiment": "neutral",
@@ -505,9 +495,9 @@
   {
    "id": "gn-effb508f70e1",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - Gulf News",
+   "text": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed - gulfnews.com",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTZuTDZ4dWdheEEyeG1yYk9hMGxZNmdvUFIzSndCRzNNRUtwZTh0MzZ6Yy1adjdjUVg0LWYzUk01dEhNZUNwNnl2WnlQdmt5UVFsX200blFZc3k2eXdta1pFN1dRdnhoakJpYzRtc3hUOTY5QU8zRjZBT3dLai1zX2ozWkdrUkZjZHJsUTV4MUZ6X005dEdscFdKV0k4OE9TLWw4Z3cwSV9qT3hZYl95ZHVrUWxXbWRlczFMR09zbjhrMWPSAdMBQVVfeXFMTWxLVXV2Yld4bGxGbUJjWmFSVkF1VTMxeE14SFFXQmxySDBBajk1Zy1tMThET1JnaGpHbHBrWkc0SVlramNKQXc1UlozNmU5YjVoRXlfR3A0S3F5X254Tk85anVJeDR5WmFXOWprTnJWYzRKSWJ3VDk3bmZfdmd6a2xSSjJpVUtObFJtM2VRNjRzUTcyT1Rla0dvenZVdC1BN3FvQjlkaGQyaFVFeC1KR0ZRMFJCcXowem9VSlgtd1B3VC1RR19RMjBENG5KTDAtYkJpNA?oc=5",
    "sentiment": "negative",
@@ -529,11 +519,23 @@
   {
    "id": "gn-cb6f38514826",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
+   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - gulfnews.com",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-143d93cefe35",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -639,9 +641,9 @@
   {
    "id": "gn-bba0e56ad7d3",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
+   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - gulfnews.com",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
    "sentiment": "negative",
