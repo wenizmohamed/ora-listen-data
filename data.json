@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-20T10:25:13Z",
+  "generated_at": "2026-09-20T10:30:29Z",
   "total_verified": 281,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 75
+   "count": 74
   },
   {
    "topic": "gulf news",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "services",
@@ -41,8 +43,12 @@
    "count": 39
   },
   {
-   "topic": "khaleejtimes",
-   "count": 25
+   "topic": "khaleej times",
+   "count": 26
+  },
+  {
+   "topic": "khaleej",
+   "count": 26
   },
   {
    "topic": "passport visa",
@@ -51,21 +57,17 @@
   {
    "topic": "business",
    "count": 23
-  },
-  {
-   "topic": "indians",
-   "count": 22
   }
  ],
  "mentions": [
   {
-   "id": "bn-38ff64baad3d",
+   "id": "bn-473c425986fa",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafb48675a447ddb5ed42ab6b4c7ff8&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafb5c239dc4f609f7af8c60b02e78d&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -203,6 +205,18 @@
    "engagement": null
   },
   {
+   "id": "gn-2fec21d135e4",
+   "channel": "press",
+   "author": "News18",
+   "role": "press",
+   "text": "US, UK Visa Squeeze: Where Can Skilled Workers Go? India Wants Them Back As China, UAE Race For Global Tale - News18",
+   "time": "Wed, 16 Sep 2026 04:55:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcF9Lai0yelZPbWhYWFhmeVVKNDFvZVBwTENzc0RSLUIxMDJYWmVfNXlvLTFtWkRBZ1ppTE1MM0s4RE81X09kdy1ib1gtejVlTUFkTEt3S3hHSXhMWTRhamc0NUN3S2JsZ0I1M1QxbV9sMW1mWXBNVzZDRjk3NG1pV01IdWpwV3VDU3lXa0dMT1VuaEVPbUdfU2JhSXZtT2NQS0d0ZGFJcDhUOEtpbXV5TElCNUxSWVpaR2VKVkgwcXJFRUxZWS1fMjliUUxSZ05pWVF0MFNWMlM4aGU5QnpfYkZRUFNET0RhUVp4MGpCR09MZVd2Nk9n0gH8AUFVX3lxTE4wbWN0aC1ZeDd4R0pYbXUzelNLX1ByX2RzTGg0UUhHR0g4MmdKSERvMnduQ1A0OGVHbkxnU2VIalZJOGU4a2RhbXVOMnV4WHZtTHZES2Q0d3ptbXdCQlVYbnFBajM2ZkktcnJ0RW11UDZ2cmlzaU1RYjZ1emU3aFJCUjFMTDdKYTA1TmM5V25tNkoybmtnZGRMMFRUZVctSlVxRWh4WGcyYk1xTzhrZmlCUEtsa3FyQjExa3JPdjNlMjlyMkx6R195V0JUZnFsUmJiTk5PaWJpNC1EN1puODJlSUlReGtwR214bmpVaVpGNHVtUzM3bW94bEFKMQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-6551c340b995",
    "channel": "press",
    "author": "Arabian Business",
@@ -217,9 +231,9 @@
   {
    "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "khaleejtimes.com",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - khaleejtimes.com",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
@@ -349,9 +363,9 @@
   {
    "id": "gn-f448775ba783",
    "channel": "press",
-   "author": "khaleejtimes.com",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - khaleejtimes.com",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
    "sentiment": "neutral",
@@ -419,18 +433,6 @@
    "engagement": null
   },
   {
-   "id": "gn-86ddabaf9541",
-   "channel": "press",
-   "author": "Inshorts",
-   "role": "press",
-   "text": "Indian consulate warns UAE nationals about biometric fraud | Tap to know more | Inshorts - Inshorts",
-   "time": "Wed, 02 Sep 2026 14:53:44 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUxEbkRLOEZvUDNySGFCZUU2WUNmUFJ4TVMtNVVhRHZ2cXBySk5BNWw3VVRicUpTVHRNTzh3ZVdTR0NJN1NXLVU2NDczdlI2QURJdEdDanhVQ2ZZZ3YwMFI4RmVCejNYb0pHVVR4c3VaOTZTaFludy1QZ2xUVk1NY05wRDVKVHJJQ285TEowemFZNFViWWxrajJWR2F4Ym9XY01z0gGoAUFVX3lxTE95UF9rZFVPVTRpZHUyclV2VXllS0NPNXBEUk9IX3BXcnk0UDFkTjYyekROSnR4Q0tBZS1KckZZdHFpbEtfVkRUV0NoLUlIaTF5dTBqQUFXcjJYLV9LVnFoMlRQeDB2V0JhOXNVWWcyY0gtN01qX3QteUR6ajJ6YUtFTk5vVEdsc3VRVWFsZHBCN1pReGRTbWdtQ0djZ2dTd2VQa0xVUl9EMA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-08d9e6c3106a",
    "channel": "press",
    "author": "lovin.co",
@@ -481,9 +483,9 @@
   {
    "id": "gn-93c2f6cde8ab",
    "channel": "press",
-   "author": "khaleejtimes.com",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - khaleejtimes.com",
+   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
@@ -591,9 +593,9 @@
   {
    "id": "gn-875abf8eead0",
    "channel": "press",
-   "author": "khaleejtimes.com",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - khaleejtimes.com",
+   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
    "sentiment": "negative",
