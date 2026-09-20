@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-20T06:00:04Z",
-  "total_verified": 286,
+  "generated_at": "2026-09-20T06:05:13Z",
+  "total_verified": 282,
   "channels_live": [
    "official",
    "press"
@@ -12,35 +12,35 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 286,
+  "verified_mentions": 282,
   "sentiment": {
-   "positive": 11,
-   "neutral": 243,
-   "negative": 32
+   "positive": 13,
+   "neutral": 238,
+   "negative": 31
   },
   "channels": {
-   "press": 281,
+   "press": 277,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 31,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 70
+   "count": 72
   },
   {
    "topic": "gulf news",
-   "count": 62
+   "count": 59
   },
   {
    "topic": "services",
-   "count": 51
+   "count": 49
   },
   {
    "topic": "flights",
-   "count": 47
+   "count": 38
   },
   {
    "topic": "khaleej times",
@@ -51,23 +51,23 @@
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 23
+   "topic": "passport visa",
+   "count": 21
   },
   {
-   "topic": "passport visa",
-   "count": 20
+   "topic": "express",
+   "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-81900ca0f863",
+   "id": "bn-feb79d79dcac",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7662c2d64b5db72f4057d06fd61e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7798c7f942fa80d66f13fa36a6c2&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -164,6 +164,18 @@
    "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e3b0e0e2f79e",
+   "channel": "press",
+   "author": "economictimes.com",
+   "role": "press",
+   "text": "UAE visa fee covered? Indians can save AED 285 on their next Abu Dhabi holiday — here’s how - economictimes.com",
+   "time": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRm16LXZfUEowdWdhYzhwZnJndHFFWkJPZ0tsZy1hem1UcG93cGs3eHRPWGdBbVNncnVhZjFPdUw3amszcHRuUVYzbVFWb0ZQRlJicl81b0V1aklja0NhenphQmJjeFVwSFIwZDdXSzk5Y08xS3BGYWFrU09taDctYXJBUDlnUlpSQlNvQzQzaXVoVzl5YnNmeHdGQVBHMEtJQTYyY3c5SVVYQTNsY1VGdWc3SzZnTGx4OE9YUzJGdGJiNmdCRFZLQjNxb1FiYk8yX2NFeDBkX1hRWm90anNab2JpNURmd9IB6wFBVV95cUxNRDN2enowR2JyMmV5T21odmZycGFRdzhRdGRiQlVIUW1sLVVFUjFWMExiRm1xSTNSRG90TzZTRmVvdGRta1pwZTJwR2JqOUtBbi01RE1nYlE5NkpNQlotbDB2aGlEU21jcWNRTHFDZk5meFN3NS14TVBzZnA2b011WGxLUUFqOXpFNlJabGE5bmdPWC1XZlNVWDY2UVA2UWluSE1PRHBSQm8zSWpKX2FxSkdFWUJySFpXNnpPb1ZMMnNlV0dpVHZtT2FTcWJKajRBZFZXWGY0NVhEdVdwa29RaUpWWFhtNHZ5ZEo4?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -277,6 +289,30 @@
    "engagement": null
   },
   {
+   "id": "gn-ce7fb0a54865",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4f9922c81890",
+   "channel": "press",
+   "author": "NDTV Profit",
+   "role": "press",
+   "text": "Passport Fee Hike: UAE Social Workers Reach Out To India's MEA For Relief - NDTV Profit",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1RlR0lCRmFId3BtZjV4NHN0NndUaTVrX2JKMGpyc0JNdVhvbzJnU0xiUlpBbFFyeVQ0N1dwdmJSSTByR2M1RmxMWXY4cnFiY3lLWWNtVnZFUy1xV0JFUjBsSUxkQVJVSUx5cnlpSnAtLTh6bHRfOUUwRmZMSDU5aTRtRDY2TGp2RkFxSDAyV2ZNUUkwVFdMcFBoY2tMUFJCYzZhdkh2dFVkWXpPUV9Fa3ZaQdIBuwFBVV95cUxObHVWTlZHX0M4M1JpMmdxcjR5WW5XcW5KVlhidUVSX3p5MExlaVVLMHpVMzVObGVKSkppcDBCalhTRkhGVW1ncmoyRjBLbEs5UmhONDlHOER5TUNPZ3JkYWROQjhDbUZQZ0xLVHpxNkNIY2sxc3FudHZqX2RFUDRwMXljeXBNOEQyWUxTMDZlQW1FbnBQejFjeXFJb3dZbzF5bno3NjRrSnZfWFJDV0tWSklGRC1kWVgxaUNv?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -296,18 +332,6 @@
    "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,37 +529,13 @@
    "engagement": null
   },
   {
-   "id": "gn-0c0245e9e655",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Dubai Airports Update April 1: Air India group to run 30 flights; IndiGo shares list of scheduled flights - The Times of India",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkRqWTh5dE4xOEJfME80T2FLZ0pRUGg5TXlpT2dMbkVuU3h4WDdKamY1SFRMVXE5OHdSeVQzZXBBN2toVGdCTE1YYlpITEtzVHVCOE5YWk52VzE2cHdxRmFrU0lkQU1qb0NIVExlVnB5dzhJV29uYnBNaDU5YXJhMlRla251eGVZdEVqTW5WRVhWZzFJR3AxcWw3VWVTb0k1NkpKVkE5Um9OXzdLOHdOYU9FNkJKQVRzNWxmeVZBdmJWMDNacmlpaFV0SHI3WFZjNTBHMVVCeld5WFUtOXVJSjVtY1FEamdCdjl1ZFdsNzAxNU9xaURhLTRrMlQ3Z2s4QnJfdktJUU5Ga3Q5NXo4U0g4UXhUcExabTNpUkF4T3hWZ1JVZlRqNVhpemxPdnkzZ0hZR2xsVFlESUY5SkR2YjVtRdIByAJBVV95cUxPWWpNcnVfS1Noam1wQ1BMaFQ2eFZ4bmFHY0RaRTY0Y1k1TE5lelB0OGpUYTNqckZ0MmktX1BYbXdiSjUwSmEwalBJdE9qQktHd1Q1OEk0cXM3RDRXaUswTWMxb21ib2pCRmpQVGNGZGtlc1lENGswVjBlZU8zbXpjcHFNSUNrTVJBbEhHejR3UVd6VEE3Zl9RMm9PbHdReFJqWGlfUzZuaU5WcWlqdDhjVGVZSV95VG9YRWI1SWl2RmdoOWg5Y3E3UC1vaWwtMnhTcGxCdFdPaW91cUtqQW1IbG5oMU1tSVlnMEx3aExMWTBHSWU1OHV0Ul9rM3ZCQ09BX1IzV05KUF9UdGcwZFRFNERIY242NXdqQnRsa244d2hCbnZmUnJzVVQtQVJSQUVOcXE2d21faV9PMFFTaE1GYkZ1RGVuZEs5?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-fa924db8b0a3",
+   "id": "bn-9733930a4445",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7662c2d64b5db72f4057d06fd61e&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-143d93cefe35",
-   "channel": "press",
-   "author": "economictimes.com",
-   "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - economictimes.com",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf7798c7f942fa80d66f13fa36a6c2&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
