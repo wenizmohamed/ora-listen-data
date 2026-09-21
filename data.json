@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-21T21:04:21Z",
-  "total_verified": 284,
+  "generated_at": "2026-09-21T21:09:32Z",
+  "total_verified": 283,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 284,
+  "verified_mentions": 283,
   "sentiment": {
    "positive": 10,
-   "neutral": 242,
+   "neutral": 241,
    "negative": 32
   },
   "channels": {
-   "press": 279,
+   "press": 278,
    "official": 5
   },
   "negative_alerts": 32,
@@ -30,7 +32,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 61
+   "count": 60
   },
   {
    "topic": "services",
@@ -59,13 +61,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-4067a9944d4d",
+   "id": "bn-acd3060714a6",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab19bd3dc424f6092fc70e262048d04&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab19d0ac7034cb9aa32446c47b3c103&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -85,9 +87,9 @@
   {
    "id": "gn-6bb518009f70",
    "channel": "press",
-   "author": "economictimes.com",
+   "author": "The Economic Times",
    "role": "press",
-   "text": "Seven Indian seafarers repatriated from Abu Dhabi after 11 months stranded on MV Sea Star 2 - economictimes.com",
+   "text": "Seven Indian seafarers repatriated from Abu Dhabi after 11 months stranded on MV Sea Star 2 - The Economic Times",
    "time": "Wed, 26 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFZuOTAxY0hMbkplWGdmTXpMQ2VnaEZXbXc0VXhRZXhHQ1gtZFpicEhKYWwxdVZCMEI2TFUtS3kzUFFwT2haV3V4NEZXTnBUc3E1TnN3cXFyRFBYTU1nQ3VxS2R6dXRRYUtWdmNMZC1yYXdEOVNMeXBnVnE0RTgxZmxnQ05ZVzBwbzVvTXlXRXNkbVgtQkNDUkdpZmh2WDZ5N1FKQ09Uay1iVDJWa2ZzbExfbC1ReGZXUlF3Ylppa1MwSFBMWm9zeGx2OGlTVEFPXzBlQms0OWtxUmg2aGtCd2l3YUVqQWRjM1BoWGdQUktDcmRGV2Rj0gH8AUFVX3lxTE9qVkJudHlaRVNtYzA5OUE0Y18yeWZna3hRNGJFT0dIN0JNVk9OV3lsaFpaUHJvZGVNdTNBR2dDcDZ4MHd2VXFrN3p0RW9FclVvRkZ2M0Q1Zy1vNlk4eUpCUEQtQUxfajFtYTBfcEljS2E1UkpEN054cG1zVWduU3ZQdVIyRm5rUnZqVmVXeU1VdzdIWFRVMDhiY2RxREtnLW5vY200SXVIand2aWMzc0Q3elBKejM3QWFGV3FiSDJfbkwteVdQcm1Qd0IyX0VweXIxQTgzLWZlZUY4dUJGZEd0Rmk5aERnMDBKcXdQRFQ4OGV1YUNLbHdkUnJpRA?oc=5",
    "sentiment": "neutral",
@@ -493,9 +495,9 @@
   {
    "id": "gn-9205004bb6b8",
    "channel": "press",
-   "author": "economictimes.com",
+   "author": "The Economic Times",
    "role": "press",
-   "text": "Kerala-born Alhind to handle visa, passport & consular matters for Indians in UAE - economictimes.com",
+   "text": "Kerala-born Alhind to handle visa, passport & consular matters for Indians in UAE - The Economic Times",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdzNoTmd4LThXUHFDQVVjOUVUZFZOWEIySlFIaDE2YmNWajZwMlpKYkI0cklUMm9WN2dYalVkZ3lGN09QVXVVZzR4Nzlfbjg2OVItd2ZzLTQ5NjdEYTVNM1N0YV9LTXFRdUVIWTcyNi1oUVctcm5ocDZ5bUk1OWRrYnhETTV6UDJKREswNG9XcW8tZjVvcjRoNUtiRDlVYlJFSWNVdGVYbzF4ZENNRFByMVRjeEdhZktVZEJhaU1nSlpZVDZOcWpzYmNnREdCZkRPamR0cGNXNXNvTERNeHpnQ0dvSzQ2UdIB6wFBVV95cUxPak5ZdHhwelhXLXRLUmZMNEl0enM5bXZ2MlpPVDEwYUE1MTBSeUp2cWZSWkFfSXViYTk3ckdsMnVCa0hWR2pNNGRwOTYzZGxrMnE4YzgySkJiT2c4ZzNHUEhhUE4yTWdIT1JFdXc1NTQzMTRxY0owN09XZ2plVTZBaGJSeVVxeGNIT2pwWGhrcEJ0bWQtdVZ3Q3FPeF9JQm96Z0JCSnFPYVFHV3VNZWFMZ3NDd1RhYVZ6Wnp3LXFJNkJoQUdpcXd2QXpwWWNpVFlmVGFIcGVCd2FXYVJ3STJhMVVuNGEzT1pzd29j?oc=5",
    "sentiment": "neutral",
@@ -591,9 +593,9 @@
   {
    "id": "gn-d90c0c4a43a3",
    "channel": "press",
-   "author": "economictimes.com",
+   "author": "The Economic Times",
    "role": "press",
-   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - economictimes.com",
+   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - The Economic Times",
    "time": "Fri, 17 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ29tU0wxc2c1U1pkNVdSeF9HQVdDdC1aQ0lVbVAydWVXNDAzd0R3cGFZQ2Rmd1JZbE40WkxwTEFaS21mQ2QtZ2JkNmNqaVIxcmZIcUd4cWFWS1l6blAyd3VOUGJKN0FKeFdBSENCQ2tieFdJb05vZ3JWVVZBTmU3dEd4NlpYQmh6cFZENk1GblozZUg5aTRzNnduSTA0eXdFVF84c29lUTdsWGNJYWdfMkFLZFQ0dTZMUlcxMWdMQ3RXUlVPSmtFR214Rnl3eDJPbmlRVTJpQ2o3RHppMFQ3MmJUSWtlbnZCQzR6WS0xVzVkaWtOZXVCTGtn0gH_AUFVX3lxTE1qWlMtdThYOEF3YUVma0QxSWRVY19YeWQxVHRXR3dMVDM2MnFGY3VFeldwZFVSOVZDZ0dpRGdaLUs3eG1ScjhUZ0pZNElLanZoU3p2cFlOUUZPRXFzNC03cVEyUEVXUjI2VEUyRlJzVkNjRDZkUEpIS2NPOGlMalJpbG5pczZuWS16QVQ5aVo1bDFuWmplc1VVeWlTV0x5NGQzTVMzbC1nT1ZSRktlNDU5NElGcDBMbVh1VVVyQ2E4VzROR1p2WWU4NTZnX2lTd0otZ0NlaFc3cjJQTEIwQjNiQ3BLSEU2T2NoREgtWGZiSHpoY2t3cXJkXzVCMFFFWQ?oc=5",
    "sentiment": "negative",
