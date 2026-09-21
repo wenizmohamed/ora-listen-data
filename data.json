@@ -1,25 +1,23 @@
 {
  "meta": {
-  "generated_at": "2026-09-21T00:53:01Z",
-  "total_verified": 282,
+  "generated_at": "2026-09-21T01:00:25Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 282,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 12,
-   "neutral": 238,
+   "neutral": 237,
    "negative": 32
   },
   "channels": {
-   "press": 277,
+   "press": 276,
    "official": 5
   },
   "negative_alerts": 32,
@@ -28,7 +26,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 73
+   "count": 72
   },
   {
    "topic": "gulf news",
@@ -51,23 +49,23 @@
    "count": 28
   },
   {
-   "topic": "passport visa",
-   "count": 22
+   "topic": "indians",
+   "count": 21
   },
   {
-   "topic": "indians",
+   "topic": "passport visa",
    "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-6f13f3f913ae",
+   "id": "bn-a7671e33f41a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab07fecd51042f3aa07953af8e6c22c&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab081a85ca04405b7095329b2aa64de&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
