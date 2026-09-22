@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-22T16:35:49Z",
-  "total_verified": 281,
+  "generated_at": "2026-09-22T16:40:58Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 14,
-   "neutral": 234,
+   "neutral": 233,
    "negative": 33
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 33,
@@ -40,15 +40,11 @@
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 40
   },
   {
-   "topic": "khaleej times",
-   "count": 27
-  },
-  {
-   "topic": "khaleej",
-   "count": 27
+   "topic": "khaleejtimes",
+   "count": 26
   },
   {
    "topic": "indians",
@@ -57,6 +53,10 @@
   {
    "topic": "express",
    "count": 22
+  },
+  {
+   "topic": "business",
+   "count": 21
   }
  ],
  "mentions": [
@@ -123,9 +123,9 @@
   {
    "id": "gn-50f5bcf2a0c9",
    "channel": "press",
-   "author": "NDTV",
+   "author": "ndtv.com",
    "role": "press",
-   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
+   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - ndtv.com",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTQ?oc=5",
    "sentiment": "neutral",
@@ -169,18 +169,6 @@
    "engagement": null
   },
   {
-   "id": "gn-2fec21d135e4",
-   "channel": "press",
-   "author": "news18.com",
-   "role": "press",
-   "text": "US, UK Visa Squeeze: Where Can Skilled Workers Go? India Wants Them Back As China, UAE Race For Global Tale - news18.com",
-   "time": "Wed, 16 Sep 2026 04:55:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcF9Lai0yelZPbWhYWFhmeVVKNDFvZVBwTENzc0RSLUIxMDJYWmVfNXlvLTFtWkRBZ1ppTE1MM0s4RE81X09kdy1ib1gtejVlTUFkTEt3S3hHSXhMWTRhamc0NUN3S2JsZ0I1M1QxbV9sMW1mWXBNVzZDRjk3NG1pV01IdWpwV3VDU3lXa0dMT1VuaEVPbUdfU2JhSXZtT2NQS0d0ZGFJcDhUOEtpbXV5TElCNUxSWVpaR2VKVkgwcXJFRUxZWS1fMjliUUxSZ05pWVF0MFNWMlM4aGU5QnpfYkZRUFNET0RhUVp4MGpCR09MZVd2Nk9n0gH8AUFVX3lxTE4wbWN0aC1ZeDd4R0pYbXUzelNLX1ByX2RzTGg0UUhHR0g4MmdKSERvMnduQ1A0OGVHbkxnU2VIalZJOGU4a2RhbXVOMnV4WHZtTHZES2Q0d3ptbXdCQlVYbnFBajM2ZkktcnJ0RW11UDZ2cmlzaU1RYjZ1emU3aFJCUjFMTDdKYTA1TmM5V25tNkoybmtnZGRMMFRUZVctSlVxRWh4WGcyYk1xTzhrZmlCUEtsa3FyQjExa3JPdjNlMjlyMkx6R195V0JUZnFsUmJiTk5PaWJpNC1EN1puODJlSUlReGtwR214bmpVaVpGNHVtUzM3bW94bEFKMQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-6551c340b995",
    "channel": "press",
    "author": "Arabian Business",
@@ -195,9 +183,9 @@
   {
    "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - khaleejtimes.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
@@ -339,9 +327,9 @@
   {
    "id": "gn-f448775ba783",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - khaleejtimes.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
    "sentiment": "neutral",
@@ -447,9 +435,9 @@
   {
    "id": "gn-93c2f6cde8ab",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
+   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - khaleejtimes.com",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
    "sentiment": "neutral",
@@ -539,6 +527,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-18d1924e4693",
+   "channel": "press",
+   "author": "Business Today",
+   "role": "press",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -605,9 +605,9 @@
   {
    "id": "gn-875abf8eead0",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "khaleejtimes.com",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
+   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - khaleejtimes.com",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
    "sentiment": "negative",
@@ -639,18 +639,6 @@
    "engagement": null
   },
   {
-   "id": "gn-8e6c5cd0debd",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-bba0e56ad7d3",
    "channel": "press",
    "author": "Gulf News",
@@ -658,6 +646,18 @@
    "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c251bd7aa2c0",
+   "channel": "press",
+   "author": "Outlook Traveller",
+   "role": "press",
+   "text": "UAE Indian Consular Services To Be Suspended For Five Days From June 26 - Outlook Traveller",
+   "time": "Thu, 25 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01mMmRxVnIxMk9BZWxwWi1vbmZyUElKZmozMzg1TFJnQnhwUzcxREJxZV9YREZYNHl6ODdjRGNNMWp2R29WOVBpdlFnSkdqNmYxcDc2TUdabmdlZGVLcWVHc1RXZ0hPcmFINXBJNk9ySzBKOXRSWlZKZ0lyNlcxbnRsSDBRQ3FxSXNXYzBKc0dnelFCZ3pva1NYVXUxNmc5Y1FXTmFrOGFaZVJuV2c?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
