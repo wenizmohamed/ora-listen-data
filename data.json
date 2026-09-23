@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-23T13:48:43Z",
-  "total_verified": 288,
+  "generated_at": "2026-09-23T13:53:53Z",
+  "total_verified": 289,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 289,
   "sentiment": {
    "positive": 14,
-   "neutral": 241,
+   "neutral": 242,
    "negative": 33
   },
   "channels": {
-   "press": 283,
+   "press": 284,
    "official": 5
   },
   "negative_alerts": 33,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 77
+   "count": 79
   },
   {
    "topic": "gulf news",
@@ -40,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 37
   },
   {
    "topic": "khaleej times",
@@ -60,6 +60,18 @@
   }
  ],
  "mentions": [
+  {
+   "id": "bn-8436b6b4da42",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
+   "time": "Wed, 29 Oct 2025 10:09:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3d9f1fd8a4a77bd937813f6df760a&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-d0e14cb50944",
    "channel": "press",
@@ -92,18 +104,6 @@
    "text": "UAE Flights Face Delays & Cancellations Today, Check Your Flight Before Heading To The Airport - curlytales.com",
    "time": "Wed, 23 Sep 2026 12:33:11 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2paQlBsSnU1a2NuTlFiclF2MTNhbnotcnA0SENOQWJRTVFfNzhQWWpXSGpXRjdmVld0dk5xSHl5dXY1ay12YmFlSWhod0FIcTc2XzFac1BVd2ZUOFAtN3QzTVlfRjI1SFRkVTNlZ0M4V1VKbGtVTHViTmtYT1dlMHlEWW1TZlpRN0Jlb3R3THRBYks5QnlTSDFPaXVEcDVBbGpQNGViRWN4alAwR05Fbm8talZCb3VrT3M1eFl1dzkyTlV3T3BHWVNjZ0VQNG_SAdQBQVVfeXFMTnNMeURnTXVzTkJkeldJVGFKdGRoVVo4YklDQXBpZ3VMU3pTTUo2NHVYbk9Na0lPWUtzSnhMMndYYmJ4enZMQlNvbDVFb1pUTFJnSF80ejh6cVl3UFk1VFE5ZTFEeVE2b0hjYlN2UVY5Y2xtbU9fQXlWWElmbjR2a2xvNGtzemU2cDJ5SmxlVUNkclpTdUJHdUUxRWpDY2pRS3hGc3pxYVcwTzZZVEtNQVA5dDZnU0hqT0lBQ29FNXpRZVdSUHV3WDBqQUxKY1VtQjVkT1U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-fc85cb928418",
-   "channel": "press",
-   "author": "economictimes.com",
-   "role": "press",
-   "text": "Dubai flight disruptions hit India-bound services, multiple SpiceJet flights cancelled - economictimes.com",
-   "time": "Wed, 23 Sep 2026 06:59:47 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQklHTDM5OEY5OU40RnJLSFhTeV9hRUc1M1FIQzVVN3ZhT05IQjRVZXk1Q0toZnBsQUQzMmpmTFJOTFBBekY4eWREZFZ3RS1lNUkzZk1aM01KeWVWa2QxcnhNOEIyWlVMd0kydHhFYU54elc1ZHJfUl9OREgzUG1tU09oSUE0dDhnNHlMdGNCMERmejhpN3laWHJZTC05aVI2dk5wRktCcldfZGl0NmJMU3lnbV82WUxBT0VyYXV3N0JWcm9VTERrS0ZZa0xnV3M1akpFMmg5cThlZy1DazdSb1JUSFFSTE0zVjVuamJHZ9IB9AFBVV95cUxQTElUdFExZU9TSWdDN3NtcksydlQxcVYycGRob0JxTEhkQ1hDVnRVX2JCcVBpSnVRSkNvY2M1djR1aWZkVG5qUEFTTHZPTldqUEV4a254WkRGeXFDVU9XYlNGZG1PdEF4SnJ4SUlDaDdBc0p1eUdnZjVUcExZUVMyN3pBWV9JVVVSQThybzZzUmdhZ0xJeXlrSVFYd24zeTBXbjRMUTFielBBcEJySFNOTElGNWpobnY4dEE2YWNNdE9hRUhCOWlhLUU1MnR2WTl1NVZtRklVdUo5TUxYRE8wQVVNMDNrTUZUYkF1RzFOZllyQlF5?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -183,9 +183,9 @@
   {
    "id": "gn-36ab06ef0afd",
    "channel": "press",
-   "author": "ndtv.com",
+   "author": "NDTV",
    "role": "press",
-   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - ndtv.com",
+   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTTSAcgBQVVfeXFMTWZneC0zUmNwNl85cG1YdThrMTFyZUN4TzIwYmMwOUVKTVUzVktEUktQYUxSSlNVR2swQkkyV2ZOVW56TFpZQTdpTVhHLWdHakI2MW9JQkNSNmJEQ1k4am9VMjZKOEgxMTM1WHI3enBGOS1WUnVwT1VVWldFYTZXanNzRWVaTjlPTEZZR2FsbDB1Z3kwUEZ6R0c5LWZqRGJEcllBbjdpUjFOYndUcUpFS1RTbExoSFhRYkhSTG5xM3FVU3ZKRXRPWVc?oc=5",
    "sentiment": "neutral",
