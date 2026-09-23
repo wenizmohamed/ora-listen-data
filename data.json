@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-23T17:31:21Z",
-  "total_verified": 286,
+  "generated_at": "2026-09-23T17:36:32Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 286,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 14,
-   "neutral": 243,
+   "neutral": 238,
    "negative": 29
   },
   "channels": {
-   "press": 281,
+   "press": 276,
    "official": 5
   },
   "negative_alerts": 29,
@@ -28,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 95
-  },
-  {
-   "topic": "services",
-   "count": 62
+   "count": 91
   },
   {
    "topic": "gulfnews",
-   "count": 47
+   "count": 61
+  },
+  {
+   "topic": "services",
+   "count": 60
   },
   {
    "topic": "flights",
@@ -51,11 +51,11 @@
    "count": 33
   },
   {
-   "topic": "passport visa",
-   "count": 25
+   "topic": "business",
+   "count": 26
   },
   {
-   "topic": "business",
+   "topic": "passport visa",
    "count": 25
   }
  ],
@@ -81,6 +81,18 @@
    "time": "Wed, 26 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFZuOTAxY0hMbkplWGdmTXpMQ2VnaEZXbXc0VXhRZXhHQ1gtZFpicEhKYWwxdVZCMEI2TFUtS3kzUFFwT2haV3V4NEZXTnBUc3E1TnN3cXFyRFBYTU1nQ3VxS2R6dXRRYUtWdmNMZC1yYXdEOVNMeXBnVnE0RTgxZmxnQ05ZVzBwbzVvTXlXRXNkbVgtQkNDUkdpZmh2WDZ5N1FKQ09Uay1iVDJWa2ZzbExfbC1ReGZXUlF3Ylppa1MwSFBMWm9zeGx2OGlTVEFPXzBlQms0OWtxUmg2aGtCd2l3YUVqQWRjM1BoWGdQUktDcmRGV2Rj0gH8AUFVX3lxTE9qVkJudHlaRVNtYzA5OUE0Y18yeWZna3hRNGJFT0dIN0JNVk9OV3lsaFpaUHJvZGVNdTNBR2dDcDZ4MHd2VXFrN3p0RW9FclVvRkZ2M0Q1Zy1vNlk4eUpCUEQtQUxfajFtYTBfcEljS2E1UkpEN054cG1zVWduU3ZQdVIyRm5rUnZqVmVXeU1VdzdIWFRVMDhiY2RxREtnLW5vY200SXVIand2aWMzc0Q3elBKejM3QWFGV3FiSDJfbkwteVdQcm1Qd0IyX0VweXIxQTgzLWZlZUY4dUJGZEd0Rmk5aERnMDBKcXdQRFQ4OGV1YUNLbHdkUnJpRA?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-08e49102df87",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
+   "time": "Wed, 23 Sep 2026 15:11:59 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -159,9 +171,9 @@
   {
    "id": "gn-8c15095a2817",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - gulfnews.com",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC3SAbgBQVVfeXFMTkdQREE0Mnh0VmUtNEd4ZWdncVE2cXJwX2pkdmFOWHllNld1dmU2SHYtWTdvVlozYmRlRXNYTVhEOF9sLXVRRFJtUzhCYTB2eHZ0MjFkaEJDUV9oZTRIZjVFVnhBaWJ5eV80SnlQek1KMHRKNzV0d3V4eWVCazFILW5uYWZnWDdNWkQ3aTMwOTkxM0lkVGNucklOVU52bE41TUhiRG9tSHlBZm4tR1JtUklsYkhjaHhDNw?oc=5",
    "sentiment": "neutral",
@@ -337,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-9eda88c33599",
+   "channel": "press",
+   "author": "Business Standard",
+   "role": "press",
+   "text": "No India trip needed: 4 ways NRI pensioners can submit life certificate - Business Standard",
+   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXJmV2k4REQ4YWxGYi1ZY2hJalZWdkxqdmY1WlJjNmI2UnZDRGdreVNrY2VDaTVMOFJVcUlGUFJ0NXR2cjRjQU5USllVNldHeVJMY1pBbUxZZTYwZlF4NEhhNV9IZDF5NjA3TS05bU1xczFtWVZkbVZweEN4V2piUkE0UDBwdnVCZkFMNVVMQ1JPSk1qRTBUc2hTNmlzNjBZekRXRjIyWl9aY2hSa2lQZDJ5Q2NJYTllYmJ2WjFDOTNVNUtkaVlXSGdsaGh2d050Q3NKTXJKZGZPYUZvNXo2X2p4b9IB6AFBVV95cUxNb1V0VlBJd2ZMcGFGbC0xRlVoLVNaTEZQWnVKVjZtTnZHV3JoWHc1V2NfVFJfRVBwQmt4aTJ6VzBuN3NYYjdwc050bDBseFpZVjNnd25yQXdjVHpZSWw1aFJjYkZxTDF4LUtXZk9RWjZfR2NVa0Vab1lJZEprV014RDlwYVBUTHRaN0hqOHdDUXBndEVXNEZBd2hPMmRSWXBpTVUtRm43a1dpVEgyZHR1dEF1S2M4cmx1c21NUzdQSW9Edkd0a3F0ZDFuN2RhbjdYUU96RFNPZU5aOEw3WkNZZ0ZKaElUNElU?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -387,9 +411,9 @@
   {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "gulfnews.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - gulfnews.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
@@ -447,9 +471,9 @@
   {
    "id": "gn-3c296a0f0b83",
    "channel": "press",
-   "author": "Deccan Chronicle",
+   "author": "deccanchronicle.com",
    "role": "press",
-   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
+   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - deccanchronicle.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
    "sentiment": "neutral",
@@ -515,30 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-4d977509322b",
-   "channel": "press",
-   "author": "Hindustan Times",
-   "role": "press",
-   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
-   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-93c2f6cde8ab",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
-   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -548,7 +548,7 @@
    "author": "News On AIR",
    "role": "press",
    "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
-   "time": "Sun, 20 Sep 2026 23:17:18 GMT",
+   "time": "Wed, 23 Sep 2026 15:11:59 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
    "verified": true,
