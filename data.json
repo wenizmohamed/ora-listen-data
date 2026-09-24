@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-24T19:19:46Z",
+  "generated_at": "2026-09-24T19:25:20Z",
   "total_verified": 0,
   "channels_live": [],
   "errors": [
-   "x_official: <urlopen error [Errno 11001] getaddrinfo failed>",
-   "google_news[\"Indian Embassy\" UAE]: <urlopen error [Errno 11001] getaddrinfo failed>",
+   "x_official: HTTP Error 429: Too Many Requests",
+   "google_news[\"Indian Embassy\" UAE]: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>",
    "google_news[\"Indian Consulate\" D]: <urlopen error [Errno 11001] getaddrinfo failed>",
    "google_news[India UAE flights OR]: <urlopen error [Errno 11001] getaddrinfo failed>",
    "bing_news: <urlopen error [Errno 11001] getaddrinfo failed>",
