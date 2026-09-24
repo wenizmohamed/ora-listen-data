@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-24T10:15:04Z",
+  "generated_at": "2026-09-24T10:20:15Z",
   "total_verified": 282,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -30,7 +32,7 @@
   },
   {
    "topic": "gulf news",
-   "count": 61
+   "count": 62
   },
   {
    "topic": "services",
@@ -38,23 +40,23 @@
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 39
   },
   {
    "topic": "khaleej times",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 32
-  },
-  {
-   "topic": "business",
-   "count": 27
+   "count": 31
   },
   {
    "topic": "passport visa",
    "count": 24
+  },
+  {
+   "topic": "passport services",
+   "count": 22
   }
  ],
  "mentions": [
@@ -114,18 +116,6 @@
    "text": "UAE travellers face flight delays and some cancellations - Gulf News",
    "time": "Wed, 23 Sep 2026 06:30:26 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjQ3SlRMMmJHMUc5UFBPZnREUGxFNzdMYW5IaU05Ri1tRXdEQ2JIN1psWmRMT2lPM2RKS190MkJ3RGV3amFHc3NBYy1EVmt4WTBKdnNhZ0JTNDJ3M0cybVVOcTlPTFA5NDdBTjNrdTBNc2QtWEp1OTd4Tk10MzNrczh3d21iY0FzVVhmTGJvdTVVcHdNd244aGg0Wlc0anB4QXJMV2VWd3BsWG_SAb4BQVVfeXFMT0pvRGNqQlgyNlNIYkhpb015d0JoTjg0bUcxbnRwOUZsd0xsYWxNcWVuWEItajQ3Ym5HcFBFMU9VaEtsM19qRHFVREdscWc4djk1ZVdZWjk5OEZyM0ZrQk5HRHZQTXkzazRRQXNuQmNON1BGVXZhSzczMTVDeDhFbWppTFFpdEtoTm9TX2hPQVhpS1VFOEwyelZjWGhjRnk3bWZBMENTcWpSa2dhV1pSZ2FncnM1blNFOWZ5WDZrdw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1a3c2f859f2b",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE flight updates: Cancellations, delays in Dubai, Abu Dhabi, Sharjah on Sep 23 - Khaleej Times",
-   "time": "Wed, 23 Sep 2026 02:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS015eFViR1VCbmt5ZDBzWE1vdmFSSmRuNlExQ3dfY1NMSVF5VGlGX18xWkpsSTdoSFE4VGRmaHg5Q21lMlFsd242TUY4bnBtVk1TZW53LTZ5b2VxVEZobUhtaHdSMmxydU5mNUg5V2V1WGx4WDVZY0ZZajFvczc2cFczVXhLWUg0azBRMUc5dG0zcTZzTTlKNV9YSV9TY242NU5fbW1KNlpWNTZvR01ZYkdMUi1xdHBidXFJakhaOEFjZWlaSFV30gHPAUFVX3lxTFBaSDhuZjRBdU1FQXpqNDJoazhCckpGdmg1bnFVaGZIQ1hXZ2VTc0kzWWFrVzBEN042VjNMLWl6Q3doUTZzbTA2SDdfZU1UbnRZSXlpZUVOUGxyVUZJNXE3cGxCN0N1RS1fX2JvZ2hLdXFtLURHdXEyRmRISGhjNHNwMzkzdGV0RExIT0FhNVJ1VERXbERmRE9xNnRLUWNfYnBtRDVSTDRJSlU5YUIyWFRiR3pnbnVBNTd4SV9WM05iUkItSkY5dnhuSEtTVmg1QQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -217,9 +207,9 @@
   {
    "id": "gn-6551c340b995",
    "channel": "press",
-   "author": "Arabian Business",
+   "author": "arabianbusiness.com",
    "role": "press",
-   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
+   "text": "Indian court ruling set to make UAE passport service delays worse - arabianbusiness.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
    "sentiment": "neutral",
@@ -301,9 +291,9 @@
   {
    "id": "gn-ce7fb0a54865",
    "channel": "press",
-   "author": "Arabian Business",
+   "author": "arabianbusiness.com",
    "role": "press",
-   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
+   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - arabianbusiness.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
    "sentiment": "neutral",
@@ -534,6 +524,18 @@
    "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-143d93cefe35",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
