@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-09-24T11:04:34Z",
-  "total_verified": 277,
+  "generated_at": "2026-09-24T11:10:05Z",
+  "total_verified": 283,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
-   "embassy_site: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 277,
+  "verified_mentions": 283,
   "sentiment": {
    "positive": 12,
-   "neutral": 233,
+   "neutral": 239,
    "negative": 32
   },
   "channels": {
-   "press": 277
+   "press": 278,
+   "official": 5
   },
   "negative_alerts": 32,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -39,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 39
+   "count": 40
   },
   {
    "topic": "khaleej times",
