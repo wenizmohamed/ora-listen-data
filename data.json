@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-25T11:12:11Z",
-  "total_verified": 282,
+  "generated_at": "2026-09-25T11:17:22Z",
+  "total_verified": 280,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 282,
+  "verified_mentions": 280,
   "sentiment": {
    "positive": 12,
-   "neutral": 239,
+   "neutral": 237,
    "negative": 31
   },
   "channels": {
-   "press": 277,
+   "press": 275,
    "official": 5
   },
   "negative_alerts": 31,
@@ -28,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 85
+   "count": 82
   },
   {
    "topic": "gulf news",
-   "count": 62
+   "count": 60
   },
   {
    "topic": "services",
@@ -44,7 +44,7 @@
   },
   {
    "topic": "business",
-   "count": 30
+   "count": 31
   },
   {
    "topic": "khaleej times",
@@ -60,18 +60,6 @@
   }
  ],
  "mentions": [
-  {
-   "id": "bn-bae235ba8dea",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
-   "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6570b90634029b49914cf51316f23&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-d0e14cb50944",
    "channel": "press",
@@ -469,6 +457,18 @@
    "engagement": null
   },
   {
+   "id": "gn-4d977509322b",
+   "channel": "press",
+   "author": "Hindustan Times",
+   "role": "press",
+   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
+   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-93c2f6cde8ab",
    "channel": "press",
    "author": "Khaleej Times",
@@ -517,6 +517,18 @@
    "engagement": null
   },
   {
+   "id": "gn-f3863ec676ac",
+   "channel": "press",
+   "author": "Moneycontrol.com",
+   "role": "press",
+   "text": "UAE revises visa-on-arrival policy for Indians: Who is still eligible? - Moneycontrol.com",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVl3bGx0Q1JuX1hjZ3RqUjctQVpLY3hyZnlzd2gzYUJzMlRiUVAyd0k2VkxkMlZoaWJ5NlcyU0dyVU9Na3czV211TGI1TGhkVlJ1cnY3bWJCNDZZV3gxVjhDN0ZDTTJTVWtyZkhUbVNzSTk0Y1d6cFRXaVZlLVpOVU85Z05udnZ2WE9oS3V2b1lxM0FYZkxDeUpRLUJGa01tWmpiODh5czAxVUJTRG9pcUpVc0Y3SGQyZWFmSlpHY9IBxAFBVV95cUxONDdXUUlZaGZKS0x1bWtzbWc5SW44OGVYTVZpSDMtX1lOeXVkZXN4QkJUc0FQcHBWZGVLM2NwbzZIdEs0ZWJfdVZHMVNuWjE4UWY4LUlIRmhhSUlwdVBiVGJUWGx6Zk9nOHo0QlNhM3RBN1h0OHNjSXI1eEJfaEtid0tVSnRKTDI4MFZHdUJqU0ZrSUpTZWEzTG9Gejd2aW5EbHBHcHgyUTFXSUdQbnprWVRLYWJRc29BcVJpQk5mX1lzOVd2?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-1d543f64fcee",
    "channel": "press",
    "author": "The Indian Express",
@@ -524,18 +536,6 @@
    "text": "Indian passport fees in UAE increase from July 1: New charges for fresh passport, Tatkal, PCC - The Indian Express",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTNuZTZKeE1RZXV3b3lEUU5EUEZianphdXF2T2cwYTVPbEdpN0ZPY2gwVkpQTDE3cHBEWEo2YjZCSXVoNVNGNVJaeUFVT3FQVHFTV25iWTl6eElSM1Y1djVTdDV1cXBrbnY5VFkwakYyVEd0VWc4OFJocTRINjhnN2NMRzRQeUdISkk5SkJ5U3pmU0NrbDBPWDhPb3NPakpPb3FfOTQ3bUJLd2VjR1HSAbQBQVVfeXFMTTlvZmJUMGpnUzdFOHBrTEVHMEFTZV9CSVJ2TmgyRVhSZi1jOXhhT3NSOUx5SzFnb2k2LW54N19sanAtTS1MMC1IcVJtRjFKa0JwaEE3aFhacEFuM2pzRExMUkdDQ0tSSXNBZFJUS1NtNVZ5d2Zwa2ZNUWItREVqYmVvSmpGcVdTMUVmV0wwN0lSVHZEdVIxNUEydF84cGlTSTlWR1AySUNPZmZZMWlUVGthektM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-5b41ac567dbd",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Indian Consulate in Dubai allows Class 12 students to get NRI certificates through one-time walk-in on Ap - The Times of India",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPN3RuaE1FX05sMzJfbUFkXzk0VmdlSWJBeExHczkzV25xWFVLdUlsYW03aTRjM2cwLUV3WG0yQVg0UHdadjRaNUxSMDhlWExmS1I3TWx0WkpoYmF5VXFCWGFqaVB3Qld6T2pUOFZoZ2dXRGpQdEdjQ21RNGpVYko4OXZiNGJFTGRieF8tMWh1YnpFRjU2MGs0ekhHN2l0b3I2a196RXU2eEIyZ1VsdTBnT2lCdXhzd003RjRlQ1VpM1VLemxUQWI1MHg2dnNyczE0aG5QM0FoN01pWW5WOFd3bEdseHRKRU9fOXg3dXNaY2J0dmRDLXI1ZFhBaDU5d2trcFpTTndvUkdOa1pDVElrQmxOVlFEcWxKT0NUVHhyemRyaFJ6SEHSAasCQVVfeXFMTnlvcGlkRk9McnR2MzMySUZGVUFMM09YaFg2OEprTHFMcE8xejk5UmlxYVpkVTlMVkhtaVZrMmlnT1hEb0pRWV9UV2JJaTVTVTJKSGhRRG5fTDlsWGtPUjAzMkpJR00zT2hTQkYyellrQ2MzVkZLOXFTUjhlelAxUVpCQ0FIYnd3VmJoSXJRM0ZnbGpGNVNfMmE0UGZlSmY0RVRfTk5pZnk2SEVtTVNGdjZYc3JDek1hMVRfZXhuN3pTR1dLcjczeGJSQ1hDZDhqTGI4RmZjd0JiNHJxckpzM0dpRGx2UENYZnZ4Y2NXQ2Z5dUZHWTBvNmt4VHB0QWhLSXgyMlM4Y1NQWW5WSElzNTNnSG5GZ291bWJXMmVjTklWZkhkSXBjUkFTZnc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
