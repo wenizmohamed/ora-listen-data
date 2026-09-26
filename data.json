@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-26T11:12:41Z",
-  "total_verified": 276,
+  "generated_at": "2026-09-26T11:17:50Z",
+  "total_verified": 275,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 276,
+  "verified_mentions": 275,
   "sentiment": {
    "positive": 14,
-   "neutral": 235,
-   "negative": 27
+   "neutral": 233,
+   "negative": 28
   },
   "channels": {
-   "press": 271,
+   "press": 270,
    "official": 5
   },
-  "negative_alerts": 27,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 88
+   "count": 87
   },
   {
    "topic": "services",
@@ -39,15 +39,15 @@
    "count": 59
   },
   {
+   "topic": "flights",
+   "count": 32
+  },
+  {
    "topic": "khaleej times",
    "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 31
-  },
-  {
-   "topic": "flights",
    "count": 31
   },
   {
@@ -60,18 +60,6 @@
   }
  ],
  "mentions": [
-  {
-   "id": "bn-5c958ad27735",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
-   "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7a8a8401e46d28b62a3f4e5dde93b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-d0e14cb50944",
    "channel": "press",
@@ -219,9 +207,9 @@
   {
    "id": "gn-6551c340b995",
    "channel": "press",
-   "author": "Arabian Business",
+   "author": "arabianbusiness.com",
    "role": "press",
-   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
+   "text": "Indian court ruling set to make UAE passport service delays worse - arabianbusiness.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
    "sentiment": "neutral",
@@ -303,9 +291,9 @@
   {
    "id": "gn-ce7fb0a54865",
    "channel": "press",
-   "author": "Arabian Business",
+   "author": "arabianbusiness.com",
    "role": "press",
-   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
+   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - arabianbusiness.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
    "sentiment": "neutral",
@@ -441,6 +429,18 @@
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnR3MXV1NFlSUVotekhidXhQR2h3MGxIb1FrUkF4MWJIamV0eGxheE0tLVJyZUF6MXkzc0dKaWRBdEF1bFJXR0UtaWV3bFl6eW5aMVZIWGcweDBRUG5hay1XTXJ1SWFkQzktdm5iWGRXY2d0SldhX1NZNkhiVE5TQ3loS2ZtTnM1eFdWLWRmRmQtMEZkWl9XUFA1bVY1cko2RlRB?oc=5",
    "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-221f5a64fbeb",
+   "channel": "press",
+   "author": "gulfbusiness.com",
+   "role": "press",
+   "text": "Dubai businessman Satish Sanpal denies Indian reports of UAE assets freeze - gulfbusiness.com",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3R5c2szb1B6VVI0V1RYSkZoSTdGRG5nMk4xMjV6UTlIWHlhcUhEWkc1X1RKVzFjODNkSGJ6aXFsNkcwSDdWb3VFUVBvN25SVHBFdzBLLUNSVUc4ck9PVXQ0WXpWRE4tQ1V6Y00tekNRYmhvRFR4U3RNd2Q0bXpyc2E4bVhmVHFNbmFMWXIxMWNLak9YUlEw?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
