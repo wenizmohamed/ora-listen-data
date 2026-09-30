@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-30T14:45:12Z",
-  "total_verified": 278,
+  "generated_at": "2026-09-30T14:50:23Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 279,
   "sentiment": {
    "positive": 11,
-   "neutral": 241,
+   "neutral": 242,
    "negative": 26
   },
   "channels": {
-   "press": 273,
+   "press": 274,
    "official": 5
   },
   "negative_alerts": 26,
@@ -26,27 +28,27 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 73
+   "count": 74
   },
   {
    "topic": "gulf news",
-   "count": 66
+   "count": 67
   },
   {
    "topic": "services",
-   "count": 54
+   "count": 55
   },
   {
    "topic": "flights",
-   "count": 49
+   "count": 48
   },
   {
    "topic": "khaleej times",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "khaleej",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "passport services",
@@ -54,7 +56,7 @@
   },
   {
    "topic": "express",
-   "count": 19
+   "count": 20
   }
  ],
  "mentions": [
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5185b3f60b5a",
+   "id": "bn-2e8e7e9abe3c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2077bbca43f7b28b1ef271798f27&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd21ae34944d1fb267b575c6e2d1d9&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
