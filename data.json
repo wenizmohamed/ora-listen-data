@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-09-30T19:09:51Z",
-  "total_verified": 278,
+  "generated_at": "2026-09-30T19:15:04Z",
+  "total_verified": 279,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 278,
+  "verified_mentions": 279,
   "sentiment": {
-   "positive": 11,
-   "neutral": 241,
+   "positive": 10,
+   "neutral": 243,
    "negative": 26
   },
   "channels": {
-   "press": 273,
+   "press": 274,
    "official": 5
   },
   "negative_alerts": 26,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 72
+   "count": 73
   },
   {
    "topic": "gulf news",
@@ -63,7 +65,7 @@
    "channel": "press",
    "author": "cntravellerme.com",
    "role": "press",
-   "text": "Dubai and Middle East flight disruption: Regional airlines face delays while Europe renews its Gulf airspace warning - cntravellerme.com",
+   "text": "Dubai and Middle East flight disruption: Regional airlines face delays as Europe renews Gulf airspace warning - cntravellerme.com",
    "time": "Wed, 30 Sep 2026 15:20:29 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnp2cWxYbnFnb0cxck9jM1RfRGJTY0ROUHllNU5wYXJqS0Nodjh4ekhPQkRHT0FVel9iV2FMa21Edl9XX0F0U0xDWFpiM1Z1VDJJVGdYZzdaZUZCYVZFeEozLWJUVU1oYktKUVdUQTZNUlEtRDRrYS10X093a0dvTFVUTHhQVUwwbDJMdEdjaTNlSklwSmdiVXg0X2FwbXFwdnRHMDY4Ui1PVDc0YUFNN1Z1MHpjbFozWjhSR19hLUJUWGpXUml6eFQ0YjhhWlZWTVhSeUFPQjFNUUkxaHk3SlhSTDA1Zw?oc=5",
    "sentiment": "neutral",
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-8c7ea9e20a75",
+   "id": "bn-bbd3e5309d9f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE: Indian embassy announces three new Indian passport designs for residents with advanced security features",
    "time": "Wed, 29 Oct 2025 10:09:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd5e7d29bc49efbf6c7cfa8880dd69&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd5fb6af4a4580a7e5812dd4c8eb2f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fuae-indian-embassy-announces-three-new-indian-passport-designs-for-residents-with-advanced-security-features%2far-AA1PrmbL&c=559482143169471619&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -275,18 +277,6 @@
    "engagement": null
   },
   {
-   "id": "gn-28b74f98f1da",
-   "channel": "press",
-   "author": "gulfbusiness.com",
-   "role": "press",
-   "text": "Air India captain tests positive for marijuana after turbulence scare - gulfbusiness.com",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
    "author": "connectedtoindia.com",
@@ -395,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-fa8f3cab6163",
+   "id": "bn-035163f3062f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis",
    "time": "Wed, 01 Jul 2026 14:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd5e7d29bc49efbf6c7cfa8880dd69&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=de-de",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd5fb6af4a4580a7e5812dd4c8eb2f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=de-de",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -534,6 +524,18 @@
    "text": "Indian Embassy invites new bids for passport and consular services in UAE - thenationalnews.com",
    "time": "Tue, 29 Sep 2026 11:56:37 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenRFWS1LQUJmS3RkMUNYcW5fMGpDcHZHcDVqVS1tLXdfOU9HbzdhcEVmd2xCSkFMQzhhQUw5bXJzTHI4akhkOTVuU2Yzemhjb0liNHduWlh4c0VKcmI0M1pJaFM1YXBCYjYyN25MY08ybENqX2VLQlh4U0NuTHNzQ0NwV0JDZm4yWnQzU1FJaENvTHRvRE1PYnRncTZlUGNCbVZBaE1ua082QndGZFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-674a402f3dd2",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian Embassy in UAE issues fresh bids for passport services - Arabian Business",
+   "time": "Tue, 29 Sep 2026 06:06:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTHE1M01JTjZsQUpiQVRYQS1iWFdzREc4QURIU1BlaWVhYnNxRWFRVWJsREQ3R0ZjS3kyWjVOdzlDSzRvRnpxRGVSZUp2WlJvUzIxdE1tN0JGN3NiWkp6alJIVHlONFc2YWRfamtOMmJ6ODl4YjZ3T2tiNXhKU2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
