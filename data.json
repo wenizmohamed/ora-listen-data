@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-30T22:16:48Z",
+  "generated_at": "2026-09-30T22:21:57Z",
   "total_verified": 274,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -73,9 +75,9 @@
   {
    "id": "gn-34985643305f",
    "channel": "press",
-   "author": "newsonair.gov.in",
+   "author": "News On AIR",
    "role": "press",
-   "text": "Viksit Bharat Run brings Indian Community together in Dubai - newsonair.gov.in",
+   "text": "Viksit Bharat Run brings Indian Community together in Dubai - News On AIR",
    "time": "Wed, 30 Sep 2026 09:07:30 GMT",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2dQNEpTX2xIUlI2VHBtRnhSSmZLQ2ZaVGo3VU9DRkVZSDhvVGhwVHR5Smo1U0s2YTlEZnlhb0ZYWV8ydm9jUFM5Y2R3ZXEzcXBKWDVoY1hJS1ZWaUNzMWJfbWRQbTJiVUdzQzlwX0wxRkt1aWQybmZRb3laU1g1VmQ0TjJCck0wU3R6Z2xn?oc=5",
    "sentiment": "neutral",
@@ -87,7 +89,7 @@
    "channel": "press",
    "author": "The Jerusalem Post",
    "role": "press",
-   "text": "Israel: Flydubai pilot tried to hijack Tel Aviv flight, all passengers safe - The Jerusalem Post",
+   "text": "Flydubai pilot attempts terror hijacking of flight to Tel Aviv, foiled by Israeli passengers - The Jerusalem Post",
    "time": "Wed, 30 Sep 2026 06:31:56 GMT",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pdlpyMzRROVJhOW8tWkJPWHJBcWZyR2tGWVFMNk15a2RleWd4VVM3OFpGYjNDcU05eWdDMER0QU5qaXpGVUEweGQxVjhSWWhhTGhTMm5QSmhnZHVucFNR?oc=5",
    "sentiment": "neutral",
