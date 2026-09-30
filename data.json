@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-09-30T07:31:11Z",
-  "total_verified": 273,
+  "generated_at": "2026-09-30T07:36:21Z",
+  "total_verified": 272,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 273,
+  "verified_mentions": 272,
   "sentiment": {
-   "positive": 12,
-   "neutral": 236,
-   "negative": 25
+   "positive": 13,
+   "neutral": 235,
+   "negative": 24
   },
   "channels": {
-   "press": 268,
+   "press": 267,
    "official": 5
   },
-  "negative_alerts": 25,
+  "negative_alerts": 24,
   "handles_active": 2
  },
  "topics": [
@@ -32,30 +32,30 @@
   },
   {
    "topic": "gulf news",
-   "count": 64
+   "count": 62
   },
   {
    "topic": "services",
-   "count": 59
+   "count": 61
   },
   {
    "topic": "flights",
-   "count": 38
+   "count": 36
   },
   {
    "topic": "khaleej times",
-   "count": 28
+   "count": 29
   },
   {
    "topic": "khaleej",
-   "count": 28
-  },
-  {
-   "topic": "passport services",
-   "count": 25
+   "count": 29
   },
   {
    "topic": "business",
+   "count": 26
+  },
+  {
+   "topic": "passport services",
    "count": 25
   }
  ],
@@ -289,18 +289,6 @@
    "engagement": null
   },
   {
-   "id": "gn-cfed75ae1994",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Flying to Europe this summer? EU aviation body issues warning over GCC flights - Gulf Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFEQTYya0V2U3hqUU16ajY0ajJCSkpSdE9TVzRxcnhxTDIzZzU5T0ctd2EwcUlSdHFwem1PbW9QZW56dEVQZ1RnVnBtb3NHaC1PNEJ1WVo2Z2Qtb2l2RUxKSThiOW1xRV9hTGpPZlk3VDgwdGxxZWRneDdlLWtWXzEyUUJaRmhlbXAwMTdQcDNrRkUwRHB1RXE2YnBSS21aX09YNC1CUm5OMkZuR3c3dkN5M0xjaVpo?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-ce7fb0a54865",
    "channel": "press",
    "author": "Arabian Business",
@@ -325,6 +313,18 @@
    "engagement": null
   },
   {
+   "id": "gn-28b74f98f1da",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India captain tests positive for marijuana after turbulence scare - Gulf Business",
+   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-eb2373b61e64",
    "channel": "press",
    "author": "The Times of India",
@@ -344,6 +344,18 @@
    "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-01c86496996b",
+   "channel": "press",
+   "author": "The Indian Express",
+   "role": "press",
+   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
+   "time": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -404,6 +416,30 @@
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-3c296a0f0b83",
+   "channel": "press",
+   "author": "Deccan Chronicle",
+   "role": "press",
+   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-9eea68b2e22a",
+   "channel": "press",
+   "author": "The Indian Express",
+   "role": "press",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2OA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -493,49 +529,13 @@
    "engagement": null
   },
   {
-   "id": "gn-5b41ac567dbd",
+   "id": "gn-f3863ec676ac",
    "channel": "press",
-   "author": "The Times of India",
+   "author": "Moneycontrol.com",
    "role": "press",
-   "text": "Indian Consulate in Dubai allows Class 12 students to get NRI certificates through one-time walk-in on Ap - The Times of India",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPN3RuaE1FX05sMzJfbUFkXzk0VmdlSWJBeExHczkzV25xWFVLdUlsYW03aTRjM2cwLUV3WG0yQVg0UHdadjRaNUxSMDhlWExmS1I3TWx0WkpoYmF5VXFCWGFqaVB3Qld6T2pUOFZoZ2dXRGpQdEdjQ21RNGpVYko4OXZiNGJFTGRieF8tMWh1YnpFRjU2MGs0ekhHN2l0b3I2a196RXU2eEIyZ1VsdTBnT2lCdXhzd003RjRlQ1VpM1VLemxUQWI1MHg2dnNyczE0aG5QM0FoN01pWW5WOFd3bEdseHRKRU9fOXg3dXNaY2J0dmRDLXI1ZFhBaDU5d2trcFpTTndvUkdOa1pDVElrQmxOVlFEcWxKT0NUVHhyemRyaFJ6SEHSAasCQVVfeXFMTnlvcGlkRk9McnR2MzMySUZGVUFMM09YaFg2OEprTHFMcE8xejk5UmlxYVpkVTlMVkhtaVZrMmlnT1hEb0pRWV9UV2JJaTVTVTJKSGhRRG5fTDlsWGtPUjAzMkpJR00zT2hTQkYyellrQ2MzVkZLOXFTUjhlelAxUVpCQ0FIYnd3VmJoSXJRM0ZnbGpGNVNfMmE0UGZlSmY0RVRfTk5pZnk2SEVtTVNGdjZYc3JDek1hMVRfZXhuN3pTR1dLcjczeGJSQ1hDZDhqTGI4RmZjd0JiNHJxckpzM0dpRGx2UENYZnZ4Y2NXQ2Z5dUZHWTBvNmt4VHB0QWhLSXgyMlM4Y1NQWW5WSElzNTNnSG5GZ291bWJXMmVjTklWZkhkSXBjUkFTZnc?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cb6f38514826",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-143d93cefe35",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-18d1924e4693",
-   "channel": "press",
-   "author": "Business Today",
-   "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
+   "text": "UAE revises visa-on-arrival policy for Indians: Who is still eligible? - Moneycontrol.com",
+   "time": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVl3bGx0Q1JuX1hjZ3RqUjctQVpLY3hyZnlzd2gzYUJzMlRiUVAyd0k2VkxkMlZoaWJ5NlcyU0dyVU9Na3czV211TGI1TGhkVlJ1cnY3bWJCNDZZV3gxVjhDN0ZDTTJTVWtyZkhUbVNzSTk0Y1d6cFRXaVZlLVpOVU85Z05udnZ2WE9oS3V2b1lxM0FYZkxDeUpRLUJGa01tWmpiODh5czAxVUJTRG9pcUpVc0Y3SGQyZWFmSlpHY9IBxAFBVV95cUxONDdXUUlZaGZKS0x1bWtzbWc5SW44OGVYTVZpSDMtX1lOeXVkZXN4QkJUc0FQcHBWZGVLM2NwbzZIdEs0ZWJfdVZHMVNuWjE4UWY4LUlIRmhhSUlwdVBiVGJUWGx6Zk9nOHo0QlNhM3RBN1h0OHNjSXI1eEJfaEtid0tVSnRKTDI4MFZHdUJqU0ZrSUpTZWEzTG9Gejd2aW5EbHBHcHgyUTFXSUdQbnprWVRLYWJRc29BcVJpQk5mX1lzOVd2?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
