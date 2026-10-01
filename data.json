@@ -1,19 +1,21 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T19:38:59Z",
+  "generated_at": "2026-10-01T19:44:09Z",
   "total_verified": 285,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 285,
   "sentiment": {
-   "positive": 21,
-   "neutral": 241,
+   "positive": 20,
+   "neutral": 242,
    "negative": 23
   },
   "channels": {
@@ -38,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 45
+   "count": 44
   },
   {
    "topic": "khaleej times",
@@ -50,22 +52,22 @@
   },
   {
    "topic": "flydubai",
-   "count": 26
+   "count": 25
   },
   {
    "topic": "express",
-   "count": 23
+   "count": 22
   }
  ],
  "mentions": [
   {
-   "id": "bn-6442a3e5805a",
+   "id": "bn-151bd37a88bd",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abeb6d2b4c84559a84098315ce403b1&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abeb808c21d46c29db9fb2efad9362c&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -253,9 +255,9 @@
   {
    "id": "gn-70e73e64492a",
    "channel": "press",
-   "author": "rediff.com",
+   "author": "Rediff",
    "role": "press",
-   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - rediff.com",
+   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - Rediff",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHdhdUw1NHpCVkdFbkMxMU1LNVB0bjlNT0FOZDF4cnZTbnlUWVZ1T2dyRmlsTkY5OGg5SjhlMTlMdmVkM0tybUZhYmZDMFUtalFFNkhWM1h4VnF1NVBUOEoxSVlfbHBnb1AzcDZWWDR5bDFCcV9LWmJGRkExc2dGRDQ0Z0JxdzZ0YUdMQnhCdHJBOU41cjBkbHdrc3c5T2hOdWJkaFpTUUh0eVXSAa4BQVVfeXFMT2loRmo3cTN6eWJkNmZOQ0xwemlOTjBOajBTZ0hBSXZWZl8tc2lvMlpQYVFjbzM4c3lkTmlzQUxWbEVveGQxcURSU2lpQzZTTUx3MVJaSXY1MWZZLUZ2SFhIeDRaUGRXZEp1bEhRQlVhQkpLU20xT05tM0lfeHBNUkRveE1XT2dnaW5ja21FbE91cXA2YjVXUk0xMUJVaGVaUmxycERSUl92WklIbVR3?oc=5",
    "sentiment": "negative",
@@ -294,18 +296,6 @@
    "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-01c86496996b",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
-   "time": "Wed, 10 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -534,6 +524,18 @@
    "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-610377ab0854",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "Indian Embassy invites new bids for passport and consular services in UAE - thenationalnews.com",
+   "time": "Tue, 29 Sep 2026 11:56:37 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenRFWS1LQUJmS3RkMUNYcW5fMGpDcHZHcDVqVS1tLXdfOU9HbzdhcEVmd2xCSkFMQzhhQUw5bXJzTHI4akhkOTVuU2Yzemhjb0liNHduWlh4c0VKcmI0M1pJaFM1YXBCYjYyN25MY08ybENqX2VLQlh4U0NuTHNzQ0NwV0JDZm4yWnQzU1FJaENvTHRvRE1PYnRncTZlUGNCbVZBaE1ua082QndGZFE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
