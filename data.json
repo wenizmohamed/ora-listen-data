@@ -1,46 +1,44 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T20:04:48Z",
-  "total_verified": 286,
+  "generated_at": "2026-10-01T20:10:01Z",
+  "total_verified": 292,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 286,
+  "verified_mentions": 292,
   "sentiment": {
    "positive": 19,
-   "neutral": 244,
-   "negative": 23
+   "neutral": 248,
+   "negative": 25
   },
   "channels": {
-   "press": 281,
+   "press": 287,
    "official": 5
   },
-  "negative_alerts": 23,
+  "negative_alerts": 25,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 73
+   "count": 66
   },
   {
    "topic": "gulf news",
-   "count": 61
+   "count": 60
   },
   {
    "topic": "services",
-   "count": 56
+   "count": 53
   },
   {
    "topic": "flights",
-   "count": 45
+   "count": 46
   },
   {
    "topic": "khaleej times",
@@ -52,7 +50,7 @@
   },
   {
    "topic": "flydubai",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "express",
@@ -61,13 +59,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-48dec54ca3a5",
+   "id": "bn-75f0f1614de2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abebce0520d4e07984924498dc5fc34&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abebe18719e40cf8b8d4f35f035c89d&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -212,18 +210,6 @@
    "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
    "time": "Wed, 16 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-6551c340b995",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian court ruling set to make UAE passport service delays worse - Arabian Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0wU3h2QmN4MHRCZEdIbjN6bE1zMVJ1Ql9IMXlwQ2JhQXkwVDFxMjliTXBCZm1iQ2FmeUhjN1I2Q2otNVlGRHJpaHNVUVduQTBQZWNxc19ESkVRN0JaZGhxTElSYmRvTDZwS3hrZ1FKT3paT0h1eDFtYmx2RXl0X0xGcEd0SndiYzlLNFVTbw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -529,13 +515,25 @@
    "engagement": null
   },
   {
-   "id": "gn-bd96955b9812",
+   "id": "gn-610377ab0854",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "thenationalnews.com",
    "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "text": "Indian Embassy invites new bids for passport and consular services in UAE - thenationalnews.com",
+   "time": "Tue, 29 Sep 2026 11:56:37 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenRFWS1LQUJmS3RkMUNYcW5fMGpDcHZHcDVqVS1tLXdfOU9HbzdhcEVmd2xCSkFMQzhhQUw5bXJzTHI4akhkOTVuU2Yzemhjb0liNHduWlh4c0VKcmI0M1pJaFM1YXBCYjYyN25MY08ybENqX2VLQlh4U0NuTHNzQ0NwV0JDZm4yWnQzU1FJaENvTHRvRE1PYnRncTZlUGNCbVZBaE1ua082QndGZFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-674a402f3dd2",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian Embassy in UAE issues fresh bids for passport services - Arabian Business",
+   "time": "Tue, 29 Sep 2026 06:06:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTHE1M01JTjZsQUpiQVRYQS1iWFdzREc4QURIU1BlaWVhYnNxRWFRVWJsREQ3R0ZjS3kyWjVOdzlDSzRvRnpxRGVSZUp2WlJvUzIxdE1tN0JGN3NiWkp6alJIVHlONFc2YWRfamtOMmJ6ODl4YjZ3T2tiNXhKU2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -550,6 +548,18 @@
    "text": "flydubai pilot Smit Machchhar recovering well after cockpit attack, says Indian envoy - Moneycontrol.com",
    "time": "Thu, 01 Oct 2026 14:50:24 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNak5RS19RWjZqcmV6aFJrVGxiZHF5WThuUjRsWXMydGpqVERqRmdXT0Q2R1RzNm9MT3lOWGNKeDNIcktwSnZBUHZNOWt5NWoxYUV3YTlTOE9ESkR2anlVblhrR0cwOExLSnIxSnhtZjZaanZOTkMzWXJWYXg5TV9mWnlLRHZJSmotZk9QczJWT0pZV2Z6Q3Q4dmI4a0RxMHVCalJCVlBaZmZ0WXk2TDBqdldISEFXTk91bU1Sc01BRVotb2xKQVhGVTFYRzNlRzZ3a3lyedIB2gFBVV95cUxPN0NNYmtlb0NOY29ZN3c5MlJjNmRRdjFCN0dLM2s1cXkwMW8weXpRV1dUcWVCRXRzOWJZN3Z0TXJzcDF5eEtYUFZHajNXU1B5MEY1UkwxUmZNNXZEZW9yRGpZOXhWZFluVmFlNWEyMFFQbkJVS3FwT1lLai0ya3RJZXdsbmVZQVJTdVlXbmdXZG1HeDI5YXdiQ2ZvQU5pSDZPTjItakZMLS16VDc5Zy1tNGFQV2hsY1hmZElDZTk2WEpmSmR0eVRqbUFkNWRIWHR1anpuN0pHWmdaUQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4e05a06287f2",
+   "channel": "press",
+   "author": "News India Times",
+   "role": "press",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -591,6 +601,18 @@
    "engagement": null
   },
   {
+   "id": "gn-875abf8eead0",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
+   "time": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-d90c0c4a43a3",
    "channel": "press",
    "author": "The Economic Times",
@@ -603,13 +625,13 @@
    "engagement": null
   },
   {
-   "id": "gn-875abf8eead0",
+   "id": "gn-8e6c5cd0debd",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "ANI News",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
-   "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - ANI News",
+   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVR6QmFWQ2ZTN2MxZ2FQTVk2ZXVmYWMxaDZjYlVSd21uMzlMYko5WmdFa1VEQi1QalBTYW1qSHdwUnJ6b0JMLTZYX1kwR1NSekJnR3ZCRjMtdllnWWJlVXJvSXVnLUw1Wnptb0RtU1g1cWo1ZTBoTnd0V1V0Q0xyV3kwTjh4cjFvSi1yNm1fclEtWmJlbEplbE93cVFHbUpNX01mMDdWa3N3dEhlZkdRZFF5TzBTcUpyQmNLeEdfN2R3WEI4RlBRZE0xcVkzcU5OaHVkTXRNcTY?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -627,18 +649,6 @@
    "engagement": null
   },
   {
-   "id": "gn-bba0e56ad7d3",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
-   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-655d25b126f1",
    "channel": "press",
    "author": "WorldCargo News",
@@ -646,18 +656,6 @@
    "text": "Indian seafarer confirmed dead after attack on container ship in Strait of Hormuz - WorldCargo News",
    "time": "Thu, 16 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWpQMWJ2UGFDRWZQR1kyVkJVSXZkWlc4X180ZGhXTkhZemxpeXk0bEhRNXVFR1F6bUdETnVTS0VsUkkwMFljY005MmlISGRaeFZqdi1zNFhTdzE4aHQxX2NBVGJiWms0U3hsMHByU3N2YmZSUm5rcndDRGVKaGVzUWxvTlFXV0tKeW4xZ2c2MFYtN2lSNXh6Z0p1M1RjUDJFMmpaVFJPTlAzYXc3V3paUi04QUFKMFBTVVlXNV93N2RlaXQ4?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
