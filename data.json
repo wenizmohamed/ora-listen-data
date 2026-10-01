@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T06:48:18Z",
-  "total_verified": 275,
+  "generated_at": "2026-10-01T06:53:28Z",
+  "total_verified": 274,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 275,
+  "verified_mentions": 274,
   "sentiment": {
    "positive": 11,
-   "neutral": 238,
+   "neutral": 237,
    "negative": 26
   },
   "channels": {
-   "press": 270,
+   "press": 269,
    "official": 5
   },
   "negative_alerts": 26,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 70
+   "count": 71
   },
   {
    "topic": "gulf news",
@@ -34,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 54
+   "count": 55
   },
   {
    "topic": "flights",
