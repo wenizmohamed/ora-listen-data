@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T12:13:57Z",
-  "total_verified": 281,
+  "generated_at": "2026-10-01T12:19:07Z",
+  "total_verified": 276,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 281,
+  "verified_mentions": 276,
   "sentiment": {
-   "positive": 13,
-   "neutral": 242,
+   "positive": 12,
+   "neutral": 238,
    "negative": 26
   },
   "channels": {
-   "press": 276,
+   "press": 271,
    "official": 5
   },
   "negative_alerts": 26,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 74
+   "count": 70
   },
   {
    "topic": "gulf news",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 57
+   "count": 54
   },
   {
    "topic": "flights",
@@ -56,22 +56,10 @@
   },
   {
    "topic": "passport services",
-   "count": 21
+   "count": 19
   }
  ],
  "mentions": [
-  {
-   "id": "bn-9f0cd333dc91",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian envoy meets family of Capt Smit Machchhar in Dubai, assures full govt support",
-   "time": "Wed, 30 Sep 2026 20:05:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe4e82e1084113b7e9de0763aca6b3&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-640c5e657d2b",
    "channel": "press",
@@ -297,6 +285,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGswQnA0Rl9WeFZIRENGTjA3MXlIQUdvMUo2V25qUzVZUzJ3d1AzNllBX3lXaEo5Y0NHZjEyY0FPSzlGWVZfNDgtVVJBRXB0T1NjS21oTkJCRjlZMjZiV1ctTWFiVllNeFBfSlE4OEhUbVFpNVlsRkMtNlFLWVZETFNwMmNac0VDX3F1UFppeDNvVGlmWW14MFNsUE5ybXk0MnFSWUticnozTTNZMVhjTW5RMXJnYVNtamtYMjJYWkN2cDVQNVZvSFREdW5fYmNBN3JqbklKSE5NVmNkVnYzN9IB8wFBVV95cUxNYWFxeFFUUXJsZHRZSzFldExlZEs2cG9XODZHTW43YS0xemFqWkxpMGJrRXVFVTVySnFSbURxMnd3OUkwZzl3NE9PMkQxNTgzXzZKaHUxdW9TdE9GTS1PeTFkb25ZSmMwT0pwazlQUzdzZ19fdzY3ZjFlZ1dMYnVlSjRsaDI5NUNsMnQyai00dWhWNWpuQ0xoMXdJN3RLT2p2WnMxd2h2dWlSTTlRWHQtSDdhcmZQX1ktOUhLUnNteUM3dHhlZkdLaDMzYWZvU1h6VGVwNGVvZkIyb2tYWWlPSG8ycE1xYjdVMUlzSzZpdXdBbXc?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-28b74f98f1da",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India captain tests positive for marijuana after turbulence scare - Gulf Business",
+   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
