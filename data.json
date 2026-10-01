@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T15:04:40Z",
-  "total_verified": 287,
+  "generated_at": "2026-10-01T15:09:51Z",
+  "total_verified": 288,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 287,
+  "verified_mentions": 288,
   "sentiment": {
    "positive": 15,
    "neutral": 245,
-   "negative": 27
+   "negative": 28
   },
   "channels": {
-   "press": 282,
+   "press": 283,
    "official": 5
   },
-  "negative_alerts": 27,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
@@ -52,7 +52,7 @@
   },
   {
    "topic": "express",
-   "count": 21
+   "count": 22
   },
   {
    "topic": "passport services",
@@ -61,61 +61,73 @@
  ],
  "mentions": [
   {
-   "id": "bn-7917a1231d26",
+   "id": "bn-9993572f00c0",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "flydubai pilot Smit Machchhar recovering well after cockpit attack, says Indian envoy",
+   "time": "Wed, 30 Sep 2026 23:20:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fwww.moneycontrol.com%2fnews%2findia%2fflydubai-pilot-smit-machchhar-recovering-well-after-cockpit-attack-says-indian-envoy-14043102.html&c=14801854719076071710&mkt=ar-ae",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-459f9b186d77",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "‘Recovering Well’: Indian Envoy To UAE Says Captain Smit Machchhar Is In ‘Good Health’",
    "time": "Wed, 30 Sep 2026 22:58:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe76852a7d4827bfb3738d656746ba&url=https%3a%2f%2fwww.news18.com%2fworld%2frecovering-well-indian-envoy-to-uae-says-captain-smit-machchhar-is-in-good-health-10363407.html&c=15028427916992721857&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fwww.news18.com%2fworld%2frecovering-well-indian-envoy-to-uae-says-captain-smit-machchhar-is-in-good-health-10363407.html&c=15028427916992721857&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-b65a016d2151",
+   "id": "bn-8e101d4d433a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Captain Machchhar is in good health and recovering well: Indian Embassy in UAE",
    "time": "Wed, 30 Sep 2026 22:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe76852a7d4827bfb3738d656746ba&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcaptain-machchhar-is-in-good-health-and-recovering-well-indian-embassy-in-uae%2far-AA2dlLot&c=4480261315258947035&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcaptain-machchhar-is-in-good-health-and-recovering-well-indian-embassy-in-uae%2far-AA2dlLot&c=4480261315258947035&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-5786f5f68f19",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Who is Captain Smit Machchhar? Indian pilot injured in flydubai plane altercation",
-   "time": "Wed, 30 Sep 2026 21:13:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe76852a7d4827bfb3738d656746ba&url=https%3a%2f%2fwww.khaleejtimes.com%2fbusiness%2faviation%2fcaptain-smit-machchhar-indian-pilot-injured-flydubai-altercation&c=6260169621759995336&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-d56058b8d47f",
+   "id": "bn-a0b7c741de1c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian envoy meets family of Capt Smit Machchhar in Dubai, assures full govt support",
    "time": "Wed, 30 Sep 2026 20:05:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe76852a7d4827bfb3738d656746ba&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-3c97ba8cff70",
+   "id": "bn-9f417b6093dc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "'Recovering well': Indian ambassador in UAE visits injured flydubai pilot at hospital",
    "time": "Wed, 30 Sep 2026 19:15:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe76852a7d4827bfb3738d656746ba&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-ambassador-meets-flydubai-pilot-smith-machchar-family-dubai&c=5874894669978001603&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-ambassador-meets-flydubai-pilot-smith-machchar-family-dubai&c=5874894669978001603&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-986187c750a3",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Wounded Indian pilot from flydubai flight being treated in Saudi hospital: Embassy",
+   "time": "Wed, 30 Sep 2026 17:41:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe77bc095840958ae4475e5810dfa3&url=https%3a%2f%2fenglish.alarabiya.net%2fNews%2fgulf%2f2026%2f10%2f01%2fwounded-indian-pilot-from-flydubai-flight-being-treated-in-saudi-hospital-embassy&c=2333378674362442800&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -128,18 +140,6 @@
    "text": "Dubai and Middle East flight disruption: Regional airlines face delays as Europe renews Gulf airspace warning - cntravellerme.com",
    "time": "Wed, 30 Sep 2026 15:20:29 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnp2cWxYbnFnb0cxck9jM1RfRGJTY0ROUHllNU5wYXJqS0Nodjh4ekhPQkRHT0FVel9iV2FMa21Edl9XX0F0U0xDWFpiM1Z1VDJJVGdYZzdaZUZCYVZFeEozLWJUVU1oYktKUVdUQTZNUlEtRDRrYS10X093a0dvTFVUTHhQVUwwbDJMdEdjaTNlSklwSmdiVXg0X2FwbXFwdnRHMDY4Ui1PVDc0YUFNN1Z1MHpjbFozWjhSR19hLUJUWGpXUml6eFQ0YjhhWlZWTVhSeUFPQjFNUUkxaHk3SlhSTDA1Zw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-34985643305f",
-   "channel": "press",
-   "author": "newsonair.gov.in",
-   "role": "press",
-   "text": "Viksit Bharat Run brings Indian Community together in Dubai - newsonair.gov.in",
-   "time": "Wed, 30 Sep 2026 09:07:30 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2dQNEpTX2xIUlI2VHBtRnhSSmZLQ2ZaVGo3VU9DRkVZSDhvVGhwVHR5Smo1U0s2YTlEZnlhb0ZYWV8ydm9jUFM5Y2R3ZXEzcXBKWDVoY1hJS1ZWaUNzMWJfbWRQbTJiVUdzQzlwX0wxRkt1aWQybmZRb3laU1g1VmQ0TjJCck0wU3R6Z2xn?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -265,13 +265,13 @@
    "engagement": null
   },
   {
-   "id": "gn-e2e0d82ee2d2",
+   "id": "gn-b147e77a018a",
    "channel": "press",
    "author": "NDTV",
    "role": "press",
    "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
    "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -471,9 +471,9 @@
   {
    "id": "gn-eb40d993a783",
    "channel": "press",
-   "author": "newindianexpress.com",
+   "author": "The New Indian Express",
    "role": "press",
-   "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - newindianexpress.com",
+   "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
    "sentiment": "neutral",
