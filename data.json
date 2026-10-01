@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T16:48:01Z",
-  "total_verified": 284,
+  "generated_at": "2026-10-01T16:53:11Z",
+  "total_verified": 285,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 284,
+  "verified_mentions": 285,
   "sentiment": {
-   "positive": 15,
-   "neutral": 244,
+   "positive": 17,
+   "neutral": 243,
    "negative": 25
   },
   "channels": {
-   "press": 279,
+   "press": 280,
    "official": 5
   },
   "negative_alerts": 25,
@@ -60,6 +60,30 @@
   }
  ],
  "mentions": [
+  {
+   "id": "bn-f57a88815c05",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian envoy meets family of Capt Smit Machchhar in Dubai, assures full govt support",
+   "time": "Wed, 30 Sep 2026 20:05:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8ff6c39e480c95db763d0a8b49e1&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-542cda4e27d2",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian pilot attacked in Flydubai incident is in good health, Indian embassy in UAE reports",
+   "time": "Wed, 30 Sep 2026 17:00:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8ff6c39e480c95db763d0a8b49e1&url=https%3a%2f%2fwww.gdnonline.com%2fDetails%2f1408294&c=18219481652948772231&mkt=ar-ae",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-640c5e657d2b",
    "channel": "press",
@@ -193,13 +217,13 @@
    "engagement": null
   },
   {
-   "id": "gn-e2e0d82ee2d2",
+   "id": "gn-b147e77a018a",
    "channel": "press",
    "author": "NDTV",
    "role": "press",
    "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
    "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -512,30 +536,6 @@
    "text": "Indian Embassy in UAE issues fresh bids for passport services - Arabian Business",
    "time": "Tue, 29 Sep 2026 06:06:32 GMT",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTHE1M01JTjZsQUpiQVRYQS1iWFdzREc4QURIU1BlaWVhYnNxRWFRVWJsREQ3R0ZjS3kyWjVOdzlDSzRvRnpxRGVSZUp2WlJvUzIxdE1tN0JGN3NiWkp6alJIVHlONFc2YWRfamtOMmJ6ODl4YjZ3T2tiNXhKU2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-4a7d2913e745",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE",
-   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8ec07ad14a52b67b733030cffc5d&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-3360efabeb18",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - DD News",
-   "time": "Tue, 29 Sep 2026 03:39:15 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWJ5ZWtVaUJiMTRIZXM2NmM2VEtOcXlvZENHZEtobVB5VjludWx0eUFIWmUzODRQN3VSaXF5ZEtVV3lzbzU5U0QzSTN1bEx6THh4a1dJOTBVdGctZTA5ZmpFT0FHdkxYaVlHdW9VVUt4ZnYzbUFBVmpXNmN5cFlyWFpMMHFKOV9WYmtCQ1ctcmU3aDJLcEdOYm14Y3NlOVdQOUppV1VYMDVoWk5hNkE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
