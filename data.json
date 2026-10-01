@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T14:07:47Z",
+  "generated_at": "2026-10-01T14:12:56Z",
   "total_verified": 284,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -59,25 +61,25 @@
  ],
  "mentions": [
   {
-   "id": "bn-84a60e5b8e25",
+   "id": "bn-2134a610238d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian envoy meets family of Capt Smit Machchhar in Dubai, assures full govt support",
    "time": "Wed, 30 Sep 2026 20:05:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6930d87f4cf288d86d5c2d3109fd&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6a65095e43d088a6193fae011328&url=https%3a%2f%2fwww.ap7am.com%2fen%2f136800%2findian-envoy-meets-family-of-capt-smit-machchhar-in-dubai-assures-full-govt-support&c=2440339462613882904&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-bc2dba5f94d2",
+   "id": "bn-08c234d2df82",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian ambassador meets injured flydubai pilot's family in Dubai, assures full support",
    "time": "Wed, 30 Sep 2026 19:15:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6930d87f4cf288d86d5c2d3109fd&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-ambassador-meets-flydubai-pilot-smith-machchar-family-dubai&c=5874894669978001603&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe6a65095e43d088a6193fae011328&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-ambassador-meets-flydubai-pilot-smith-machchar-family-dubai&c=5874894669978001603&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -97,9 +99,9 @@
   {
    "id": "gn-34985643305f",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "newsonair.gov.in",
    "role": "press",
-   "text": "Viksit Bharat Run brings Indian Community together in Dubai - News On AIR",
+   "text": "Viksit Bharat Run brings Indian Community together in Dubai - newsonair.gov.in",
    "time": "Wed, 30 Sep 2026 09:07:30 GMT",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2dQNEpTX2xIUlI2VHBtRnhSSmZLQ2ZaVGo3VU9DRkVZSDhvVGhwVHR5Smo1U0s2YTlEZnlhb0ZYWV8ydm9jUFM5Y2R3ZXEzcXBKWDVoY1hJS1ZWaUNzMWJfbWRQbTJiVUdzQzlwX0wxRkt1aWQybmZRb3laU1g1VmQ0TjJCck0wU3R6Z2xn?oc=5",
    "sentiment": "neutral",
@@ -227,13 +229,13 @@
    "engagement": null
   },
   {
-   "id": "gn-b147e77a018a",
+   "id": "gn-e2e0d82ee2d2",
    "channel": "press",
    "author": "NDTV",
    "role": "press",
    "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
    "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
