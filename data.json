@@ -1,58 +1,56 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T16:32:33Z",
+  "generated_at": "2026-10-01T16:37:42Z",
   "total_verified": 284,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 284,
   "sentiment": {
    "positive": 15,
-   "neutral": 242,
-   "negative": 27
+   "neutral": 243,
+   "negative": 26
   },
   "channels": {
    "press": 279,
    "official": 5
   },
-  "negative_alerts": 27,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 67
+   "count": 66
   },
   {
    "topic": "gulf news",
-   "count": 60
+   "count": 61
   },
   {
    "topic": "services",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "flights",
-   "count": 46
+   "count": 47
   },
   {
    "topic": "khaleej times",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "khaleej",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "express",
-   "count": 24
+   "count": 23
   },
   {
    "topic": "flydubai",
@@ -61,13 +59,13 @@
  ],
  "mentions": [
   {
-   "id": "bn-d84c1cbbece6",
+   "id": "bn-e651a6c77d01",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "flydubai pilot Smit Machchhar recovering well after cockpit attack, says Indian envoy",
    "time": "Wed, 30 Sep 2026 23:20:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8b206c6e4d9bae22d08d74461eae&url=https%3a%2f%2fwww.moneycontrol.com%2fnews%2findia%2fflydubai-pilot-smit-machchhar-recovering-well-after-cockpit-attack-says-indian-envoy-14043102.html&c=14801854719076071710&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8c56e8b24c688a1b3b4f7314d649&url=https%3a%2f%2fwww.moneycontrol.com%2fnews%2findia%2fflydubai-pilot-smit-machchhar-recovering-well-after-cockpit-attack-says-indian-envoy-14043102.html&c=14801854719076071710&mkt=ar-ae",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -205,13 +203,13 @@
    "engagement": null
   },
   {
-   "id": "gn-e2e0d82ee2d2",
+   "id": "gn-b147e77a018a",
    "channel": "press",
    "author": "ndtv.com",
    "role": "press",
    "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - ndtv.com",
    "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -284,18 +282,6 @@
    "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-01c86496996b",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
-   "time": "Wed, 10 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -539,6 +525,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "bn-5b90322ba453",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "Indian Embassy invites new bids for passport and consular services in UAE",
+   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe8c56e8b24c688a1b3b4f7314d649&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -550,18 +548,6 @@
    "text": "flydubai pilot Smit Machchhar recovering well after cockpit attack, says Indian envoy - Moneycontrol.com",
    "time": "Thu, 01 Oct 2026 14:50:24 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNak5RS19RWjZqcmV6aFJrVGxiZHF5WThuUjRsWXMydGpqVERqRmdXT0Q2R1RzNm9MT3lOWGNKeDNIcktwSnZBUHZNOWt5NWoxYUV3YTlTOE9ESkR2anlVblhrR0cwOExLSnIxSnhtZjZaanZOTkMzWXJWYXg5TV9mWnlLRHZJSmotZk9QczJWT0pZV2Z6Q3Q4dmI4a0RxMHVCalJCVlBaZmZ0WXk2TDBqdldISEFXTk91bU1Sc01BRVotb2xKQVhGVTFYRzNlRzZ3a3lyedIB2gFBVV95cUxPN0NNYmtlb0NOY29ZN3c5MlJjNmRRdjFCN0dLM2s1cXkwMW8weXpRV1dUcWVCRXRzOWJZN3Z0TXJzcDF5eEtYUFZHajNXU1B5MEY1UkwxUmZNNXZEZW9yRGpZOXhWZFluVmFlNWEyMFFQbkJVS3FwT1lLai0ya3RJZXdsbmVZQVJTdVlXbmdXZG1HeDI5YXdiQ2ZvQU5pSDZPTjItakZMLS16VDc5Zy1tNGFQV2hsY1hmZElDZTk2WEpmSmR0eVRqbUFkNWRIWHR1anpuN0pHWmdaUQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-4e05a06287f2",
-   "channel": "press",
-   "author": "newsindiatimes.com",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - newsindiatimes.com",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -658,6 +644,18 @@
    "text": "Indian Embassy in UAE condoles seafarer's death, monitors Hormuz situation - Gulf News",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2JLSlVuR0M1eGVhRlBId09qVHRJS25TR2gtZ09NVlBoVV8wVWZGYi14NG52SEFER1dQSUctYWdQaHNnajBMaGNRVGlvYUtzQV9CMThsVGVVRVBJaVFnUl9lZVJUb2xDQnRtWkVmTTZkNVgzRVZMLUhib3NONHNCSk5rZ1NBVHFlSWFoTVV5Uno0UVR2VkkwcFktSlhPS2VJYmxpUnJnUGVQWFN0czhieEIzUGlFdlprdWFrNEZkZ2NLdw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d3bf5497c828",
+   "channel": "press",
+   "author": "The Indian Express",
+   "role": "press",
+   "text": "Iran conflict: What can NRIs do if stuck in Middle East countries? Special flights, advisories, helplines and more - The Indian Express",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnppYVRtZnBGT0NDOGNVazl5bzFTcVlPSk1OZmYyWGVMRXdOWFZQaU9RLVhoNGFBNVlaOGgyWFpVNTNaa2Z1bE9JOFBTU2NKQUc3MFBORTByOFNTYzJUUkNwYTMyNUVoZmxSVUdnaDNydFRNY2luTC0tcHoxdzREOFNYX25EbmFiOTFlejdtYkVkX1lOa0tuczdOYWg3ZzViQzVzN1d3UlA2ZUJFdXRybHlyVmpwR1lqZHJ4UC11RFM2bU3SAcoBQVVfeXFMUE5mMzBSVW5QYk5mNUZTcFQwUk5nRlM2SWZIdGNGTkVucEszRUFDUkY4RFJuZlZGQlpzSVVKTGRMelR4STJEaFZmMjhManRCSlZkUW1CVld6NDJ4SDY2V3NvSDRDc3d2dmpYZng1a2piMXVYeHpfNWNQcUIya1JURkxVYVhXa1BxbDJjNTUtM2pRZUVYMFBZSzlxbTdWUTNEaE9UOXlGSlRDMWRVZHQ4NmV1Mkk3d3BRX29MSmVWOXNxWGNHRU9ENVdXUQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
