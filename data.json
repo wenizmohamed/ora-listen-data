@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-02T16:45:19Z",
-  "total_verified": 288,
+  "generated_at": "2026-10-02T16:50:29Z",
+  "total_verified": 289,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 289,
   "sentiment": {
-   "positive": 21,
+   "positive": 22,
    "neutral": 241,
    "negative": 26
   },
   "channels": {
-   "press": 283,
+   "press": 284,
    "official": 5
   },
   "negative_alerts": 26,
@@ -29,20 +31,20 @@
    "count": 65
   },
   {
-   "topic": "services",
+   "topic": "gulf news",
    "count": 54
   },
   {
-   "topic": "gulf news",
+   "topic": "services",
    "count": 53
   },
   {
    "topic": "flights",
-   "count": 46
+   "count": 45
   },
   {
    "topic": "flydubai",
-   "count": 26
+   "count": 28
   },
   {
    "topic": "khaleej times",
@@ -53,19 +55,19 @@
    "count": 26
   },
   {
-   "topic": "express",
+   "topic": "machchhar",
    "count": 24
   }
  ],
  "mentions": [
   {
-   "id": "bn-03f937328345",
+   "id": "bn-ea4e5ca8a243",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfdf9c816f4486a7a18e2d342f7487&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfe0d29e534a7facba15dd493489bf&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -445,9 +447,9 @@
   {
    "id": "gn-18d1924e4693",
    "channel": "press",
-   "author": "Business Today",
+   "author": "businesstoday.in",
    "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - businesstoday.in",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
@@ -503,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e46cb3fbbd89",
+   "id": "bn-a1f9d46e9bcc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfdf9c816f4486a7a18e2d342f7487&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abfe0d29e534a7facba15dd493489bf&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
