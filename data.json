@@ -1,25 +1,23 @@
 {
  "meta": {
-  "generated_at": "2026-10-02T07:21:45Z",
-  "total_verified": 288,
+  "generated_at": "2026-10-02T07:26:56Z",
+  "total_verified": 287,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 287,
   "sentiment": {
-   "positive": 25,
-   "neutral": 236,
+   "positive": 23,
+   "neutral": 237,
    "negative": 27
   },
   "channels": {
-   "press": 283,
+   "press": 282,
    "official": 5
   },
   "negative_alerts": 27,
@@ -32,42 +30,42 @@
   },
   {
    "topic": "gulf news",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 48
   },
   {
    "topic": "flights",
-   "count": 37
-  },
-  {
-   "topic": "flydubai",
-   "count": 28
+   "count": 36
   },
   {
    "topic": "khaleej times",
-   "count": 26
+   "count": 27
   },
   {
    "topic": "khaleej",
+   "count": 27
+  },
+  {
+   "topic": "flydubai",
    "count": 26
   },
   {
    "topic": "machchhar",
-   "count": 24
+   "count": 23
   }
  ],
  "mentions": [
   {
-   "id": "bn-d6b5abe34f05",
+   "id": "bn-67ccb5841f1e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf5b87f6224ccaa9033a5316d8dea0&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf5cbecdd04bfc8b311df9ff68f2c5&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
