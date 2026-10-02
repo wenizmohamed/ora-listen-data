@@ -1,42 +1,40 @@
 {
  "meta": {
-  "generated_at": "2026-10-02T01:35:40Z",
-  "total_verified": 290,
+  "generated_at": "2026-10-02T01:40:51Z",
+  "total_verified": 291,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 290,
+  "verified_mentions": 291,
   "sentiment": {
-   "positive": 21,
-   "neutral": 244,
-   "negative": 25
+   "positive": 20,
+   "neutral": 245,
+   "negative": 26
   },
   "channels": {
-   "press": 285,
+   "press": 286,
    "official": 5
   },
-  "negative_alerts": 25,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 67
+   "count": 66
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "services",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "flights",
@@ -55,19 +53,19 @@
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 23
+   "topic": "machchhar",
+   "count": 21
   }
  ],
  "mentions": [
   {
-   "id": "bn-072baf41b7d1",
+   "id": "bn-411e573f7d3c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf0a6bfbe848de9547869dcb7ebc32&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf0ba2f1894196b9f234c876bb8b8c&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -205,6 +203,18 @@
    "engagement": null
   },
   {
+   "id": "gn-e2e0d82ee2d2",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
+   "time": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-c72da6bc4351",
    "channel": "press",
    "author": "Khaleej Times",
@@ -231,9 +241,9 @@
   {
    "id": "gn-70e73e64492a",
    "channel": "press",
-   "author": "Rediff",
+   "author": "rediff.com",
    "role": "press",
-   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - Rediff",
+   "text": "Indian sailor missing after Hormuz ship attack confirmed dead - rediff.com",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHdhdUw1NHpCVkdFbkMxMU1LNVB0bjlNT0FOZDF4cnZTbnlUWVZ1T2dyRmlsTkY5OGg5SjhlMTlMdmVkM0tybUZhYmZDMFUtalFFNkhWM1h4VnF1NVBUOEoxSVlfbHBnb1AzcDZWWDR5bDFCcV9LWmJGRkExc2dGRDQ0Z0JxdzZ0YUdMQnhCdHJBOU41cjBkbHdrc3c5T2hOdWJkaFpTUUh0eVXSAa4BQVVfeXFMT2loRmo3cTN6eWJkNmZOQ0xwemlOTjBOajBTZ0hBSXZWZl8tc2lvMlpQYVFjbzM4c3lkTmlzQUxWbEVveGQxcURSU2lpQzZTTUx3MVJaSXY1MWZZLUZ2SFhIeDRaUGRXZEp1bEhRQlVhQkpLU20xT05tM0lfeHBNUkRveE1XT2dnaW5ja21FbE91cXA2YjVXUk0xMUJVaGVaUmxycERSUl92WklIbVR3?oc=5",
    "sentiment": "negative",
@@ -279,9 +289,9 @@
   {
    "id": "gn-01c86496996b",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "indianexpress.com",
    "role": "press",
-   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - The Indian Express",
+   "text": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash - indianexpress.com",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWVJSHlwZ3MtLXlvcFJKd0xkY2dmRFE1TDFFWnZMSWFqSzdZOFVXLV9VTm5memZJOGEyWHJmeDJEaXgwOW5mUmhPT0M1cldQOURKV09oRnhBMFJUZndEc2hTcVltWkppbmZyakc2OThJYmhRMXUwQjN6WFZOTU5vYl9nRVlfLWxZWGpTanBNV2NLVEI3YlZ6eDg4V2NyTktMdFZ2SGk3RTVZOVZ3Z3hBbV9icEVXZ1pqSVHSAcABQVVfeXFMT3NfMHJsb05TM1pZekNxdnhKclotYjFDWHkzcU11NVc1UDVwV01hTEhwWlBSX1ZPd1NNN2lyMVQzSF8weFRyOEJxdjJOaVdFMXdlZHJaeVBqTXdWaTFBTHRhSnk3RkQ1QnRQX0NhbUFGTExzRFdNLXlrc2pheDJEZGZOd0JFenVVTFF6MGhpUVZJQWNSbjdOOVFLaFg4cFcyUDdyRzJxMGpwLUctVDRYdzdSRmRXZTJBUmZLVzZYeUJQ?oc=5",
    "sentiment": "neutral",
@@ -351,9 +361,9 @@
   {
    "id": "gn-9eea68b2e22a",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "indianexpress.com",
    "role": "press",
-   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - The Indian Express",
+   "text": "Kerala man killed in Dubai blast had one dream before tragedy struck - indianexpress.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR00xNjY4ZVFmZGZRQU8tQlB2NTVldXVraWJ6eENlM1JWN0tpLXE0RUpya0thTHFFbWtUbTZhZzJYVzZPR1VlajVFQ3NsZnBPRy1kVW9YMzZ1WjFQYUx4eUk1dHc2STlaWDVsNjFyM3ZjQ05QcmNTdUViSnoyeDdSOXZzd1U4UTBmdUxSZ0NnQ05HaTJQZWw1RjVkUG1iV1VBeU9ROHIwajdzakdnM2R6T0U2QU1HbndVOUQyOTBCdmNzWU9OOUVjanM2OA?oc=5",
    "sentiment": "neutral",
@@ -527,21 +537,21 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "bn-fd598e1f9580",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE",
-   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf0a6bfbe848de9547869dcb7ebc32&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
+  {
+   "id": "gn-23498f11b140",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Recovering well: Indian Embassy updates on pilot Smit Machchhar after cockpit attack - India Today",
+   "time": "Thu, 01 Oct 2026 14:14:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVHhCS05SeU0tT1JWN2NIdGpLaTBrQU5MWWE2ZllqQm55VV9peEJKSGJtWV9vdjhQZG9CWmxudVJrVFpiN1hJSFV4Zk0tOVdzLUlZb2VqOF9oNC1STDZWazBkSV81TWFsb0MxNWRIaGtMS2ZaQ20wcEhXb2xrV094VHNiSEp5dkRscUVodzlVZ0hkOVh0a1NXaGIwYlZGYXQ5SjE1NnNmMGNYb29vb004R0xEM2trNUh3ZWJxa19UVzhVdGI0eHVfUnYtVFlJWWtqa2M4ampYSjFmRmxtVkdv0gHkAUFVX3lxTFAxVF9MSWFibks4VXpOMG4wZV83OHd2eWM2TktZb2psbllrN1dVQlkwbWNYZXpGZ1k4ckdmQ054NFZLVFlVZ0VpWUl4R1pGckdBQ2I0bnAxZWlyZjBxLU9lX0JnekVja2lCb09LZ29EajhDNWRXbEJxdGNNcnVlSWlUWUdPU1JmR3VNYkpIWjNKSWw4am5CSUU0RV9wTkNjazFhZ19FTHNWalI4eVVjNHBocDZvazVUdXI4U2RoQ0JnOWxtanE4WkVldkVBSHEzbmpjMl9wY2psX09fNWhDZjJMaUxxXw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-af850ea1f374",
    "channel": "press",
@@ -646,18 +656,6 @@
    "text": "UAE Indian Consular Services To Be Suspended For Five Days From June 26 - Outlook Traveller",
    "time": "Thu, 25 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01mMmRxVnIxMk9BZWxwWi1vbmZyUElKZmozMzg1TFJnQnhwUzcxREJxZV9YREZYNHl6ODdjRGNNMWp2R29WOVBpdlFnSkdqNmYxcDc2TUdabmdlZGVLcWVHc1RXZ0hPcmFINXBJNk9ySzBKOXRSWlZKZ0lyNlcxbnRsSDBRQ3FxSXNXYzBKc0dnelFCZ3pva1NYVXUxNmc5Y1FXTmFrOGFaZVJuV2c?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-655d25b126f1",
-   "channel": "press",
-   "author": "WorldCargo News",
-   "role": "press",
-   "text": "Indian seafarer confirmed dead after attack on container ship in Strait of Hormuz - WorldCargo News",
-   "time": "Thu, 16 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWpQMWJ2UGFDRWZQR1kyVkJVSXZkWlc4X180ZGhXTkhZemxpeXk0bEhRNXVFR1F6bUdETnVTS0VsUkkwMFljY005MmlISGRaeFZqdi1zNFhTdzE4aHQxX2NBVGJiWms0U3hsMHByU3N2YmZSUm5rcndDRGVKaGVzUWxvTlFXV0tKeW4xZ2c2MFYtN2lSNXh6Z0p1M1RjUDJFMmpaVFJPTlAzYXc3V3paUi04QUFKMFBTVVlXNV93N2RlaXQ4?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
