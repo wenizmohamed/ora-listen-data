@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T01:26:58Z",
-  "total_verified": 288,
+  "generated_at": "2026-10-03T01:32:07Z",
+  "total_verified": 289,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 289,
   "sentiment": {
-   "positive": 22,
+   "positive": 23,
    "neutral": 239,
    "negative": 27
   },
   "channels": {
-   "press": 283,
+   "press": 284,
    "official": 5
   },
   "negative_alerts": 27,
@@ -28,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 63
+   "count": 62
   },
   {
    "topic": "gulf news",
-   "count": 54
+   "count": 56
   },
   {
    "topic": "services",
@@ -40,11 +40,11 @@
   },
   {
    "topic": "flights",
-   "count": 46
+   "count": 47
   },
   {
    "topic": "flydubai",
-   "count": 30
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -61,26 +61,14 @@
  ],
  "mentions": [
   {
-   "id": "bn-e546dd536578",
+   "id": "bn-774d61b6b17a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac059e35b134edda33348bc15ee82b5&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac05b1862c9443fa04fd03b2801d6d9&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-640c5e657d2b",
-   "channel": "press",
-   "author": "cntravellerme.com",
-   "role": "press",
-   "text": "Dubai and Middle East flight disruption: Regional airlines face delays as Europe renews Gulf airspace warning - cntravellerme.com",
-   "time": "Wed, 30 Sep 2026 15:20:29 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnp2cWxYbnFnb0cxck9jM1RfRGJTY0ROUHllNU5wYXJqS0Nodjh4ekhPQkRHT0FVel9iV2FMa21Edl9XX0F0U0xDWFpiM1Z1VDJJVGdYZzdaZUZCYVZFeEozLWJUVU1oYktKUVdUQTZNUlEtRDRrYS10X093a0dvTFVUTHhQVUwwbDJMdEdjaTNlSklwSmdiVXg0X2FwbXFwdnRHMDY4Ui1PVDc0YUFNN1Z1MHpjbFozWjhSR19hLUJUWGpXUml6eFQ0YjhhWlZWTVhSeUFPQjFNUUkxaHk3SlhSTDA1Zw?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -135,9 +123,9 @@
   {
    "id": "gn-7c636b0b1a76",
    "channel": "press",
-   "author": "emirates247.com",
+   "author": "Emirates 24|7",
    "role": "press",
-   "text": "Indian passport, visa services in UAE now via Al Hind Tours & Travels - emirates247.com",
+   "text": "Indian passport, visa services in UAE now via Al Hind Tours & Travels - Emirates 24|7",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2xGY0c2UkZkelFqM3FtekxjRmdPQUhyWjRRMC1pcUxFUEhkV0pLVVQ3ZG9nb1VFSjFQa3pGOHJBZzZOSHhwZEh5d2JhU2tpUGFQeDV4bm1jZ0lFSXBHTkY1SDB2WElKcjJJWkMwdi01THBhVjF2aWhTQW9zaG51cS1TZmpkZzU2azJKWUtWMC1qazl5cnhhYVlFaVc4TF9XOWs3SlpNR3JuZ0RLX0tJOWpWTjM4bjJQaHZYc1lVbzBVWU9zXzJadW1JN3FxUdIB6AFBVV95cUxOYmFjUTJjNGdzdVdkR3RZYW9aenR1RjFVSTdhNFpHTUpPLVYxYUdiUlhSWGtSd1pOWm1uX0dlWS1PaWN5RVVoYS1PRXpzcEk1Ym9zZWxITENVd3JLLXFLYkNxOHpKR1VESERNR2dJRjNqSDI3NjVMU09KWFRFbFBjYUlDN0RlQ2daYXhrSDJ5c2pFSUJMVndYQ3lQbzdDcnlNU09CUG1kMUg4VjZmeUs1UjJaeGFobnhqc3JnNm9hU3ZfN0VSYTdPdmhIc1QwaFRmUDN6WEo3T1lScWtTR0poTkNyd3Q3a2w3?oc=5",
    "sentiment": "neutral",
@@ -169,18 +157,6 @@
    "engagement": null
   },
   {
-   "id": "gn-e2e0d82ee2d2",
-   "channel": "press",
-   "author": "NDTV",
-   "role": "press",
-   "text": "India's Passport Power Rank Drops 7 Places In 2026, How It Impacts Your Travels - NDTV",
-   "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1SM0NVaDZIYi1zWm41VE1RX2s4eS1wa3g1Mzl3RzlSZFdOR2dxMG5zeHFqRTJ0NUFCQThfQ043TnpFamlUcmhfNnVQN3NHQ3NGaVBMMHFoWkJhUGk5S2xrWGd0Vk5QMmVNODJCODA3Q3hDbGZVOWtGVVlmRlBWbDN5ZjNDNko1UWFobmdpZmxobEpGY2tianp1RUZlTWNqd3FZaGJoZm8xeVF3bXJxbHFoazdfV2pRbWE4S2ctZ2VzUnBwUzFvTHh1RUVaanFQ0gHYAUFVX3lxTE1HRTV3ZUZoQ29hVFpJdEp0cnl3WERadXJrbFRMSF9NQXFTQkF4cUVWS2lnNDNqSmFIYXZYUU96eHlidUlkNGdvTElJMlktSFgyamhvR3dWSUNOMTdILXE5ZlM3YTlrdE9VQ3pkcWlmUGpINzA2T0xNZjV1b3Nwd01WOW1wVWZMWm5JdjFHMXZsanMzUnJKSnFGQ2loeUM5dkFZUThXdjRkTzBMWVlKVC0tbnRJRXhRaGZqSE03Qkp1ZkdQNTc0cU84Q0Zfa1RwRVRZQmROcFlXZg?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c72da6bc4351",
    "channel": "press",
    "author": "Khaleej Times",
@@ -195,9 +171,9 @@
   {
    "id": "gn-7e3ca8386bfb",
    "channel": "press",
-   "author": "India Today",
+   "author": "indiatoday.in",
    "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
+   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - indiatoday.in",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
@@ -237,6 +213,18 @@
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGswQnA0Rl9WeFZIRENGTjA3MXlIQUdvMUo2V25qUzVZUzJ3d1AzNllBX3lXaEo5Y0NHZjEyY0FPSzlGWVZfNDgtVVJBRXB0T1NjS21oTkJCRjlZMjZiV1ctTWFiVllNeFBfSlE4OEhUbVFpNVlsRkMtNlFLWVZETFNwMmNac0VDX3F1UFppeDNvVGlmWW14MFNsUE5ybXk0MnFSWUticnozTTNZMVhjTW5RMXJnYVNtamtYMjJYWkN2cDVQNVZvSFREdW5fYmNBN3JqbklKSE5NVmNkVnYzN9IB8wFBVV95cUxNYWFxeFFUUXJsZHRZSzFldExlZEs2cG9XODZHTW43YS0xemFqWkxpMGJrRXVFVTVySnFSbURxMnd3OUkwZzl3NE9PMkQxNTgzXzZKaHUxdW9TdE9GTS1PeTFkb25ZSmMwT0pwazlQUzdzZ19fdzY3ZjFlZ1dMYnVlSjRsaDI5NUNsMnQyai00dWhWNWpuQ0xoMXdJN3RLT2p2WnMxd2h2dWlSTTlRWHQtSDdhcmZQX1ktOUhLUnNteUM3dHhlZkdLaDMzYWZvU1h6VGVwNGVvZkIyb2tYWWlPSG8ycE1xYjdVMUlzSzZpdXdBbXc?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-28b74f98f1da",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India captain tests positive for marijuana after turbulence scare - Gulf Business",
+   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -399,9 +387,9 @@
   {
    "id": "gn-d5d996c1caf2",
    "channel": "press",
-   "author": "emirates247.com",
+   "author": "Emirates 24|7",
    "role": "press",
-   "text": "Indian consular services in UAE: 3 major changes starting July 2026 - emirates247.com",
+   "text": "Indian consular services in UAE: 3 major changes starting July 2026 - Emirates 24|7",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTh5UWRJeWlDakJRLTBwNERQdG52Mi1nMzJaX2lENW1Qa3R3RXE4QWpzcWhOQlVzR05neHUxTVRZQkM0RzRRYlM4d0VLOWhRajVQRm5UT3BzamsxWHh0U0RvbVprOEhDRU1WYy1rR0psbmkyVTdmZWJJZ2R1SHNzY0RfNTQzbTR3aHpVNkw4Z1Q0WV92VHZjeVNIaGkxS18ydUZxWXdmTHdETWFLY2fSAcgBQVVfeXFMUEdyRnNjdDRTdnpIV19laGhabGNKUXR1VU51THNlX2xuM1dwSW5KOF9BZ1R0M1ZNLTEzZk15d2p0QVhUaHlMc0l2eUVUYm5XYVFnSWhiNkpuQjhOME8yVUxXWjFneTh2QTlfdlZPdzFtenJFaWlFbjFINTdGaWRHc05MRnNkYWpsVHJBd1ZiLWtuVkxpZ2p3R3FmWTlUXzNtV0JpRjY5a1NpM2N4YVVtRmZMUlZQcDRiX3UzU1ZOYUNfVzRDNzVkd24?oc=5",
    "sentiment": "neutral",
@@ -423,9 +411,9 @@
   {
    "id": "gn-0c0245e9e655",
    "channel": "press",
-   "author": "The Times of India",
+   "author": "timesofindia.indiatimes.com",
    "role": "press",
-   "text": "Dubai Airports Update April 1: Air India group to run 30 flights; IndiGo shares list of scheduled flights - The Times of India",
+   "text": "Dubai Airports Update April 1: Air India group to run 30 flights; IndiGo shares list of scheduled flights - timesofindia.indiatimes.com",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkRqWTh5dE4xOEJfME80T2FLZ0pRUGg5TXlpT2dMbkVuU3h4WDdKamY1SFRMVXE5OHdSeVQzZXBBN2toVGdCTE1YYlpITEtzVHVCOE5YWk52VzE2cHdxRmFrU0lkQU1qb0NIVExlVnB5dzhJV29uYnBNaDU5YXJhMlRla251eGVZdEVqTW5WRVhWZzFJR3AxcWw3VWVTb0k1NkpKVkE5Um9OXzdLOHdOYU9FNkJKQVRzNWxmeVZBdmJWMDNacmlpaFV0SHI3WFZjNTBHMVVCeld5WFUtOXVJSjVtY1FEamdCdjl1ZFdsNzAxNU9xaURhLTRrMlQ3Z2s4QnJfdktJUU5Ga3Q5NXo4U0g4UXhUcExabTNpUkF4T3hWZ1JVZlRqNVhpemxPdnkzZ0hZR2xsVFlESUY5SkR2YjVtRdIByAJBVV95cUxPWWpNcnVfS1Noam1wQ1BMaFQ2eFZ4bmFHY0RaRTY0Y1k1TE5lelB0OGpUYTNqckZ0MmktX1BYbXdiSjUwSmEwalBJdE9qQktHd1Q1OEk0cXM3RDRXaUswTWMxb21ib2pCRmpQVGNGZGtlc1lENGswVjBlZU8zbXpjcHFNSUNrTVJBbEhHejR3UVd6VEE3Zl9RMm9PbHdReFJqWGlfUzZuaU5WcWlqdDhjVGVZSV95VG9YRWI1SWl2RmdoOWg5Y3E3UC1vaWwtMnhTcGxCdFdPaW91cUtqQW1IbG5oMU1tSVlnMEx3aExMWTBHSWU1OHV0Ul9rM3ZCQ09BX1IzV05KUF9UdGcwZFRFNERIY242NXdqQnRsa244d2hCbnZmUnJzVVQtQVJSQUVOcXE2d21faV9PMFFTaE1GYkZ1RGVuZEs5?oc=5",
    "sentiment": "neutral",
@@ -505,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-001edcb2f3d3",
+   "id": "bn-379d8bd00f91",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac059e35b134edda33348bc15ee82b5&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac05b1862c9443fa04fd03b2801d6d9&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +524,18 @@
    "text": "UAE Visa Services Paused As Indian Embassy Transitions To New Provider - Travel and Leisure Asia",
    "time": "Tue, 23 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXp2QVBjSlRtSnV2aUFRNVJMa0d4REMzM0lpVk53TWNySjJqU0xxa1pocWZIUjlrdmZ2ZzloQTJnbF85eHpXU0xNNzRabE1GX2kyZnhkTTVrNTZyckNfYm44SWpHcmpyUnJDZnJfMjlkbUpLVGl5WnE5SEpVdHhUZDhoaDY2c1V3c3h3bDJGTzFQeUtDNHh2WVpoZVoyTkI2TmpoSUxKYlJVck5NWUJvdk9RbEVGWG_SAbwBQVVfeXFMTmdtdWY2dmp6LWhSUFBkU0h0ZWxGUDhXY3lkV1hGTVRqYl9JckFGSE01bm1xTnRnQUJrbEd4R1BtWExnSDh2UnBvOXgwTklxaXZ3VG1WaGlCX05kMWRLQWY3WnBYTHhWM3hINTNxZ2lwTjRKMVdwSmdPSU1aVnpPNTdKVVc0WUJzZzFyLV9tNHpaaXhJNTZVVWloWGFSWlJNa3VCWE1oSFhwOEtEQlpnWTRhZGNzRXJUWk9KbUg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0432e28e16cb",
+   "channel": "press",
+   "author": "ET TravelWorld",
+   "role": "press",
+   "text": "Air India Express opens bookings for Navi Mumbai-Abu Dhabi flights - ET TravelWorld",
+   "time": "Tue, 23 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONk1xaXFocEFuMS1jX2V5UkE2R3p4UmlpWUJFWFVkRnl1b3E1UHZ0LUVmMlR1SWhYSXk2aHVtZ0NqRUNMbXRid1Jub1JzTW9tN1doOVJabWVTZjE1TWRaZHBZbENKWHZUdnJOc05JR25JYTM2Q0FrbTViSGZ1ZnR6b3dKclc4dGNKRjlIQ1I3TG00aW91VzlfTmZSaTU5aDVOVHMxR2V3cV9RVFgtRVlsRkpCaTlFYm11T1dPNzVjdUJQeGZCeGp2bFlFeGJodkgwRFM3S1FUbXlBUEVISVVMUdIB5gFBVV95cUxPaG1EdGZlZTZRRGpzdkh5d2hCNHZac1dtQzk2QmhtSWwyOU1OZTQzajF6aGdtZzRvUVJFWjUwSzRuU24zam9uc093cXlKU01DWTViZmZMdUszRVpZdG5FbmdPT19HM3gyUllTWTAyOXBVXzBUaWIzSHQ0Nk5mWnpSaE5oem1LQXNrOFh6VlJtTWNjNjdPZl8tT09zQTE0Y2hJb3NyeENaMkVYOXdIdHItTGJsakVKYU15Z3dxV2VEWjlhdzBRZjlNWXg0TjUyU1RMU2RFXzRmTjFfMmREUW5IRnQxSEJtdw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
