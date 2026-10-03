@@ -1,34 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T15:31:14Z",
+  "generated_at": "2026-10-03T15:36:25Z",
   "total_verified": 292,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 292,
   "sentiment": {
    "positive": 22,
-   "neutral": 236,
-   "negative": 34
+   "neutral": 237,
+   "negative": 33
   },
   "channels": {
    "press": 287,
    "official": 5
   },
-  "negative_alerts": 34,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 58
+   "count": 59
   },
   {
    "topic": "gulf news",
@@ -36,7 +34,7 @@
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 49
   },
   {
    "topic": "flights",
@@ -44,19 +42,19 @@
   },
   {
    "topic": "flydubai",
-   "count": 41
+   "count": 40
   },
   {
    "topic": "machchhar",
-   "count": 35
-  },
-  {
-   "topic": "express",
-   "count": 26
+   "count": 34
   },
   {
    "topic": "khaleej times",
-   "count": 26
+   "count": 27
+  },
+  {
+   "topic": "khaleej",
+   "count": 27
   }
  ],
  "mentions": [
@@ -73,13 +71,13 @@
    "engagement": null
   },
   {
-   "id": "bn-41a44e2576ae",
+   "id": "bn-81bb4414f47c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11fc2b6ca47eab1fe2d43b87be090&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac120f9386f48ce9826afe451d16705&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -517,13 +515,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b631f8c0ec57",
+   "id": "bn-cbbd40e79ccb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11fc2b6ca47eab1fe2d43b87be090&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac120f9386f48ce9826afe451d16705&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -547,21 +545,21 @@
    "channel": "press",
    "author": "thenationalnews.com",
    "role": "press",
-   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy in UAE says - thenationalnews.com",
-   "time": "Sat, 03 Oct 2026 09:28:19 GMT",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - thenationalnews.com",
+   "time": "Sat, 03 Oct 2026 15:11:08 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-e468f5cfcd6a",
+   "id": "gn-ae388fb1fe75",
    "channel": "press",
    "author": "The New Indian Express",
    "role": "press",
    "text": "Pilot Machchhar 'recovering well' after attack on FlyDubai flight, says Indian Embassy - The New Indian Express",
-   "time": "Sat, 03 Oct 2026 12:59:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWFHcllyWW1ROFJfRHY2ekEzNzdEdFQ5UFNsbzc5TFZOT0pIdEQ3QXJyeHVsbURTUVB4YXNoNFk1RS15T256LTNGX3BjSEpJbHRoYnh3UmVjWUw4ZVdqa2FyeWZwcGJ6UXBGRmNHRm9HNWVwUjdmUURmMDhmdDZ5LXJBd05nWXFBeU1DZlR5eS10Qk4tLU1jM0NSQ2dCNTlHWURwa1BFTnd3WnZKcW5CdU5tTXl5SGZLU3lVTVdsZktNeXFDbUZ3R25VV25kYXFqeW5URlZ5REZkb2Fy0gHcAUFVX3lxTE01YUdyWXJZbVE4Ul9EdjZ6QTM3N0R0VDlQU2xvNzlMVk5PSkh0RDdBcnJ4dWxtRFNRUHhhc2g0WTVFLXlPbnotM0ZfcGNISklsdGhieHdSZWNZTDhlV2prYXJ5ZnBwYnpRcEZGY0dGb0c1ZXBSN2ZRRGYwOGZ0NnktckF3TmdZcUF5TUNmVHl5LXRCTi0tTWMzQ1JDZ0I1OUdZRHBrUEVOd3dadkpxbkJ1Tm1NeXlIZktTeVVNV2xmS015cUNtRndHblVXbmRhcWp5blRGVnlERmRvYXI?oc=5",
+   "time": "Sat, 03 Oct 2026 12:59:27 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2s4WGwyd3ZlYXhxV1VqUXdMRnp2c1o2ek55V0xBSFpLa2htNV9mRHViTjJfMndWT2JmTEF0VHFPeXpTR09ja0hPVTNkbEh5VnNmRHlCVnpJMHhwM3lvZnNZejNwSDdCTm96dk40eXo2RGp1NjJ2d2s2OW5XOEFXN2dET2trLXRDcFUxUUVUY2RlLTdHenVSTE9kOXRCb3E1VF8tU2xRTUd5akZMZjkwQm53a2FiUk9WOXJHTm81RGt4cFdGQmdfQzNLZVItc0XSAdwBQVVfeXFMTTVhR3JZclltUThSX0R2NnpBMzc3RHRUOVBTbG83OUxWTk9KSHREN0Fycnh1bG1EU1FQeGFzaDRZNUUteU9uei0zRl9wY0hKSWx0aGJ4d1JlY1lMOGVXamthcnlmcHBielFwRkZjR0ZvRzVlcFI3ZlFEZjA4ZnQ2eS1yQXdOZ1lxQXlNQ2ZUeXktdEJOLS1NYzNDUkNnQjU5R1lEcGtQRU53d1p2SnFuQnVObU15eUhmS1N5VU1XbGZLTXlxQ21Gd0duVVduZGFxanluVEZWeURGZG9hcg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -574,18 +572,6 @@
    "text": "Dubai Crown Prince praises Indian pilot after cockpit attack on Israel flight - India Today",
    "time": "Sat, 03 Oct 2026 12:38:32 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcE85bkJnUG9TcWx2TDJWbi1ORWJybHluUVM1aGdieHdjVTdhbjhQRTFUdl9semZLelJNaEpHalBEcFdrTFdXWHFUc2dNUWdOUTJEbVNfODJSanJGWlY1Rmd0SktKZjdfUW1YUTdDS1VUd3RuQXdVV1dSYVc0MkFrUmlHVnUxdmNjT3RiNDgxUFNtbGVSZEJkaFNLRVNFZFVBekxQdUVfSHVnZUtUZjN5cm5QLXpuMkVpc3J6T3l3YWNEeWtPdGZ2UHZMOTJ3U3pMYW9tcUQxLTZaOE5CMFJoTDZLazNFQWlk0gHoAUFVX3lxTE1wTzluQmdQb1NxbHZMMlZuLU5FYnJseW5RUzVoZ2J4d2NVN2FuOFBFMVR2X2x6Zkt6Uk1oSkdqUERwV2tMV1dYcVRzZ01RZ05RMkRtU184MlJqckZaVjVGZ3RKS0pmN19RbVhRN0NLVVR3dG5Bd1VXV1JhVzQyQWtSaUdWdTF2Y2NPdGI0ODFQU21sZVJkQmRoU0tFU0VkVUF6TFB1RV9IdWdlS1RmM3lyblAtem4yRWlzcnpPeXdhY0R5a090ZnZQdkw5MndTekxhb21xRDEtNlo4TkIwUmhMNktrM0VBaWQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-52c10e8a1eb6",
-   "channel": "press",
-   "author": "Business Standard",
-   "role": "press",
-   "text": "Smit Machchhar 'recovering well' after flydubai flight attack: UAE Embassy - Business Standard",
-   "time": "Sat, 03 Oct 2026 12:34:33 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDhQYk54OE9VNWhWMG9ocEtYZkxIcVNZTEhmd0h2RGdUbFRDckxCcGE1eFVSYVd6RG9pbUdsVjZ3czRWdjZRQm81WlMwVzduLU00NzNkRm5fcVZXQjZTS19zOHpieUx5SUI2NFVocTJRclZOZ3pMd1RUdzI3ZGZBTHRpX1lBUGtzVUFLQ2E3QmVybDFDYTF6MkVFeTNVVl85Rm5rMjNBR0ltcmh2TGhTNDJJRFJveWl2ak16Y0xvQktmVEhELXNYSXEzdDdtdGJOUkHSAdcBQVVfeXFMTS1kTWgyUGN0Yk5SbmxHem10T1JlT3VnVWcwT3p3U3dTcWtNbElWUEFyemRHeFI2NEhQczlDT21vN0lBcnZEOEhHQmJxWGRNaVpZWkhmS1lyLUV1NDhhbWF6U0VnRlU2cDRIdmVFb29qT0RiOEU2VzNfVHZOdEJrWkVtUXphazJIRnpxUFVhaEUxM3VEQVFoLVdJMlRjalJqNlQ3Z0NsRmpFdjBlSkQyX0hveG5GN0pkamJESHlvZWhkUE9ZMWdmU0NZcjdVNXdleGNMd1JxYUU?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -658,6 +644,18 @@
    "text": "Closely monitoring situation: Indian Embassy in UAE condoles sailors death in Hormuz tanker attack - The Tribune",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0tfZ3lDUWV4RWdueFZTUkxQWm1UN1RSY3FYUnFKYjNGNGhpU0JpVFBLbEtES1RxLW1CVjRXNUFsSk9pdzN5a3BkbWlrclp2T21xdTRnYko1enk3SnFyOVhDcDY4VWlYSVNCckRab3hMOGpWZFR0dWtVNHVfTFNtMEFLREV1NEZfVHg2MXhQWUtPVDN5c3pUQk9MQ3FWZlJxRlIyWTYyOG5TSE1rQWZ0eEd3T1FZQzFFU0dSMVFta21JYk4zTkRsZGRnR3JtWkxvMlpzedIB2AFBVV95cUxQRFNrUl9xaEZDUERIaGs4OWg0WjdiSjNIRU9wcExvdjlOTUc4dFNnVTZlSXFjS3h1bjJsWndBLW1adkZ3dmQ3dzVEdjltMDNDUVM5Yjl2QTg0dDNSb2xaNVFmaUlCWTBSZEV6a2FYdEVpb0haNXRwNFN1TFV0WE5QVmtDaUh1N2NPdGxxb19iOS16OHhuTGkxNXBoMFNUWkJGbGt0Qk5UajFyOXN3VEFsSS12LU9VaHFVMXFBOFNyVkRTTnAtN0RXTEN5MVFvNHlJb1VVSTBBams?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-61ee2a7d0e70",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
+   "time": "Mon, 06 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
