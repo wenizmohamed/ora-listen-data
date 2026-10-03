@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T11:04:04Z",
-  "total_verified": 295,
+  "generated_at": "2026-10-03T11:09:15Z",
+  "total_verified": 296,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 295,
+  "verified_mentions": 296,
   "sentiment": {
-   "positive": 25,
-   "neutral": 243,
-   "negative": 27
+   "positive": 23,
+   "neutral": 245,
+   "negative": 28
   },
   "channels": {
-   "press": 290,
+   "press": 291,
    "official": 5
   },
-  "negative_alerts": 27,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 61
+   "count": 60
   },
   {
    "topic": "gulfnews",
@@ -44,18 +44,18 @@
   },
   {
    "topic": "flydubai",
-   "count": 38
+   "count": 41
   },
   {
    "topic": "machchhar",
-   "count": 32
+   "count": 34
+  },
+  {
+   "topic": "smit machchhar",
+   "count": 28
   },
   {
    "topic": "khaleej times",
-   "count": 27
-  },
-  {
-   "topic": "khaleej",
    "count": 27
   }
  ],
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a83c894f2f4a",
+   "id": "bn-cce603555877",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0e123989240f495c632f75f8bd739&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0e25ab0244b82956a5b0043a21f20&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -505,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d641af829dc1",
+   "id": "bn-d7e58a13a5b7",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0e123989240f495c632f75f8bd739&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0e25ab0244b82956a5b0043a21f20&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -550,6 +550,18 @@
    "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy in UAE says - thenationalnews.com",
    "time": "Sat, 03 Oct 2026 09:28:19 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4bf0b3b99cb8",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Capt Smit Machchhar recovering after cockpit attack on flydubai Tel Aviv flight - India Today",
+   "time": "Sat, 03 Oct 2026 11:06:31 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUno1SlNSZHZPNk9fMkFnYm52NWxTVFk4eUVMdURCM2F0QXJGZVFGY05GOUwyQ1M0NjBqaHRmYWJiT0JxMmhPbVMzanJfN2o5SzhEUE4xZUhxR3RwZDRUbFlobGRxal96YWZsdWpjejJIRFozWXdOakZKZkZqd3BuNGJXTjc5ejAyWDVuVlpEaU1zRWJMZmNoY1A5enZpa3hYWEM4cVFLLUNyczRGTG9QY0J0a2thYnR2MkZBU1JReExEOXhxVGdKMjVpcWp5bFnSAc8BQVVfeXFMT1J6NUpTUmR2TzZPXzJBZ2JudjVsU1RZOHlFTHVEQjNhdEFyRmVRRmNORjlMMkNTNDYwamh0ZmFiYk9CcTJoT21TM2pyXzdqOUs4RFBOMWVIcUd0cGQ0VGxZaGxkcWpfemFmbHVqY3oySERaM1l3TmpGSmZGandwbjRiV043OXowMlg1blZaRGlNc0ViTGZjaGNQOXp2aWt4WFhDOHFRSy1DcnM0RkxvUGNCdGtrYWJ0djJGQVNSUXhMRDl4cVRnSjI1aXFqeWxZ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -646,18 +658,6 @@
    "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7e3ca8386bfb",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
