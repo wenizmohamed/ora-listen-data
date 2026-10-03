@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T12:38:42Z",
-  "total_verified": 294,
+  "generated_at": "2026-10-03T12:43:52Z",
+  "total_verified": 292,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 294,
+  "verified_mentions": 292,
   "sentiment": {
-   "positive": 21,
-   "neutral": 241,
-   "negative": 32
+   "positive": 20,
+   "neutral": 239,
+   "negative": 33
   },
   "channels": {
-   "press": 289,
+   "press": 287,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 59
+   "count": 57
   },
   {
    "topic": "gulf news",
@@ -36,11 +36,11 @@
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 48
   },
   {
    "topic": "flights",
-   "count": 45
+   "count": 46
   },
   {
    "topic": "flydubai",
@@ -48,11 +48,11 @@
   },
   {
    "topic": "machchhar",
-   "count": 35
+   "count": 34
   },
   {
    "topic": "smit machchhar",
-   "count": 29
+   "count": 27
   },
   {
    "topic": "khaleej times",
@@ -493,18 +493,6 @@
    "engagement": null
   },
   {
-   "id": "bn-743ef1fe56b3",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE",
-   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0f750eb734e8b968bdcabc8fd3042&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-30cc8bfce9df",
    "channel": "press",
    "author": "arabianbusiness.com",
@@ -539,6 +527,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-0432e28e16cb",
+   "channel": "press",
+   "author": "ET TravelWorld",
+   "role": "press",
+   "text": "Air India Express opens bookings for Navi Mumbai-Abu Dhabi flights - ET TravelWorld",
+   "time": "Tue, 23 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONk1xaXFocEFuMS1jX2V5UkE2R3p4UmlpWUJFWFVkRnl1b3E1UHZ0LUVmMlR1SWhYSXk2aHVtZ0NqRUNMbXRid1Jub1JzTW9tN1doOVJabWVTZjE1TWRaZHBZbENKWHZUdnJOc05JR25JYTM2Q0FrbTViSGZ1ZnR6b3dKclc4dGNKRjlIQ1I3TG00aW91VzlfTmZSaTU5aDVOVHMxR2V3cV9RVFgtRVlsRkpCaTlFYm11T1dPNzVjdUJQeGZCeGp2bFlFeGJodkgwRFM3S1FUbXlBUEVISVVMUdIB5gFBVV95cUxPaG1EdGZlZTZRRGpzdkh5d2hCNHZac1dtQzk2QmhtSWwyOU1OZTQzajF6aGdtZzRvUVJFWjUwSzRuU24zam9uc093cXlKU01DWTViZmZMdUszRVpZdG5FbmdPT19HM3gyUllTWTAyOXBVXzBUaWIzSHQ0Nk5mWnpSaE5oem1LQXNrOFh6VlJtTWNjNjdPZl8tT09zQTE0Y2hJb3NyeENaMkVYOXdIdHItTGJsakVKYU15Z3dxV2VEWjlhdzBRZjlNWXg0TjUyU1RMU2RFXzRmTjFfMmREUW5IRnQxSEJtdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -555,13 +555,13 @@
    "engagement": null
   },
   {
-   "id": "gn-4bf0b3b99cb8",
+   "id": "gn-b9f516821708",
    "channel": "press",
    "author": "India Today",
    "role": "press",
-   "text": "Capt Smit Machchhar recovering after cockpit attack on flydubai Tel Aviv flight - India Today",
-   "time": "Sat, 03 Oct 2026 11:06:31 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUno1SlNSZHZPNk9fMkFnYm52NWxTVFk4eUVMdURCM2F0QXJGZVFGY05GOUwyQ1M0NjBqaHRmYWJiT0JxMmhPbVMzanJfN2o5SzhEUE4xZUhxR3RwZDRUbFlobGRxal96YWZsdWpjejJIRFozWXdOakZKZkZqd3BuNGJXTjc5ejAyWDVuVlpEaU1zRWJMZmNoY1A5enZpa3hYWEM4cVFLLUNyczRGTG9QY0J0a2thYnR2MkZBU1JReExEOXhxVGdKMjVpcWp5bFnSAc8BQVVfeXFMT1J6NUpTUmR2TzZPXzJBZ2JudjVsU1RZOHlFTHVEQjNhdEFyRmVRRmNORjlMMkNTNDYwamh0ZmFiYk9CcTJoT21TM2pyXzdqOUs4RFBOMWVIcUd0cGQ0VGxZaGxkcWpfemFmbHVqY3oySERaM1l3TmpGSmZGandwbjRiV043OXowMlg1blZaRGlNc0ViTGZjaGNQOXp2aWt4WFhDOHFRSy1DcnM0RkxvUGNCdGtrYWJ0djJGQVNSUXhMRDl4cVRnSjI1aXFqeWxZ?oc=5",
+   "text": "Dubai Crown Prince praises Indian pilot after cockpit attack on Israel flight - India Today",
+   "time": "Sat, 03 Oct 2026 12:38:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcE85bkJnUG9TcWx2TDJWbi1ORWJybHluUVM1aGdieHdjVTdhbjhQRTFUdl9semZLelJNaEpHalBEcFdrTFdXWHFUc2dNUWdOUTJEbVNfODJSanJGWlY1Rmd0SktKZjdfUW1YUTdDS1VUd3RuQXdVV1dSYVc0MkFrUmlHVnUxdmNjT3RiNDgxUFNtbGVSZEJkaFNLRVNFZFVBekxQdUVfSHVnZUtUZjN5cm5QLXpuMkVpc3J6T3l3YWNEeWtPdGZ2UHZMOTJ3U3pMYW9tcUQxLTZaOE5CMFJoTDZLazNFQWlk0gHoAUFVX3lxTE1wTzluQmdQb1NxbHZMMlZuLU5FYnJseW5RUzVoZ2J4d2NVN2FuOFBFMVR2X2x6Zkt6Uk1oSkdqUERwV2tMV1dYcVRzZ01RZ05RMkRtU184MlJqckZaVjVGZ3RKS0pmN19RbVhRN0NLVVR3dG5Bd1VXV1JhVzQyQWtSaUdWdTF2Y2NPdGI0ODFQU21sZVJkQmRoU0tFU0VkVUF6TFB1RV9IdWdlS1RmM3lyblAtem4yRWlzcnpPeXdhY0R5a090ZnZQdkw5MndTekxhb21xRDEtNlo4TkIwUmhMNktrM0VBaWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -574,6 +574,18 @@
    "text": "Indian Pilot Machchhar 'Recovering Well' After Attack On Dubai-Tel Aviv Flight - ETV Bharat",
    "time": "Sat, 03 Oct 2026 11:15:17 GMT",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaGMyT0J5YjROZTBCVjFBb19xemQzQmdtTV9sZFNRNHpaVDRDeUdsWUxQWHNocTNZbG5HVHphOWFEbVlkendkRnFDSWJiMTFxckNyaGhJTF8zSGZlWTdNN1RDeEpZRmJWUW1YUmFaakdPWjJNc3l1cWU2VGdWOWtLTGE0U1lYb1VEeHlPRkxET2FDZzVzUVh1a3k1ajB6QldUVFp0NGEyV0NwRlN3U3FPekZoX2dlN29TTFRzSG9USHVFQ3ZxYWxReUxrTDFNeFZTNlh5VllOdXl5U0hoQldzVDhRc1NVXzRYSWdZQm9OUk16aWtqajNlMDJR0gH_AUFVX3lxTE5jYzRRYlA0V2tkMkpnNENNVjUyZTRLVnJYN2lLbzdHSFJ1WjR4b1hjNUdwbndJZVIwS2MxM0Z4OUo5NTFPQUJiZXRYaFA5Vkt4WWxDMlh4b19hRG9CV05zS1NGbFhQQXVYbnNGc1hrdkhMQ0V3R1NPdEM3OWJZcXJDTDNKcVduY2xTMmtTdlRyTC1iLTc3WGEtdjhVU3RYd3NoX2Z4UEdXNkg5OVBaUkRRa0pUd2ktRXFDZEYzMTVyX0FnLWlIN0dYczhuRlAyck83UDhUNXlIcE9sWDBMZjZCbG5oNEphYzBPU18tRWxrVGxjQXY3aHJKc0hMUFBiWQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4bf0b3b99cb8",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Capt Smit Machchhar recovering after cockpit attack on flydubai Tel Aviv flight - India Today",
+   "time": "Sat, 03 Oct 2026 11:06:31 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUno1SlNSZHZPNk9fMkFnYm52NWxTVFk4eUVMdURCM2F0QXJGZVFGY05GOUwyQ1M0NjBqaHRmYWJiT0JxMmhPbVMzanJfN2o5SzhEUE4xZUhxR3RwZDRUbFlobGRxal96YWZsdWpjejJIRFozWXdOakZKZkZqd3BuNGJXTjc5ejAyWDVuVlpEaU1zRWJMZmNoY1A5enZpa3hYWEM4cVFLLUNyczRGTG9QY0J0a2thYnR2MkZBU1JReExEOXhxVGdKMjVpcWp5bFnSAc8BQVVfeXFMT1J6NUpTUmR2TzZPXzJBZ2JudjVsU1RZOHlFTHVEQjNhdEFyRmVRRmNORjlMMkNTNDYwamh0ZmFiYk9CcTJoT21TM2pyXzdqOUs4RFBOMWVIcUd0cGQ0VGxZaGxkcWpfemFmbHVqY3oySERaM1l3TmpGSmZGandwbjRiV043OXowMlg1blZaRGlNc0ViTGZjaGNQOXp2aWt4WFhDOHFRSy1DcnM0RkxvUGNCdGtrYWJ0djJGQVNSUXhMRDl4cVRnSjI1aXFqeWxZ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -646,18 +658,6 @@
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d90c0c4a43a3",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - The Economic Times",
-   "time": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ29tU0wxc2c1U1pkNVdSeF9HQVdDdC1aQ0lVbVAydWVXNDAzd0R3cGFZQ2Rmd1JZbE40WkxwTEFaS21mQ2QtZ2JkNmNqaVIxcmZIcUd4cWFWS1l6blAyd3VOUGJKN0FKeFdBSENCQ2tieFdJb05vZ3JWVVZBTmU3dEd4NlpYQmh6cFZENk1GblozZUg5aTRzNnduSTA0eXdFVF84c29lUTdsWGNJYWdfMkFLZFQ0dTZMUlcxMWdMQ3RXUlVPSmtFR214Rnl3eDJPbmlRVTJpQ2o3RHppMFQ3MmJUSWtlbnZCQzR6WS0xVzVkaWtOZXVCTGtn0gH_AUFVX3lxTE1qWlMtdThYOEF3YUVma0QxSWRVY19YeWQxVHRXR3dMVDM2MnFGY3VFeldwZFVSOVZDZ0dpRGdaLUs3eG1ScjhUZ0pZNElLanZoU3p2cFlOUUZPRXFzNC03cVEyUEVXUjI2VEUyRlJzVkNjRDZkUEpIS2NPOGlMalJpbG5pczZuWS16QVQ5aVo1bDFuWmplc1VVeWlTV0x5NGQzTVMzbC1nT1ZSRktlNDU5NElGcDBMbVh1VVVyQ2E4VzROR1p2WWU4NTZnX2lTd0otZ0NlaFc3cjJQTEIwQjNiQ3BLSEU2T2NoREgtWGZiSHpoY2t3cXJkXzVCMFFFWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
