@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T21:22:15Z",
-  "total_verified": 290,
+  "generated_at": "2026-10-03T21:27:24Z",
+  "total_verified": 291,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 290,
+  "verified_mentions": 291,
   "sentiment": {
    "positive": 26,
-   "neutral": 231,
+   "neutral": 232,
    "negative": 33
   },
   "channels": {
-   "press": 285,
+   "press": 286,
    "official": 5
   },
   "negative_alerts": 33,
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 60
+   "count": 62
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 57
   },
   {
    "topic": "services",
@@ -38,22 +40,22 @@
   },
   {
    "topic": "flydubai",
-   "count": 40
+   "count": 41
   },
   {
    "topic": "machchhar",
-   "count": 35
+   "count": 36
   },
   {
    "topic": "flights",
    "count": 35
   },
   {
-   "topic": "khaleej times",
+   "topic": "smit machchhar",
    "count": 27
   },
   {
-   "topic": "khaleej",
+   "topic": "khaleej times",
    "count": 27
   }
  ],
@@ -277,9 +279,9 @@
   {
    "id": "gn-eb2373b61e64",
    "channel": "press",
-   "author": "timesofindia.indiatimes.com",
+   "author": "The Times of India",
    "role": "press",
-   "text": "Book three-nightstay in Abu Dhabi, get UAE visa free - timesofindia.indiatimes.com",
+   "text": "Book three-nightstay in Abu Dhabi, get UAE visa free - The Times of India",
    "time": "Wed, 12 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ZoTUM5dVIyWENiOGdJaXNCR1VJblBZUWpRWGZiZnBxRXYyTjdweC1nc09PUWhHOEtsbmpweHMxaEpOTFp1ZVVfRXJveXhSLVRVaG9scF9uM2piQzJUUU9LSUhFQUxYMjZ3NmN1NTZFbVJNUmtqUVlJTDBzTHRXWVJBUFdzUDNaOFNQcXpyX3FjR1l5ZUV4RFlJcXh4RHF3OGVUQUstZHBmOEJNQ0FuaEh1UllkRmtwd0hB0gHAAUFVX3lxTE1tbERBM3Y1b2VVdUFPbTk2YUlLMjI0cUNHNExmNjQ3V09KcmZZa3Y3SVh5enBRZ1JFV3BnTGdLUTlVdHBUQk9iWk1ueTRPUUtPWi1Db2dwLWJjZUdrdWhKcUlIcEhmUUY3eHBfYjJJSGNyZDZwUE1pSWhLcDVyXzh3VHM5QkRQUS15UFYwek1jcGViVFVUcEtDdkFROG5vNUFSV3VKWUIxaWZjTzdxMGp6ZF84Xzg2LVplaVlvTzZTZg?oc=5",
    "sentiment": "neutral",
