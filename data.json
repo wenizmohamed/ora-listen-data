@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T21:58:21Z",
-  "total_verified": 290,
+  "generated_at": "2026-10-03T22:03:31Z",
+  "total_verified": 289,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 290,
+  "verified_mentions": 289,
   "sentiment": {
    "positive": 26,
-   "neutral": 232,
+   "neutral": 231,
    "negative": 32
   },
   "channels": {
-   "press": 285,
+   "press": 284,
    "official": 5
   },
   "negative_alerts": 32,
@@ -28,35 +28,35 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 60
+   "count": 62
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 56
   },
   {
    "topic": "services",
-   "count": 46
+   "count": 47
   },
   {
    "topic": "flydubai",
-   "count": 41
-  },
-  {
-   "topic": "machchhar",
-   "count": 35
+   "count": 40
   },
   {
    "topic": "flights",
    "count": 35
   },
   {
-   "topic": "smit machchhar",
-   "count": 26
+   "topic": "machchhar",
+   "count": 34
   },
   {
-   "topic": "express",
-   "count": 26
+   "topic": "khaleej times",
+   "count": 27
+  },
+  {
+   "topic": "khaleej",
+   "count": 27
   }
  ],
  "mentions": [
@@ -279,9 +279,9 @@
   {
    "id": "gn-eb2373b61e64",
    "channel": "press",
-   "author": "The Times of India",
+   "author": "timesofindia.indiatimes.com",
    "role": "press",
-   "text": "Book three-nightstay in Abu Dhabi, get UAE visa free - The Times of India",
+   "text": "Book three-nightstay in Abu Dhabi, get UAE visa free - timesofindia.indiatimes.com",
    "time": "Wed, 12 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ZoTUM5dVIyWENiOGdJaXNCR1VJblBZUWpRWGZiZnBxRXYyTjdweC1nc09PUWhHOEtsbmpweHMxaEpOTFp1ZVVfRXJveXhSLVRVaG9scF9uM2piQzJUUU9LSUhFQUxYMjZ3NmN1NTZFbVJNUmtqUVlJTDBzTHRXWVJBUFdzUDNaOFNQcXpyX3FjR1l5ZUV4RFlJcXh4RHF3OGVUQUstZHBmOEJNQ0FuaEh1UllkRmtwd0hB0gHAAUFVX3lxTE1tbERBM3Y1b2VVdUFPbTk2YUlLMjI0cUNHNExmNjQ3V09KcmZZa3Y3SVh5enBRZ1JFV3BnTGdLUTlVdHBUQk9iWk1ueTRPUUtPWi1Db2dwLWJjZUdrdWhKcUlIcEhmUUY3eHBfYjJJSGNyZDZwUE1pSWhLcDVyXzh3VHM5QkRQUS15UFYwek1jcGViVFVUcEtDdkFROG5vNUFSV3VKWUIxaWZjTzdxMGp6ZF84Xzg2LVplaVlvTzZTZg?oc=5",
    "sentiment": "neutral",
@@ -327,9 +327,9 @@
   {
    "id": "gn-c157e30d24e3",
    "channel": "press",
-   "author": "ddindia.co.in",
+   "author": "DD India",
    "role": "press",
-   "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - ddindia.co.in",
+   "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - DD India",
    "time": "Wed, 08 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRsZGV1M1VvSEJ0bHBLcnBHY2NwYjBlTDJxNi1TV0pZc0dxNElIdTgySTF3eER6cDdwQkQtWGpldkw0aVd2RFctUkhCMDRyQUNlZVhpSmotcXVPV1VHQ2JhTkIwSEFva2dXWTFNTmJ4VlBod3dzM3BiLVZxTG5lSmU1Rm1DdEJyaGJiRkZrTzV3ZS1KbnZ3Q3RSMzNYRGJDOFZWQzhtbDYtdU4zeXUxdHNB?oc=5",
    "sentiment": "neutral",
@@ -548,7 +548,7 @@
    "author": "thenationalnews.com",
    "role": "press",
    "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - thenationalnews.com",
-   "time": "Sat, 03 Oct 2026 21:20:46 GMT",
+   "time": "Sat, 03 Oct 2026 21:22:30 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
    "sentiment": "negative",
    "verified": true,
