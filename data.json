@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T15:20:54Z",
-  "total_verified": 291,
+  "generated_at": "2026-10-03T15:26:05Z",
+  "total_verified": 292,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,31 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 291,
+  "verified_mentions": 292,
   "sentiment": {
-   "positive": 20,
-   "neutral": 240,
-   "negative": 31
+   "positive": 22,
+   "neutral": 237,
+   "negative": 33
   },
   "channels": {
-   "press": 286,
+   "press": 287,
    "official": 5
   },
-  "negative_alerts": 31,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 62
+   "count": 58
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 53
   },
   {
    "topic": "services",
-   "count": 50
+   "count": 48
   },
   {
    "topic": "flights",
@@ -48,15 +48,15 @@
   },
   {
    "topic": "machchhar",
-   "count": 33
+   "count": 34
+  },
+  {
+   "topic": "express",
+   "count": 26
   },
   {
    "topic": "khaleej times",
-   "count": 28
-  },
-  {
-   "topic": "khaleej",
-   "count": 28
+   "count": 26
   }
  ],
  "mentions": [
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e5392d424561",
+   "id": "bn-0ec479022642",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11d5758624077a984b8f1ea05b358&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11e8d6dde47b6ad0f80204c8950d0&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -337,18 +337,6 @@
    "engagement": null
   },
   {
-   "id": "gn-64b18f41c2d8",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-3c296a0f0b83",
    "channel": "press",
    "author": "deccanchronicle.com",
@@ -356,6 +344,18 @@
    "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - deccanchronicle.com",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-64b18f41c2d8",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -380,6 +380,18 @@
    "text": "Air India Express adds these four direct routes from Abu Dhabi to India - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmViaEVTSEFWSG9kWEVIYU03S29YVk56YjZDdGdYNnhQQlBvckpnTzF5Zllodnc1SEpQd0hGUXlTQk9LWHNtcjRpRFZMTHV6cjhNS0RPVVRMVkIyMG1TaG5MZEoxX1BhN2w2U2JhMktDUnlOU2s2TkdwR3oycU1rQmFmLXh2dWJTU0VXQjJwdVp5dDVsaU5SOEwtakgtd2FjTVd5V0pBeXVXQW5sY1FReg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-078220285763",
+   "channel": "press",
+   "author": "Firstpost",
+   "role": "press",
+   "text": "Indian Workers In UAE Targeted By Fake Agents In New Scam | Firstpost Live - Firstpost",
+   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXpkRWJtSDFrV0o3LUFSdGNJd081VTh6UDlyc2h5dVJTYkIwdzQ2RnRnVW4wNlB6ZmRNSEJ0N09QRHdXY2NSZkRQZlVzYV83T1ZVOHVnQ0s1YW9fNDVlb3RBRnFySHROUVgxWFI5c0JKekJiUzh0YkM1WlcxNXdxcTNiQUZ1T0Fmb3JVTUZRUXdYMURoSWNXNEJfckd2SE5sTmRWUS1ENVRTSmoxSWk3cjRaZUdhdUFneTlvbTRhNGNBdEdIek1mb1FYeVlYZ9IB0wFBVV95cUxNdGd6X3h1eVZteUl6QzI1ZGR0QVdpLTlFcW94QlFHbWluMTRHOXFQSnFaUkR3Nm9OTjhheXdkcU5MTnZydXpId2JRZlNiRkItWHFmbjNGREwyd2p6Z0dfYl9Ta205di1qOXc2QUFlOGJJYnQ0cUxEOFd5MTdYemZNV2tGOVQ5Und3SFBfT3VfMEgtcmI4SUJVb1BYck12SlhWZnlPNUpsc1BCbWktRVZSWVpqWWJjS0NIZjM0T0NUejhLZno3Nm1LQVR1cFdUdHhRQ0Jz?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,13 +517,13 @@
    "engagement": null
   },
   {
-   "id": "bn-ffb81c580e80",
+   "id": "bn-39d620e74845",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11d5758624077a984b8f1ea05b358&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac11e8d6dde47b6ad0f80204c8950d0&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "UAE flights latest April 28: Emirates and Etihad give fresh updates - Arabian Business",
    "time": "Tue, 28 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUpiUGtnZDJ4ZGctQU9uTTFSbjVJWlBfemljdkZpZWgyaTRGNUZmcmxJUXlmLXhsVUpwdlcyZHJ6bGcxUm5DNFZQTTRyZEdOTDVMYTMwbkdxVVNjbGl6enRWUWVTczl2Z0NCY05xd01QWnpKeXVHQ3hrSElmUjdVdHozXzl1czdwN1FHeDdoT093VGJXOEpWanNiYnl0T0Vwbm82T3Z2bzg4NXVVQlR5cG1vcTRyZ3Bx?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-fae943ea10fa",
-   "channel": "press",
-   "author": "The Tribune",
-   "role": "press",
-   "text": "Seven stranded Indian seafarers repatriated from MV Sea Star 2 in Abu Dhabi, says Indian Embassy in UAE - The Tribune",
-   "time": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRXRvQ3otbmhMb2h4bnFQWjMwNVhaYVd2Vm4yZDNVYWwxeEY5RlNaclh2T0kzU1RSMklsVXVPV0EzeHRiWU1MaWhaSXJwaDFQWGxHX0N6V05TRHJUdlB6UUNjQXBydGh4WjNJZFpKM0xvOEpUalBkSnJTaGxDTVhtYnpwUU5vT1FGNm05c1FPZ0MyZXF4SkppM2lIUGVMT0ltVlhDZVo3cjhOT3g4MUZScFNwOGVHQVl3VzdtQU5DN1R0ZklxT3BpMmM2b3gtNmJLb2pJYWh6Smw5YnfSAd8BQVVfeXFMUC05V3VQYkVlNGxERG5nMmJ6cmVEZmtncjZXaFpOekQ3TGpOc3d6QU10TVhiREpRNUZURHFDTVZaYUhkalFGc2dfYklvVm9pc1ZSRlgzaEg5NVVSQTBmcEpZZjNZRlRXQ0xKbGZjaXhXTWlydFlhLWV0dFhPdjEwZHpTb0pSVG1uOGQ4VUtsU1A4TWE0cWhHdERkSmFST2hMYWdNUTBZWUZsMTVtbU14bG1iSGx2eldsOXBIVzJKN0xITkplVjROZDVELVZjWXZzaTRlQnZ0dkdpaU5VNmVodw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
