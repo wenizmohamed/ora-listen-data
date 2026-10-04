@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T09:09:34Z",
-  "total_verified": 292,
+  "generated_at": "2026-10-04T09:14:44Z",
+  "total_verified": 294,
   "channels_live": [
    "official",
    "press"
@@ -12,31 +12,31 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 292,
+  "verified_mentions": 294,
   "sentiment": {
-   "positive": 21,
+   "positive": 22,
    "neutral": 239,
-   "negative": 32
+   "negative": 33
   },
   "channels": {
-   "press": 287,
+   "press": 289,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 33,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 61
+   "count": 58
   },
   {
    "topic": "gulf news",
-   "count": 55
+   "count": 54
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 47
   },
   {
    "topic": "flights",
@@ -44,19 +44,19 @@
   },
   {
    "topic": "flydubai",
-   "count": 40
+   "count": 41
   },
   {
    "topic": "machchhar",
-   "count": 33
+   "count": 34
+  },
+  {
+   "topic": "smit machchhar",
+   "count": 27
   },
   {
    "topic": "khaleej times",
-   "count": 28
-  },
-  {
-   "topic": "khaleej",
-   "count": 28
+   "count": 26
   }
  ],
  "mentions": [
@@ -73,13 +73,13 @@
    "engagement": null
   },
   {
-   "id": "bn-167db85174d4",
+   "id": "bn-8e196f2d5b1d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE says wounded flydubai captain in good health",
    "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac217cdf9eb4320801ac9e22ad8a6a7&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2190350dd43509f698a387c731e68&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -114,7 +114,7 @@
    "author": "curlytales.com",
    "role": "press",
    "text": "UAE Flights Face Delays & Cancellations Today, Check Your Flight Before Heading To The Airport - curlytales.com",
-   "time": "Wed, 23 Sep 2026 12:33:11 GMT",
+   "time": "Wed, 23 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2paQlBsSnU1a2NuTlFiclF2MTNhbnotcnA0SENOQWJRTVFfNzhQWWpXSGpXRjdmVld0dk5xSHl5dXY1ay12YmFlSWhod0FIcTc2XzFac1BVd2ZUOFAtN3QzTVlfRjI1SFRkVTNlZ0M4V1VKbGtVTHViTmtYT1dlMHlEWW1TZlpRN0Jlb3R3THRBYks5QnlTSDFPaXVEcDVBbGpQNGViRWN4alAwR05Fbm8talZCb3VrT3M1eFl1dzkyTlV3T3BHWVNjZ0VQNG_SAdQBQVVfeXFMTnNMeURnTXVzTkJkeldJVGFKdGRoVVo4YklDQXBpZ3VMU3pTTUo2NHVYbk9Na0lPWUtzSnhMMndYYmJ4enZMQlNvbDVFb1pUTFJnSF80ejh6cVl3UFk1VFE5ZTFEeVE2b0hjYlN2UVY5Y2xtbU9fQXlWWElmbjR2a2xvNGtzemU2cDJ5SmxlVUNkclpTdUJHdUUxRWpDY2pRS3hGc3pxYVcwTzZZVEtNQVA5dDZnU0hqT0lBQ29FNXpRZVdSUHV3WDBqQUxKY1VtQjVkT1U?oc=5",
    "sentiment": "neutral",
    "verified": true,
@@ -471,9 +471,9 @@
   {
    "id": "gn-18d1924e4693",
    "channel": "press",
-   "author": "Business Today",
+   "author": "businesstoday.in",
    "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - businesstoday.in",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
@@ -517,13 +517,13 @@
    "engagement": null
   },
   {
-   "id": "bn-2bc9eb745e52",
+   "id": "bn-04cf17458dd0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac217cdf9eb4320801ac9e22ad8a6a7&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2190350dd43509f698a387c731e68&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -639,13 +639,13 @@
    "engagement": null
   },
   {
-   "id": "gn-7cc23754b005",
+   "id": "gn-f91ed934c85c",
    "channel": "press",
-   "author": "ANI News",
+   "author": "The Tribune",
    "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
+   "text": "Closely monitoring situation: Indian Embassy in UAE condoles sailors death in Hormuz tanker attack - The Tribune",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0tfZ3lDUWV4RWdueFZTUkxQWm1UN1RSY3FYUnFKYjNGNGhpU0JpVFBLbEtES1RxLW1CVjRXNUFsSk9pdzN5a3BkbWlrclp2T21xdTRnYko1enk3SnFyOVhDcDY4VWlYSVNCckRab3hMOGpWZFR0dWtVNHVfTFNtMEFLREV1NEZfVHg2MXhQWUtPVDN5c3pUQk9MQ3FWZlJxRlIyWTYyOG5TSE1rQWZ0eEd3T1FZQzFFU0dSMVFta21JYk4zTkRsZGRnR3JtWkxvMlpzedIB2AFBVV95cUxQRFNrUl9xaEZDUERIaGs4OWg0WjdiSjNIRU9wcExvdjlOTUc4dFNnVTZlSXFjS3h1bjJsWndBLW1adkZ3dmQ3dzVEdjltMDNDUVM5Yjl2QTg0dDNSb2xaNVFmaUlCWTBSZEV6a2FYdEVpb0haNXRwNFN1TFV0WE5QVmtDaUh1N2NPdGxxb19iOS16OHhuTGkxNXBoMFNUWkJGbGt0Qk5UajFyOXN3VEFsSS12LU9VaHFVMXFBOFNyVkRTTnAtN0RXTEN5MVFvNHlJb1VVSTBBams?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
