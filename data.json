@@ -1,34 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T04:09:58Z",
-  "total_verified": 288,
+  "generated_at": "2026-10-04T04:15:09Z",
+  "total_verified": 287,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 287,
   "sentiment": {
    "positive": 25,
    "neutral": 231,
-   "negative": 32
+   "negative": 31
   },
   "channels": {
-   "press": 283,
+   "press": 282,
    "official": 5
   },
-  "negative_alerts": 32,
+  "negative_alerts": 31,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "passport",
-   "count": 61
+   "count": 60
   },
   {
    "topic": "gulf news",
@@ -36,11 +34,11 @@
   },
   {
    "topic": "services",
-   "count": 47
+   "count": 46
   },
   {
    "topic": "flydubai",
-   "count": 41
+   "count": 40
   },
   {
    "topic": "flights",
@@ -48,15 +46,15 @@
   },
   {
    "topic": "machchhar",
-   "count": 34
+   "count": 33
   },
   {
    "topic": "khaleej times",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "khaleej",
-   "count": 27
+   "count": 26
   }
  ],
  "mentions": [
@@ -579,18 +577,6 @@
    "engagement": null
   },
   {
-   "id": "gn-4bf0b3b99cb8",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Capt Smit Machchhar recovering after cockpit attack on flydubai Tel Aviv flight - India Today",
-   "time": "Sat, 03 Oct 2026 11:06:31 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUno1SlNSZHZPNk9fMkFnYm52NWxTVFk4eUVMdURCM2F0QXJGZVFGY05GOUwyQ1M0NjBqaHRmYWJiT0JxMmhPbVMzanJfN2o5SzhEUE4xZUhxR3RwZDRUbFlobGRxal96YWZsdWpjejJIRFozWXdOakZKZkZqd3BuNGJXTjc5ejAyWDVuVlpEaU1zRWJMZmNoY1A5enZpa3hYWEM4cVFLLUNyczRGTG9QY0J0a2thYnR2MkZBU1JReExEOXhxVGdKMjVpcWp5bFnSAc8BQVVfeXFMT1J6NUpTUmR2TzZPXzJBZ2JudjVsU1RZOHlFTHVEQjNhdEFyRmVRRmNORjlMMkNTNDYwamh0ZmFiYk9CcTJoT21TM2pyXzdqOUs4RFBOMWVIcUd0cGQ0VGxZaGxkcWpfemFmbHVqY3oySERaM1l3TmpGSmZGandwbjRiV043OXowMlg1blZaRGlNc0ViTGZjaGNQOXp2aWt4WFhDOHFRSy1DcnM0RkxvUGNCdGtrYWJ0djJGQVNSUXhMRDl4cVRnSjI1aXFqeWxZ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-89d1741b8fe0",
    "channel": "press",
    "author": "Daily Excelsior",
@@ -639,13 +625,13 @@
    "engagement": null
   },
   {
-   "id": "gn-7cc23754b005",
+   "id": "gn-f91ed934c85c",
    "channel": "press",
-   "author": "ANI News",
+   "author": "The Tribune",
    "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
+   "text": "Closely monitoring situation: Indian Embassy in UAE condoles sailors death in Hormuz tanker attack - The Tribune",
    "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0tfZ3lDUWV4RWdueFZTUkxQWm1UN1RSY3FYUnFKYjNGNGhpU0JpVFBLbEtES1RxLW1CVjRXNUFsSk9pdzN5a3BkbWlrclp2T21xdTRnYko1enk3SnFyOVhDcDY4VWlYSVNCckRab3hMOGpWZFR0dWtVNHVfTFNtMEFLREV1NEZfVHg2MXhQWUtPVDN5c3pUQk9MQ3FWZlJxRlIyWTYyOG5TSE1rQWZ0eEd3T1FZQzFFU0dSMVFta21JYk4zTkRsZGRnR3JtWkxvMlpzedIB2AFBVV95cUxQRFNrUl9xaEZDUERIaGs4OWg0WjdiSjNIRU9wcExvdjlOTUc4dFNnVTZlSXFjS3h1bjJsWndBLW1adkZ3dmQ3dzVEdjltMDNDUVM5Yjl2QTg0dDNSb2xaNVFmaUlCWTBSZEV6a2FYdEVpb0haNXRwNFN1TFV0WE5QVmtDaUh1N2NPdGxxb19iOS16OHhuTGkxNXBoMFNUWkJGbGt0Qk5UajFyOXN3VEFsSS12LU9VaHFVMXFBOFNyVkRTTnAtN0RXTEN5MVFvNHlJb1VVSTBBams?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -658,6 +644,18 @@
    "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
    "time": "Mon, 06 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d90c0c4a43a3",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian community groups in UAE urge Centre to resolve passport service crisis, review fee hike - The Economic Times",
+   "time": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ29tU0wxc2c1U1pkNVdSeF9HQVdDdC1aQ0lVbVAydWVXNDAzd0R3cGFZQ2Rmd1JZbE40WkxwTEFaS21mQ2QtZ2JkNmNqaVIxcmZIcUd4cWFWS1l6blAyd3VOUGJKN0FKeFdBSENCQ2tieFdJb05vZ3JWVVZBTmU3dEd4NlpYQmh6cFZENk1GblozZUg5aTRzNnduSTA0eXdFVF84c29lUTdsWGNJYWdfMkFLZFQ0dTZMUlcxMWdMQ3RXUlVPSmtFR214Rnl3eDJPbmlRVTJpQ2o3RHppMFQ3MmJUSWtlbnZCQzR6WS0xVzVkaWtOZXVCTGtn0gH_AUFVX3lxTE1qWlMtdThYOEF3YUVma0QxSWRVY19YeWQxVHRXR3dMVDM2MnFGY3VFeldwZFVSOVZDZ0dpRGdaLUs3eG1ScjhUZ0pZNElLanZoU3p2cFlOUUZPRXFzNC03cVEyUEVXUjI2VEUyRlJzVkNjRDZkUEpIS2NPOGlMalJpbG5pczZuWS16QVQ5aVo1bDFuWmplc1VVeWlTV0x5NGQzTVMzbC1nT1ZSRktlNDU5NElGcDBMbVh1VVVyQ2E4VzROR1p2WWU4NTZnX2lTd0otZ0NlaFc3cjJQTEIwQjNiQ3BLSEU2T2NoREgtWGZiSHpoY2t3cXJkXzVCMFFFWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
