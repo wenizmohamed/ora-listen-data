@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T21:52:40Z",
-  "total_verified": 295,
+  "generated_at": "2026-10-04T21:57:50Z",
+  "total_verified": 294,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 295,
+  "verified_mentions": 294,
   "sentiment": {
    "positive": 22,
-   "neutral": 238,
+   "neutral": 237,
    "negative": 35
   },
   "channels": {
-   "press": 290,
+   "press": 289,
    "official": 5
   },
   "negative_alerts": 35,
@@ -505,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f7bd607055b3",
+   "id": "bn-d057e0b15b1f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2caa7eb1549f9880cc674722339eb&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2cbddacbf4b42bca069ad38389f9c&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -543,6 +543,18 @@
  ],
  "alerts": [
   {
+   "id": "gn-e4950185355c",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - thenationalnews.com",
+   "time": "Sat, 03 Oct 2026 21:22:30 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-ae388fb1fe75",
    "channel": "press",
    "author": "The New Indian Express",
@@ -562,18 +574,6 @@
    "text": "Dubai Crown Prince praises Indian pilot after cockpit attack on Israel flight - India Today",
    "time": "Sat, 03 Oct 2026 12:38:32 GMT",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcE85bkJnUG9TcWx2TDJWbi1ORWJybHluUVM1aGdieHdjVTdhbjhQRTFUdl9semZLelJNaEpHalBEcFdrTFdXWHFUc2dNUWdOUTJEbVNfODJSanJGWlY1Rmd0SktKZjdfUW1YUTdDS1VUd3RuQXdVV1dSYVc0MkFrUmlHVnUxdmNjT3RiNDgxUFNtbGVSZEJkaFNLRVNFZFVBekxQdUVfSHVnZUtUZjN5cm5QLXpuMkVpc3J6T3l3YWNEeWtPdGZ2UHZMOTJ3U3pMYW9tcUQxLTZaOE5CMFJoTDZLazNFQWlk0gHoAUFVX3lxTE1wTzluQmdQb1NxbHZMMlZuLU5FYnJseW5RUzVoZ2J4d2NVN2FuOFBFMVR2X2x6Zkt6Uk1oSkdqUERwV2tMV1dYcVRzZ01RZ05RMkRtU184MlJqckZaVjVGZ3RKS0pmN19RbVhRN0NLVVR3dG5Bd1VXV1JhVzQyQWtSaUdWdTF2Y2NPdGI0ODFQU21sZVJkQmRoU0tFU0VkVUF6TFB1RV9IdWdlS1RmM3lyblAtem4yRWlzcnpPeXdhY0R5a090ZnZQdkw5MndTekxhb21xRDEtNlo4TkIwUmhMNktrM0VBaWQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-e4950185355c",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - thenationalnews.com",
-   "time": "Sat, 03 Oct 2026 21:22:30 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
