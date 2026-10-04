@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T03:23:32Z",
+  "generated_at": "2026-10-04T03:28:42Z",
   "total_verified": 290,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,15 +28,15 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 63
+   "count": 61
   },
   {
    "topic": "gulf news",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "services",
-   "count": 49
+   "count": 48
   },
   {
    "topic": "flydubai",
@@ -49,12 +51,12 @@
    "count": 35
   },
   {
-   "topic": "khaleej times",
-   "count": 28
+   "topic": "smit machchhar",
+   "count": 27
   },
   {
-   "topic": "khaleej",
-   "count": 28
+   "topic": "khaleej times",
+   "count": 27
   }
  ],
  "mentions": [
@@ -359,6 +361,18 @@
    "engagement": null
   },
   {
+   "id": "gn-3c296a0f0b83",
+   "channel": "press",
+   "author": "Deccan Chronicle",
+   "role": "press",
+   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-64b18f41c2d8",
    "channel": "press",
    "author": "Gulf Business",
@@ -378,30 +392,6 @@
    "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-3c296a0f0b83",
-   "channel": "press",
-   "author": "Deccan Chronicle",
-   "role": "press",
-   "text": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom - Deccan Chronicle",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm80N3U2bEV6T05HYW9kQ0VDUkxPTjJ1c1AzRTBzZzFiVUpjRkh3RVdQaUdzQ0NmUlRHSFFiNTR4dnpJZTJUbXNZNTFFTkJ6ZXNkNzE2VV9IU1EyeElJR3NvNmVEM1VPZ2E1UC00ZHhMdTBhMmQ3QS1VMmgyUm9SZ1NfbXF0YjQzdmFuM3JfMTBZdnpZWUs3a0VQR3dGLVE3TDNMTWFWa1p2U0lqVTZ5eUV0UTl4LWZ3Q3g3NFpsemlReExJ0gHKAUFVX3lxTE9GaUdqcG9rdW5zNHFZSW9SR0oxazlxbG1JZkpjbExjZm5vM1Fzb1VxVDJ3a1BGM3ZlcXVPTmppRGVKSmJlVGwzZTB6Q015QjJ3dno0cGJzZmMydGNibmh5WjBHejhTUnlDVHZZeHBLRlI4SnV5ZTIyVmRMSGlfVDYyQUV4U3FYZTd5RzhLc3BKeXJ5X2pzcVlTVHBOR29hN0ZBOW9GVExjT1pTaEdHSzkzOVVhb0U4eXJ1ZUVjN2k2clMyMFlBMUppOFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-221f5a64fbeb",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Dubai businessman Satish Sanpal denies Indian reports of UAE assets freeze - Gulf Business",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3R5c2szb1B6VVI0V1RYSkZoSTdGRG5nMk4xMjV6UTlIWHlhcUhEWkc1X1RKVzFjODNkSGJ6aXFsNkcwSDdWb3VFUVBvN25SVHBFdzBLLUNSVUc4ck9PVXQ0WXpWRE4tQ1V6Y00tekNRYmhvRFR4U3RNd2Q0bXpyc2E4bVhmVHFNbmFMWXIxMWNLak9YUlEw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -534,6 +524,18 @@
    "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - News On AIR",
    "time": "Tue, 29 Sep 2026 08:31:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV4RjNjU2MxR0NzR3NDU095ZkhIUWRyRm8wc3g1cDhtZ3FBN2hORGNlS3ZSUnJFcDlTMGJzMHg4b1FjNXJmVkpUMG8xeXlkYm5EcjZGNFZjaFJsRkRCNmhWT1dMcURnLVJjaHNmaGl1bUtZRU1OeWhGdDZBelJ5OXI5RjJOaktnbkRiQ29vVFp6QTRKdWFvM3R1Rkk3ekdYUmdlT3NnVTJvRWc1WEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-674a402f3dd2",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Indian Embassy in UAE issues fresh bids for passport services - Arabian Business",
+   "time": "Tue, 29 Sep 2026 06:06:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTHE1M01JTjZsQUpiQVRYQS1iWFdzREc4QURIU1BlaWVhYnNxRWFRVWJsREQ3R0ZjS3kyWjVOdzlDSzRvRnpxRGVSZUp2WlJvUzIxdE1tN0JGN3NiWkp6alJIVHlONFc2YWRfamtOMmJ6ODl4YjZ3T2tiNXhKU2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
