@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T00:53:49Z",
-  "total_verified": 294,
+  "generated_at": "2026-10-04T00:58:58Z",
+  "total_verified": 293,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 294,
+  "verified_mentions": 293,
   "sentiment": {
    "positive": 20,
-   "neutral": 240,
+   "neutral": 239,
    "negative": 34
   },
   "channels": {
-   "press": 289,
+   "press": 288,
    "official": 5
   },
   "negative_alerts": 34,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "passport",
-   "count": 58
+   "count": 57
   },
   {
    "topic": "gulf news",
@@ -34,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 48
+   "count": 47
   },
   {
    "topic": "flights",
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-91b14f7081b6",
+   "id": "bn-8c7ad8238a3c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy invites new bids for passport and consular services in UAE",
    "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1a39c37bc40acb505127c5b3700a1&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1a4d1e56a488eabcee73587ba4591&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
