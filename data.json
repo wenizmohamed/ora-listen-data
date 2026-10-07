@@ -1,61 +1,59 @@
 {
  "meta": {
-  "generated_at": "2026-10-06T07:36:05Z",
-  "total_verified": 294,
+  "generated_at": "2026-10-07T21:01:17Z",
+  "total_verified": 298,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 294,
+  "verified_mentions": 298,
   "sentiment": {
-   "positive": 23,
-   "neutral": 242,
-   "negative": 29
+   "positive": 24,
+   "neutral": 247,
+   "negative": 27
   },
   "channels": {
-   "press": 289,
-   "official": 5
+   "press": 294,
+   "official": 4
   },
-  "negative_alerts": 29,
+  "negative_alerts": 27,
   "handles_active": 2
  },
  "topics": [
   {
-   "topic": "passport",
-   "count": 59
+   "topic": "gulf news",
+   "count": 56
   },
   {
-   "topic": "gulf news",
+   "topic": "passport",
    "count": 54
+  },
+  {
+   "topic": "flights",
+   "count": 50
   },
   {
    "topic": "services",
    "count": 47
   },
   {
-   "topic": "flights",
+   "topic": "flydubai",
    "count": 43
   },
   {
-   "topic": "flydubai",
-   "count": 38
-  },
-  {
    "topic": "machchhar",
-   "count": 32
+   "count": 41
   },
   {
-   "topic": "khaleej times",
+   "topic": "smit machchhar",
    "count": 27
   },
   {
-   "topic": "khaleej",
+   "topic": "khaleej times",
    "count": 27
   }
  ],
@@ -73,23 +71,11 @@
    "engagement": null
   },
   {
-   "id": "bn-3d2597b1f511",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian embassy in UAE says wounded flydubai captain in good health",
-   "time": "Wed, 30 Sep 2026 17:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4a4e5a2f74a13b49a0ca06cc6efac&url=https%3a%2f%2fenglish.ahram.org.eg%2fNews%2f577986.aspx&c=13427939235078390149&mkt=ar-ae",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-640c5e657d2b",
    "channel": "press",
-   "author": "cntravellerme.com",
+   "author": "Condé Nast Traveller Middle East",
    "role": "press",
-   "text": "Dubai and Middle East flight disruption: Regional airlines face delays as Europe renews Gulf airspace warning - cntravellerme.com",
+   "text": "Dubai and Middle East flight disruption: Regional airlines face delays as Europe renews Gulf airspace warning - Condé Nast Traveller Middle East",
    "time": "Wed, 30 Sep 2026 15:20:29 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnp2cWxYbnFnb0cxck9jM1RfRGJTY0ROUHllNU5wYXJqS0Nodjh4ekhPQkRHT0FVel9iV2FMa21Edl9XX0F0U0xDWFpiM1Z1VDJJVGdYZzdaZUZCYVZFeEozLWJUVU1oYktKUVdUQTZNUlEtRDRrYS10X093a0dvTFVUTHhQVUwwbDJMdEdjaTNlSklwSmdiVXg0X2FwbXFwdnRHMDY4Ui1PVDc0YUFNN1Z1MHpjbFozWjhSR19hLUJUWGpXUml6eFQ0YjhhWlZWTVhSeUFPQjFNUUkxaHk3SlhSTDA1Zw?oc=5",
    "sentiment": "neutral",
@@ -109,11 +95,35 @@
    "engagement": null
   },
   {
+   "id": "gn-682fa3120fe9",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
+   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d0e14cb50944",
+   "channel": "press",
+   "author": "India Shipping News",
+   "role": "press",
+   "text": "Seven stranded Indian seafarers repatriated from MV Sea Star 2 in Abu Dhabi, says Indian Embassy in UAE - India Shipping News",
+   "time": "Wed, 26 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbTROdE5DeHdlYTZ5XzdxcEY4ZDFaa3JwUG1Ec3pxZlZNczR6OTZKSmhYWGJzRmtjaDdtakJfdG9hM0Q3cFFXdksxbVFXLW9BTDFsanUxRE5XZEhkZDJhRTVRRld4OUMyNkRtQ1M2M0xaS1FtTVk2TEowcG9iM3BUUjFTZXc3UC01azVhaEFZQ2tSSVBiOC1vclE4azhEdG4zcEtiTFpXUG1BMVowU2IyWUtCVG15NkIzRzVSOXRaZUFlVnVDTkNzaVJkLU4yOUtyUlJMLTVvVEhIQQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-84326d5dd1db",
    "channel": "press",
-   "author": "curlytales.com",
+   "author": "Curly Tales",
    "role": "press",
-   "text": "UAE Flights Face Delays & Cancellations Today, Check Your Flight Before Heading To The Airport - curlytales.com",
+   "text": "UAE Flights Face Delays & Cancellations Today, Check Your Flight Before Heading To The Airport - Curly Tales",
    "time": "Wed, 23 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2paQlBsSnU1a2NuTlFiclF2MTNhbnotcnA0SENOQWJRTVFfNzhQWWpXSGpXRjdmVld0dk5xSHl5dXY1ay12YmFlSWhod0FIcTc2XzFac1BVd2ZUOFAtN3QzTVlfRjI1SFRkVTNlZ0M4V1VKbGtVTHViTmtYT1dlMHlEWW1TZlpRN0Jlb3R3THRBYks5QnlTSDFPaXVEcDVBbGpQNGViRWN4alAwR05Fbm8talZCb3VrT3M1eFl1dzkyTlV3T3BHWVNjZ0VQNG_SAdQBQVVfeXFMTnNMeURnTXVzTkJkeldJVGFKdGRoVVo4YklDQXBpZ3VMU3pTTUo2NHVYbk9Na0lPWUtzSnhMMndYYmJ4enZMQlNvbDVFb1pUTFJnSF80ejh6cVl3UFk1VFE5ZTFEeVE2b0hjYlN2UVY5Y2xtbU9fQXlWWElmbjR2a2xvNGtzemU2cDJ5SmxlVUNkclpTdUJHdUUxRWpDY2pRS3hGc3pxYVcwTzZZVEtNQVA5dDZnU0hqT0lBQ29FNXpRZVdSUHV3WDBqQUxKY1VtQjVkT1U?oc=5",
    "sentiment": "neutral",
@@ -123,9 +133,9 @@
   {
    "id": "gn-a8edecfa1a16",
    "channel": "press",
-   "author": "thenationalnews.com",
+   "author": "The National",
    "role": "press",
-   "text": "New passport centres provide relief for Indians in UAE after weeks of delays - thenationalnews.com",
+   "text": "New passport centres provide relief for Indians in UAE after weeks of delays - The National",
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXNMMk1tSUJKT3hZaGxKOVVxdGEzdUx5MVJtVDczTmdqSGVaSTRUa2c0VVFDZnA3SjNrY3NkeE5vU3hnT1NQamRRUG1SN2xVMVhhRmJkdS1zc01ZVEh2T3lCVzNaT25UUVE5RkZUOW85UWZxSjJqZDhZWDFRYjBUMThrNklhME1lYnhjdkRPWXV3SktnQXFMdHNQNk12c1U4YW1NTjdJYXJxUndoV1NBZmZ4MlBxVWZ6ak5SNVphOG5XTFBLcG02WA?oc=5",
    "sentiment": "positive",
@@ -241,23 +251,11 @@
    "engagement": null
   },
   {
-   "id": "gn-28b74f98f1da",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Air India captain tests positive for marijuana after turbulence scare - Gulf Business",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-100e7b42c47f",
    "channel": "press",
-   "author": "connectedtoindia.com",
+   "author": "Connected to India",
    "role": "press",
-   "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - connectedtoindia.com",
+   "text": "Odisha woman trapped in Dubai makes Facebook appeal; freed by Indian consulate - Connected to India",
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
    "sentiment": "neutral",
@@ -277,30 +275,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c02a11702332",
-   "channel": "press",
-   "author": "thenationalnews.com",
-   "role": "press",
-   "text": "Dubai and Abu Dhabi flight cancellations and delays after Heathrow outage and fresh Iran strikes - thenationalnews.com",
-   "time": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTBJekxMWmRvdEtRVnNEaUN5MVVPY1FVN3hneUVDcVZxaVhaYU45ckdqdllnTGdwZTRWMHVuQ2JmN3hwTG93MjRYWGpSVTk0eFAwbEt1cUI2U2FaMVBpQk5kLU5GdWVYNE9BXzlwRmlPVW1NMHRwbGRWVGs5d1JTb2ZsbGhGb1pVeEliRFZRS2xHSGxlRlkyeXRR?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c157e30d24e3",
-   "channel": "press",
-   "author": "DD India",
-   "role": "press",
-   "text": "Appointment Portal launched for passport, visa and attestation services at Indian Mission in UAE - DD India",
-   "time": "Wed, 08 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRsZGV1M1VvSEJ0bHBLcnBHY2NwYjBlTDJxNi1TV0pZc0dxNElIdTgySTF3eER6cDdwQkQtWGpldkw0aVd2RFctUkhCMDRyQUNlZVhpSmotcXVPV1VHQ2JhTkIwSEFva2dXWTFNTmJ4VlBod3dzM3BiLVZxTG5lSmU1Rm1DdEJyaGJiRkZrTzV3ZS1KbnZ3Q3RSMzNYRGJDOFZWQzhtbDYtdU4zeXUxdHNB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-1bd59d219ab1",
    "channel": "press",
    "author": "Arabian Business",
@@ -308,6 +282,78 @@
    "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
    "time": "Wed, 08 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-3fa6d2defe35",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian expats in UAE salute flydubai pilot Captain Smit Machchhar at Indian Consulate in Dubai - Gulf News",
+   "time": "Wed, 07 Oct 2026 20:29:08 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzFEcWZmQncxQXY0SC1fSTEycm9KUHh0Nmw3ODN5amRNUmxsd3lLcFdqOEhEdWpleWdrUE5Eb2VkMnQ5WXdWVklSUUliTHR6V0ppVW53cTIyV2tXOWROMTM4M29BcjhtNnVEMFN0YVVFTHFuR2ZHRnlwRGVOMGwxZFNiSU42V1EtVXBqYmRlVHNoaHRoR3ZQZm9XQUJUZ0tUSGw4QWoyT29tXzQtWjVFVkRkaDFBNk84UjBFVW1qZ0dGdTgzTktYMkswdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e0e2de65dd38",
+   "channel": "press",
+   "author": "India.com",
+   "role": "press",
+   "text": "'He's responding well': MEA shares update on Captain Machchhar's condition - India.com",
+   "time": "Wed, 07 Oct 2026 16:27:13 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3g4MFQ1SXBCNTlyZ0dxU1JacUhkTTh6UkF0eHlTYWl3VG9IYVM1OFdPRzVuX2tlaVYwbHNIWGFWYXNzcFBIT1FwcDRLTXUtS21NaXp2dVM1aE9wbDFQRjFOSGxtbGxsUTBxRWczRm5ab3VMMnNuWFg4eUhSQm5fbW41RlpTNXJZejFVZ1F4NVUzOU41VjVVNTNwV2d1TGk5SzhSVGJUcXVVR0Z6RXhmSVJ1bU1MSVBPeGZVY2dSNk1pLVI4azFweHVoMUdITXFfc3lqZ3JOYmJxV3ZYTTItdzNxdkYtM1RFdVF0LTRB0gHuAUFVX3lxTE5zeDgwVDVJcEI1OXJnR3FTUlpxSGRNOHpSQXR4eVNhaXdUb0hhUzU4V09HNW5fa2VpVjBsc0hYYVZhc3NwUEhPUXBwNEtNdS1LbU1penZ1UzVoT3BsMVBGMU5IbG1sbGxRMHFFZzNGblpvdUwyc25YWDh5SFJCbl9tbjVGWlM1cll6MVVnUXg1VTM5TjVWNVU1M3BXZ3VMaTlLOFJUYlRxdVVHRnpFeGZJUnVtTUxJUE94ZlVjZ1I2TWktUjhrMXB4dWgxR0hNcV9zeWpnck5iYnFXdlhNMi13M3F2Ri0zVEV1UXQtNEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-797a7519e954",
+   "channel": "press",
+   "author": "Telangana Today",
+   "role": "press",
+   "text": "Captain Smit Machchhar showing steady health improvement: MEA - Telangana Today",
+   "time": "Wed, 07 Oct 2026 13:58:29 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEhRNkV6NFBVRUdIZU04SzFUWHR6NURWWi1rTlV5UGhnNXJ5Q0MxellrQW05SlNkT2Q0XzZrUUxEaHFKQnRERTNQTVg3SDE5d3RHMWc5ZDlyMk40ZDNCd3NSc2RtajluVXlGNllCd2ZXa29VVEtpUDNCeVc3SEJpeUNaeDNiTEdtcWVHQkNnTVQ?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ccd74692468c",
+   "channel": "press",
+   "author": "India News Network",
+   "role": "press",
+   "text": "Indian Embassy Reports Positive Health Update for Flydubai Pilot - India News Network",
+   "time": "Wed, 07 Oct 2026 06:01:10 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1lMUVQa2YtZmw4bkh0TzQ3UUlzSW1CaDk4UlgzTVNhYmR4LTdWN1FNRWhYdE5rOVVDcy1McVVRTzgtdm4ybVdMamJoT25vclk4cXFWNzlQR3FRNWIzUTFvVmNiSC1pMEwwR013VlpSUkx1MlU2NWt6ajN0bV85UEtFSDdCYXpmcmdLMU9CWC0wbEJzU3dSU25CYmZzdE5LUURMNHRnZ0Q?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-2a5f1da12b4f",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian pilot Smit Machchhar recovering after flydubai cockpit attack, embassy says - The Economic Times",
+   "time": "Wed, 07 Oct 2026 05:05:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaktidFVOdW9nMnJfSDVNRHBRZWdoNHBMNWJWNFg5RGlFeU42UDViUWlxQXVYeHpYQm9VZXRPY0hjSjNKZ1dmSnlIUmZyWUFpVzRUNWd3ekw1XzdYMFpfQjhHemNPRDJ3ellwVlNldWdKZ0xTTkxSbmdKa3Q5Y1AwUE9pOFV3MS1QMno1UVNZX21YLVg1R0l2N0doanhUYVNabWRYQXNiSmIxel82SERraG45akZuYWkyME96LXJINU96TVZUakswcUk5WlhhaFBmeHhvRE8zZ29aNGJ1a1VfcGh3R2ZKUlMweF9WbkxmVdIB7wFBVV95cUxPaktidFVOdW9nMnJfSDVNRHBRZWdoNHBMNWJWNFg5RGlFeU42UDViUWlxQXVYeHpYQm9VZXRPY0hjSjNKZ1dmSnlIUmZyWUFpVzRUNWd3ekw1XzdYMFpfQjhHemNPRDJ3ellwVlNldWdKZ0xTTkxSbmdKa3Q5Y1AwUE9pOFV3MS1QMno1UVNZX21YLVg1R0l2N0doanhUYVNabWRYQXNiSmIxel82SERraG45akZuYWkyME96LXJINU96TVZUakswcUk5WlhhaFBmeHhvRE8zZ29aNGJ1a1VfcGh3R2ZKUlMweF9WbkxmVQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e063c4991c54",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "UAE-India IndiGo flights to cost more: How much extra will passengers pay? - Khaleej Times",
+   "time": "Wed, 07 Oct 2026 02:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWJBV3dwVUtRYW1nMHdlb3hoZnNoWU1wdU9lSmViajVsT1MydjFCTUpBUUJqbFVnZEZ2SW9kZm5kTEZ4aEV4V2J4V3JSVUlkbWo0NjZ2QmNBdVZhM2pFMDk3alJNaVVOUDFsTG5ZRmstVERPaTdUT2YzcWxjMmxLRDhUa1N0ZDdXY193UU130gGWAUFVX3lxTE9aRzhjaEI5Y3RXNkJiY0RyNjhtaVE5TjcwN3ZtNGVMdExmR1pmZW9NcHY5aUd6eWdQWFhGYm9rcUpGRVFrOGRxYVlMWTVaSHJZbDJFdWoybkRiY256cHFVNERlZmU1ZmRxWEdfejlzbkc0cHBiRXlIRVdTUzVlNmgyZzR0U2EzMXZLUGpSMW52ZzhHOHBVZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -368,18 +414,6 @@
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-eb40d993a783",
-   "channel": "press",
-   "author": "The New Indian Express",
-   "role": "press",
-   "text": "Indian expat from Kerala dies in gas cylinder blast in Dubai car showroom - The New Indian Express",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDFxRm13N3gtbkdHU2labGgtTkJOVVFyMWpXXzQ5anUwVDJ2WDd5NWVHdW5xYl9tXzVqaUJoU2FJbXBtWXdRdERpaDVITTZhem1jaXhmcTBvczJZRlp3TzM0bmhxZHJldlktZ2NSNzJpQ2FmeGo4c0o0T0ZMalFPdkgwTlQzZUJqYTRVLUJCWE9WU3prRUJUMUFMbkFOZWdNMzVGLVM4MmZzaks1OUVsNHVJdEZpeTBUWFl6WVVuWXpmd9IBzwFBVV95cUxPb2NNelZ2XzlVWkg2c0FNalljTElxaHk2WmlWLU82LUlrNUZTZXBqS09neHBUSVFSdTE2Y1BfYkFDSEU3WDIwWjFVWTNPbnhVc3dqalEwUEF2UnlZX0FwckVFdXlmUXZLYUgwcFlOTnZBdjJiT0Y4YVRFNS1WRkNvYVZDUkcwbTBlbkkwdElaMDFNZGd6dGY3TVBSUHBKWkw2bHBLcmpmSjJ1MGNNZ1dfTDg1NldlNGkydlpua0Z6MEF4Yll3eEdkOV9lY3BReWs?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -495,47 +529,11 @@
   {
    "id": "gn-610377ab0854",
    "channel": "press",
-   "author": "thenationalnews.com",
+   "author": "The National",
    "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE - thenationalnews.com",
-   "time": "Tue, 29 Sep 2026 11:56:37 GMT",
+   "text": "Indian Embassy invites new bids for passport and consular services in UAE - The National",
+   "time": "Tue, 29 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenRFWS1LQUJmS3RkMUNYcW5fMGpDcHZHcDVqVS1tLXdfOU9HbzdhcEVmd2xCSkFMQzhhQUw5bXJzTHI4akhkOTVuU2Yzemhjb0liNHduWlh4c0VKcmI0M1pJaFM1YXBCYjYyN25MY08ybENqX2VLQlh4U0NuTHNzQ0NwV0JDZm4yWnQzU1FJaENvTHRvRE1PYnRncTZlUGNCbVZBaE1ua082QndGZFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-176824c0686f",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - News On AIR",
-   "time": "Tue, 29 Sep 2026 08:31:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV4RjNjU2MxR0NzR3NDU095ZkhIUWRyRm8wc3g1cDhtZ3FBN2hORGNlS3ZSUnJFcDlTMGJzMHg4b1FjNXJmVkpUMG8xeXlkYm5EcjZGNFZjaFJsRkRCNmhWT1dMcURnLVJjaHNmaGl1bUtZRU1OeWhGdDZBelJ5OXI5RjJOaktnbkRiQ29vVFp6QTRKdWFvM3R1Rkk3ekdYUmdlT3NnVTJvRWc1WEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-674a402f3dd2",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian Embassy in UAE issues fresh bids for passport services - Arabian Business",
-   "time": "Tue, 29 Sep 2026 06:06:32 GMT",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTHE1M01JTjZsQUpiQVRYQS1iWFdzREc4QURIU1BlaWVhYnNxRWFRVWJsREQ3R0ZjS3kyWjVOdzlDSzRvRnpxRGVSZUp2WlJvUzIxdE1tN0JGN3NiWkp6alJIVHlONFc2YWRfamtOMmJ6ODl4YjZ3T2tiNXhKU2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-37b61189ff9d",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE",
-   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4a4e5a2f74a13b49a0ca06cc6efac&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -545,10 +543,10 @@
   {
    "id": "gn-e4950185355c",
    "channel": "press",
-   "author": "thenationalnews.com",
+   "author": "The National",
    "role": "press",
-   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - thenationalnews.com",
-   "time": "Sat, 03 Oct 2026 12:26:29 GMT",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - The National",
+   "time": "Sat, 03 Oct 2026 15:11:08 GMT",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
    "sentiment": "negative",
    "verified": true,
@@ -567,49 +565,49 @@
    "engagement": null
   },
   {
-   "id": "gn-4bf0b3b99cb8",
+   "id": "gn-2a5f1da12b4f",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian pilot Smit Machchhar recovering after flydubai cockpit attack, embassy says - The Economic Times",
+   "time": "Wed, 07 Oct 2026 05:05:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaktidFVOdW9nMnJfSDVNRHBRZWdoNHBMNWJWNFg5RGlFeU42UDViUWlxQXVYeHpYQm9VZXRPY0hjSjNKZ1dmSnlIUmZyWUFpVzRUNWd3ekw1XzdYMFpfQjhHemNPRDJ3ellwVlNldWdKZ0xTTkxSbmdKa3Q5Y1AwUE9pOFV3MS1QMno1UVNZX21YLVg1R0l2N0doanhUYVNabWRYQXNiSmIxel82SERraG45akZuYWkyME96LXJINU96TVZUakswcUk5WlhhaFBmeHhvRE8zZ29aNGJ1a1VfcGh3R2ZKUlMweF9WbkxmVdIB7wFBVV95cUxPaktidFVOdW9nMnJfSDVNRHBRZWdoNHBMNWJWNFg5RGlFeU42UDViUWlxQXVYeHpYQm9VZXRPY0hjSjNKZ1dmSnlIUmZyWUFpVzRUNWd3ekw1XzdYMFpfQjhHemNPRDJ3ellwVlNldWdKZ0xTTkxSbmdKa3Q5Y1AwUE9pOFV3MS1QMno1UVNZX21YLVg1R0l2N0doanhUYVNabWRYQXNiSmIxel82SERraG45akZuYWkyME96LXJINU96TVZUakswcUk5WlhhaFBmeHhvRE8zZ29aNGJ1a1VfcGh3R2ZKUlMweF9WbkxmVQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cac995f4dbc3",
    "channel": "press",
    "author": "India Today",
    "role": "press",
-   "text": "Capt Smit Machchhar recovering after cockpit attack on flydubai Tel Aviv flight - India Today",
-   "time": "Sat, 03 Oct 2026 11:06:31 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUno1SlNSZHZPNk9fMkFnYm52NWxTVFk4eUVMdURCM2F0QXJGZVFGY05GOUwyQ1M0NjBqaHRmYWJiT0JxMmhPbVMzanJfN2o5SzhEUE4xZUhxR3RwZDRUbFlobGRxal96YWZsdWpjejJIRFozWXdOakZKZkZqd3BuNGJXTjc5ejAyWDVuVlpEaU1zRWJMZmNoY1A5enZpa3hYWEM4cVFLLUNyczRGTG9QY0J0a2thYnR2MkZBU1JReExEOXhxVGdKMjVpcWp5bFnSAc8BQVVfeXFMT1J6NUpTUmR2TzZPXzJBZ2JudjVsU1RZOHlFTHVEQjNhdEFyRmVRRmNORjlMMkNTNDYwamh0ZmFiYk9CcTJoT21TM2pyXzdqOUs4RFBOMWVIcUd0cGQ0VGxZaGxkcWpfemFmbHVqY3oySERaM1l3TmpGSmZGandwbjRiV043OXowMlg1blZaRGlNc0ViTGZjaGNQOXp2aWt4WFhDOHFRSy1DcnM0RkxvUGNCdGtrYWJ0djJGQVNSUXhMRDl4cVRnSjI1aXFqeWxZ?oc=5",
+   "text": "Indian pilot Smit Machchhar shows steady recovery after flydubai cockpit attack - India Today",
+   "time": "Tue, 06 Oct 2026 15:14:48 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGRNY2RxWmd0cFVLclpfRS1KRHRfSEwzX2s1ZUt6ejdHX1A0SFU4OUFGN1NzVFpBZFhXQlNxVUNQd0EyNWpYTjYzbFdWSEZBX2x3Tmd4ejdqakdyWndyY3BtRV9haGZ0SGU5TVY5eXE3cUVGR3V1dWREVVFxMWsySUZtbnRYdnVBUll1NC0xb1k0OGY3Sllkejk5MXRQdmFpdnZiX1JOc1hzd2FXVWttWDFIdFF6QUZZTFhHeHd5ZFMxcGlVN3NTWA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-0e5c5ae7dc7e",
+   "id": "gn-f663a0ffe52a",
    "channel": "press",
-   "author": "Daily Excelsior",
+   "author": "The Tribune",
    "role": "press",
-   "text": "Dubai Crown Prince Praises Indian Pilot Machchhar After Attack On Dubai-Tel Aviv Flight - Daily Excelsior",
-   "time": "Sat, 03 Oct 2026 12:26:19 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmRjSUhEZlVWLS0ycWJBdTJWaklNbS1LZHFBZ181clhoTmxXOUpKNXBnU0ZzeVJQYkdvSUw2a0w3eFZlM29kdmdJNkZMc2dnMTMtbUFKTXpORTd5cDlpRVcwY2I2dDRxVWlDeHlvYXgtT09EUlp6UG80cVNEZnF5ZmRmLU9tYmcxUWpiUVAxRmVFWkUyYllFY255c3F4UVZGSDRUUnVodTRHUG1xYjBrWmlCT2ktM1ByVmNvWFA1Y9IBvwFBVV95cUxOSmRjSUhEZlVWLS0ycWJBdTJWaklNbS1LZHFBZ181clhoTmxXOUpKNXBnU0ZzeVJQYkdvSUw2a0w3eFZlM29kdmdJNkZMc2dnMTMtbUFKTXpORTd5cDlpRVcwY2I2dDRxVWlDeHlvYXgtT09EUlp6UG80cVNEZnF5ZmRmLU9tYmcxUWpiUVAxRmVFWkUyYllFY255c3F4UVZGSDRUUnVodTRHUG1xYjBrWmlCT2ktM1ByVmNvWFA1Yw?oc=5",
+   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - The Tribune",
+   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkVaWlVqWVltVFJyWGJPZVZwNThQRGtycVA4QndRSnJhaFhhd0ZMM0hYSlJpanFDQ2c2b0o0anlyRUE3ZU9XVXJpcG1xQ0NIeWlzWlVLbGRfSVdkRGRVdDIyMkNhTXl6MGVHVlpEbGl3bUh6Y2hubFloMWFPekR5VDY4X3o4R3BHelc5WllSclJLWXRpbkQ5R3REckdLVjBxTGlncG5EU0p3a0J2RGxSSm96SzVQSm4zenNiVGItZWptZ0RqT2V0VDM3aUtCTkl2YXRXWHZGdFZIeHFGdTlTLThRVmxTQTFVSy1hTTdrT000MWE5Mm1pVGxXV3JLNTQt0gGEAkFVX3lxTE1RQVJ0Vkc3RDNxMklFbzZsbF9XX21UZWF3NVJKVnpabkNxMm10RUYzSWFfbDVuUE42NGRlVkpzaFBXWnk4SE5JV0xiVWNoa3hUcjI3UjFTdGVUZE9PdlNWcWdfWGFYbnhscnMwcVJJc2ZiZkNsek9JU0pzV0FYN1M2YXRJelZyQXhULTRwX1g3YW5ld0xmV0JWeUd3QTJlcWdwbzRtOTloWFRKN0tpaGRjdzlGYTBpT2VJNTdBakJaeTQ3SG9sOWFveWQ3cUkzMmYxMjVfZTlVYkU4OFNVZTR5am94alNaM1VlXzl6TW1VRnZPZnQyUVByaUl4M2ZHaE5fUGhD?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-14267a265859",
+   "id": "gn-a2710f5cb7ca",
    "channel": "press",
-   "author": "10net.in",
+   "author": "The New Indian Express",
    "role": "press",
-   "text": "Indian Pilot Smit Machchhar Recovering Well After Dubai-Tel Aviv Flight Attack - 10net.in",
-   "time": "Sat, 03 Oct 2026 11:24:11 GMT",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmJDd2JyWEJDcE5rWW9PVERLbXlSV1VQblpnREhYaUpFNXpIb2thVDVFRG9Zc1hLQjZsSERoUkpnaXNHaldfOGNRVkZXU3NpU1hZYkgzYVVOZ1VFYVU3bDNjZ2lXdGQwZjV1dmJJTU1qRmRLempHLWl2dXJpSHlHV1A2aVMta2RRUnJCb1ZoRWpyTGU5THp1Mzl3cFl4VFBv?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-46683ece90af",
-   "channel": "press",
-   "author": "10net.in",
-   "role": "press",
-   "text": "Dubai Crown Prince Praises Indian Pilot Smit Machchhar After Flight Attack - 10net.in",
-   "time": "Sun, 04 Oct 2026 05:22:11 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1lWW1rby1pd0I3ZnVlZDRFZGRPVmNyUktFMTFHaW9RcXU2dnBQVVBNU0E0U1djTUZlcy1ub3ZJcDJDaURjU2ZEZFJnYWJTSngxN0JtakpFNFRybUY4a0NNYXFNLWFGQUFac1hpUHlwMGxETkx5R1hIQ3ZrZnhEY3NpSVFPMkNDV3V5bHBjTVVKX1lvd0VrT0pGWQ?oc=5",
+   "text": "Dubai Crown Prince praises Indian pilot Machchhar after attack on Dubai-Tel Aviv flight - The New Indian Express",
+   "time": "Sat, 03 Oct 2026 14:27:33 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmx2RWQ4a1BCblZqdzZfdUF2MFpOQTJPUnZQWWFMMnpsWkxoSm9kbkNBUkFoeXh1Q0VJUnpzaGp3eG52Nlc1bUJEYzI3MGxtMjhKVDljNFNCeTdDNmw4RXdwNlBBQzJaeFBaRkg2WTl2Zm8xOWhNS2pQZUxYSkE3SGZYUVJJaEI1VjRRYmZucnBZWmdIcUtadDBaTlpacUExS3A2ZDlhbUhTeE03Y1lEeHo3WEE2RHlxS3VkQmk3V0R6WWdmdFIzYnpUR00yTXBZWG5YX0RaQdIB5AFBVV95cUxPRDJtc3NaSlhkRjdRV0IzOGozZGhvd21WQlJLeF9YRTQ3VG0wSG8wM3VzNkUtOXp6SE9lX1JrTV9BYVNJRVpYODZvYnFZTDR6T2I1OWYwWWIyS3BOdjBfMnE0dERkWml1SUdrcXRyeXc4Y3oydWZ5ZzdjUDZGLXVVUjFlY1dtX01uTjNGVm9tRVhXUUtteHZSSGU0WW5hS1FJQVZCbFp6dFVvcGtROWM0YTJLeDNsc3laVFFTUXpnTkl0ZTlsNnpTb2tlVFNKdV9BbkhoaG5NRF9xWTVEOE5GbDA0eVQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -627,13 +625,13 @@
    "engagement": null
   },
   {
-   "id": "gn-4e05a06287f2",
+   "id": "gn-46683ece90af",
    "channel": "press",
-   "author": "News India Times",
+   "author": "The Earth News Network",
    "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
+   "text": "Dubai Crown Prince Praises Indian Pilot Smit Machchhar After Flight Attack - The Earth News Network",
+   "time": "Sun, 04 Oct 2026 05:22:11 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1lWW1rby1pd0I3ZnVlZDRFZGRPVmNyUktFMTFHaW9RcXU2dnBQVVBNU0E0U1djTUZlcy1ub3ZJcDJDaURjU2ZEZFJnYWJTSngxN0JtakpFNFRybUY4a0NNYXFNLWFGQUFac1hpUHlwMGxETkx5R1hIQ3ZrZnhEY3NpSVFPMkNDV3V5bHBjTVVKX1lvd0VrT0pGWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -651,13 +649,13 @@
    "engagement": null
   },
   {
-   "id": "gn-875abf8eead0",
+   "id": "gn-655d25b126f1",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "WorldCargo News",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
-   "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "text": "Indian seafarer confirmed dead after attack on container ship in Strait of Hormuz - WorldCargo News",
+   "time": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWpQMWJ2UGFDRWZQR1kyVkJVSXZkWlc4X180ZGhXTkhZemxpeXk0bEhRNXVFR1F6bUdETnVTS0VsUkkwMFljY005MmlISGRaeFZqdi1zNFhTdzE4aHQxX2NBVGJiWms0U3hsMHByU3N2YmZSUm5rcndDRGVKaGVzUWxvTlFXV0tKeW4xZ2c2MFYtN2lSNXh6Z0p1M1RjUDJFMmpaVFJPTlAzYXc3V3paUi04QUFKMFBTVVlXNV93N2RlaXQ4?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
