@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-20T20:17:16Z",
-  "total_verified": 288,
+  "generated_at": "2026-10-20T20:22:25Z",
+  "total_verified": 289,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 288,
+  "verified_mentions": 289,
   "sentiment": {
    "positive": 21,
-   "neutral": 238,
+   "neutral": 239,
    "negative": 29
   },
   "channels": {
-   "press": 285,
+   "press": 286,
    "official": 3
   },
   "negative_alerts": 29,
@@ -38,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 37
+   "count": 38
   },
   {
    "topic": "flydubai",
@@ -467,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-de3b5bb3fe04",
+   "id": "bn-ec975956fdf9",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7cc50183f4654b468f6497d5dedd1&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7cd858aa24d56899eb8bee545986b&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -589,18 +591,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f663a0ffe52a",
-   "channel": "press",
-   "author": "The Tribune",
-   "role": "press",
-   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - The Tribune",
-   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkVaWlVqWVltVFJyWGJPZVZwNThQRGtycVA4QndRSnJhaFhhd0ZMM0hYSlJpanFDQ2c2b0o0anlyRUE3ZU9XVXJpcG1xQ0NIeWlzWlVLbGRfSVdkRGRVdDIyMkNhTXl6MGVHVlpEbGl3bUh6Y2hubFloMWFPekR5VDY4X3o4R3BHelc5WllSclJLWXRpbkQ5R3REckdLVjBxTGlncG5EU0p3a0J2RGxSSm96SzVQSm4zenNiVGItZWptZ0RqT2V0VDM3aUtCTkl2YXRXWHZGdFZIeHFGdTlTLThRVmxTQTFVSy1hTTdrT000MWE5Mm1pVGxXV3JLNTQt0gGEAkFVX3lxTE1RQVJ0Vkc3RDNxMklFbzZsbF9XX21UZWF3NVJKVnpabkNxMm10RUYzSWFfbDVuUE42NGRlVkpzaFBXWnk4SE5JV0xiVWNoa3hUcjI3UjFTdGVUZE9PdlNWcWdfWGFYbnhscnMwcVJJc2ZiZkNsek9JU0pzV0FYN1M2YXRJelZyQXhULTRwX1g3YW5ld0xmV0JWeUd3QTJlcWdwbzRtOTloWFRKN0tpaGRjdzlGYTBpT2VJNTdBakJaeTQ3SG9sOWFveWQ3cUkzMmYxMjVfZTlVYkU4OFNVZTR5am94alNaM1VlXzl6TW1VRnZPZnQyUVByaUl4M2ZHaE5fUGhD?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-89d1741b8fe0",
    "channel": "press",
    "author": "Daily Excelsior",
@@ -608,6 +598,18 @@
    "text": "Dubai Crown Prince praises Indian pilot Machchhar after attack on Dubai-Tel Aviv flight - Daily Excelsior",
    "time": "Sat, 03 Oct 2026 22:40:06 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVEtbUdlUmh3RXZwQzloVVBXZl9Wb1FYWmptSVVhRDdHMDBoUXFrUE95UGZKeFZXSzlGLWJYR1A1M05ubFJSR3dUYl80NXpkU0JQOGNPN2VpSGthS28yUWJXS2xpMEVZSnRORWFUaHpLdHZzTXBjNGpYVm13OHpoamlpMUtlemdXV3U0TVVwTXdfR1VObHY2cWV0WUx1UXRrNDJBOFBHbTZuZmZjdTFZUGk0NVdhdFZjYm1xVldR0gHCAUFVX3lxTE12amhvYXJGN2s2SzNoVjVoeHpORFVYN2ZWLWVhS3BpeXotYVVCeXJlSG55YXJyNFdnMXpNUUZ2V2RsMERiSlNDMHpyQnJFT3hRRGpDbXltVGRxSDl4WW9fSEdIWDhUclZYbmQtdXFuYlg0YmxneEdRQjcxVW5JcGZfdnFZNnktYTMxSkxGd2IxbWVEVnhOV0hSRW05SEtzQTJvZnNxVjNFSFpxQkVrdkhWZVA5MndGNFA5dnNVRFFNSlhR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f663a0ffe52a",
+   "channel": "press",
+   "author": "The Tribune",
+   "role": "press",
+   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - The Tribune",
+   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkVaWlVqWVltVFJyWGJPZVZwNThQRGtycVA4QndRSnJhaFhhd0ZMM0hYSlJpanFDQ2c2b0o0anlyRUE3ZU9XVXJpcG1xQ0NIeWlzWlVLbGRfSVdkRGRVdDIyMkNhTXl6MGVHVlpEbGl3bUh6Y2hubFloMWFPekR5VDY4X3o4R3BHelc5WllSclJLWXRpbkQ5R3REckdLVjBxTGlncG5EU0p3a0J2RGxSSm96SzVQSm4zenNiVGItZWptZ0RqT2V0VDM3aUtCTkl2YXRXWHZGdFZIeHFGdTlTLThRVmxTQTFVSy1hTTdrT000MWE5Mm1pVGxXV3JLNTQt0gGEAkFVX3lxTE1RQVJ0Vkc3RDNxMklFbzZsbF9XX21UZWF3NVJKVnpabkNxMm10RUYzSWFfbDVuUE42NGRlVkpzaFBXWnk4SE5JV0xiVWNoa3hUcjI3UjFTdGVUZE9PdlNWcWdfWGFYbnhscnMwcVJJc2ZiZkNsek9JU0pzV0FYN1M2YXRJelZyQXhULTRwX1g3YW5ld0xmV0JWeUd3QTJlcWdwbzRtOTloWFRKN0tpaGRjdzlGYTBpT2VJNTdBakJaeTQ3SG9sOWFveWQ3cUkzMmYxMjVfZTlVYkU4OFNVZTR5am94alNaM1VlXzl6TW1VRnZPZnQyUVByaUl4M2ZHaE5fUGhD?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
