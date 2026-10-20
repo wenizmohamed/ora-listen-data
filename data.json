@@ -1,27 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-10-20T01:28:43Z",
-  "total_verified": 286,
+  "generated_at": "2026-10-20T01:33:53Z",
+  "total_verified": 289,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 286,
+  "verified_mentions": 289,
   "sentiment": {
    "positive": 21,
-   "neutral": 235,
+   "neutral": 238,
    "negative": 30
   },
   "channels": {
-   "press": 286
+   "press": 286,
+   "official": 3
   },
   "negative_alerts": 30,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -30,7 +32,7 @@
   },
   {
    "topic": "passport",
-   "count": 49
+   "count": 48
   },
   {
    "topic": "services",
@@ -38,7 +40,7 @@
   },
   {
    "topic": "flights",
-   "count": 36
+   "count": 37
   },
   {
    "topic": "flydubai",
@@ -467,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-17a5cb14664a",
+   "id": "bn-45181a7426ae",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6c3b5f92f48e280f06ec2ea4a5e82&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6c50370ea48c9ae7af490fd8dafd2&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
