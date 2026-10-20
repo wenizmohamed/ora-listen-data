@@ -1,38 +1,36 @@
 {
  "meta": {
-  "generated_at": "2026-10-20T13:54:49Z",
-  "total_verified": 292,
+  "generated_at": "2026-10-20T14:00:00Z",
+  "total_verified": 290,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 292,
+  "verified_mentions": 290,
   "sentiment": {
-   "positive": 19,
-   "neutral": 243,
-   "negative": 30
+   "positive": 20,
+   "neutral": 242,
+   "negative": 28
   },
   "channels": {
-   "press": 289,
+   "press": 287,
    "official": 3
   },
-  "negative_alerts": 30,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 52
+   "count": 53
   },
   {
    "topic": "passport",
-   "count": 48
+   "count": 50
   },
   {
    "topic": "flights",
@@ -40,7 +38,7 @@
   },
   {
    "topic": "services",
-   "count": 41
+   "count": 40
   },
   {
    "topic": "flydubai",
@@ -469,13 +467,13 @@
    "engagement": null
   },
   {
-   "id": "bn-57eb61e4a746",
+   "id": "bn-97f85d6d1651",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad772ab43d1417ca1b661df75258409&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad773e1d4d94495a154e782a14e9101&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -555,18 +553,6 @@
    "engagement": null
   },
   {
-   "id": "gn-e4950185355c",
-   "channel": "press",
-   "author": "The National",
-   "role": "press",
-   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - The National",
-   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-ae388fb1fe75",
    "channel": "press",
    "author": "The New Indian Express",
@@ -574,6 +560,18 @@
    "text": "Pilot Machchhar 'recovering well' after attack on FlyDubai flight, says Indian Embassy - The New Indian Express",
    "time": "Sat, 03 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2s4WGwyd3ZlYXhxV1VqUXdMRnp2c1o2ek55V0xBSFpLa2htNV9mRHViTjJfMndWT2JmTEF0VHFPeXpTR09ja0hPVTNkbEh5VnNmRHlCVnpJMHhwM3lvZnNZejNwSDdCTm96dk40eXo2RGp1NjJ2d2s2OW5XOEFXN2dET2trLXRDcFUxUUVUY2RlLTdHenVSTE9kOXRCb3E1VF8tU2xRTUd5akZMZjkwQm53a2FiUk9WOXJHTm81RGt4cFdGQmdfQzNLZVItc0XSAdwBQVVfeXFMTTVhR3JZclltUThSX0R2NnpBMzc3RHRUOVBTbG83OUxWTk9KSHREN0Fycnh1bG1EU1FQeGFzaDRZNUUteU9uei0zRl9wY0hKSWx0aGJ4d1JlY1lMOGVXamthcnlmcHBielFwRkZjR0ZvRzVlcFI3ZlFEZjA4ZnQ2eS1yQXdOZ1lxQXlNQ2ZUeXktdEJOLS1NYzNDUkNnQjU5R1lEcGtQRU53d1p2SnFuQnVObU15eUhmS1N5VU1XbGZLTXlxQ21Gd0duVVduZGFxanluVEZWeURGZG9hcg?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e4950185355c",
+   "channel": "press",
+   "author": "The National",
+   "role": "press",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - The National",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -639,18 +637,6 @@
    "engagement": null
   },
   {
-   "id": "gn-875abf8eead0",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
-   "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-655d25b126f1",
    "channel": "press",
    "author": "WorldCargo News",
@@ -658,6 +644,18 @@
    "text": "Indian seafarer confirmed dead after attack on container ship in Strait of Hormuz - WorldCargo News",
    "time": "Thu, 16 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWpQMWJ2UGFDRWZQR1kyVkJVSXZkWlc4X180ZGhXTkhZemxpeXk0bEhRNXVFR1F6bUdETnVTS0VsUkkwMFljY005MmlISGRaeFZqdi1zNFhTdzE4aHQxX2NBVGJiWms0U3hsMHByU3N2YmZSUm5rcndDRGVKaGVzUWxvTlFXV0tKeW4xZ2c2MFYtN2lSNXh6Z0p1M1RjUDJFMmpaVFJPTlAzYXc3V3paUi04QUFKMFBTVVlXNV93N2RlaXQ4?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c72da6bc4351",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
