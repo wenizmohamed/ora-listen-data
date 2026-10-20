@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-20T22:16:21Z",
-  "total_verified": 289,
+  "generated_at": "2026-10-20T22:21:31Z",
+  "total_verified": 288,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 289,
+  "verified_mentions": 288,
   "sentiment": {
    "positive": 21,
-   "neutral": 240,
+   "neutral": 239,
    "negative": 28
   },
   "channels": {
-   "press": 286,
+   "press": 285,
    "official": 3
   },
   "negative_alerts": 28,
@@ -38,15 +40,15 @@
   },
   {
    "topic": "flights",
-   "count": 37
+   "count": 36
   },
   {
    "topic": "flydubai",
-   "count": 32
+   "count": 31
   },
   {
    "topic": "machchhar",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "khaleej times",
@@ -467,13 +469,13 @@
    "engagement": null
   },
   {
-   "id": "bn-31e679aecced",
+   "id": "bn-661a9f745ed0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7e8390a17476c8f0e3e03c022a8ad&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7e96fb383438fb3e2fb9f2a0f0528&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
