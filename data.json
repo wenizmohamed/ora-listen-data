@@ -1,48 +1,50 @@
 {
  "meta": {
-  "generated_at": "2026-10-21T01:17:05Z",
+  "generated_at": "2026-10-21T01:22:17Z",
   "total_verified": 289,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 289,
   "sentiment": {
    "positive": 20,
-   "neutral": 242,
-   "negative": 27
+   "neutral": 241,
+   "negative": 28
   },
   "channels": {
    "press": 286,
    "official": 3
   },
-  "negative_alerts": 27,
+  "negative_alerts": 28,
   "handles_active": 2
  },
  "topics": [
-  {
-   "topic": "passport",
-   "count": 52
-  },
   {
    "topic": "gulf news",
    "count": 52
   },
   {
+   "topic": "passport",
+   "count": 51
+  },
+  {
    "topic": "services",
-   "count": 44
+   "count": 43
+  },
+  {
+   "topic": "flydubai",
+   "count": 33
   },
   {
    "topic": "flights",
    "count": 33
-  },
-  {
-   "topic": "flydubai",
-   "count": 32
   },
   {
    "topic": "machchhar",
@@ -175,6 +177,18 @@
    "time": "Wed, 19 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRm16LXZfUEowdWdhYzhwZnJndHFFWkJPZ0tsZy1hem1UcG93cGs3eHRPWGdBbVNncnVhZjFPdUw3amszcHRuUVYzbVFWb0ZQRlJicl81b0V1aklja0NhenphQmJjeFVwSFIwZDdXSzk5Y08xS3BGYWFrU09taDctYXJBUDlnUlpSQlNvQzQzaXVoVzl5YnNmeHdGQVBHMEtJQTYyY3c5SVVYQTNsY1VGdWc3SzZnTGx4OE9YUzJGdGJiNmdCRFZLQjNxb1FiYk8yX2NFeDBkX1hRWm90anNab2JpNURmd9IB6wFBVV95cUxNRDN2enowR2JyMmV5T21odmZycGFRdzhRdGRiQlVIUW1sLVVFUjFWMExiRm1xSTNSRG90TzZTRmVvdGRta1pwZTJwR2JqOUtBbi01RE1nYlE5NkpNQlotbDB2aGlEU21jcWNRTHFDZk5meFN3NS14TVBzZnA2b011WGxLUUFqOXpFNlJabGE5bmdPWC1XZlNVWDY2UVA2UWluSE1PRHBSQm8zSWpKX2FxSkdFWUJySFpXNnpPb1ZMMnNlV0dpVHZtT2FTcWJKajRBZFZXWGY0NVhEdVdwa29RaUpWWFhtNHZ5ZEo4?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0ed4d9c3dd07",
+   "channel": "press",
+   "author": "India Shipping News",
+   "role": "press",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - India Shipping News",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWndPeXgxTHp3eW5YMEtkdUJRMnZaRk5wUkVBZGk1UWlXUV9MbEU2LVhCMVVkX3dVeXhWYzdzS19xRmJFdG1DdHV6TUFqSUFlc0NwX2lUOXoyZGFjYXhIeHFqSllSLTBVdHZKWVh3dlMzWC1vQTAxVDktYk5leHd5V2tIUXJLU3RNR254VzZCRW1rMl9fb1JfM0h3YzNiZDljUE5WRjQxWkRFUGhUSnVyY1FZa29iSkpyekVLeEdXUTd4UXp3a2hvd2cyQjdaNXFxQzRRQldhaG5Jc04tUkdOWGZlM29fdw?oc=5",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -479,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-33618c2f398a",
+   "id": "bn-03c3e91d3c90",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81295c4754d5c886d693083e1c9cd&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad813cb56ad45c496b631a2b84f45a3&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -522,18 +536,6 @@
    "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - News On AIR",
    "time": "Tue, 29 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV4RjNjU2MxR0NzR3NDU095ZkhIUWRyRm8wc3g1cDhtZ3FBN2hORGNlS3ZSUnJFcDlTMGJzMHg4b1FjNXJmVkpUMG8xeXlkYm5EcjZGNFZjaFJsRkRCNmhWT1dMcURnLVJjaHNmaGl1bUtZRU1OeWhGdDZBelJ5OXI5RjJOaktnbkRiQ29vVFp6QTRKdWFvM3R1Rkk3ekdYUmdlT3NnVTJvRWc1WEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-3d7e538b775b",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian embassy invites new bids for passport and consular services in UAE",
-   "time": "Tue, 29 Sep 2026 04:48:08 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81295c4754d5c886d693083e1c9cd&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-invites-new-bids-for-passport-and-consular-services-in-uae%2far-AA2db7Jg&c=4967210436957578901&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -589,6 +591,18 @@
    "engagement": null
   },
   {
+   "id": "gn-4a7cb42f344f",
+   "channel": "press",
+   "author": "The Hindu",
+   "role": "press",
+   "text": "flydubai attack: Dubai Crown Prince praises Indian pilot Machchhar - The Hindu",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXVYenZySXV3UlpIeHB1Q2VmM1c4OWstQTY3ODJWWWRveFdscC0ySjYxRWpxdC1qUkhQUG93OEdvMjdFVFoyY1pqMHVMNlNrc0Mza2ZXcFp4WDZWNk5wZmdqSzB1RVNqUUpFUml3cDE4TlZzOFh4ODV6VVRQbXh5RXZwWlZRV2gzYWFoLWIyOGJrMTNNUXE5Y0VpUEdqajk2MHVWd01JVlpEZHhaTFJfNDFUczQ2UU94UUdVSkNwYVpDeThMUk9MStIBzwFBVV95cUxNalRza3ZpOFBSOUZVMFFUUE1aUUdfamxjR29tN3o0Z2RWeW5NLTBPU0wwamVSbUs3VUY3V0dESTV2TGhWSU0yTDNDbUJJUVc0WUtQTi1vYTBhbXFEY29oclFpQU9KZ1NhZWp4b3BvUHBLY1hLSVhBYTVFV3NGYjNXVWwtWGZCd0swQnNEWkFYa2lrMHY2RDVFamMtYmM1NW11N0dEbmYzSmtEaVljNXJkZmtEN193YVJHd3UtUlhhZTRlR1VfWGN1T3lsN3pnVDQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f663a0ffe52a",
    "channel": "press",
    "author": "The Tribune",
@@ -601,30 +615,6 @@
    "engagement": null
   },
   {
-   "id": "gn-89d1741b8fe0",
-   "channel": "press",
-   "author": "Daily Excelsior",
-   "role": "press",
-   "text": "Dubai Crown Prince praises Indian pilot Machchhar after attack on Dubai-Tel Aviv flight - Daily Excelsior",
-   "time": "Sat, 03 Oct 2026 22:40:06 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVEtbUdlUmh3RXZwQzloVVBXZl9Wb1FYWmptSVVhRDdHMDBoUXFrUE95UGZKeFZXSzlGLWJYR1A1M05ubFJSR3dUYl80NXpkU0JQOGNPN2VpSGthS28yUWJXS2xpMEVZSnRORWFUaHpLdHZzTXBjNGpYVm13OHpoamlpMUtlemdXV3U0TVVwTXdfR1VObHY2cWV0WUx1UXRrNDJBOFBHbTZuZmZjdTFZUGk0NVdhdFZjYm1xVldR0gHCAUFVX3lxTE12amhvYXJGN2s2SzNoVjVoeHpORFVYN2ZWLWVhS3BpeXotYVVCeXJlSG55YXJyNFdnMXpNUUZ2V2RsMERiSlNDMHpyQnJFT3hRRGpDbXltVGRxSDl4WW9fSEdIWDhUclZYbmQtdXFuYlg0YmxneEdRQjcxVW5JcGZfdnFZNnktYTMxSkxGd2IxbWVEVnhOV0hSRW05SEtzQTJvZnNxVjNFSFpxQkVrdkhWZVA5MndGNFA5dnNVRFFNSlhR?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7cc23754b005",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
-   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-61ee2a7d0e70",
    "channel": "press",
    "author": "Gulf Business",
@@ -632,6 +622,18 @@
    "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
    "time": "Mon, 06 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0ed4d9c3dd07",
+   "channel": "press",
+   "author": "India Shipping News",
+   "role": "press",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - India Shipping News",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWndPeXgxTHp3eW5YMEtkdUJRMnZaRk5wUkVBZGk1UWlXUV9MbEU2LVhCMVVkX3dVeXhWYzdzS19xRmJFdG1DdHV6TUFqSUFlc0NwX2lUOXoyZGFjYXhIeHFqSllSLTBVdHZKWVh3dlMzWC1vQTAxVDktYk5leHd5V2tIUXJLU3RNR254VzZCRW1rMl9fb1JfM0h3YzNiZDljUE5WRjQxWkRFUGhUSnVyY1FZa29iSkpyekVLeEdXUTd4UXp3a2hvd2cyQjdaNXFxQzRRQldhaG5Jc04tUkdOWGZlM29fdw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
