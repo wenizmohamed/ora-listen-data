@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-21T01:48:06Z",
+  "generated_at": "2026-10-21T01:53:16Z",
   "total_verified": 289,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -491,13 +493,13 @@
    "engagement": null
   },
   {
-   "id": "bn-713585bd1468",
+   "id": "bn-a98cd4dc05f5",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad819da68c548f6ad07740333f1476d&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81b1076fc44c4ba7cc87ff2a3d9bc&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
