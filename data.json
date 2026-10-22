@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-22T08:02:40Z",
-  "total_verified": 295,
+  "generated_at": "2026-10-22T08:07:49Z",
+  "total_verified": 293,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 295,
+  "verified_mentions": 293,
   "sentiment": {
    "positive": 19,
-   "neutral": 242,
+   "neutral": 240,
    "negative": 34
   },
   "channels": {
-   "press": 289,
+   "press": 287,
    "official": 6
   },
   "negative_alerts": 34,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 59
+   "count": 58
   },
   {
    "topic": "passport",
@@ -34,7 +36,7 @@
   },
   {
    "topic": "flights",
-   "count": 41
+   "count": 39
   },
   {
    "topic": "services",
@@ -167,25 +169,25 @@
    "engagement": null
   },
   {
-   "id": "bn-0dc9e4b98e99",
+   "id": "bn-298c9ebdb73b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian expats in UAE face passport service changes as embassy shuts four application centres",
    "time": "Wed, 21 Oct 2026 10:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c322e6b6437a80afa13cd149987c&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c4580131460ca76a32b494f79e65&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-8cd49f685b62",
+   "id": "bn-53033cc1416c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c322e6b6437a80afa13cd149987c&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c4580131460ca76a32b494f79e65&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,13 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d26d6543bcad",
+   "id": "bn-5f755439f985",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c322e6b6437a80afa13cd149987c&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9c4580131460ca76a32b494f79e65&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
