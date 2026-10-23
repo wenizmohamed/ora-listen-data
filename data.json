@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-23T15:59:13Z",
-  "total_verified": 291,
+  "generated_at": "2026-10-23T16:04:25Z",
+  "total_verified": 292,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 291,
+  "verified_mentions": 292,
   "sentiment": {
    "positive": 18,
-   "neutral": 245,
+   "neutral": 246,
    "negative": 28
   },
   "channels": {
-   "press": 285,
+   "press": 286,
    "official": 6
   },
   "negative_alerts": 28,
@@ -30,11 +32,11 @@
   },
   {
    "topic": "passport",
-   "count": 55
+   "count": 56
   },
   {
    "topic": "services",
-   "count": 36
+   "count": 37
   },
   {
    "topic": "flights",
@@ -42,11 +44,11 @@
   },
   {
    "topic": "flydubai",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "machchhar",
-   "count": 27
+   "count": 28
   },
   {
    "topic": "khaleej times",
@@ -203,25 +205,25 @@
    "engagement": null
   },
   {
-   "id": "bn-f4c5f6b9137a",
+   "id": "bn-266ca3ba5ffd",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian expats in UAE face passport service changes as embassy shuts four application centres",
    "time": "Wed, 21 Oct 2026 10:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb84504adc4262ad64755e0c1c3287&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb8588c63e4bf1b8bd436229e3e01c&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-c1e89c04bc79",
+   "id": "bn-64eee745b63c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb84504adc4262ad64755e0c1c3287&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb8588c63e4bf1b8bd436229e3e01c&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
