@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-23T02:39:21Z",
-  "total_verified": 260,
+  "generated_at": "2026-10-23T02:44:31Z",
+  "total_verified": 293,
   "channels_live": [
    "official",
    "press"
@@ -12,27 +12,27 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 260,
+  "verified_mentions": 293,
   "sentiment": {
-   "positive": 8,
-   "neutral": 222,
-   "negative": 30
+   "positive": 16,
+   "neutral": 246,
+   "negative": 31
   },
   "channels": {
-   "press": 254,
+   "press": 287,
    "official": 6
   },
-  "negative_alerts": 30,
+  "negative_alerts": 31,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 63
+   "count": 58
   },
   {
    "topic": "passport",
-   "count": 56
+   "count": 57
   },
   {
    "topic": "services",
@@ -40,26 +40,50 @@
   },
   {
    "topic": "flights",
-   "count": 34
+   "count": 35
+  },
+  {
+   "topic": "flydubai",
+   "count": 31
   },
   {
    "topic": "khaleej times",
-   "count": 26
+   "count": 23
   },
   {
    "topic": "khaleej",
-   "count": 26
+   "count": 23
   },
   {
-   "topic": "passport services",
-   "count": 20
-  },
-  {
-   "topic": "business",
-   "count": 19
+   "topic": "machchhar",
+   "count": 23
   }
  ],
  "mentions": [
+  {
+   "id": "gn-1f9bfe586d97",
+   "channel": "press",
+   "author": "Yahoo News UK",
+   "role": "press",
+   "text": "Pilot wounded in Flydubai incident is ‘in good health’, Indian embassy in UAE reports - Yahoo News UK",
+   "time": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHBGaVZDUXkxbnk3dDBQRXIyMHk0UnVheFN0emlVaEJyaGsyN1BOQURUNTZwWTRwcHdOYkM5b2F1YXFmRFFyRkd2WFVfNjJNTFJWdDh3Z0h2dXJhcmNfWm82ZEM4cGNNOW1YdVhFa3JkVkxrR1VwSVdUVTZBU0hZRnpEZ0w?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ac062ff291e8",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Pilot of flydubai diverted flight was Indian, in stable condition: Embassy - Khaleej Times",
+   "time": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHB3VFJ2T3Q0cjU5SzV0Z0hVMWg2NmxZazJYT3diREMyYmpWT09zWkkwVDRUVDdVaUI4TTRYT3RLWUdZVFBKYVlVMkpmOG5GcHg0cTlMVnRvQ0F5WU0yaW9TZFZmNHZpbF9rTWlLaWtEaEZJRlU4YmJ0dU1fUk13U0paZVJnLXZhTnBsdW0wRGxtelFLclJjb3k4TURJX2VRLXo1SzhGc3dRUFJGaUpGdlhR0gG6AUFVX3lxTE0zbEZCM2RJSnBsbTREQ2F6MEZtS1E1eklBb0Vlblk1SFV1emNNN0VvRHlHWnFqTWlHWVRfbU9JV1hwOEswcnNtUzc4MWNrMXNnQWw4QUlRTnY0VmZnT2VNSzhHd2J0WkEwWWJ4dWlCOWk5a1RibWExUS1tRktWVWxPaklYZlBiVFllNDZhTzZrTi1xUlVOWkN0c0lNdmMtRVgtVG1PdGlOZ1JXakxXSW1jZUo3aFZDSTZUZw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
   {
    "id": "gn-906a008ff9ec",
    "channel": "press",
@@ -73,18 +97,6 @@
    "engagement": null
   },
   {
-   "id": "gn-075dc92356de",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE: Indian Embassy announces Open House to address grievances of Indian expats - Gulf News",
-   "time": "Wed, 30 Apr 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm1EdG5BVWxpaUxfbGRkZFVNVU9CQWRTZ2ZZa1Noa1RZcmtNa3d1OTcxYW1NZWRQaDVheDJ4Ym1CWW16WEFJdFNDc3JzVzh4WkNIN0ZFbjFHeW92bGpJekVlVVFkUjdCMUxjZUVDVXVjYUV4TXQ3b0NxU25RYk52SVBDTzRqbGFneHFKTW9MbGdKQVFCWU8ybzlwNUJZTlQtRC1pamhjdEFZTmdvZTNBNHBUTnVxd9IBxgFBVV95cUxQaWJVTVhoeGhrU0NQTzVwcjNNOTFIeTc2bXhNVms1MW81LTdBR1VobV9QZFFCaHJEZEtydHhHUkZfYzh5Tjl0MzBMcjRYT0tqcElLVmpRWlotRHh3VDNrdXlWLV9mSS1EQ3gxVmxyMkx2N2hnelMwb1gxS1NOXzBtbTBDNDZPUkhJdVE2c0lFd01GY1NIZkUzTURxTzU4aWgxUDcxdkp6eVJUNi14Y2FHVjVISGJMQy1wNW5JdGtPeTdHM19NR2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-682fa3120fe9",
    "channel": "press",
    "author": "NDTV",
@@ -92,18 +104,6 @@
    "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
    "time": "Wed, 29 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-2d4fbfafc58c",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "UAE Honours Indian Embassy, Consulate at MoFA Excellence Awards - News On AIR",
-   "time": "Wed, 27 May 2026 22:37:35 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -121,18 +121,6 @@
    "engagement": null
   },
   {
-   "id": "gn-6405f6ff6747",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian passport services no longer available at Dubai Consulate or Abu Dhabi Embassy - Arabian Business",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDN001WnVmMXNCM3ZZLVpRRWtpcEV5UFVrVFNpczdwbVFaTHJEMVlMTTh2V3BtQkt0SnRsN28zbEpEY3BkV051X1ZZTjRkajRPMlFpY2g1YW9kLU1lblZsc2RtWXB5TmhWTG05dDZhQWJsR0k2THlMck1kdWY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-a8edecfa1a16",
    "channel": "press",
    "author": "The National",
@@ -145,13 +133,25 @@
    "engagement": null
   },
   {
-   "id": "gn-1a9a7df3891e",
+   "id": "gn-76edc54629cd",
    "channel": "press",
-   "author": "Travels Dubai",
+   "author": "Daily Pioneer",
    "role": "press",
-   "text": "Indian expats in UAE face passport service changes as embassy shuts four application centres - Travels Dubai",
-   "time": "Wed, 21 Oct 2026 17:40:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEpaSDljWDYwaVJvREMwcXRXX0Z5ZEhvcWFnQXdDczItM0dhbm5jUDl1WnZNZVhyQ01KSHo2QVl5Y1gySVp0eVB6ZWVZdXFFVjAwZVhpczY1cXM1aElHZFlrajNYN01RY1ExT05GUG5pb1NycmJCa1RzQ0UyRXBGYjJzT0R4ZVctdU00UnVPbmZNTk1FLV80dVlXTk5QNXYzZ2FxbkN1NDMtdDhDeFh4bnFoRllHVEcyaVRMcUdnTE5OVExxY1E?oc=5",
+   "text": "Indian passport, visa services in UAE outsourced to Al Hind Tours and Travels from July 22 - Daily Pioneer",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVI1UUg0bDJxeGdHcGVBTXY5NGtJcTh3Z1hQSXJuUDFLRjAwWnRSeE1NbzhkVnlvWUZnZ3c1UWFSSEhkUmludHZ1czVNRFZXajJnRkkzYnM2RnJpNzRvNDFWQmt4UXBBZmY0YVd1VEhPS0dfTFdFcDVwcGdNUjVudkIxeGdMdXZyT1dKa0plbGxEd2RPbVRMaUpYcmlzNUp4aU8wUnl1bWFiRjM1VHhCUHNOM0lPMWdzNGxj0gHKAUFVX3lxTE5DUjZZRUFtRHdWZWw3WUNTbXRxS0RlTzd1WkppcHpYSmk3WWtWeWJQdlVXX0dtTG51Uzd6TGVtNjFBTUlaXzFPakd2NHpmWWN1MEgwb3U0RDFHTVRyRlFDVF95dGcydDRiaWVGU1JCbl9NNnJTUnl3b0drMkF5aUdGUHlmM09ic2xSMVMxV0R2SGs1U2xXR1paZzZBcDhKNko5WGdJNThHSF9tOTdjNTdEdUMtWmV0X1lsQ28teFRjZi16QlhOYjk2akE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-909a69e81a78",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "New Indian passport centres open across UAE: Thousands apply on day 1 - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmpDUjBJeVc0Q1phTTV3N1JBbGJtcll0WWdhQ2I2LWJ4ZHVZVXBnZUZ4VWc1UnJ0OTU5a3YzNy1OLW5wZGZpVXI1ZzRGbmc4U1pUdVExaTg1bHV0UzQyWS1CYU1ibEc0SUJZRUg2eGFMdVMwRjBiWDh4THlQSGpQZFhlb0NHUl94bjY3S2MxOVFIcHhWR1pqWGhabDR3dnFzckhPRUEyTC0?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -193,25 +193,25 @@
    "engagement": null
   },
   {
-   "id": "bn-87c4daf377d4",
+   "id": "bn-fb8c3823c580",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian expats in UAE face passport service changes as embassy shuts four application centres",
    "time": "Wed, 21 Oct 2026 10:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac8da991848b781c5f39f5ca57ea0&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaca10b29a4c16996f452d45cb3506&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-b8cdce24fd75",
+   "id": "bn-5961c1796eb6",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac8da991848b781c5f39f5ca57ea0&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaca10b29a4c16996f452d45cb3506&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -265,18 +265,6 @@
    "engagement": null
   },
   {
-   "id": "gn-7e3ca8386bfb",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-70e73e64492a",
    "channel": "press",
    "author": "Rediff",
@@ -296,6 +284,30 @@
    "text": "Indian passport services in UAE: Delhi High Court quashes Alhind's tender for Indian Consular Application Centres - Gulf News",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajZTVXVuckdhZ2JyYTRkZDVneGp2dzZNWXo5bzIyMGdQTDNlZGpHS0lNNnV1ZnI5bEw2bzR2OWdpNEJUZFVrWmZxMnk1eDlMUWkwSUlPS2pnTmFaZ05KN0RfcW54WTlDRTJuemI2WGlsWGthLWNfS2tYSk5Qc3MzSDBJbXFaNjlRc1pfaGYwdGpuaEUzaUlwUk5YTlJzcHUyN0ZoN3k0Y3BuNkptOWpnUERXTXUydlpsMlpLT2lqdUJUM1hWME8yNFdkc0RtQ2NaTGZ4UU44YnhaeTI0b3NqQ2hB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-7e3ca8386bfb",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ed476f63dd8d",
+   "channel": "press",
+   "author": "Firstpost",
+   "role": "press",
+   "text": "Indians helped build the UAE; now they are helping shape its future - Firstpost",
+   "time": "Wed, 14 Oct 2026 11:57:19 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajZpS1E3anRoX0g0bUI1eE5SR1NOMkZFaUNEeDR0VU9yOV9FR2s0MVphQkpubFJVMzFQNGlERnB1Q05jcWU3eGtRS2lJT1VzVHJrelRIeG9pY01LWkUxOVdfSDBvcEZtZGxLYTZjbW0wZElfR3RCd1lQdXliT1ExQmVFQnFOR25GaHhNYWNPb2h0ZGJKaC1LVUVBVWxtVV9lSnBjQTZRZGVEUWFMM3kyaFk5NkvSAboBQVVfeXFMUG1xSjIzR00xdy1ZUjFMaVFvWFFaZDBwYjBnSFBVUmRvQUE3aFYwUGVVZVlzbzVEQ2RwMTdZSm1iU0xEcFh3WDB3SER0WTB0MjZjMW1FSXZ3bi1iNnh6bjNCWmxEMVNudWxvSmQtSE84Mm5fOTVVZEJ5MEZ4WkRCYzZMRjZiYUNJeGdXNW1HdWl4bkM5dmdHT0o0X19IcFdWWUJDWW1BNmRxTDNsZmhIY0FSNGx4NFBmWXVB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -349,6 +361,18 @@
    "engagement": null
   },
   {
+   "id": "gn-ccd74692468c",
+   "channel": "press",
+   "author": "India News Network",
+   "role": "press",
+   "text": "Indian Embassy Reports Positive Health Update for Flydubai Pilot - India News Network",
+   "time": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1lMUVQa2YtZmw4bkh0TzQ3UUlzSW1CaDk4UlgzTVNhYmR4LTdWN1FNRWhYdE5rOVVDcy1McVVRTzgtdm4ybVdMamJoT25vclk4cXFWNzlQR3FRNWIzUTFvVmNiSC1pMEwwR013VlpSUkx1MlU2NWt6ajN0bV85UEtFSDdCYXpmcmdLMU9CWC0wbEJzU3dSU25CYmZzdE5LUURMNHRnZ0Q?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
@@ -368,6 +392,18 @@
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-64b18f41c2d8",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -409,18 +445,6 @@
    "engagement": null
   },
   {
-   "id": "gn-078220285763",
-   "channel": "press",
-   "author": "Firstpost",
-   "role": "press",
-   "text": "Indian Workers In UAE Targeted By Fake Agents In New Scam | Firstpost Live - Firstpost",
-   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXpkRWJtSDFrV0o3LUFSdGNJd081VTh6UDlyc2h5dVJTYkIwdzQ2RnRnVW4wNlB6ZmRNSEJ0N09QRHdXY2NSZkRQZlVzYV83T1ZVOHVnQ0s1YW9fNDVlb3RBRnFySHROUVgxWFI5c0JKekJiUzh0YkM1WlcxNXdxcTNiQUZ1T0Fmb3JVTUZRUXdYMURoSWNXNEJfckd2SE5sTmRWUS1ENVRTSmoxSWk3cjRaZUdhdUFneTlvbTRhNGNBdEdIek1mb1FYeVlYZ9IB0wFBVV95cUxNdGd6X3h1eVZteUl6QzI1ZGR0QVdpLTlFcW94QlFHbWluMTRHOXFQSnFaUkR3Nm9OTjhheXdkcU5MTnZydXpId2JRZlNiRkItWHFmbjNGREwyd2p6Z0dfYl9Ta205di1qOXc2QUFlOGJJYnQ0cUxEOFd5MTdYemZNV2tGOVQ5Und3SFBfT3VfMEgtcmI4SUJVb1BYck12SlhWZnlPNUpsc1BCbWktRVZSWVpqWWJjS0NIZjM0T0NUejhLZno3Nm1LQVR1cFdUdHhRQ0Jz?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-67f0683a2c21",
    "channel": "press",
    "author": "Gulf News",
@@ -428,6 +452,18 @@
    "text": "Indian passport services in UAE: 150 daily walk-ins for Indian expats at one Alhind ICAC - Gulf News",
    "time": "Wed, 02 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGRHTUEtWlNQdE5fVnZQNU5tTmJmamcwM0hNOVlxcVdNM0d2eXZzVW1WSUMwS0t0S09yTmRUUUctX3FnRS1fd1c0MVVXLXgxQUNlYlBXWEJ1S2ZKRDdyb1hIREszMEx4QnhBR21fVC00WHFKOUF5WGNyN3NBa3E3c1NvcXVmYVF6T1RoLW5Rb25ZNEVNeGpZbldhRTlhSzRMVk9NeVM2NXZlVE5XaVJ4NjltVlY1UmNuQUxVZEhka215QQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-078220285763",
+   "channel": "press",
+   "author": "Firstpost",
+   "role": "press",
+   "text": "Indian Workers In UAE Targeted By Fake Agents In New Scam | Firstpost Live - Firstpost",
+   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXpkRWJtSDFrV0o3LUFSdGNJd081VTh6UDlyc2h5dVJTYkIwdzQ2RnRnVW4wNlB6ZmRNSEJ0N09QRHdXY2NSZkRQZlVzYV83T1ZVOHVnQ0s1YW9fNDVlb3RBRnFySHROUVgxWFI5c0JKekJiUzh0YkM1WlcxNXdxcTNiQUZ1T0Fmb3JVTUZRUXdYMURoSWNXNEJfckd2SE5sTmRWUS1ENVRTSmoxSWk3cjRaZUdhdUFneTlvbTRhNGNBdEdIek1mb1FYeVlYZ9IB0wFBVV95cUxNdGd6X3h1eVZteUl6QzI1ZGR0QVdpLTlFcW94QlFHbWluMTRHOXFQSnFaUkR3Nm9OTjhheXdkcU5MTnZydXpId2JRZlNiRkItWHFmbjNGREwyd2p6Z0dfYl9Ta205di1qOXc2QUFlOGJJYnQ0cUxEOFd5MTdYemZNV2tGOVQ5Und3SFBfT3VfMEgtcmI4SUJVb1BYck12SlhWZnlPNUpsc1BCbWktRVZSWVpqWWJjS0NIZjM0T0NUejhLZno3Nm1LQVR1cFdUdHhRQ0Jz?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -503,42 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-143d93cefe35",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "Indian passport, visa appointment suspension in UAE extended till July 1 - The Economic Times",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1JMTzh0UkZpNHo2MHFXcWtyU0lPOEZDTUtpTXNraXAwOExHdzZxOXBUNEpUOGNGOVBFZmI3aXFnWEV5OUNITVVjRFY3VEpyVkZ6VHRJOG9MZFQ0TzZ5SklEU3ZHd1psbEFXV0tqSm9HVWl0SlExVlBic29JbmVkMnhmTjNoRXVDemZoODg5SDlEcjFWV2M1djN6b3JHeTZhUWhkVGZzX0dZR0pDVE5KQzd0bmlYZGJ0Q1B6bTlTcEUtdXlUUHNLT2hDWHplT3pXc2hCWkFGVHB5TmUy0gHiAUFVX3lxTE9jWjhBSTRfbHFaeDRLUzB4Q3UwYnd5aXl4T3VVbnR3eDlZNHVXVlB1Z1p6djA2NF9WaEl5SlZzUzdUZEdYVW9FQWpJMFRhSVFpbjE0NHFQdU12NDVObDhpZkFZUVd6aGl2UFNQdGNqSUMtNTRxR3c3Z2ZLdHcxaUYyWEpJRm5tb0ZvVXpaUXpHbU5oRjlSRld2UmE0a3JibVZuT0FsQ0hfVS05SDhxUGZNMkttRG1TUWc1OG5GVkZNSjZ6S2Z3Y1ZFS2N2Mmt5LThuTUpWOXFXRE5sNGdZMFI5NEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-c1fe82ae9e72",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
-   "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac8da991848b781c5f39f5ca57ea0&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-610377ab0854",
-   "channel": "press",
-   "author": "The National",
-   "role": "press",
-   "text": "Indian Embassy invites new bids for passport and consular services in UAE - The National",
-   "time": "Tue, 29 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenRFWS1LQUJmS3RkMUNYcW5fMGpDcHZHcDVqVS1tLXdfOU9HbzdhcEVmd2xCSkFMQzhhQUw5bXJzTHI4akhkOTVuU2Yzemhjb0liNHduWlh4c0VKcmI0M1pJaFM1YXBCYjYyN25MY08ybENqX2VLQlh4U0NuTHNzQ0NwV0JDZm4yWnQzU1FJaENvTHRvRE1PYnRncTZlUGNCbVZBaE1ua082QndGZFE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -555,13 +555,73 @@
    "engagement": null
   },
   {
-   "id": "gn-4e05a06287f2",
+   "id": "gn-e4950185355c",
    "channel": "press",
-   "author": "News India Times",
+   "author": "The National",
    "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - News India Times",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanFpeDBHdHhUQkE5MzlPclVRbGZ0aVR2S2MtalpjX2FJQ095WmwtRmFETDRsWDVtQmNSa3JKdHBYWnBzclF6NW1ETmVNQnJ2OEE3Yl9aV200R1VTTWVOSFVnRDVPOS11dFJxM1JTSGJ1YzhrdFNlREhkbjBKSEtiTDVZeU5CYkF6aDRVVW54ODVQUURDV2RzLWdwaFNjTzhFMDV0ZUI1bF9Vc09HRlE?oc=5",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - The National",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ae388fb1fe75",
+   "channel": "press",
+   "author": "The New Indian Express",
+   "role": "press",
+   "text": "Pilot Machchhar 'recovering well' after attack on FlyDubai flight, says Indian Embassy - The New Indian Express",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2s4WGwyd3ZlYXhxV1VqUXdMRnp2c1o2ek55V0xBSFpLa2htNV9mRHViTjJfMndWT2JmTEF0VHFPeXpTR09ja0hPVTNkbEh5VnNmRHlCVnpJMHhwM3lvZnNZejNwSDdCTm96dk40eXo2RGp1NjJ2d2s2OW5XOEFXN2dET2trLXRDcFUxUUVUY2RlLTdHenVSTE9kOXRCb3E1VF8tU2xRTUd5akZMZjkwQm53a2FiUk9WOXJHTm81RGt4cFdGQmdfQzNLZVItc0XSAdwBQVVfeXFMTTVhR3JZclltUThSX0R2NnpBMzc3RHRUOVBTbG83OUxWTk9KSHREN0Fycnh1bG1EU1FQeGFzaDRZNUUteU9uei0zRl9wY0hKSWx0aGJ4d1JlY1lMOGVXamthcnlmcHBielFwRkZjR0ZvRzVlcFI3ZlFEZjA4ZnQ2eS1yQXdOZ1lxQXlNQ2ZUeXktdEJOLS1NYzNDUkNnQjU5R1lEcGtQRU53d1p2SnFuQnVObU15eUhmS1N5VU1XbGZLTXlxQ21Gd0duVVduZGFxanluVEZWeURGZG9hcg?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cac995f4dbc3",
+   "channel": "press",
+   "author": "India Today",
+   "role": "press",
+   "text": "Indian pilot Smit Machchhar shows steady recovery after flydubai cockpit attack - India Today",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGRNY2RxWmd0cFVLclpfRS1KRHRfSEwzX2s1ZUt6ejdHX1A0SFU4OUFGN1NzVFpBZFhXQlNxVUNQd0EyNWpYTjYzbFdWSEZBX2x3Tmd4ejdqakdyWndyY3BtRV9haGZ0SGU5TVY5eXE3cUVGR3V1dWREVVFxMWsySUZtbnRYdnVBUll1NC0xb1k0OGY3Sllkejk5MXRQdmFpdnZiX1JOc1hzd2FXVWttWDFIdFF6QUZZTFhHeHd5ZFMxcGlVN3NTWA?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f663a0ffe52a",
+   "channel": "press",
+   "author": "The Tribune",
+   "role": "press",
+   "text": "Indian missions in Australia, UAE, Kuwait continue offering limited consular services; outsourcing on hold as matter is subjudice: MEA - The Tribune",
+   "time": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkVaWlVqWVltVFJyWGJPZVZwNThQRGtycVA4QndRSnJhaFhhd0ZMM0hYSlJpanFDQ2c2b0o0anlyRUE3ZU9XVXJpcG1xQ0NIeWlzWlVLbGRfSVdkRGRVdDIyMkNhTXl6MGVHVlpEbGl3bUh6Y2hubFloMWFPekR5VDY4X3o4R3BHelc5WllSclJLWXRpbkQ5R3REckdLVjBxTGlncG5EU0p3a0J2RGxSSm96SzVQSm4zenNiVGItZWptZ0RqT2V0VDM3aUtCTkl2YXRXWHZGdFZIeHFGdTlTLThRVmxTQTFVSy1hTTdrT000MWE5Mm1pVGxXV3JLNTQt0gGEAkFVX3lxTE1RQVJ0Vkc3RDNxMklFbzZsbF9XX21UZWF3NVJKVnpabkNxMm10RUYzSWFfbDVuUE42NGRlVkpzaFBXWnk4SE5JV0xiVWNoa3hUcjI3UjFTdGVUZE9PdlNWcWdfWGFYbnhscnMwcVJJc2ZiZkNsek9JU0pzV0FYN1M2YXRJelZyQXhULTRwX1g3YW5ld0xmV0JWeUd3QTJlcWdwbzRtOTloWFRKN0tpaGRjdzlGYTBpT2VJNTdBakJaeTQ3SG9sOWFveWQ3cUkzMmYxMjVfZTlVYkU4OFNVZTR5am94alNaM1VlXzl6TW1VRnZPZnQyUVByaUl4M2ZHaE5fUGhD?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-7cc23754b005",
+   "channel": "press",
+   "author": "ANI News",
+   "role": "press",
+   "text": "\"Closely monitoring situation\": Indian Embassy in UAE condoles sailor's death in Hormuz tanker attack - ANI News",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV05RX2lNQmZYczVCRE1Fd2xlZmJoSEFxblZRMVNtbF9fcFlSdnhsMnNMMzI2SGRkVFNWSWVnQ2QwY3JXR0xJWkJvS1BXTjVJNEVxLUJWcUVHZFlORnQ1bjhtQTMtekp4WmRrZ2prNlNfcmRNZDhYUTYzbVdhbl9JdC05WFNiT1FvSThUTGdxWFVXU2hseV9mRGZxdXNqZlNhRlMtdjRjRFdNUF9MRW9hM1VaajEzYnVvcEllYjRyblFDN0J2Q1czVjdZOG40dGQzWTNGcW9yc2hqakJVOUlBR2xzVm9TeXRpbW81dW5R?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-61ee2a7d0e70",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian passport services transition in UAE delayed as contract dispute heads to court - Gulf Business",
+   "time": "Mon, 06 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUd4aDMyVzJoVkUwY1hJOVo5cnU3SGpzUFQtbWJmNFpaNXZvWGgtenZ6RE5XUjFmcXR4Ml9IYUd3UUNLeEtIb3FIeU1NNFJybnl6anN0eEVqdWRXM0MwZUtqaWpwRDZjdG9OR0RtMDlDTGU2SnRIaFJ6RTBQQlVyMEdTUUxTT1ZPeGN1SWRZTjBvUjBaMHZUYldObTk0YlRuTWJxRVo1UkQ4TExtUkExYXFwaUZubEZ6RE1ZTHNR?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -574,54 +634,6 @@
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1ae569cd81ec",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport services in UAE hit by delay amid contract battle in Delhi courts - Khaleej Times",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWElrSTBtWUlsTWYwQXFXTWc5YmpPNWY0bTVEZDNnakliWkQ5RXJxWnpVeUhoWkxVc0FRTFo0Y0JfWUEyNnBLb2lSbUQtRm1xSlR2cGYyRzR6V3JVRFpmdThOR0NTdEM1d253M0IzWC1sanZqOGtaYWJvV3Y5Wkg1N3pQZDlQT0wtM2xycFhQXzJVblcxTEZOT2Z1MnNGQlFoTjJZOEdkUGMyYXB30gG0AUFVX3lxTFB2YXI5Y29YNmtwNGh0NmVINWNfR2pHZ3VDMURHX0tYci1vNVdnQVdJWVBuMnZzQWhZeTB5N0d5X1lXMXpMU21xeERoWE91NkhXeGhIeDJkbkZhUHN6SkhnSko2QTdyS2w5VXBHeXg5UVhLZzRLMUZiRF9pOVl2RS1oeU9uSTY0VkllUjNkNE5TMWZ2WlJKeDBkdkR4VjZXT3dudWQ5SkE0QWlyUmlpTnkyODdGUA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cb2364b30400",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
-   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1c60f8097ce1",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
-   "time": "Thu, 18 Sep 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7a30569518c9",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "NRI alert: Indian Embassy in Abu Dhabi clarifies passport renewal services for Indian expats in UAE - Gulf News",
-   "time": "Sun, 19 Jan 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDlsU3E4blNISGlaay0wcGRGN040ZVlmS1B4Vk5yempIbXFfWnVoNDZuNnN4WkkzNHIwYjZzMWV2RDhOWW9sdV9sUzJ3YTZXdUpvNHhHd0MwZV9IRzNOY1dOTnZXb3VMRnJWdHlaQXlUQktYSndOME5RdFBDWUF4NEtZWGk4Y184Z1ZZN0d4Z0xzaDNFRUtiR015cWJGeFdic2U0X1lQRFF6WkNNbHNVdTY1NUR6dWw0OTZpaFRIazJMR0Z0eDBtVURqYkQ0R19p?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -646,18 +658,6 @@
    "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7e3ca8386bfb",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indian sailor dies in MV GFS Galaxy attack off Oman, UAE mission aids family - India Today",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamFlT1I0cS00anMwbUtLMjFiZjJObDFfSExyX0ZOVHNKSTJibXhCel9HdTU5cG80cUdzUFRQM01qVVNFbDlXejNyT0dRQW04NHh4WFFuS3ZxOHB6LUwzSjFzTm5lMVFCNVBTNVdPSS1pMnVYWWRaaEtwbjJENXdDdlVzTjZ2bW5hLWlVWXUyVkZZU3kzUzJTRVB4aUl4bWJOa243YmNSd1IyS1dVZ3V4S3htSm41U3oyc3NDUTNsM083OHJFY0VjZ1ZCWXJURXpB0gHWAUFVX3lxTFBlTVA3bHJQdTRuenBIbHpQTHlQeUVGRHN2UlRwaDF0SUlOYUtydnMyc0UtbGtRV2Z6RWJRZzVJdDc2eEF4MW5nLUM0V1lwYmVHLVVpcno2YWNMNk1Fc3gyaV83WnNiZ3Z6c0wyb19rRURyQmZGd25QZHlGRFd6ZXBQMjVzTVMyWGtWblRWOENNMTJUbmEtLXRQaHhoZGZYSWNaU2lrdHFQTXduRmh4OE1rWHFkRnlIdm4tRHVhTWRKYm1Qa0dEVEpVT2dlcHl3WXFIcHBYcHc?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
