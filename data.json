@@ -1,25 +1,23 @@
 {
  "meta": {
-  "generated_at": "2026-10-23T02:03:14Z",
-  "total_verified": 256,
+  "generated_at": "2026-10-23T02:08:23Z",
+  "total_verified": 255,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 256,
+  "verified_mentions": 255,
   "sentiment": {
-   "positive": 14,
+   "positive": 13,
    "neutral": 219,
    "negative": 23
   },
   "channels": {
-   "press": 250,
+   "press": 249,
    "official": 6
   },
   "negative_alerts": 23,
@@ -32,27 +30,27 @@
   },
   {
    "topic": "passport",
-   "count": 52
-  },
-  {
-   "topic": "flights",
-   "count": 37
+   "count": 55
   },
   {
    "topic": "services",
-   "count": 35
+   "count": 36
+  },
+  {
+   "topic": "flights",
+   "count": 36
   },
   {
    "topic": "flydubai",
-   "count": 30
+   "count": 29
   },
   {
    "topic": "khaleej times",
-   "count": 25
+   "count": 26
   },
   {
    "topic": "khaleej",
-   "count": 25
+   "count": 26
   },
   {
    "topic": "business",
@@ -60,18 +58,6 @@
   }
  ],
  "mentions": [
-  {
-   "id": "gn-1f9bfe586d97",
-   "channel": "press",
-   "author": "Yahoo News UK",
-   "role": "press",
-   "text": "Pilot wounded in Flydubai incident is ‘in good health’, Indian embassy in UAE reports - Yahoo News UK",
-   "time": "Wed, 30 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHBGaVZDUXkxbnk3dDBQRXIyMHk0UnVheFN0emlVaEJyaGsyN1BOQURUNTZwWTRwcHdOYkM5b2F1YXFmRFFyRkd2WFVfNjJNTFJWdDh3Z0h2dXJhcmNfWm82ZEM4cGNNOW1YdVhFa3JkVkxrR1VwSVdUVTZBU0hZRnpEZ0w?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-ac062ff291e8",
    "channel": "press",
@@ -145,25 +131,25 @@
    "engagement": null
   },
   {
-   "id": "bn-29463b0713d1",
+   "id": "bn-3e2a4042345b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian expats in UAE face passport service changes as embassy shuts four application centres",
    "time": "Wed, 21 Oct 2026 10:40:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac063c8d14d00874375eb5eb2b9ec&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac198785c478d97e00ef871093b2b&url=https%3a%2f%2fwww.travelsdubai.com%2f21-Oct-2026%2findian-expats-uae-face-passport-service-changes-embassy-shuts-four-application-centres&c=3131841985195009857&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-b0900ae05e4a",
+   "id": "bn-9ae9f4658957",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac063c8d14d00874375eb5eb2b9ec&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac198785c478d97e00ef871093b2b&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -421,13 +407,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c09a84cab528",
+   "id": "bn-5396676acaad",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac063c8d14d00874375eb5eb2b9ec&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adac198785c478d97e00ef871093b2b&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +522,18 @@
    "text": "UAE flight status today: Saudi disruptions and full list of delays, cancellations - Gulf News",
    "time": "Tue, 20 Oct 2026 07:17:55 GMT",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXJoME9Ic29uaThXRzZXZHdaUDNmazJ4OWVOcXhxVDN5dW1iaTFwd0g4RVJpNG1ORWhNdVFPSjU4Q1prT2stRjRBVzJEN2xrS3ZwYlhkVG1NVEE0MGJnMjB3S2R6Wi1feGl0MlBFM3hnTERKZ05SdHJKY3VyazI3cktxek9yTlRWNlI4UFMtZDhIbUZnbjV4Z1A3VjgzNFk5Zk95NF9NWTFzVUxtVWtoYXRNeTRTNVpqNEh4WEdLWUl1WHdJRV9IbmhB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-9503e8f0e90b",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Flying from the UAE today? Check these flight cancellations before you leave - Gulf News",
+   "time": "Tue, 18 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVljZHFRWUFXOXBJUzRIWlBxSHIyTFh0UlNuckFvd3ZDd0otdmptMzg4Y0hRSGpEYm9FTmxsVkRlZ25Dbk1nTGhJM21tRUk1cGlDaE9ab3FzSE9DYWtWMkg3ZEkyOV9Xbk1DdFJiMFhKTlJ3UW44TXlPUjd2NmJqV2ozc1ZYM3l2VExHcFVBaE90RkhkaFZFRjR2ODVRb2xVTmh6LURMWkdZa0ZoSmtZY2RKYzdjU24zNFhRQThjSDlYczd5dlVvbUtRY3B4T2xIcHkxbXRRU2ZfSG1WckNOR3F6OTlNT3M?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
