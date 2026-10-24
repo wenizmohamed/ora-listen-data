@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-10-24T11:17:38Z",
-  "total_verified": 265,
+  "generated_at": "2026-10-24T11:22:48Z",
+  "total_verified": 266,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 265,
+  "verified_mentions": 266,
   "sentiment": {
    "positive": 8,
-   "neutral": 231,
+   "neutral": 232,
    "negative": 26
   },
   "channels": {
-   "press": 259,
+   "press": 260,
    "official": 6
   },
   "negative_alerts": 26,
@@ -30,15 +32,15 @@
   },
   {
    "topic": "passport",
-   "count": 61
+   "count": 62
   },
   {
    "topic": "services",
-   "count": 42
+   "count": 43
   },
   {
    "topic": "flights",
-   "count": 32
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -50,7 +52,7 @@
   },
   {
    "topic": "passport services",
-   "count": 21
+   "count": 22
   },
   {
    "topic": "business",
@@ -227,13 +229,13 @@
    "engagement": null
   },
   {
-   "id": "bn-403e6aad66c9",
+   "id": "bn-c67946d7fa91",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc93d2b38849e98bfc886dfaccca0a&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc95083a2d41679eb99acfef496561&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
