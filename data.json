@@ -1,32 +1,34 @@
 {
  "meta": {
-  "generated_at": "2026-10-24T14:50:10Z",
+  "generated_at": "2026-10-24T14:55:20Z",
   "total_verified": 255,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 255,
   "sentiment": {
    "positive": 18,
-   "neutral": 215,
-   "negative": 22
+   "neutral": 216,
+   "negative": 21
   },
   "channels": {
    "press": 249,
    "official": 6
   },
-  "negative_alerts": 22,
+  "negative_alerts": 21,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 60
+   "count": 59
   },
   {
    "topic": "passport",
@@ -179,13 +181,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d9146d802a30",
+   "id": "bn-aacde1b767ad",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc5a2396a4e139728069ef3f7242e&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc6d888224a30b452bf16d3a0f896&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -383,6 +385,18 @@
    "engagement": null
   },
   {
+   "id": "gn-4d977509322b",
+   "channel": "press",
+   "author": "Hindustan Times",
+   "role": "press",
+   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
+   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-93c2f6cde8ab",
    "channel": "press",
    "author": "Khaleej Times",
@@ -419,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-19b60585d9a7",
+   "id": "bn-7d4d2dd7afa2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc5a2396a4e139728069ef3f7242e&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcc6d888224a30b452bf16d3a0f896&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -523,18 +537,6 @@
    "time": "Tue, 21 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPT3hnLWdaeEp4SHdDLWtIM1pCWC12a0sxd0UzYi1hVWlhSUUtdnNzYUFrWXJhTGJHWUE0ZUZSWnQ3QXVQbWFQUFhJYkM3N2JhYzd0M1lPVVNpOEYzX0hWQzNxM05YYjZqX1RVUUhqOWp3QUROaTROZE5zNFhHYlEzejRhcmhMY1lCNjZ5TnZaN21zcUNUaVUxUXJubXFzOU45M3hyYkJ1SEw5U2l4dUVkbWhwNVUtTmxkSWdFSjdkLXMycEFyTU1TQTh3MmJrSUI0em91S3FlMGdGdUFIeHM2cVBUMXp4clNjOGEzVGluUDk3SDJHdUZOOVBRd1hWWnlrOFpnMllBak5zUFhlSWMxb0JTXzdkQdIBmwJBVV95cUxNOFBHQ3B5R1JZei11VXoxcHl3TVFFWDM0MUtwd2FDS3YteTQ5WnRWS204SnFuV1NaUHNveGYwbkFzQWg2VXAtZW1lOFhKUE01Uy1PZHFqUUtJU0g0bGNLRHF3YU5WSTBTcjNhZ1k4aVV1VkR1UklSTXdMb1ZYcFBNS3NFTDNtZnhIN3NLYTBNWHlzaVcweTV3eGtVR05pSzUwb1lIblVWMWdsVHZGYkRHXzVQWVAxajhseGt3SjJIZDRLd1g0TC1VWEhraTFXWHR2TTFCaERGeDZCd1ROVUp3bFFHYjJfN0pQUjVqdC1mdk1heFVxUEZxYU4yREIwZElBVkpCV1ZyOG1TLWhWMU81TWVSYklUc3c4Vmlv?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-906956aceddc",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE flight status today: Saudi disruptions and full list of delays, cancellations - Gulf News",
-   "time": "Tue, 20 Oct 2026 07:17:55 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXJoME9Ic29uaThXRzZXZHdaUDNmazJ4OWVOcXhxVDN5dW1iaTFwd0g4RVJpNG1ORWhNdVFPSjU4Q1prT2stRjRBVzJEN2xrS3ZwYlhkVG1NVEE0MGJnMjB3S2R6Wi1feGl0MlBFM3hnTERKZ05SdHJKY3VyazI3cktxek9yTlRWNlI4UFMtZDhIbUZnbjV4Z1A3VjgzNFk5Zk95NF9NWTFzVUxtVWtoYXRNeTRTNVpqNEh4WEdLWUl1WHdJRV9IbmhB?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   }
