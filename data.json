@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-10-24T02:46:06Z",
+  "generated_at": "2026-10-24T02:51:16Z",
   "total_verified": 291,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 291,
   "sentiment": {
    "positive": 19,
-   "neutral": 244,
-   "negative": 28
+   "neutral": 245,
+   "negative": 27
   },
   "channels": {
    "press": 285,
    "official": 6
   },
-  "negative_alerts": 28,
+  "negative_alerts": 27,
   "handles_active": 2
  },
  "topics": [
@@ -34,7 +36,7 @@
   },
   {
    "topic": "services",
-   "count": 37
+   "count": 38
   },
   {
    "topic": "flydubai",
@@ -50,11 +52,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 24
+   "count": 25
   },
   {
    "topic": "khaleej",
-   "count": 24
+   "count": 25
   }
  ],
  "mentions": [
@@ -215,13 +217,13 @@
    "engagement": null
   },
   {
-   "id": "bn-2999feebb146",
+   "id": "bn-ba098dd22578",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1bef650e4ab0b6a39aa122ded8b7&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc1d2547a54a78b0e21081a39fb6bf&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
