@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generated_at": "2026-10-24T15:37:26Z",
+  "generated_at": "2026-10-24T15:43:01Z",
   "total_verified": 256,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
@@ -15,14 +15,14 @@
   "verified_mentions": 256,
   "sentiment": {
    "positive": 17,
-   "neutral": 218,
-   "negative": 21
+   "neutral": 219,
+   "negative": 20
   },
   "channels": {
    "press": 250,
    "official": 6
   },
-  "negative_alerts": 21,
+  "negative_alerts": 20,
   "handles_active": 2
  },
  "topics": [
@@ -36,7 +36,7 @@
   },
   {
    "topic": "flights",
-   "count": 48
+   "count": 47
   },
   {
    "topic": "services",
@@ -157,13 +157,13 @@
    "engagement": null
   },
   {
-   "id": "bn-042e93ae9b90",
+   "id": "bn-87af17016b97",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcd0b6d19949caa7015df4cd0d39a2&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcd205b12242d89db27bdb287ec85a&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -397,13 +397,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3563af13929d",
+   "id": "bn-fce624c66971",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata",
    "time": "Tue, 29 Sep 2026 22:00:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcd0b6d19949caa7015df4cd0d39a2&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcd205b12242d89db27bdb287ec85a&url=https%3a%2f%2fgulfnews.com%2fuae%2findian-consulate-in-dubai-invites-indian-expats-in-uae-for-youth-pravasi-bharatiya-divas-2027-in-kolkata-1.500692413&c=4564045053680455457&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
