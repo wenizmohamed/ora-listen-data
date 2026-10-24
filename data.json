@@ -1,36 +1,38 @@
 {
  "meta": {
-  "generated_at": "2026-10-24T09:03:04Z",
+  "generated_at": "2026-10-24T09:08:15Z",
   "total_verified": 291,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 291,
   "sentiment": {
    "positive": 19,
-   "neutral": 246,
-   "negative": 26
+   "neutral": 247,
+   "negative": 25
   },
   "channels": {
    "press": 285,
    "official": 6
   },
-  "negative_alerts": 26,
+  "negative_alerts": 25,
   "handles_active": 2
  },
  "topics": [
   {
-   "topic": "passport",
-   "count": 57
+   "topic": "gulf news",
+   "count": 56
   },
   {
-   "topic": "gulf news",
-   "count": 55
+   "topic": "passport",
+   "count": 56
   },
   {
    "topic": "services",
@@ -215,13 +217,13 @@
    "engagement": null
   },
   {
-   "id": "bn-eaff662cb2c7",
+   "id": "bn-83ad930d7011",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE shuts 4 consular service centres from October 22",
    "time": "Wed, 21 Oct 2026 08:37:54 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc7447781340dbb325d56324b9ada4&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc757eee2f46858c6108c85ad989ac&url=https%3a%2f%2fwww.msn.com%2fen-ae%2fnews%2fnational%2findian-embassy-in-uae-shuts-4-consular-service-centres-from-october-22%2far-AA2fKKMB&c=10806908765673237133&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
