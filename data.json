@@ -1,19 +1,21 @@
 {
  "meta": {
-  "generated_at": "2026-10-31T02:36:35Z",
+  "generated_at": "2026-10-31T02:41:44Z",
   "total_verified": 242,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 242,
   "sentiment": {
-   "positive": 18,
-   "neutral": 209,
+   "positive": 17,
+   "neutral": 210,
    "negative": 15
   },
   "channels": {
@@ -49,27 +51,15 @@
    "count": 26
   },
   {
-   "topic": "flydubai",
-   "count": 25
+   "topic": "machchhar",
+   "count": 24
   },
   {
-   "topic": "express",
+   "topic": "flydubai",
    "count": 24
   }
  ],
  "mentions": [
-  {
-   "id": "gn-1f9bfe586d97",
-   "channel": "press",
-   "author": "Yahoo News UK",
-   "role": "press",
-   "text": "Pilot wounded in Flydubai incident is ‘in good health’, Indian embassy in UAE reports - Yahoo News UK",
-   "time": "Wed, 30 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHBGaVZDUXkxbnk3dDBQRXIyMHk0UnVheFN0emlVaEJyaGsyN1BOQURUNTZwWTRwcHdOYkM5b2F1YXFmRFFyRkd2WFVfNjJNTFJWdDh3Z0h2dXJhcmNfWm82ZEM4cGNNOW1YdVhFa3JkVkxrR1VwSVdUVTZBU0hZRnpEZ0w?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
   {
    "id": "gn-a37990bab383",
    "channel": "press",
@@ -155,13 +145,13 @@
    "engagement": null
   },
   {
-   "id": "bn-9a0e5b0421c8",
+   "id": "bn-ce6baee0a246",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae554375183444e831a8b7ab1e7510a&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5556c3e9b42a49d60f9644c68ffc2&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -467,13 +457,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5256611ad9be",
+   "id": "bn-aab30d62e7fa",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae554375183444e831a8b7ab1e7510a&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5556c3e9b42a49d60f9644c68ffc2&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -535,6 +525,18 @@
    "time": "Tue, 27 Oct 2026 14:03:45 GMT",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWdqd0lvWjJnNjNUcU1ockV1OUpDUExNbXAxeG5oUHV4VEV1dnZEMS10eW5xS292Z0JLZjVHOG40LURJc3ZHR0UyNXZfc2xQUEctMGxGcDA4dFc2T1hHQjVveG1ROGxiSndQQ1B6Y0hWQjdnZldOT2hkMV9FVWlOZXBwYUdCS25wU1FYZXFaU1BVbGRFTmhWbTNkclpFV0U?oc=5",
    "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-23eb91b72a7b",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Indian Embassy closes four passport, visa service centres in UAE: Here’s where to go instead - Gulf Business",
+   "time": "Tue, 27 Oct 2026 13:17:33 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc084SlV0cExtNHRpeGtKODNEaUtvVG1jaWFEZ2xucE9McmFjck9rTTJqVmh3ODdVd3lmazNnMVNERFBCWE9fSUNrTDhaM1JEOGoycHlBbXZWT0RvZmVSTGNLWWd3UXpRSlQxZVhKVWVUOUwwdGN4eUc3bHdxWnlleVRxcWRWeGROYVFlV0lVOVIyTDlVMjZTNnh4UERoclVhdmgtN2RHVnpCYTFDVEN3LUhXWDhjSE13Y3BSc2tCTlRvUXdGbkRwckFn?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   }
