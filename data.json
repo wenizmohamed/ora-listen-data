@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-10-31T09:43:17Z",
-  "total_verified": 276,
+  "generated_at": "2026-10-31T09:48:26Z",
+  "total_verified": 295,
   "channels_live": [
    "official",
    "press"
@@ -12,51 +12,51 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 276,
+  "verified_mentions": 295,
   "sentiment": {
-   "positive": 10,
-   "neutral": 234,
-   "negative": 32
+   "positive": 17,
+   "neutral": 249,
+   "negative": 29
   },
   "channels": {
-   "press": 270,
+   "press": 289,
    "official": 6
   },
-  "negative_alerts": 32,
+  "negative_alerts": 29,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 73
+   "count": 64
   },
   {
    "topic": "passport",
-   "count": 56
+   "count": 54
   },
   {
    "topic": "flights",
    "count": 42
   },
   {
+   "topic": "flydubai",
+   "count": 34
+  },
+  {
    "topic": "services",
-   "count": 38
+   "count": 34
+  },
+  {
+   "topic": "machchhar",
+   "count": 25
   },
   {
    "topic": "khaleej times",
-   "count": 31
+   "count": 25
   },
   {
    "topic": "khaleej",
-   "count": 31
-  },
-  {
-   "topic": "advisory",
-   "count": 23
-  },
-  {
-   "topic": "business",
-   "count": 21
+   "count": 25
   }
  ],
  "mentions": [
@@ -68,18 +68,6 @@
    "text": "Indian Consulate in Dubai invites Indian expats in UAE for Youth Pravasi Bharatiya Divas 2027 in Kolkata - Gulf News",
    "time": "Wed, 30 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjh3RWFlTGtzbGpFUHN5ZjlWUFpXZWxkbmUtNWRQTlQ5dkJaU3lLNFFEVHdLT211d3JGWHNKdjR0QV9MWTBVRER0MVl1V25EbWltUXVrVUVaRFQ1aEdXM09zMzRENVF2ZkduQlFNQWpCeXJzb2FWbjR5UGRON1NManV4a0xMWlN4dlVtSjZUcTRiYW5Na2ZGS3FRd0h4QlZYLWR1cTFEbENKUHkyUk11b3ZfY0JYVzJzR1BVdXAwNldXWENuZE5JekpFUXdtTlNObm0yNnpXMTTSAegBQVVfeXFMTWx1OU1tY19CWGJPNmJiSkI5TlUxZGNrZGVIRXg5QkkyX3FuMXpLc1lwU2dsMnY5TkhjOGZQM1JiTExFVWtBOFQtamh6akdzNi1KcXM5QjVNWVhULXFhSVNZTEFDdW03SUFrUk4zM1FZMkQxNWxZWHJjbURGTUp1ZVJlSmRHcTRpeHZYX2l0TUxOaWN4TV9xRmdYdXA0cGxMeDVhV0otUkIybmdyZmplRllfS21kdDRKWGR6eVRRa2E3dUFFY3MxcE5McHk0Wjg3M0FvSU40dURadWFXaFY3enlGYXJOQmNBVA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-075dc92356de",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE: Indian Embassy announces Open House to address grievances of Indian expats - Gulf News",
-   "time": "Wed, 30 Apr 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm1EdG5BVWxpaUxfbGRkZFVNVU9CQWRTZ2ZZa1Noa1RZcmtNa3d1OTcxYW1NZWRQaDVheDJ4Ym1CWW16WEFJdFNDc3JzVzh4WkNIN0ZFbjFHeW92bGpJekVlVVFkUjdCMUxjZUVDVXVjYUV4TXQ3b0NxU25RYk52SVBDTzRqbGFneHFKTW9MbGdKQVFCWU8ybzlwNUJZTlQtRC1pamhjdEFZTmdvZTNBNHBUTnVxd9IBxgFBVV95cUxQaWJVTVhoeGhrU0NQTzVwcjNNOTFIeTc2bXhNVms1MW81LTdBR1VobV9QZFFCaHJEZEtydHhHUkZfYzh5Tjl0MzBMcjRYT0tqcElLVmpRWlotRHh3VDNrdXlWLV9mSS1EQ3gxVmxyMkx2N2hnelMwb1gxS1NOXzBtbTBDNDZPUkhJdVE2c0lFd01GY1NIZkUzTURxTzU4aWgxUDcxdkp6eVJUNi14Y2FHVjVISGJMQy1wNW5JdGtPeTdHM19NR2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -181,61 +169,37 @@
    "engagement": null
   },
   {
-   "id": "bn-e1ecaa5990ff",
+   "id": "bn-ebd9d8466277",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5b833b5b44b01acd72a0fe0065ee1&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5b96932824924bc6d0c3461525497&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-effcdb911ff1",
+   "id": "gn-a90552fa539d",
    "channel": "press",
-   "author": "DD India",
+   "author": "DD News",
    "role": "press",
-   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD India",
-   "time": "Wed, 28 Oct 2026 03:39:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjF0S3lYa0lqNUg1NDBxdk1BYUFmYUo0bVRuN05tWUhEM254ejBOS1dGQnNvZEN2enB1V0NkaVNrYk8zSm51aTlMZk8zWVFiSUxELVV0b0hZZ0d4a2dpMzhES01uUVVhb3pKRV9PVWM5SGlEMDNhaV9xTkl6bHRlZl85dHBYZTdiVll1VTU0T3hoOC12REFfN25ZOXl3cnR6cU5xLTJkYVd6Y2pZSE85RQ?oc=5",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
+   "time": "Wed, 28 Oct 2026 03:36:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-971f387d1060",
+   "id": "gn-d0e14cb50944",
    "channel": "press",
-   "author": "Mathrubhumi English",
+   "author": "India Shipping News",
    "role": "press",
-   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance - Mathrubhumi English",
-   "time": "Wed, 28 Oct 2026 03:34:15 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEVMMFNCa24wNXhST1k1dDlnMXdubkstanNZOUloUXAwZDZuMDlyd24zU1VWODBGbXpYeDgxcE1CVG1ZcHZ0MnFPYk5ZVHhBUWluYjZWQUVPZlN0NGdIZmpua05FYXQzUFVDRXFQemVET09HQzVndl9uVW1UUWhFM1VrbXphWkJlMkhtMUdmb0RXX2xqazlWR2VqVnFTZngxeTV5Q3pxVU5rakt4cDNqV0JYZkRxQUlsaE1wVdIBwgFBVV95cUxPNVM2T1ZrRmhUZlNuZ3FKU3lBNkV1ODV4UmRqRHZQd19kbFJUODJNR0lFX3dpYU9DYVdYbzh5Yl8wSEp3TlV3MWtZZjlVdHhPUGRNOUhnM292RkRROWZzdDhEZ1c4YkZrakxfeEd5Wko4ZFdzSmJvNlNPM3ZVU1lyVm94Wi16N1NJZVRoVXVfYWYxZ2NQcTZ3b2paTFd6UVJfRFFFaGdqcV9CWTFoWGlZSTZpQ2JpaGlRMFhBLUtpY0xaUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b531ccaa630a",
-   "channel": "press",
-   "author": "ANI News",
-   "role": "press",
-   "text": "Indian nationals travelling to UAE advised to take adequate medical insurance with repatriation cover - ANI News",
-   "time": "Wed, 28 Oct 2026 00:06:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUlvZ19tUm94aXB3M0NQbi1oS01IMjZMRlVuV3IzWDRKLXhzam80bXpGWklhMGd5WHpOcWcxMGFTajFRdFFsbzB4RFluVWdJZmVmN1k5YkkwRUJzaDBzbXRsbDJNWTF0UzlWM1RMNWtGbjdrYTBSUm9xcFV2eVpTelVvb0lRVjdZQVRxRDVWZkNtazM1SEVobDJYZGYtQlVNLUxYdHhueTlycEtya1BUaE5CLWw2eGU1dTRNSWhhTGlFOWJwRzdoNWNoaW9UY211NkdoNWNzUkJ3NnZpUWQ4TjRVanZfUDdEOU9oQUJ4R1B0dnc?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-2d4fbfafc58c",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "UAE Honours Indian Embassy, Consulate at MoFA Excellence Awards - News On AIR",
-   "time": "Wed, 27 May 2026 22:37:35 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
+   "text": "Seven stranded Indian seafarers repatriated from MV Sea Star 2 in Abu Dhabi, says Indian Embassy in UAE - India Shipping News",
+   "time": "Wed, 26 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbTROdE5DeHdlYTZ5XzdxcEY4ZDFaa3JwUG1Ec3pxZlZNczR6OTZKSmhYWGJzRmtjaDdtakJfdG9hM0Q3cFFXdksxbVFXLW9BTDFsanUxRE5XZEhkZDJhRTVRRld4OUMyNkRtQ1M2M0xaS1FtTVk2TEowcG9iM3BUUjFTZXc3UC01azVhaEFZQ2tSSVBiOC1vclE4azhEdG4zcEtiTFpXUG1BMVowU2IyWUtCVG15NkIzRzVSOXRaZUFlVnVDTkNzaVJkLU4yOUtyUlJMLTVvVEhIQQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -385,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-ed476f63dd8d",
+   "channel": "press",
+   "author": "Firstpost",
+   "role": "press",
+   "text": "Indians helped build the UAE; now they are helping shape its future - Firstpost",
+   "time": "Wed, 14 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajZpS1E3anRoX0g0bUI1eE5SR1NOMkZFaUNEeDR0VU9yOV9FR2s0MVphQkpubFJVMzFQNGlERnB1Q05jcWU3eGtRS2lJT1VzVHJrelRIeG9pY01LWkUxOVdfSDBvcEZtZGxLYTZjbW0wZElfR3RCd1lQdXliT1ExQmVFQnFOR25GaHhNYWNPb2h0ZGJKaC1LVUVBVWxtVV9lSnBjQTZRZGVEUWFMM3kyaFk5NkvSAboBQVVfeXFMUG1xSjIzR00xdy1ZUjFMaVFvWFFaZDBwYjBnSFBVUmRvQUE3aFYwUGVVZVlzbzVEQ2RwMTdZSm1iU0xEcFh3WDB3SER0WTB0MjZjMW1FSXZ3bi1iNnh6bjNCWmxEMVNudWxvSmQtSE84Mm5fOTVVZEJ5MEZ4WkRCYzZMRjZiYUNJeGdXNW1HdWl4bkM5dmdHT0o0X19IcFdWWUJDWW1BNmRxTDNsZmhIY0FSNGx4NFBmWXVB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-4c3dcc69ff12",
    "channel": "press",
    "author": "The Economic Times",
@@ -429,6 +405,30 @@
    "time": "Wed, 10 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXp5NWF2cDBGMnlNc2hSNVRhMHBBR1ljNlAzMXZQYkJpOFdzN3NUelBRTnRDR3pwQ1JWZHdadW1FYUxmOFFwX3BsWFpGM3ptb3RiMC1FNTFlenpCWHVlYTlBNzQ1eE4xa1NYRXZ4ZG1QZzVYNWl3SmxaSERmQjdQNjZyZC1TRmg2M01lbHVzTk4wWU1ZVUFEWUNGYWhObnZrX011TUpRWVZaWFZZSTM4Qw?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ccd74692468c",
+   "channel": "press",
+   "author": "India News Network",
+   "role": "press",
+   "text": "Indian Embassy Reports Positive Health Update for Flydubai Pilot - India News Network",
+   "time": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1lMUVQa2YtZmw4bkh0TzQ3UUlzSW1CaDk4UlgzTVNhYmR4LTdWN1FNRWhYdE5rOVVDcy1McVVRTzgtdm4ybVdMamJoT25vclk4cXFWNzlQR3FRNWIzUTFvVmNiSC1pMEwwR013VlpSUkx1MlU2NWt6ajN0bV85UEtFSDdCYXpmcmdLMU9CWC0wbEJzU3dSU25CYmZzdE5LUURMNHRnZ0Q?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-797a7519e954",
+   "channel": "press",
+   "author": "Telangana Today",
+   "role": "press",
+   "text": "Captain Smit Machchhar showing steady health improvement: MEA - Telangana Today",
+   "time": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEhRNkV6NFBVRUdIZU04SzFUWHR6NURWWi1rTlV5UGhnNXJ5Q0MxellrQW05SlNkT2Q0XzZrUUxEaHFKQnRERTNQTVg3SDE5d3RHMWc5ZDlyMk40ZDNCd3NSc2RtajluVXlGNllCd2ZXa29VVEtpUDNCeVc3SEJpeUNaeDNiTEdtcWVHQkNnTVQ?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -555,6 +555,30 @@
    "engagement": null
   },
   {
+   "id": "gn-ae388fb1fe75",
+   "channel": "press",
+   "author": "The New Indian Express",
+   "role": "press",
+   "text": "Pilot Machchhar 'recovering well' after attack on FlyDubai flight, says Indian Embassy - The New Indian Express",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2s4WGwyd3ZlYXhxV1VqUXdMRnp2c1o2ek55V0xBSFpLa2htNV9mRHViTjJfMndWT2JmTEF0VHFPeXpTR09ja0hPVTNkbEh5VnNmRHlCVnpJMHhwM3lvZnNZejNwSDdCTm96dk40eXo2RGp1NjJ2d2s2OW5XOEFXN2dET2trLXRDcFUxUUVUY2RlLTdHenVSTE9kOXRCb3E1VF8tU2xRTUd5akZMZjkwQm53a2FiUk9WOXJHTm81RGt4cFdGQmdfQzNLZVItc0XSAdwBQVVfeXFMTTVhR3JZclltUThSX0R2NnpBMzc3RHRUOVBTbG83OUxWTk9KSHREN0Fycnh1bG1EU1FQeGFzaDRZNUUteU9uei0zRl9wY0hKSWx0aGJ4d1JlY1lMOGVXamthcnlmcHBielFwRkZjR0ZvRzVlcFI3ZlFEZjA4ZnQ2eS1yQXdOZ1lxQXlNQ2ZUeXktdEJOLS1NYzNDUkNnQjU5R1lEcGtQRU53d1p2SnFuQnVObU15eUhmS1N5VU1XbGZLTXlxQ21Gd0duVVduZGFxanluVEZWeURGZG9hcg?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e4950185355c",
+   "channel": "press",
+   "author": "The National",
+   "role": "press",
+   "text": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy says - The National",
+   "time": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXd2WW9XR1VWM0NOdzUxN1RBZ2ZXcTJyd2NaYnFtbkdhRGwwNl92NEJKbnlLaW5MdE54Mi1iVm9HVzdkc204cE5KbTRxcEhSLXZieXE4QTRIYko4dnRYajdoMVg0dlZCMG1pQWVtSXRMbEduOGhBYlhRcWw1QmNSa3poRnljSEg4cEk0elhVY0JpYUJ5ckxZWjZ1aWNJdW1rYXh3RE9OY1pQb2JKb3lXeDBvSWF4RU5ucG9IZnRlZnpXTnBPcjNwM0g2X2tfdUo0eU4yNGt0MHIyeVp0a21j?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-a37990bab383",
    "channel": "press",
    "author": "Goodreturns",
@@ -567,85 +591,25 @@
    "engagement": null
   },
   {
-   "id": "gn-875abf8eead0",
+   "id": "gn-cac995f4dbc3",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "India Today",
    "role": "press",
-   "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
-   "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "text": "Indian pilot Smit Machchhar shows steady recovery after flydubai cockpit attack - India Today",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGRNY2RxWmd0cFVLclpfRS1KRHRfSEwzX2s1ZUt6ejdHX1A0SFU4OUFGN1NzVFpBZFhXQlNxVUNQd0EyNWpYTjYzbFdWSEZBX2x3Tmd4ejdqakdyWndyY3BtRV9haGZ0SGU5TVY5eXE3cUVGR3V1dWREVVFxMWsySUZtbnRYdnVBUll1NC0xb1k0OGY3Sllkejk5MXRQdmFpdnZiX1JOc1hzd2FXVWttWDFIdFF6QUZZTFhHeHd5ZFMxcGlVN3NTWA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-1ae569cd81ec",
+   "id": "gn-f91ed934c85c",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "The Tribune",
    "role": "press",
-   "text": "Indian passport services in UAE hit by delay amid contract battle in Delhi courts - Khaleej Times",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWElrSTBtWUlsTWYwQXFXTWc5YmpPNWY0bTVEZDNnakliWkQ5RXJxWnpVeUhoWkxVc0FRTFo0Y0JfWUEyNnBLb2lSbUQtRm1xSlR2cGYyRzR6V3JVRFpmdThOR0NTdEM1d253M0IzWC1sanZqOGtaYWJvV3Y5Wkg1N3pQZDlQT0wtM2xycFhQXzJVblcxTEZOT2Z1MnNGQlFoTjJZOEdkUGMyYXB30gG0AUFVX3lxTFB2YXI5Y29YNmtwNGh0NmVINWNfR2pHZ3VDMURHX0tYci1vNVdnQVdJWVBuMnZzQWhZeTB5N0d5X1lXMXpMU21xeERoWE91NkhXeGhIeDJkbkZhUHN6SkhnSko2QTdyS2w5VXBHeXg5UVhLZzRLMUZiRF9pOVl2RS1oeU9uSTY0VkllUjNkNE5TMWZ2WlJKeDBkdkR4VjZXT3dudWQ5SkE0QWlyUmlpTnkyODdGUA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-9925dba38f11",
-   "channel": "press",
-   "author": "Times of Oman",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - Times of Oman",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGd3TlI2Wmh0NDFWZmR1NmhMd19SV0J2SUs3ZzlCTFJYWVFvSW1uLVp3c0lRdTdDYzNKUzhmamNpM3pyVkw5U3p6Yi1QSkUwTFVaSmVpLWdPeFlydG92X3Z3YUg3YWozSTJPek9NdEtOWTQtQWQ1UUhuTy1CWmhTZ0dEQ0F1QnA2aVJFVXZhbU1FLWgtRnJIZUhiQzEwU3Y5UU4yYVNoU3IzN0duNkYxVUFLRXBrQQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a52754f1ddfd",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
-   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1c60f8097ce1",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
-   "time": "Thu, 18 Sep 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7a30569518c9",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "NRI alert: Indian Embassy in Abu Dhabi clarifies passport renewal services for Indian expats in UAE - Gulf News",
-   "time": "Sun, 19 Jan 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDlsU3E4blNISGlaay0wcGRGN040ZVlmS1B4Vk5yempIbXFfWnVoNDZuNnN4WkkzNHIwYjZzMWV2RDhOWW9sdV9sUzJ3YTZXdUpvNHhHd0MwZV9IRzNOY1dOTnZXb3VMRnJWdHlaQXlUQktYSndOME5RdFBDWUF4NEtZWGk4Y184Z1ZZN0d4Z0xzaDNFRUtiR015cWJGeFdic2U0X1lQRFF6WkNNbHNVdTY1NUR6dWw0OTZpaFRIazJMR0Z0eDBtVURqYkQ0R19p?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-bfc3e02a337a",
-   "channel": "press",
-   "author": "Dubai Eye 103.8",
-   "role": "press",
-   "text": "Embassy issued this alert to Indian expats in UAE - Dubai Eye 103.8",
-   "time": "Thu, 09 May 2019 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC1wLXJXLXc1QS1YbGhZR1JzZWtScjhLd2pmaC1pcVVpVmtWbEpTUzlGcE1ScGZJOVYxbTNVdTdFZlR4Q00xNWFTWklKYm13dVBXOC1kUWVVRFVuZE5UcFhJcC1jdW1sOXlpM1RRUjNpWmpOS0EwUm0wN3VPdUozY2N2bXJ4WDBfVW5kNkFMSkRhUGoyQ1AyNGNn?oc=5",
+   "text": "Closely monitoring situation: Indian Embassy in UAE condoles sailors death in Hormuz tanker attack - The Tribune",
+   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0tfZ3lDUWV4RWdueFZTUkxQWm1UN1RSY3FYUnFKYjNGNGhpU0JpVFBLbEtES1RxLW1CVjRXNUFsSk9pdzN5a3BkbWlrclp2T21xdTRnYko1enk3SnFyOVhDcDY4VWlYSVNCckRab3hMOGpWZFR0dWtVNHVfTFNtMEFLREV1NEZfVHg2MXhQWUtPVDN5c3pUQk9MQ3FWZlJxRlIyWTYyOG5TSE1rQWZ0eEd3T1FZQzFFU0dSMVFta21JYk4zTkRsZGRnR3JtWkxvMlpzedIB2AFBVV95cUxQRFNrUl9xaEZDUERIaGs4OWg0WjdiSjNIRU9wcExvdjlOTUc4dFNnVTZlSXFjS3h1bjJsWndBLW1adkZ3dmQ3dzVEdjltMDNDUVM5Yjl2QTg0dDNSb2xaNVFmaUlCWTBSZEV6a2FYdEVpb0haNXRwNFN1TFV0WE5QVmtDaUh1N2NPdGxxb19iOS16OHhuTGkxNXBoMFNUWkJGbGt0Qk5UajFyOXN3VEFsSS12LU9VaHFVMXFBOFNyVkRTTnAtN0RXTEN5MVFvNHlJb1VVSTBBams?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -658,6 +622,42 @@
    "text": "Indian missions in UAE issue advisory for expats and visitors - Gulf News",
    "time": "Tue, 27 Oct 2026 14:03:45 GMT",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWdqd0lvWjJnNjNUcU1ockV1OUpDUExNbXAxeG5oUHV4VEV1dnZEMS10eW5xS292Z0JLZjVHOG40LURJc3ZHR0UyNXZfc2xQUEctMGxGcDA4dFc2T1hHQjVveG1ROGxiSndQQ1B6Y0hWQjdnZldOT2hkMV9FVWlOZXBwYUdCS25wU1FYZXFaU1BVbGRFTmhWbTNkclpFV0U?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-175d03bd3594",
+   "channel": "press",
+   "author": "Deccan Herald",
+   "role": "press",
+   "text": "All 22 Indian crew rescued after incident off UAE coast; MEA condemns attack on Saudi airport - Deccan Herald",
+   "time": "Sun, 11 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzhaYlE5MjFwS0p2dFlFSW9fRE51RXJhTzhOUEtWZERVdGtlaUxmVDdYNGJsYXJhc2FUZnBJczQ4S2dRZW1PVzdobXoxMVpJd3JHX041YXA5aTNvRUFHQzdpc1ptSVRHZkJPaTZ0UlFJdHJIUkVVQUdzSlRzWllHNW55cGlMZ3ZpS0RZai1XZzZqMmxScE1RT2ZpV1N5QkoxSHd6SmF1Q2dGTHF2bHlydUVuR2x3LS1RUVE1UE1BelZ2ajRzZnpRWXB3b09mQTZO?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-655d25b126f1",
+   "channel": "press",
+   "author": "WorldCargo News",
+   "role": "press",
+   "text": "Indian seafarer confirmed dead after attack on container ship in Strait of Hormuz - WorldCargo News",
+   "time": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWpQMWJ2UGFDRWZQR1kyVkJVSXZkWlc4X180ZGhXTkhZemxpeXk0bEhRNXVFR1F6bUdETnVTS0VsUkkwMFljY005MmlISGRaeFZqdi1zNFhTdzE4aHQxX2NBVGJiWms0U3hsMHByU3N2YmZSUm5rcndDRGVKaGVzUWxvTlFXV0tKeW4xZ2c2MFYtN2lSNXh6Z0p1M1RjUDJFMmpaVFJPTlAzYXc3V3paUi04QUFKMFBTVVlXNV93N2RlaXQ4?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ba25d16cbe59",
+   "channel": "press",
+   "author": "The American Bazaar",
+   "role": "press",
+   "text": "Smit Machchhar: Indian pilot called a ‘hero’ after FlyDubai attack; sparks Neerja Bhanot comparisons - The American Bazaar",
+   "time": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZWeXVDazc2dkZVVExEYTVKQVBqdG0zWlpnd1BuUHZVaVhHc19uRG83ZHd4b1FnZ016YkVGN0c2eTF5VGRoSk9iMDNPZ2ZrUmgxYTFZM09TV1c5eWhWOHVIQU5FcUk3LWtocXZhV2R0YkN1RjdOMlBWZ1ptcjFtY1ZxbmpsR21hMmFqS1RQdjBJNDIyMHp4cHFFT0s0MEZIeHc?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
