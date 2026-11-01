@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-01T12:56:30Z",
-  "total_verified": 243,
+  "generated_at": "2026-11-01T13:01:40Z",
+  "total_verified": 242,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 243,
+  "verified_mentions": 242,
   "sentiment": {
    "positive": 14,
-   "neutral": 213,
+   "neutral": 212,
    "negative": 16
   },
   "channels": {
-   "press": 237,
+   "press": 236,
    "official": 6
   },
   "negative_alerts": 16,
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-95b32e31a30a",
+   "id": "bn-ededf4685de1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae736faeeba4ce6a19c931c1c1aa6e2&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae738308f9445cd96805ba602cff2a6&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -431,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-db6aa55afdd1",
+   "id": "bn-cd354411429c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae736faeeba4ce6a19c931c1c1aa6e2&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae738308f9445cd96805ba602cff2a6&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
