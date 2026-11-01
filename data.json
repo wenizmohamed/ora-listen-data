@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-01T10:26:32Z",
-  "total_verified": 243,
+  "generated_at": "2026-11-01T10:31:41Z",
+  "total_verified": 242,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 243,
+  "verified_mentions": 242,
   "sentiment": {
    "positive": 14,
-   "neutral": 215,
+   "neutral": 214,
    "negative": 14
   },
   "channels": {
-   "press": 237,
+   "press": 236,
    "official": 6
   },
   "negative_alerts": 14,
@@ -26,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 88
+   "count": 89
   },
   {
    "topic": "flights",
@@ -131,13 +133,13 @@
    "engagement": null
   },
   {
-   "id": "bn-1a14180abec3",
+   "id": "bn-72bd53a5800a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae713d4943e4352898c899c35ebcf2c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7150a8bdf4efd82b779c99a491181&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -347,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-0747d26b4706",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Want to work with Indian Consulate in Dubai for over Dh8,500 salary? Here is a job vacancy - Gulf News",
+   "time": "Wed, 03 Mar 2021 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWFRxUkNUMWNoR050b18xT01kVUVDbnZQdXVtYXpTODVPdF9PYjZBQlg0ZXJUYTZzUjV0Q1RvaGU4SGVxSWFNOWZjUmZkbVF5a0dsTW52VU81alFTVnlSUl81U3pXQi13T1FYZnozcU4zUG8zVUttQjhhdXJ3VHV0RUJqWEtxSE9YaXYzNVBJTm1wb25ndDcwYlJfMzVUaW5FSFU3c3lpTW1KX2dwOHlkRjh3Q1lsZWZhQ2ROdW9vTC00UdIB0gFBVV95cUxQU1VidU5yMHNnYmNuY09oWXNCQ05BUHdxeVo2TzF0SjVVazl0VmVxVkZXeGdWVjdXWEswQlQ0Vk1femJZcnlTbUh4dHlPZXV3ajE5SGRTX2VIZXlNMGtvWXphRU5FN3ExWGsyV0phVFZBLWVnWld2Ri1MWUVHcTc1X2JwWkNxLXlwYkJ3dUEwTzZpQzc0RUo1bXZGTlpVZGVJMDY1RUNkM1hicGIwY1JvVzdHRmp3dDZ5VXh2TG1XeS0zQUlsZnVjZmVseVowZDlVenc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-c9f09a0a23ec",
    "channel": "press",
    "author": "Khaleej Times",
@@ -443,13 +457,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e845feaad0ff",
+   "id": "bn-d9f3fc373233",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae713d4943e4352898c899c35ebcf2c&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7150a8bdf4efd82b779c99a491181&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -522,18 +536,6 @@
    "text": "Indian Embassy closes four passport, visa service centres in UAE: Here’s where to go instead - Gulf Business",
    "time": "Tue, 27 Oct 2026 13:17:33 GMT",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc084SlV0cExtNHRpeGtKODNEaUtvVG1jaWFEZ2xucE9McmFjck9rTTJqVmh3ODdVd3lmazNnMVNERFBCWE9fSUNrTDhaM1JEOGoycHlBbXZWT0RvZmVSTGNLWWd3UXpRSlQxZVhKVWVUOUwwdGN4eUc3bHdxWnlleVRxcWRWeGROYVFlV0lVOVIyTDlVMjZTNnh4UERoclVhdmgtN2RHVnpCYTFDVEN3LUhXWDhjSE13Y3BSc2tCTlRvUXdGbkRwckFn?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b06af4bc5fbc",
-   "channel": "press",
-   "author": "IndianEagle",
-   "role": "press",
-   "text": "Mangaluru to Ras Al Khaimah Direct Flights: Schedule & Timings - IndianEagle",
-   "time": "Tue, 27 Oct 2026 07:50:58 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGpPbW1lMUpRY0RaX0pkRzRYdTJGZmJKZnFpWDRreFJMZzlRczNZNlRyR2RQbk5obUpKd2RMdE11Q0N6S2R2dlp0ZWMzM1dqMjlFU2lkOFZLMXp4VTRfcTNuLUExUFhtQ2RDRkhZdkJCMnh6aDd1Z2NmWjVBNUNBWVJuYTdYUTh4QmU1UkNnYm01SE9acmFDY2xZWmNRUTA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
