@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-02T19:15:39Z",
-  "total_verified": 282,
+  "generated_at": "2026-11-02T19:20:49Z",
+  "total_verified": 281,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 282,
+  "verified_mentions": 281,
   "sentiment": {
    "positive": 8,
-   "neutral": 240,
+   "neutral": 239,
    "negative": 34
   },
   "channels": {
-   "press": 276,
+   "press": 275,
    "official": 6
   },
   "negative_alerts": 34,
@@ -30,7 +32,7 @@
   },
   {
    "topic": "passport",
-   "count": 59
+   "count": 58
   },
   {
    "topic": "flights",
@@ -131,13 +133,13 @@
    "engagement": null
   },
   {
-   "id": "bn-1e4cace36ee3",
+   "id": "bn-92acdb6e7879",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8e1583b1845b0818e3b0458565cbc&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8e28e8bb348488401d47352083fa5&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,13 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-25e52291e066",
+   "id": "gn-bd96955b9812",
    "channel": "press",
-   "author": "Bing News",
+   "author": "Gulf News",
    "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8e1583b1845b0818e3b0458565cbc&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
