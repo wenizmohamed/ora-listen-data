@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-02T17:16:31Z",
-  "total_verified": 266,
+  "generated_at": "2026-11-02T17:21:42Z",
+  "total_verified": 265,
   "channels_live": [
    "official",
    "press"
@@ -12,38 +12,38 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 266,
+  "verified_mentions": 265,
   "sentiment": {
    "positive": 14,
-   "neutral": 228,
-   "negative": 24
+   "neutral": 226,
+   "negative": 25
   },
   "channels": {
-   "press": 260,
+   "press": 259,
    "official": 6
   },
-  "negative_alerts": 24,
+  "negative_alerts": 25,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 72
+   "count": 70
   },
   {
    "topic": "passport",
-   "count": 52
+   "count": 49
   },
   {
    "topic": "flights",
-   "count": 47
-  },
-  {
-   "topic": "services",
-   "count": 30
+   "count": 42
   },
   {
    "topic": "flydubai",
+   "count": 29
+  },
+  {
+   "topic": "services",
    "count": 28
   },
   {
@@ -56,7 +56,7 @@
   },
   {
    "topic": "business",
-   "count": 22
+   "count": 23
   }
  ],
  "mentions": [
@@ -121,13 +121,13 @@
    "engagement": null
   },
   {
-   "id": "bn-fdc630b862ca",
+   "id": "bn-35659dbedb8b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c56d98a047f6b029e48a9635e1a7&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c6a4b6e74fa4930c47fcb9cd37e5&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -200,6 +200,18 @@
    "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-374c42a97c8c",
+   "channel": "press",
+   "author": "Time Out Dubai",
+   "role": "press",
+   "text": "Dubai visa rules have changed: 8 major updates you need to know in 2026 - Time Out Dubai",
+   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3BZdmdTRUZVZjZOUkNqeGUtVVo3bDR0OHUtczhBQXktZl81dVdIR3B2OU5QeHd5eGFyU1BMWWdxeEo4VDJ4ZVlhWldHT08zMHpTdUlTSV9xb2FrbDF0VDBaUW9saFgxLVhJT3FVMlhNM2d0T3Z4MDlNWTE2eFVhbQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -325,18 +337,6 @@
    "engagement": null
   },
   {
-   "id": "gn-38b758c44d74",
-   "channel": "press",
-   "author": "Travel and Leisure Asia",
-   "role": "press",
-   "text": "The UAE Has Reopened Its Airspace: Here’s What That Means For Travellers - Travel and Leisure Asia",
-   "time": "Wed, 06 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDZNaWZWU3ZJUUtJdTJ0RndPY3JydmR3NU9zRm9ORldLclduVEFsM29EcnFlQmZveXMzaktTZHpKZ0xFMWF3VTA2MTVNQ1kydFpjN1dfSHlmSHQ1Q2dINmgwUHo3WUpqZ05Sc3BBV0cyYVVGQWlwM1pQazFzWnpDSzMzYzVLcFIxeUJTM0VRei1WUGRsamFaY1BoeEg2OGM4RGFhdWZIcUVYR1d0aUNwUnFEY0lrYmZTOFJNQXFKSFN0OUpfT0tVcjR30gHPAUFVX3lxTE1ENVlpLTR4UFRubm5sNVFvb0h2NVozMjFzYktyS3FtZTB1ZHF0UFVPUVl2dEdrR2QtN1AzN1VzTHhfS0NKSkV1UERsaEhGM2VlcXktREF5SWxPUWlHWll3UFhVRjZKcjVRVHNkM1ZJWXpGNlBzUnc2eUFsdDhkRkxpd1p4WEdsRmVMc3FZcXlka3hleGlSVjhaNkllMFlIT3NBR1ZQRU5tdnEzaUhtd2JjS1MtR1ZQNkNnaFY0NFRMR3pPY0xQbnY4OTM3UU04UQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f448775ba783",
    "channel": "press",
    "author": "Khaleej Times",
@@ -373,6 +373,18 @@
    "engagement": null
   },
   {
+   "id": "gn-f8cc1afb443c",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - Gulf Business",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmViaEVTSEFWSG9kWEVIYU03S29YVk56YjZDdGdYNnhQQlBvckpnTzF5Zllodnc1SEpQd0hGUXlTQk9LWHNtcjRpRFZMTHV6cjhNS0RPVVRMVkIyMG1TaG5MZEoxX1BhN2w2U2JhMktDUnlOU2s2TkdwR3oycU1rQmFmLXh2dWJTU0VXQjJwdVp5dDVsaU5SOEwtakgtd2FjTVd5V0pBeXVXQW5sY1FReg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-0747d26b4706",
    "channel": "press",
    "author": "Gulf News",
@@ -392,6 +404,18 @@
    "text": "UAE jobs: Indian consulate Dubai lists opening, Dh8,500 salary - Khaleej Times",
    "time": "Wed, 03 Mar 2021 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RlZU5LNUFlcjdqbU9IT21KUTBIWXZyQTlGV3RKdEJJRHVVeUFVT2xXdnl1NThpc1VucWV4QkQ3NDlkV1g2WEh1dDdIQVF5dEtsNUJEcHdoOHViNHN5S2cwNjI5dGZ3d0RwRWgtbGZQT20wVXlkYk5ScXBLRVI3b19kR2MwMXQ1MkI3RkItUk9UUF8wemc00gGfAUFVX3lxTFBWeFdrTlBiX25FamxpMlVSTFoxRFhtTUhfWG0tT1hDS29qRy1vR0k2UUFBX2FxeEZDcnNFRUdROXpYVHJQbFp1R21iU3hOWEp0VE5MVlRqQjlpX3RoZ3JYblFOaWxwc2w3X2ktaDNXLThtYzAtSDBzV3ZFRkRLRzdqT3RPeVBWZjNzMFl2eUVlWXRMa25DS2Rpc2dfYlY1aw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4d977509322b",
+   "channel": "press",
+   "author": "Hindustan Times",
+   "role": "press",
+   "text": "Planning a UAE trip? Indians with these visas or residence permits may qualify for visa on arrival | Hindustan Times - Hindustan Times",
+   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZENhQ1ktOGVZSmVKMktTVnAyellVNVlBYmpONXhIN0RFN25VbUFIU2JqNUlWYVR2OUxMczNLZ0k3dDNITnVYeW85d292ZUIxUGJqUlJRazhWYXpLbFpwblczSzhYUWRSelFsNkpaenh0TjdMYUFsRlJpSHRubHNaR2RXZFNacHk3Q2RPVGlHZXJNS2ZvWjc3bl9Lb1h4a3ZSaE9hOHBtclNMc3dfNjN6cjRFalFmaWhhS3U0UXR6RVlmNGZaczFzOWVmTHJNYkhLYnBWOFNGVHphb3c5VjZZSkNhbEhBaGNQ0gHuAUFVX3lxTE5IYXBZYm0xVmlaTWVXZ0pKLXhwX1pITzBoemZObXVvLU1kUHFJQ0p2S1VkaFhqMFlobmlzdzJHU2w5QnhEOXBuQXpYSzZzZlR0RXAtN0hubkZPdjZpZVVmbWlkdWxET3dGY3VwWEwxdTgwcFYwYndTb2dCckpYVjl6elZ3M19USlA3V0dZUm9uNXBaQmN0OEpHWGYxOExfNnZlUFdxVm1ndXFDRTFoVGJMcHIza2FaeXFnY29qWjdRQmowRl8zLXNsRV81RmVkM2drRUViTTB0dURFbXdVa3pib2lmMVRBY1lrQ3BoQVE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -428,18 +452,6 @@
    "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
    "time": "Wed, 01 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-a30489a377f6",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c56d98a047f6b029e48a9635e1a7&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -505,13 +517,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0c0c9d1d01bb",
+   "id": "bn-f3abc4b9b983",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c56d98a047f6b029e48a9635e1a7&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8c6a4b6e74fa4930c47fcb9cd37e5&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Travelling to UAE? Indian embassy advises tourists to secure medical insurance before departure - Business Today",
    "time": "Tue, 27 Oct 2026 20:20:04 GMT",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGxISjZ3MENPaWtTa2k1TmF0VWw4SDl3aVVzNHEtUGJXUEdxSEVDdl9tQlNQdXoxaU9Sekduc2o2a3hwRlllUDY3MWNPZ29sRld5dHk2OExkcTFtOUdpeVJkUG5tVEc5WTVKMDdTc05aOHJoUU5SMUQ5WTdHR2Z1RjRkeVl6U1pfeDdJZ3NvMVFDb1lnNjlnY014T2V4aVBwLXJQd1JIM24wd0dLSUNsUTJYbzYzajZ3X1FkX0J2bTRHaXBGTVhWLWw2SHdtMDktMXdVMkw0aHVWRkVXQzE4YnctV1lPd9IB6wFBVV95cUxNZnY2UGRXM1VBcnJXZDAxbFNzdXFJbVl2WmF6bU8zZFppLXFuY0J5NUtZNl9sSmk2TUpDaWZVVFRzdDJyVGFaWUJad2JvNE5RWUNVc2E3TV9LZXZHX0x3OC0ybG1oZks5el9MRGRwWXh3N3ZlQmZPVHQ0N0JMQng5Q2JtSG9Ha1d4QnNaQ0Q3dDQ4TndlY0tka2ZpcVJEay0xOGRyelZYX3JoVkRVYnNud1hlZENNMC1fQzBTbTRDYTJnMk5tWnZObS0wU3I5T05kdTJkZGh3LUJLV0xoenZvN2dBaEE3UTgyR0tB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-0df24ebd1da6",
-   "channel": "press",
-   "author": "The Economic Times",
-   "role": "press",
-   "text": "India advises its nationals travelling to UAE to take adequate medical insurance - The Economic Times",
-   "time": "Tue, 27 Oct 2026 16:28:32 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEhhdW9WOEhfbXpXMmRWVnc4Q0pXdDdqcmJrVW5XUDlVUUtoX0p1UE9jbTdpMDFrU2tsRk5RWnRaZHNkN2xfZG1XWHZWT3AxbFNla25CNmV4X3hKeWNUUkxXS3hoelhnYTQ2c3Y4NDBQcGhFUW1oZ1luOXFoSXZiNFg5UGRuSGl1cVZILUNmRmU2ZVVobDQ2am5fT3YzQWVHTjJ1ZTNBa0hmY1k0dW1Ea2FpdVduRGNrTHMtazZadVE0emtoYWF6VklRd2UxcXNZSUZ3ZU5URDNsZm9VZjNmYi01R2FQUG0w0gHuAUFVX3lxTE5lR0I0WDJyb0xPWmhDMzdLeloycXNxeXI5eEtvYTFra3ZtaFl6Wm9jRUV5UzgtQ25Xcl9lVmdfZEZSV01tWlFoZjRSYzlMVjJOUHd4QXZORXNrTnJpVmRsMXFrY2g1VkdZRWVNZGZkTXB5aUd6MnpLMFFxZEFCRDBuMV95X25ONUp6SU8zYk9qS0pqd2FPX1R1SHlNODcwdUtHcXRhOEwzZTdFckVnRUJockVlQUFzaDVjTWh6bERpMzQ5MVQwaGdDUzZBY2c5OXVlMlg5OWRUUVNUUDZnNUVjSlNJcUlGNjRhU21Ha3c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
