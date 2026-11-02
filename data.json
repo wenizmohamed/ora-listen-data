@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-02T12:21:35Z",
+  "generated_at": "2026-11-02T12:26:45Z",
   "total_verified": 277,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 277,
   "sentiment": {
    "positive": 14,
-   "neutral": 239,
-   "negative": 24
+   "neutral": 238,
+   "negative": 25
   },
   "channels": {
    "press": 271,
    "official": 6
   },
-  "negative_alerts": 24,
+  "negative_alerts": 25,
   "handles_active": 2
  },
  "topics": [
@@ -30,11 +32,11 @@
   },
   {
    "topic": "passport",
-   "count": 54
+   "count": 55
   },
   {
    "topic": "flights",
-   "count": 51
+   "count": 50
   },
   {
    "topic": "services",
@@ -119,13 +121,13 @@
    "engagement": null
   },
   {
-   "id": "bn-968df294e7bc",
+   "id": "bn-0392e4f7f39e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8804eb3834b5e8b9e720a3afc2474&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae88183b1f44b7ba47faabde789110b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -503,13 +505,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5f4426cf1485",
+   "id": "bn-e65463302efe",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8804eb3834b5e8b9e720a3afc2474&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae88183b1f44b7ba47faabde789110b&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
