@@ -1,32 +1,34 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T01:46:32Z",
-  "total_verified": 245,
+  "generated_at": "2026-11-03T01:51:41Z",
+  "total_verified": 247,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 245,
+  "verified_mentions": 247,
   "sentiment": {
    "positive": 14,
-   "neutral": 214,
-   "negative": 17
+   "neutral": 215,
+   "negative": 18
   },
   "channels": {
-   "press": 239,
+   "press": 241,
    "official": 6
   },
-  "negative_alerts": 17,
+  "negative_alerts": 18,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 91
+   "count": 92
   },
   {
    "topic": "flights",
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-32a2f13eca6f",
+   "id": "bn-353fe0d455b2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae93cf52385437aa0f26eb26fa17986&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae93e2a4020449c927db198cef4e80e&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -419,13 +421,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7b82b2daf90b",
+   "id": "bn-ae1883c3479e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae93cf52385437aa0f26eb26fa17986&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae93e2a4020449c927db198cef4e80e&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
