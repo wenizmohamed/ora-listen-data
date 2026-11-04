@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-04T09:46:28Z",
-  "total_verified": 245,
+  "generated_at": "2026-11-04T09:51:53Z",
+  "total_verified": 246,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 245,
+  "verified_mentions": 246,
   "sentiment": {
    "positive": 8,
    "neutral": 212,
-   "negative": 25
+   "negative": 26
   },
   "channels": {
-   "press": 239,
+   "press": 240,
    "official": 6
   },
-  "negative_alerts": 25,
+  "negative_alerts": 26,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 94
+   "count": 95
   },
   {
    "topic": "flights",
@@ -109,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-1bb33b224150",
+   "id": "bn-d51b93daac01",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeafef61f4d4d39bb1790522b57f284&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb003b7cbe4c539210017fb4879e1b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -349,6 +349,18 @@
    "engagement": null
   },
   {
+   "id": "gn-8394e58ec8b9",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE flight status today: Emirates, Etihad issue travel updates; latest cancellations and delays - Gulf News",
+   "time": "Wed, 04 Nov 2026 07:23:06 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhsYVFnTmM1VTU3T1RLUk1sWlJMYjVtRklqWnFCeXoxNEItbFd5bnNxb21keUhHZjQ4anFFYXJVSjlpb292eHdQU2xHNUdFRTVTY0FxNlNOYjhmOVJuYTQyazdqWU9UQzRPV3JNb2dHQm9udEk1aUNLeU1QeDlXeDdRQmZnOTVtMU1lMjlRcTVWbHU5ZlJwX0xqbEN3cGhfRDRZY1RkSDhCbEFyVTY2ZmpZb0lrem9KRWZPdw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-9be7dbf02182",
    "channel": "press",
    "author": "The Siasat Daily",
@@ -469,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "bn-355bc84b1b61",
+   "id": "bn-3e86179721da",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeafef61f4d4d39bb1790522b57f284&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb003b7cbe4c539210017fb4879e1b&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-2704522aa5b9",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE-India travel: Some travellers stranded, rebook flights amid airspace closures - Khaleej Times",
-   "time": "Tue, 17 Jun 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29OSXdLS01sMUxKS1k3YU9GVGhzRF9UU3NjbnYydVRyWm5jbnpGWGVCREU0NUVSOG1kMjR4bWtLVVNPaEs1eENfMUdULVJfSnlzOUc0Z0xtOFUwLVZuc3VPOG92ZVREaWxtZnRWNllQREJoTW5rM3hHNDRNbV9ENzFud19sWkVsSnVqS1ZNaERvcW5TaENUMU1TaWRkaTDSAacBQVVfeXFMUHA4SGtmYWpKMVNIQjlzSm5pcW9GRU1SempNaHd3MkxNZnBYR3hoSlM0NkctZ19VY2p6VE83c3cwSG5WVXRkSDJCZnFzMThxU3J1M2VKQW51NGt0NXlKOWhJT3BVcnppZWROamtQV3NaT1AzUW4xb0E4elBQdHVyMExOMjRHcmFZRk5sd2Q3TjFrdHpKYTFHZzA3V2UtTnVtUGlWbm43a2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -567,18 +567,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1ae569cd81ec",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian passport services in UAE hit by delay amid contract battle in Delhi courts - Khaleej Times",
-   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWElrSTBtWUlsTWYwQXFXTWc5YmpPNWY0bTVEZDNnakliWkQ5RXJxWnpVeUhoWkxVc0FRTFo0Y0JfWUEyNnBLb2lSbUQtRm1xSlR2cGYyRzR6V3JVRFpmdThOR0NTdEM1d253M0IzWC1sanZqOGtaYWJvV3Y5Wkg1N3pQZDlQT0wtM2xycFhQXzJVblcxTEZOT2Z1MnNGQlFoTjJZOEdkUGMyYXB30gG0AUFVX3lxTFB2YXI5Y29YNmtwNGh0NmVINWNfR2pHZ3VDMURHX0tYci1vNVdnQVdJWVBuMnZzQWhZeTB5N0d5X1lXMXpMU21xeERoWE91NkhXeGhIeDJkbkZhUHN6SkhnSko2QTdyS2w5VXBHeXg5UVhLZzRLMUZiRF9pOVl2RS1oeU9uSTY0VkllUjNkNE5TMWZ2WlJKeDBkdkR4VjZXT3dudWQ5SkE0QWlyUmlpTnkyODdGUA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-9925dba38f11",
    "channel": "press",
    "author": "Times of Oman",
@@ -586,6 +574,18 @@
    "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - Times of Oman",
    "time": "Thu, 05 Mar 2026 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGd3TlI2Wmh0NDFWZmR1NmhMd19SV0J2SUs3ZzlCTFJYWVFvSW1uLVp3c0lRdTdDYzNKUzhmamNpM3pyVkw5U3p6Yi1QSkUwTFVaSmVpLWdPeFlydG92X3Z3YUg3YWozSTJPek9NdEtOWTQtQWQ1UUhuTy1CWmhTZ0dEQ0F1QnA2aVJFVXZhbU1FLWgtRnJIZUhiQzEwU3Y5UU4yYVNoU3IzN0duNkYxVUFLRXBrQQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1ae569cd81ec",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian passport services in UAE hit by delay amid contract battle in Delhi courts - Khaleej Times",
+   "time": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWElrSTBtWUlsTWYwQXFXTWc5YmpPNWY0bTVEZDNnakliWkQ5RXJxWnpVeUhoWkxVc0FRTFo0Y0JfWUEyNnBLb2lSbUQtRm1xSlR2cGYyRzR6V3JVRFpmdThOR0NTdEM1d253M0IzWC1sanZqOGtaYWJvV3Y5Wkg1N3pQZDlQT0wtM2xycFhQXzJVblcxTEZOT2Z1MnNGQlFoTjJZOEdkUGMyYXB30gG0AUFVX3lxTFB2YXI5Y29YNmtwNGh0NmVINWNfR2pHZ3VDMURHX0tYci1vNVdnQVdJWVBuMnZzQWhZeTB5N0d5X1lXMXpMU21xeERoWE91NkhXeGhIeDJkbkZhUHN6SkhnSko2QTdyS2w5VXBHeXg5UVhLZzRLMUZiRF9pOVl2RS1oeU9uSTY0VkllUjNkNE5TMWZ2WlJKeDBkdkR4VjZXT3dudWQ5SkE0QWlyUmlpTnkyODdGUA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
