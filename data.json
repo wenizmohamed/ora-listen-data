@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-05T12:42:57Z",
-  "total_verified": 205,
+  "generated_at": "2026-11-05T12:48:08Z",
+  "total_verified": 210,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 205,
+  "verified_mentions": 210,
   "sentiment": {
    "positive": 8,
-   "neutral": 180,
+   "neutral": 185,
    "negative": 17
   },
   "channels": {
-   "press": 205
+   "press": 204,
+   "official": 6
   },
   "negative_alerts": 17,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -35,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 45
+   "count": 44
   },
   {
    "topic": "khaleej times",
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 17
+   "count": 21
   }
  ],
  "mentions": [
@@ -96,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5bf6877027dd",
+   "id": "bn-20065c3d32ba",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec79b56e6f401ebfb0817397ec67d9&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7b0488f7418f901384dc306c4b3d&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -264,13 +265,13 @@
    "engagement": null
   },
   {
-   "id": "bn-267ed6778941",
+   "id": "bn-9e7f05daf4a6",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec79b56e6f401ebfb0817397ec67d9&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7b0488f7418f901384dc306c4b3d&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -372,18 +373,6 @@
    "engagement": null
   },
   {
-   "id": "bn-082173283461",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec79b56e6f401ebfb0817397ec67d9&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-bd96955b9812",
    "channel": "press",
    "author": "Gulf News",
@@ -456,13 +445,13 @@
    "engagement": null
   },
   {
-   "id": "bn-8cb11a4be87d",
+   "id": "bn-afeb842a5a3c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec79b56e6f401ebfb0817397ec67d9&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7b0488f7418f901384dc306c4b3d&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -535,6 +524,18 @@
    "text": "UAE: Indian Embassy issues warning over travel fraud - Khaleej Times",
    "time": "Tue, 16 Aug 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDRPWVd2clpHam5qRFhSUUhiZEpBUktjLUdTdDdDanBMeXlZRVZndlZRQ0lrV3JNcWlZalN2b3dtNVR0aFZPZmYzUUVKNm0xb0V3c1BYaS1QM2k1NTNDS2k5RDNUdWU1RURSUjVSZmpJSmtzSmF6OVJ6MWdhSnk0a3NfU0syV0R6MVluS9IBlAFBVV95cUxQaW1JR2MzaV90ZUVKLUNfbFVIdTdHeVRFQlYwUHMxaU8wYlAwRXQwNXc5QkRJQ3FMbWp4MnB6Y3BIbHlyRGNhNjZ0ZHpqUXFGYnNRaEtlM0c0ekUwbmZPdW90U1hUcWxvenp0R3p0M0lKY2QtdEtRMDdlbVdVdXhVd1ViNktfemdWbzlmZ2R6OVJsQkJT?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-e2b46fd296e4",
+   "channel": "press",
+   "author": "Emirates 24|7",
+   "role": "press",
+   "text": "UAE: Indian embassy issues warning against fraudulent visa agencies - Emirates 24|7",
+   "time": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTVdJdy1zdGhqYXV3Qk1QTlRya1VWY1k0MGxRTFl2WGVpYWVRcDJTYlBmQnN2M0ZJR0Y4UDJraGhrdFNBUUkySmRXMUFLNlNSZmVtckRaR2RXVWhyQTRad2FySVlqNUpOSW82V0M0OGs4ZDNObmhQd0hRNmJtLWNKOXh1Ykx1NkM1UzV3amdJRXJZYVozOTJob2p4a3k1bkZoNVlIQ2VSQXZoSlBELXYwU0VBWkdHbGE3VDZVQ0ZTQWhIQmZzYUlzTDljbGU4X2lTc1NoTXkxRGRVMndXcVV4Z3BQVFbSAf8BQVVfeXFMTWQ0V3RsS3BrSG5KbVJ0alZfVEpfRlNrZ3ZEOXd2b1lKV0dUUWZVeW1OOXhiWTU3WjUxS010Vnh1NGl2UGZpaGhKOHdfZHBfak5XZ3Rhakc0QnBNU1FQX0VicldZT05vU01adXlNNUl5MXhadmdRYzk3WF9qLWtCZTFLRU1NX1RTMGk0YnJHNU5zcGZIS0JNbXRSaEZ3bDR0eGRzamRhMC1mMU56Rk8xcGNFUENWdUpqWWwwLVBRZ1FKQlFSMEN5UzJMdzNTUkZZb1N5Nnh5dVl3dW1nX3FENGhQSVFiVlFYVlVsYnJqM2ZvdmxBNHFjWXJQRkZSNGJv?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
