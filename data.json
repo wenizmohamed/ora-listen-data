@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-05T16:08:56Z",
-  "total_verified": 210,
+  "generated_at": "2026-11-05T16:14:07Z",
+  "total_verified": 209,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 210,
+  "verified_mentions": 209,
   "sentiment": {
    "positive": 8,
-   "neutral": 184,
+   "neutral": 183,
    "negative": 18
   },
   "channels": {
-   "press": 204,
+   "press": 203,
    "official": 6
   },
   "negative_alerts": 18,
@@ -34,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 44
+   "count": 43
   },
   {
    "topic": "khaleej times",
@@ -54,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 21
   }
  ],
  "mentions": [
@@ -95,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-74c2af754aac",
+   "id": "bn-04c4958832cc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecaa179583443ba13deba96bc94025&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecab4ecf2841ed81238f2e0fb0eb6a&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -263,13 +265,13 @@
    "engagement": null
   },
   {
-   "id": "bn-230d7c9a5a1a",
+   "id": "bn-0eb934f4ff6b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecaa179583443ba13deba96bc94025&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecab4ecf2841ed81238f2e0fb0eb6a&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -383,18 +385,6 @@
    "engagement": null
   },
   {
-   "id": "bn-d207b3efc945",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1",
-   "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecaa179583443ba13deba96bc94025&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-bd96955b9812",
    "channel": "press",
    "author": "Gulf News",
@@ -450,6 +440,18 @@
    "text": "Indian Embassy in UAE Introduces Online Portal for Next-Gen Passport Services - News On AIR",
    "time": "Tue, 28 Oct 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjBkaFVNblZ2NTNZUkdKa1pXaE5XTEpCTTE5U1ZEa0dXaER0TElWa0x6LVBOTFlvTTFYWXZWS2xyRkRTY1pfb2FfSU8xWnp6eXVzR20wY1ozMHBTUkc1aDlYTDM0OWJydERWak8yeFVPbHQxVEdfTmN1WkVnV2tqMlZCM2p4bXl5OUdXYjJLOFYzNjg2dUthTWw0RVpBeko2NWR4LTd3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-88827ad23b4e",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
+   "time": "Tue, 27 Oct 2026 20:34:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecab4ecf2841ed81238f2e0fb0eb6a&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
