@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-05T08:08:12Z",
+  "generated_at": "2026-11-05T08:13:25Z",
   "total_verified": 207,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -50,11 +52,11 @@
   },
   {
    "topic": "express",
-   "count": 23
+   "count": 22
   },
   {
    "topic": "advisory",
-   "count": 21
+   "count": 22
   }
  ],
  "mentions": [
@@ -95,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d2cbd31b88b4",
+   "id": "bn-760f80a3f1a2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3969689d44a4b201acd90c2e0656&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3aa040964d3e87c5da5efb4e6745&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -263,13 +265,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0a2c366858a2",
+   "id": "bn-c84fe89e0401",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3969689d44a4b201acd90c2e0656&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3aa040964d3e87c5da5efb4e6745&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -431,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-28e218532da1",
+   "id": "bn-c9b96154bc39",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3969689d44a4b201acd90c2e0656&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3aa040964d3e87c5da5efb4e6745&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
