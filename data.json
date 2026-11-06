@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T05:53:05Z",
-  "total_verified": 200,
+  "generated_at": "2026-11-06T05:58:14Z",
+  "total_verified": 206,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 200,
+  "verified_mentions": 206,
   "sentiment": {
    "positive": 7,
-   "neutral": 178,
+   "neutral": 184,
    "negative": 15
   },
   "channels": {
-   "press": 200
+   "press": 200,
+   "official": 6
   },
   "negative_alerts": 15,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 17
+   "count": 21
   }
  ],
  "mentions": [
@@ -240,13 +241,13 @@
    "engagement": null
   },
   {
-   "id": "bn-6854caff9a9e",
+   "id": "bn-e25d0ace259d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed6b2722fe471ab48cb14830fa3f1d&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed6c74ce234ea0a1b9ae63e239220a&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -348,13 +349,13 @@
    "engagement": null
   },
   {
-   "id": "bn-2caded5ba433",
+   "id": "bn-ae1c41a73467",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed6b2722fe471ab48cb14830fa3f1d&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed6c74ce234ea0a1b9ae63e239220a&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
