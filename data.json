@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T21:30:14Z",
-  "total_verified": 205,
+  "generated_at": "2026-11-06T21:35:47Z",
+  "total_verified": 199,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 205,
+  "verified_mentions": 199,
   "sentiment": {
    "positive": 9,
-   "neutral": 180,
+   "neutral": 174,
    "negative": 16
   },
   "channels": {
-   "press": 199,
-   "official": 6
+   "press": 199
   },
   "negative_alerts": 16,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 16
   }
  ],
  "mentions": [
@@ -253,13 +252,13 @@
    "engagement": null
   },
   {
-   "id": "bn-9f7cad284639",
+   "id": "bn-47f1581c8bec",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee46db3b2f48e08b998e1ba965ee30&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee48184be049e480b295c1e56e42c7&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -433,13 +432,13 @@
    "engagement": null
   },
   {
-   "id": "bn-93b6907d9596",
+   "id": "bn-52a845dddc3b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee46db3b2f48e08b998e1ba965ee30&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee48184be049e480b295c1e56e42c7&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
