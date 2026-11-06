@@ -1,21 +1,19 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T16:21:26Z",
+  "generated_at": "2026-11-06T16:26:37Z",
   "total_verified": 204,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 204,
   "sentiment": {
-   "positive": 9,
-   "neutral": 179,
+   "positive": 8,
+   "neutral": 180,
    "negative": 16
   },
   "channels": {
@@ -52,7 +50,7 @@
   },
   {
    "topic": "express",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "advisory",
@@ -253,13 +251,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b916c6227e90",
+   "id": "bn-40ce6c47b1f0",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedfe7ff2cb4b14b18e8cbf9ac13e65&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedffba799f447397d6365b29eb3658&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -481,18 +479,6 @@
    "engagement": null
   },
   {
-   "id": "gn-b673d19c6667",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE travel: India’s IndiGo launches summer sale on flights to India - Gulf News",
-   "time": "Tue, 14 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckRYVURwMmFpRjloSThFVS1ZVWFBUDJhVkJ2cjFKWGQweXRNdng0aTVVWHpKTXJ5NF9NTDkwUWFNRk1nVHJsdjhsa3FLVGdqNVhIT1N0NUppdWh5ZmZaWFhrVFFld3kxcEZfQkJmX1k3N0NNUmJoMnVNTWg4MFpna0IzUFBNcGRTSl9pWExkWmEwMlFId08ybFZ5c3ZyNUdVQ0VESlJyVnJXejhBYm5neVZVd0NOVTjSAcoBQVVfeXFMTy1RRFhNY2xrLXlpZ0J6U3JJT2ZQcm5wZnhjcDhGYVo2Q1hncmpxZWNWc0xKM1BVNFVubjFNXzNCOE16d05KZlRDZkJzVkZDcWpHZVRnMzdQcDRSbFN5YjloaExVX3lmRERHeXl2V19EMEV3OW5CRFloUE1rNG5PdFo4cnJVZGc1MlNDbXJCZzNRTzlNSUk2aDVkUEVVTXJicGJXQkliZzRxc3dWUVlrQnVpdGJ1eVdvTlotQ2VuVlJtbHlqR0k5M1V0Zw?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-e2b46fd296e4",
    "channel": "press",
    "author": "Emirates 24|7",
@@ -536,6 +522,18 @@
    "text": "Air India, Air India Express adds 32 UAE flights amid regional tension - Gulf News",
    "time": "Tue, 10 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUlsWk51b1YwRTh0U3I4dFNaT2xHZ0ZTS1pvcXNDMFpEV3NERUIxbDZyM0M2XzZoNUgwQzJna1BEY3hvcHdUb1BmMEY2WXh1X0VfNV8xTHhrcjFHVmNFZWVoa2E1RHJJR2p3NUVjaF96WGdUSHRRZ295akRLSUlqQ3BiWlB5dFQ1SDhZTmZZU3U5cWo5XzhkTHVERHFXLTVzN2M3dlUwZXdiN1BaYW00MXZLaFcwLXAyazNZMA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1876c7653ee7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
+   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
