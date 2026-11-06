@@ -1,27 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T06:55:38Z",
-  "total_verified": 204,
+  "generated_at": "2026-11-06T07:01:12Z",
+  "total_verified": 198,
   "channels_live": [
-   "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 204,
+  "verified_mentions": 198,
   "sentiment": {
    "positive": 6,
-   "neutral": 183,
+   "neutral": 177,
    "negative": 15
   },
   "channels": {
-   "press": 198,
-   "official": 6
+   "press": 198
   },
   "negative_alerts": 15,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -54,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 21
+   "count": 17
   }
  ],
  "mentions": [
@@ -239,13 +240,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b7edc77a96d9",
+   "id": "bn-e529585a79f1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79e52d854261a0f72692fb8e4400&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed7b1e2a6245399ecde3b4eb895664&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
