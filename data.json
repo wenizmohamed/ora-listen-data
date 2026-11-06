@@ -1,34 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T12:06:12Z",
-  "total_verified": 202,
+  "generated_at": "2026-11-06T12:11:47Z",
+  "total_verified": 195,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 202,
+  "verified_mentions": 195,
   "sentiment": {
    "positive": 6,
-   "neutral": 180,
+   "neutral": 173,
    "negative": 16
   },
   "channels": {
-   "press": 196,
-   "official": 6
+   "press": 195
   },
   "negative_alerts": 16,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 93
+   "count": 92
   },
   {
    "topic": "flights",
@@ -36,11 +34,11 @@
   },
   {
    "topic": "passport",
-   "count": 46
+   "count": 45
   },
   {
    "topic": "services",
-   "count": 35
+   "count": 34
   },
   {
    "topic": "khaleej times",
@@ -55,8 +53,8 @@
    "count": 24
   },
   {
-   "topic": "advisory",
-   "count": 20
+   "topic": "passport services",
+   "count": 15
   }
  ],
  "mentions": [
@@ -241,13 +239,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c268dfe5e082",
+   "id": "bn-9d5fe0db2588",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedc2aed44e43df80f1292202890956&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedc3e913f54b248accb830be05a0d1&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
