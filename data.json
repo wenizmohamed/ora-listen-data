@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T07:21:10Z",
-  "total_verified": 201,
+  "generated_at": "2026-11-07T07:26:21Z",
+  "total_verified": 203,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 201,
+  "verified_mentions": 203,
   "sentiment": {
-   "positive": 10,
-   "neutral": 177,
-   "negative": 14
+   "positive": 9,
+   "neutral": 179,
+   "negative": 15
   },
   "channels": {
-   "press": 195,
+   "press": 197,
    "official": 6
   },
-  "negative_alerts": 14,
+  "negative_alerts": 15,
   "handles_active": 2
  },
  "topics": [
@@ -36,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 46
+   "count": 47
   },
   {
    "topic": "services",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 20
   }
  ],
  "mentions": [
@@ -241,25 +241,13 @@
    "engagement": null
   },
   {
-   "id": "gn-dfc4167ce6bc",
-   "channel": "press",
-   "author": "RTV News",
-   "role": "press",
-   "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties - RTV News",
-   "time": "Wed, 04 Nov 2026 20:01:04 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SSTVHNEdfeGxYQmJRWmNTUjJlZUpkcDFaU3BvTDJPRWJrcVRRdHlVaVlrc292VjVzbEc1SmNTUGhhdFpRb0JFQnNuN1phT2liVEJQakZHN3A4akxZLWVB?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-09d8da34a1f8",
+   "id": "bn-eee2f67b5c12",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeed161b0624796bb9330c02fccf6fd&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeed298b72c45ec8b6d8bb7075f1868&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -404,6 +392,18 @@
    "text": "Indian Embassy in UAE Introduces Online Portal for Next-Gen Passport Services - News On AIR",
    "time": "Tue, 28 Oct 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjBkaFVNblZ2NTNZUkdKa1pXaE5XTEpCTTE5U1ZEa0dXaER0TElWa0x6LVBOTFlvTTFYWXZWS2xyRkRTY1pfb2FfSU8xWnp6eXVzR20wY1ozMHBTUkc1aDlYTDM0OWJydERWak8yeFVPbHQxVEdfTmN1WkVnV2tqMlZCM2p4bXl5OUdXYjJLOFYzNjg2dUthTWw0RVpBeko2NWR4LTd3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-6ba5774c96e1",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
+   "time": "Tue, 27 Oct 2026 20:34:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeed298b72c45ec8b6d8bb7075f1868&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
