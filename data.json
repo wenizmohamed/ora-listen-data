@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T04:51:07Z",
-  "total_verified": 204,
+  "generated_at": "2026-11-07T04:56:19Z",
+  "total_verified": 202,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 204,
+  "verified_mentions": 202,
   "sentiment": {
    "positive": 10,
-   "neutral": 178,
-   "negative": 16
+   "neutral": 177,
+   "negative": 15
   },
   "channels": {
-   "press": 198,
+   "press": 196,
    "official": 6
   },
-  "negative_alerts": 16,
+  "negative_alerts": 15,
   "handles_active": 2
  },
  "topics": [
@@ -36,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 47
+   "count": 46
   },
   {
    "topic": "services",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 19
   }
  ],
  "mentions": [
@@ -253,13 +253,13 @@
    "engagement": null
   },
   {
-   "id": "bn-d0ada84c232d",
+   "id": "bn-52b12e88ab0f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeae37aba54e3f870a6ebe6a012d39&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeaf6e47a54968ade92edd24827776&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -421,18 +421,6 @@
    "engagement": null
   },
   {
-   "id": "bn-e6e13cdcf925",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
-   "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeae37aba54e3f870a6ebe6a012d39&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-23eb91b72a7b",
    "channel": "press",
    "author": "Gulf Business",
@@ -539,17 +527,29 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-1876c7653ee7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
+   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
   {
-   "id": "gn-875abf8eead0",
+   "id": "gn-6b7075a3eece",
    "channel": "press",
    "author": "Khaleej Times",
    "role": "press",
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
