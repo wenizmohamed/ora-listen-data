@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T03:12:51Z",
-  "total_verified": 202,
+  "generated_at": "2026-11-07T03:18:01Z",
+  "total_verified": 201,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 202,
+  "verified_mentions": 201,
   "sentiment": {
    "positive": 10,
    "neutral": 177,
-   "negative": 15
+   "negative": 14
   },
   "channels": {
-   "press": 196,
+   "press": 195,
    "official": 6
   },
-  "negative_alerts": 15,
+  "negative_alerts": 14,
   "handles_active": 2
  },
  "topics": [
@@ -54,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 18
   }
  ],
  "mentions": [
@@ -251,13 +253,13 @@
    "engagement": null
   },
   {
-   "id": "bn-a1e58e84a434",
+   "id": "bn-a5fe2189546e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee9730873b40fa932322153cc77547&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee98655a9a4ffb8dd77dfb17603448&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -565,18 +567,6 @@
    "engagement": null
   },
   {
-   "id": "gn-9925dba38f11",
-   "channel": "press",
-   "author": "Times of Oman",
-   "role": "press",
-   "text": "Indian Embassy issues advisory in UAE; advises Indian Nationals to stay alert, calm - Times of Oman",
-   "time": "Thu, 05 Mar 2026 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGd3TlI2Wmh0NDFWZmR1NmhMd19SV0J2SUs3ZzlCTFJYWVFvSW1uLVp3c0lRdTdDYzNKUzhmamNpM3pyVkw5U3p6Yi1QSkUwTFVaSmVpLWdPeFlydG92X3Z3YUg3YWozSTJPek9NdEtOWTQtQWQ1UUhuTy1CWmhTZ0dEQ0F1QnA2aVJFVXZhbU1FLWgtRnJIZUhiQzEwU3Y5UU4yYVNoU3IzN0duNkYxVUFLRXBrQQ?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-a52754f1ddfd",
    "channel": "press",
    "author": "Gulf News",
@@ -656,6 +646,18 @@
    "text": "Scam alert: Indian Consulate in Dubai tells expats who to contact for repatriation help - Gulf News",
    "time": "Thu, 21 Aug 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUJZWkRTdmpVckdLb0Q0T1dab0lGOHF6Y0VjMll0MVF2cVNVZENDRUpHSjBpTXpLUVdiQ3ZOQ1RQWVBmOV93TDdPcVU0eGREWFUwaG1nNEV4LUZKaEg1ZVpfcG1lM0lYUVhNTEdkOUtpZ1lIUVZHUy05d1VId2xPcFpTa3RBcjlESmNuQ1MwU2hzM2piLV9fdVZTTjdQYU1mRVB6dEIyWG1MV0ZsNzRTMFFON0JIZ3hxX1FSNFpqdk8?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0b2fb200b002",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
+   "time": "Fri, 20 May 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
