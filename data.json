@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T13:14:29Z",
-  "total_verified": 202,
+  "generated_at": "2026-11-07T13:19:38Z",
+  "total_verified": 203,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 202,
+  "verified_mentions": 203,
   "sentiment": {
    "positive": 9,
-   "neutral": 179,
+   "neutral": 180,
    "negative": 14
   },
   "channels": {
-   "press": 196,
+   "press": 197,
    "official": 6
   },
   "negative_alerts": 14,
@@ -26,11 +28,11 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 90
+   "count": 91
   },
   {
    "topic": "flights",
-   "count": 55
+   "count": 57
   },
   {
    "topic": "passport",
@@ -50,11 +52,11 @@
   },
   {
    "topic": "express",
-   "count": 22
+   "count": 23
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 21
   }
  ],
  "mentions": [
@@ -263,13 +265,13 @@
    "engagement": null
   },
   {
-   "id": "bn-6f0a2123adde",
+   "id": "bn-f1dd5c06379a",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Foreign Secy Meets UAE Minister, Reviews Bilateral Ties",
    "time": "Wed, 04 Nov 2026 14:25:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef24301c9748e5aa1099b279d2de60&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef2566b15142a08d90324a5a644c4d&url=https%3a%2f%2frtvonline.com%2fenglish%2finternational%2f277458&c=2509955401284310289&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
@@ -431,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0868f6056f86",
+   "id": "bn-7abbb0b871e8",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef24301c9748e5aa1099b279d2de60&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef2566b15142a08d90324a5a644c4d&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
