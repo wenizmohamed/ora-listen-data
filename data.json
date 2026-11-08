@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-08T15:30:39Z",
-  "total_verified": 192,
+  "generated_at": "2026-11-08T15:35:50Z",
+  "total_verified": 198,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 192,
+  "verified_mentions": 198,
   "sentiment": {
    "positive": 8,
-   "neutral": 171,
+   "neutral": 177,
    "negative": 13
   },
   "channels": {
-   "press": 192
+   "press": 192,
+   "official": 6
   },
   "negative_alerts": 13,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -54,8 +55,8 @@
    "count": 23
   },
   {
-   "topic": "passport services",
-   "count": 15
+   "topic": "advisory",
+   "count": 19
   }
  ],
  "mentions": [
@@ -365,7 +366,7 @@
    "author": "DD News",
    "role": "press",
    "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - DD News",
-   "time": "Tue, 29 Sep 2026 03:37:18 GMT",
+   "time": "Tue, 29 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWJ5ZWtVaUJiMTRIZXM2NmM2VEtOcXlvZENHZEtobVB5VjludWx0eUFIWmUzODRQN3VSaXF5ZEtVV3lzbzU5U0QzSTN1bEx6THh4a1dJOTBVdGctZTA5ZmpFT0FHdkxYaVlHdW9VVUt4ZnYzbUFBVmpXNmN5cFlyWFpMMHFKOV9WYmtCQ1ctcmU3aDJLcEdOYm14Y3NlOVdQOUppV1VYMDVoWk5hNkE?oc=5",
    "sentiment": "neutral",
    "verified": true,
@@ -384,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0ecb6cce9a68",
+   "id": "bn-f05fa3ac5a2c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af095850e484d84895b1b126693b16d&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af096d28b364e5d9307a55ce2ea01ec&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
