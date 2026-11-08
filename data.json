@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-08T14:17:22Z",
-  "total_verified": 197,
+  "generated_at": "2026-11-08T14:22:33Z",
+  "total_verified": 188,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 197,
+  "verified_mentions": 188,
   "sentiment": {
    "positive": 8,
-   "neutral": 176,
+   "neutral": 167,
    "negative": 13
   },
   "channels": {
-   "press": 191,
+   "press": 182,
    "official": 6
   },
   "negative_alerts": 13,
@@ -30,15 +32,15 @@
   },
   {
    "topic": "flights",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "passport",
-   "count": 44
+   "count": 42
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 33
   },
   {
    "topic": "khaleej times",
