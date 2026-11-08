@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-08T11:47:09Z",
+  "generated_at": "2026-11-08T11:52:20Z",
   "total_verified": 198,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -383,13 +385,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3e2350f9de55",
+   "id": "bn-c2e60baf60eb",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0613b0836497fa91814554ca70a5a&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0627186b9490a8b96f721e4f820c0&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
