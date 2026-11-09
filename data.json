@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-09T19:51:13Z",
-  "total_verified": 199,
+  "generated_at": "2026-11-09T19:56:23Z",
+  "total_verified": 200,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 199,
+  "verified_mentions": 200,
   "sentiment": {
    "positive": 7,
-   "neutral": 179,
+   "neutral": 180,
    "negative": 13
   },
   "channels": {
-   "press": 193,
+   "press": 194,
    "official": 6
   },
   "negative_alerts": 13,
