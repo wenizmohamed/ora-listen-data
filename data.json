@@ -1,37 +1,38 @@
 {
  "meta": {
-  "generated_at": "2026-11-09T04:39:38Z",
-  "total_verified": 192,
+  "generated_at": "2026-11-09T04:44:52Z",
+  "total_verified": 197,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 192,
+  "verified_mentions": 197,
   "sentiment": {
    "positive": 8,
-   "neutral": 171,
-   "negative": 13
+   "neutral": 177,
+   "negative": 12
   },
   "channels": {
-   "press": 192
+   "press": 191,
+   "official": 6
   },
-  "negative_alerts": 13,
-  "handles_active": 1
+  "negative_alerts": 12,
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 90
+   "count": 89
   },
   {
    "topic": "flights",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "passport",
@@ -54,8 +55,8 @@
    "count": 23
   },
   {
-   "topic": "passport services",
-   "count": 14
+   "topic": "advisory",
+   "count": 18
   }
  ],
  "mentions": [
@@ -252,18 +253,6 @@
    "engagement": null
   },
   {
-   "id": "gn-724db4fa4253",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE flight status today: Emirates, Etihad issue travel updates; latest cancellations and delays - Gulf News",
-   "time": "Wed, 04 Nov 2026 07:23:06 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhsYVFnTmM1VTU3T1RLUk1sWlJMYjVtRklqWnFCeXoxNEItbFd5bnNxb21keUhHZjQ4anFFYXJVSjlpb292eHdQU2xHNUdFRTVTY0FxNlNOYjhmOVJuYTQyazdqWU9UQzRPV3JNb2dHQm9udEk1aUNLeU1QeDlXeDdRQmZnOTVtMU1lMjlRcTVWbHU5ZlJwX0xqbEN3cGhfRDRZY1RkSDhCbEFyVTY2ZmpZb0lrem9KRWZPd9IBzwFBVV95cUxPNTQzSng5bm43Z1pVSTRrek03amdEa0FTSTN3SGh5RHE2QzdSMWRxbGN5QVMxSUhSVy1SdXpmZXoyN3ZNYWhOUXh5LWdlaEtkUHRrWUcwMV9pWVdHcmI3Q1BBd1hGMXozLVRrZ1N1WFFCVFR4ekVFQWRhNjZXVjlReXpfekNUbTJFXzZ5SGhEdTYyY2wwX1AxcUxWOE1Xb0FmaDY4OG5OREJkQTFmSW5SYjhjY2EweGUyS1c5X3huZGI2dU9heXNzcXc4UVpYdzA?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c9f09a0a23ec",
    "channel": "press",
    "author": "Khaleej Times",
@@ -312,13 +301,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c063fc50ea1f",
+   "id": "bn-98dd0e6bbb7c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af14e6f1df04233a7bdd9a39c666570&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af14fbc15c14cbcb41dc689113cf5e6&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -384,13 +373,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f3c2a40c3a9d",
+   "id": "bn-74e77aa44688",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
    "time": "Tue, 27 Oct 2026 20:34:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af14e6f1df04233a7bdd9a39c666570&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af14fbc15c14cbcb41dc689113cf5e6&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -535,6 +524,18 @@
    "text": "Air India Express expands India-UAE flights, adds more Gulf connectivity this winter - Gulf News",
    "time": "Tue, 06 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWw4RkxGTkR3OHNrUlJFUTBJcHMwbkVuQVlTeHRwX1Y4WXRyQ1JVcmJMcHNsQjFVaE5Yb1ItRUpRdGpOWEYwNWdmRDVzNzVhb0swVk5Ha0tPelIwb1ZmeXFsaGF3Q2xhX1ZPSzlCbW5nU0djR0x4Wk5XUVphRHZXT0hOTS1CbGtPVlVyanRORUNzRjdPVEV5djNzZEVxWnFyU3luSldRQ25ZNTN5MjBOTDNLWTB4QTJpTGp2TGIzXzJWNUtFeEw3TzNOWnNiSFXSAeIBQVVfeXFMT0xISzI4Z2RCNFVTel9QRUQ4SElQRDBwQ3BRSjhnenpOWGhfVXBKLTM3c3NHV0pFbmJSbk5scndLYkdBSksxSk8xdXRYTXowSlJkOGMtMDVhRnFodENldHZ3QlVQQVhZV2JEY1dIWm1kcU1sb0VoR2xOZ2VaV3lVZVc3c0t5dWk1VW02R054ZlFXSjUtaTdZNWRWZ3F3NWpuUElvN0M4T3hnYlVpTnhRVzJyekw2cXZCYnZzSzF0LTNiUUZJQWtRTmtGVG1TanlDb3JzMXJqNVJubEdIN05HenBZUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4728705d80bb",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Changes for India holiday travellers: Your guide on latest rules and what to check before flying - Gulf News",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1B6Y3RfY2hjRXp1ZHVYakpTNkY3WXZhVDB1OTNYQ0hQTTBMN1BIVjRWSEp6T3JfeXE5M3Y4X2NLSlVWWWJhOVE5MmZrYWpydHl2YmNYbHZQWU1kc1VKTFB0SHNvUVRJcUUxWWhNaEJtM2d0UFhCdHJTTk9LR3d4OWFuNkl1Znd6STFyWS1aRFZobkZETG0ycVBHTzFmSVctcklDLVMtbmE3UGJnY0RHMm9FZ2NWSTVFZjg0NnFRWDhKbnV6TGZZMkc5dnlCVUl5R2fSAecBQVVfeXFMTnRXSHliOXpsMEpBMTRadjZMUmNWbFBYclc4WFllUkFzVmdJU2pzX2l6Ml9zZG5Rb0tJaFhIR19uLTI1cDMzUDU2TFYtcmdxOGZwS0lMYmJjN2F5Nk02OVhqbEU4dkdsT0lJeWpxVFZjMWR1dmx2TUhHazVuUlRiUlpXeVFHRzV1ZnRxX0kyLWVmZFNoTWJZeXZRRFRiZU9EeS1OYmhRN1VHdVY5LVRTNF9vdjduSG9yU3lHelA1ZFItaUJQS2M2TWpXQWptMlRYRllRLVVkZHBhczNUUG5zY3JRbVliQ0dj?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
