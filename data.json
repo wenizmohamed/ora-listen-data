@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-09T21:50:26Z",
+  "generated_at": "2026-11-09T21:55:37Z",
   "total_verified": 200,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,15 +28,15 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 92
+   "count": 91
   },
   {
    "topic": "flights",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "passport",
-   "count": 45
+   "count": 46
   },
   {
    "topic": "services",
