@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T20:23:40Z",
+  "generated_at": "2026-11-10T20:28:50Z",
   "total_verified": 199,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -54,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 20
   }
  ],
  "mentions": [
@@ -371,6 +373,18 @@
    "engagement": null
   },
   {
+   "id": "bn-9df8db2f688b",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
+   "time": "Tue, 27 Oct 2026 20:34:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37e7f0e0946cdba82916f01cb82aa&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-23eb91b72a7b",
    "channel": "press",
    "author": "Gulf Business",
@@ -523,18 +537,6 @@
    "time": "Tue, 04 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUZGVEJzS3FPS1V6QjN3LXpKZkVLejhhZVNIWXVlRnRYUEk1SnM2Y1VhN1h1TGhWZjhIa2NJZjVnZ0kxWi1HRkI2MXBLbnZsWTBpc1FPSjB6UGVBVDVRLXZFUFhsSVkxM2p1QzVVMldMRkdlX1d4T3JacExTRDU1S3ctT1kzdGpoclNVR1hWVUpieGNQT085X1V1eGt2SDFvWlRsSS1peHFIakc2ZDItcGVEMFRZRG5GeE5WUVZMR0cweFXSAdYBQVVfeXFMT08tX2l5SV90bGFMMWFJYkFLblp5dEI1LTdsMmNuckFTNFZMYVNCMkw2bVRJRThBT1N6b2JhNjFONzZneXRyV180X0VuUU82MEFIcnZwSEl3WHVvVEZaT0t0dzFzTGd6TXlzeTdLMVFUUzN4cWxvaHFHWHotQ2VNMDBvX2dfS1pmaVZNNnVjcC1CQlV5aFRVZmpHWFZkOXZqdWJ3UVoyTmxxNjgwdFA1VDhuM3VSTVdiSTJkRUtRaVEtT2puelRYdXdNWDBPN3BSb01rcU1jdw?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-716512e538a8",
-   "channel": "press",
-   "author": "Dainik Jagran MP CG",
-   "role": "press",
-   "text": "Dubai Celebrates Diwali with Global Community as Diplomats from 18 Countries Join Festivities - Dainik Jagran MP CG",
-   "time": "Tue, 03 Nov 2026 11:31:55 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWxMcHlCZXNHU3RkZDlCdHpZOEZkTTBVbmFsWXp5ZUl5VE8wV19OVUVEdlF5cHVOdEVzUW9nMERCQTdXeTdjVWJFUkJzM0NWVmlVVHZSNkM3TmlnajdRSnJqWUhEd3RSUE5DeS1wV05WWkdtbnc3MTc2QXRIaEZwbS1CQ0NlUXYtS0Q5bm9EWXVyejRma1dyMmM5d1laZFRMcFItYWtwOUZrTDhzdExYTnM1WklkNFVvMjM3d0JSY2JZQ1hjSUpiMy0xZw?oc=5",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   }
