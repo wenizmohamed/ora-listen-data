@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T11:44:45Z",
-  "total_verified": 194,
+  "generated_at": "2026-11-10T11:49:55Z",
+  "total_verified": 200,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 194,
+  "verified_mentions": 200,
   "sentiment": {
    "positive": 8,
-   "neutral": 173,
+   "neutral": 179,
    "negative": 13
   },
   "channels": {
-   "press": 194
+   "press": 194,
+   "official": 6
   },
   "negative_alerts": 13,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -54,8 +55,8 @@
    "count": 23
   },
   {
-   "topic": "passport services",
-   "count": 15
+   "topic": "advisory",
+   "count": 19
   }
  ],
  "mentions": [
@@ -432,13 +433,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b80b2d404ce3",
+   "id": "bn-96ae78899226",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "India and UAE strengthen ties in diplomatic meeting",
    "time": "Tue, 10 Nov 2026 00:33:07 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af303935db34c2c9ef193355a497617&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2findia-and-uae-strengthen-ties-in-diplomatic-meeting%2far-AA2h813f&c=13767181161260622832&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af304e0c67d43889b5b7fc74a03dfcb&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2findia-and-uae-strengthen-ties-in-diplomatic-meeting%2far-AA2h813f&c=13767181161260622832&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
