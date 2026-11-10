@@ -1,21 +1,21 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T06:40:21Z",
+  "generated_at": "2026-11-10T06:45:54Z",
   "total_verified": 193,
   "channels_live": [
    "press"
   ],
   "errors": [
    "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "embassy_site: Remote end closed connection without response"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 193,
   "sentiment": {
-   "positive": 6,
-   "neutral": 174,
+   "positive": 7,
+   "neutral": 173,
    "negative": 13
   },
   "channels": {
@@ -27,7 +27,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 87
+   "count": 88
   },
   {
    "topic": "flights",
