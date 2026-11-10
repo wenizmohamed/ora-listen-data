@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T01:36:20Z",
+  "generated_at": "2026-11-10T01:41:32Z",
   "total_verified": 200,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -26,15 +28,15 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 92
+   "count": 90
   },
   {
    "topic": "flights",
-   "count": 57
+   "count": 56
   },
   {
    "topic": "passport",
-   "count": 45
+   "count": 46
   },
   {
    "topic": "services",
@@ -287,13 +289,13 @@
    "engagement": null
   },
   {
-   "id": "gn-26c1800a85f1",
+   "id": "gn-970e33035576",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
    "text": "Indian Consulate in Dubai facilitated 15,000 UAE amnesty seekers - Gulf News",
    "time": "Wed, 01 Jan 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB0gGzAUFVX3lxTE1QZnJHcEVTRWVOSmNMWnFZN2Jia1dJaDhDeXNrN3Juc0E5X1MyWUhVUjJRcFl1VGkxNjhkaERoZ1JqNXBQb3Q3OXE4VnJ6TWVjenBKcVYyeG52NFBNSDhYcWN1S3lmd3Q2a0JmQzFKSXFoYkNLcjlVWEt5OFVaanJfcWwySnk4dDYzYTEzSXpoU0gwY3F5OUtPdlFIRUp1cHhNRFE1UnJNemlhbWJSbzBZQ1pJ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
