@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T12:00:17Z",
-  "total_verified": 200,
+  "generated_at": "2026-11-10T12:05:28Z",
+  "total_verified": 199,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 200,
+  "verified_mentions": 199,
   "sentiment": {
-   "positive": 8,
+   "positive": 7,
    "neutral": 179,
    "negative": 13
   },
   "channels": {
-   "press": 194,
+   "press": 193,
    "official": 6
   },
   "negative_alerts": 13,
@@ -36,11 +36,11 @@
   },
   {
    "topic": "passport",
-   "count": 45
+   "count": 44
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 20
   }
  ],
  "mentions": [
@@ -373,6 +373,18 @@
    "engagement": null
   },
   {
+   "id": "bn-3c3527db6d10",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE travel advisory: Indian embassy urges visitors to get comprehensive insurance",
+   "time": "Tue, 27 Oct 2026 20:34:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3088549284882af8cd53c45692674&url=https%3a%2f%2fenglish.mathrubhumi.com%2fnews%2fworld%2fuae-health-insurance-advisory-indian-visitors-residents-repatriation-phxe8vsb&c=6735711594332346808&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-23eb91b72a7b",
    "channel": "press",
    "author": "Gulf Business",
@@ -429,18 +441,6 @@
    "time": "Tue, 13 Apr 2021 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjh5bWJNYnBWeVdCUVhSZnNZWWZYak85YnlLblc2STVzVmF4bWhwdmFpVXg0VEhvdkI3cnJQM0ZLWV9LcmNYbDB0T2FGTnF0NUVUeU5uN2xlVER6S0k1UkJXbkZXRWdhbU1SMmdEV3lzQy1JbkJVT1ZMSnZzQ21yQkpWb015SkJhbUpHMzBveTJoQdIBmgFBVV95cUxOQ3BQb2drQTRhbVZFOUdXWmVpYmZKaWlQZEQxN0JiQk1fV3dMbUFaUlVJYUtqam5KdHJ1dG9qTXZoUTFlQUlGQkx1YzZpMGdiam8yVzdpUzUxeVN2ckxPT3NIMUluallkNEVYeDdjQ04tcjMzU2ZJcFpPZVJxRDhvXzZ3dnQ2anpoX01JeFNTMnViU3RCVFRFOEdB?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-ecb8cb409bea",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "India and UAE strengthen ties in diplomatic meeting",
-   "time": "Tue, 10 Nov 2026 00:33:07 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3074e093a4ae6aff3bf475603e279&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2findia-and-uae-strengthen-ties-in-diplomatic-meeting%2far-AA2h813f&c=13767181161260622832&mkt=ar-ae",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
