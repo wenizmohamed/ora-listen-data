@@ -1,23 +1,25 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T16:55:32Z",
-  "total_verified": 195,
+  "generated_at": "2026-11-11T17:00:43Z",
+  "total_verified": 196,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 195,
+  "verified_mentions": 196,
   "sentiment": {
    "positive": 7,
-   "neutral": 177,
+   "neutral": 178,
    "negative": 11
   },
   "channels": {
-   "press": 189,
+   "press": 190,
    "official": 6
   },
   "negative_alerts": 11,
@@ -95,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c8df5a14b3c7",
+   "id": "bn-0c1cb4cbbd05",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49e02dec1427381003c300164d56e&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49f3a5d9c44668a9cd4ef5d6a5813&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -311,13 +313,13 @@
    "engagement": null
   },
   {
-   "id": "bn-66bb9079abb3",
+   "id": "bn-b5e2bb9b26d2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis",
    "time": "Wed, 01 Jul 2026 14:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49e02dec1427381003c300164d56e&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af49f3a5d9c44668a9cd4ef5d6a5813&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
