@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T20:44:28Z",
-  "total_verified": 198,
+  "generated_at": "2026-11-11T20:49:43Z",
+  "total_verified": 199,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 198,
+  "verified_mentions": 199,
   "sentiment": {
    "positive": 7,
-   "neutral": 180,
+   "neutral": 181,
    "negative": 11
   },
   "channels": {
-   "press": 192,
+   "press": 193,
    "official": 6
   },
   "negative_alerts": 11,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 88
+   "count": 89
   },
   {
    "topic": "flights",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-97f8e83f932a",
+   "id": "bn-ed89e9026029",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d3aae63b4921bca9a1dfcd3c3fc0&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d4e4bbbc4c33827ba468d03609d3&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -481,6 +481,18 @@
    "engagement": null
   },
   {
+   "id": "gn-b531c4c6beda",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Coronavirus: Indian Consulate mobilises medical volunteers for Dubai isolation facility - Gulf News",
+   "time": "Tue, 21 Apr 2020 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUlkdklNRllBcVd1Unl1RFJFa2FMeW1ScHNTSkhzcFRmTkJnZi14MDhZWU13SlpuN2ZOZzZzVzhDclo4S0Rlek9tZGltUmV1TFN0YXRqbzNxUWVDLU9adVJkVXNHNkhwM2lyVVhZbm9udnZUNy1jeW5mUS1CS1dTTnFCaW1ORXZ6ZzE5NWF5ZjhCdTh2aGRvRTRxYUt6aU81WHduaUhLb2c0cjB1SlRaWDNmaGo0Z0lReXhpNW5kQdIBzwFBVV95cUxNV1lWb1FTNFVtcGp0SVM2V0F3TmI0S2thaXdQOTFPNEJGeHdTMEg2YTRwX1pHUkl2UUY4QU9RaF9qMEhqOTJCYkI1QjBNRXF5bG5DRnVMdXdUMUpqR0RJTlBsYmpDb1pXMklZRmxnSml3bnpBd1NTUDY3RFlWdHBlVzlkajVLa21wVm00bHJSeHFQYlpiUk9ZRjkyVklvYTZrZ19WcHRYTF9ZUFc3MlFFUk52aDg4NmZpOHhnTWVJZHVnRDltVXVubnZYZkE1ZjA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-2704522aa5b9",
    "channel": "press",
    "author": "Khaleej Times",
@@ -524,18 +536,6 @@
    "text": "Air India announces extra UAE flights, keeps Jeddah and Muscat routes operational on March 10 - The Times of India",
    "time": "Tue, 10 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV21MS2lfakg5c2VqYUF4aG1BREszdjRnRlNrLXpmQ19iaVE5MEt5X3FwYWlGdHFEMDNfdElXb2I5aGhHVU91d1ByZVZpTzhBQVBXanJiSm9VQXFzSTJCdThRY1RFcG9DZkNtbHVpUlNLc0ExckJJVlpqdTJqRTUtdTk2RXBOR2QxWngtWWZGRUNsNi1Td18wV2o5Nl9FOThoUTJNN2RqQ1psN19jdE1CcllsQVhfeWs3Rmd3cHFZNWNzem9kbkJjdzB3RVExYVVlbUdST3lrSlZQVmtQN1RxZWdIS2t0T3hHWTVIV0Nmd1RIN294WkJHRlNQYXJUQkl1ZmJQSUVKREHSAY4CQVVfeXFMT0t5b1AzNEkwOVZEbVhiMVlvcG5WQ3l4ZkxSX1dDMzFRRTNxLW1sV2U1ZEpfa3ZHQU53VDNWa0hBVnF6YjMtVkJsck9LM2JXUjdNQ2xJejFFbnBFam9RNkFoS04xaXM4NzcweGtPZlk1dnFhbUZXa19iV015SEhrWEpXejVRUF9fbzdVRzd3eExweXBrNGpodVhnMElFR01HdENqTVFNTnFCUk1DbDFLMUNWakhmYlRsc1I5N3VYVlVEOHNaSzlzLWM2c2liMHd1Zl9fSDRBSjAyOU03WTFTZlBkelRuQ0VEckxHazVUQjFOQUxNa3cyTXhYM3lEb1diX0ZNa1ZyeFhKdFJLbkpB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-677c9427f97c",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Air India, Air India Express adds 32 UAE flights amid regional tension - Gulf News",
-   "time": "Tue, 10 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUlsWk51b1YwRTh0U3I4dFNaT2xHZ0ZTS1pvcXNDMFpEV3NERUIxbDZyM0M2XzZoNUgwQzJna1BEY3hvcHdUb1BmMEY2WXh1X0VfNV8xTHhrcjFHVmNFZWVoa2E1RHJJR2p3NUVjaF96WGdUSHRRZ295akRLSUlqQ3BiWlB5dFQ1SDhZTmZZU3U5cWo5XzhkTHVERHFXLTVzN2M3dlUwZXdiN1BaYW00MXZLaFcwLXAyazNZMA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
