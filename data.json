@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T12:40:19Z",
+  "generated_at": "2026-11-11T12:45:31Z",
   "total_verified": 194,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -287,13 +289,13 @@
    "engagement": null
   },
   {
-   "id": "bn-ba114ec8d403",
+   "id": "bn-6d7438af9ffa",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis",
    "time": "Wed, 01 Jul 2026 14:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4622c947148f98a95c53b40223954&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af463695b7d4d458fde9031fbd51793&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
