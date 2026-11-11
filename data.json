@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T13:37:53Z",
-  "total_verified": 194,
+  "generated_at": "2026-11-11T13:43:04Z",
+  "total_verified": 196,
   "channels_live": [
    "official",
    "press"
@@ -12,47 +12,47 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 194,
+  "verified_mentions": 196,
   "sentiment": {
-   "positive": 7,
+   "positive": 6,
    "neutral": 176,
-   "negative": 11
+   "negative": 14
   },
   "channels": {
-   "press": 188,
+   "press": 190,
    "official": 6
   },
-  "negative_alerts": 11,
+  "negative_alerts": 14,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 86
+   "count": 79
   },
   {
    "topic": "flights",
-   "count": 55
+   "count": 52
+  },
+  {
+   "topic": "khaleej times",
+   "count": 41
+  },
+  {
+   "topic": "khaleej",
+   "count": 41
   },
   {
    "topic": "passport",
-   "count": 41
+   "count": 40
   },
   {
    "topic": "services",
    "count": 34
   },
   {
-   "topic": "khaleej times",
-   "count": 30
-  },
-  {
-   "topic": "khaleej",
-   "count": 30
-  },
-  {
    "topic": "express",
-   "count": 23
+   "count": 22
   },
   {
    "topic": "advisory",
@@ -169,13 +169,13 @@
    "engagement": null
   },
   {
-   "id": "gn-c1a23955dfb7",
+   "id": "gn-ace823aaf70c",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
-   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
-   "time": "Wed, 19 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
+   "text": "India widens visa-on-arrival access for UAE travellers - Gulf News",
+   "time": "Wed, 19 Nov 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdE1YNks2MFlZb3JNaUlxV2ZoVWNZVmhaY1kxb2RlMWo5bS1QbnlXbGpNZGpvcXhuYzN0dGZQOEFVeDJXZzlBNzRNd1NXTmtOZms4OC1xQ1VpTFUtWHlUYm5pTnJ6SzN1RVRVTzV2OEx5bzdXX2ZUa0g1UkRmUEI4cXQtOWdNZWxrYVpGN0M2bTd0WkJwVTlBb3ZMMGRLTlJPUzFDUXNIMEHSAbsBQVVfeXFMT0dyMFBtNnREOElaVjJuM21OaXpxUmk4Y3Z0clUtRE9HSVJfaER6LURoRlYwRmxYNUNSalhTQlhnMDJfcW11TGxuWmRuTmRrbGRNZldua25VYXJkZXRzNnJmZVpDa01kdGl1OHZUdWtFcjVRUVR2dVZQcDBuWF9vTmtsekxkQlJJMlJudVVTZUpYcDBGdkJHMkgybk5HZXdmQVVOY2FzMldMMlFlMTR3QXpmclN2X0ZrRnczVQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -200,18 +200,6 @@
    "text": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11 - Gulf News",
    "time": "Wed, 11 Nov 2026 07:43:39 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2xpX0ZYME5aYWY3MXpJNng5ck1nMUlKM3dETDE3TzZoZXFUQWpaMEIyOWV1NnJjQ3NwNzJuNEs0ZEpkUmRXSkhQbDlJbEtUQmF4ZExIN0hid09Wc1VVZ2pqRG1xRUl0ZU5Hb2g1UUdOUEowNFlfZnZlZUJhcGtFa1hhMXZ0R0VTbVgwSUwyMHgySlVwWE5Uc2lCYXZvOFJaNktXNXBnb2ZPTzBTanFGQXlHcHNJOWhhbkpHUWpyZG9iR2JWNkdXellyQ0Y1TmVaTHR4bDRMWkN6YXRwS09rcNIB8wFBVV95cUxPbHVic2ZscFRRbF9zYkhDdHlRVE5FUERGbVEzanlXaTI1enVQMDZFYjVXT1FuSkhtdVFFN3BrWkdYUzlxN2lETXNzdDBCZ0xVdi1MS1dvZE1Mc1lRSkZfeHBXbndMd0RLck1qNXIzYms1elpVRGNzSFJvMmQxdU1zNkhoNjNDenRTZU85cnFCWmRFVGYxVFVVZWs5N2RMX3ZmcVdZWDFTQTNUamZBTXNIUXpUb3hPNDRqcGJkaDd2dEVRNEZiQktIT0NBWDBGUkpaVFdsRHZya3BZYk5veUR0OFlOaGdHY094Q0VQMmNVNDFoa1k?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7c248b5ddd74",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
-   "time": "Wed, 11 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -265,6 +253,18 @@
    "engagement": null
   },
   {
+   "id": "gn-123d5aa18915",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "UAE-India travel: Airlines aim to increase repatriation flights - Khaleej Times",
+   "time": "Wed, 04 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONm9OeF9GWEJqeERQeDdaUlliMnJDMFVOSlNpeElxY2ZIMVUwOHc1cEFNVDB3eldwTTdwclJsTGdfY1pOdG1TdWhBRzk0OXRYVC04M0lSU1ZselJ6SDhMZU9NVzVSMHdzcFZHRG1ZbmlWN0dxZ2wzSzVzWWZCNzRvb2dWa2cwYnM5RVlCSlA0SVZ3RlpKZjF0RzlSRXVrNjhGd3RNX3g1TmptZGdqcUHSAbYBQVVfeXFMUEEzVzlfVDdzLXFuNkRweG5taVRoUmVqd2hoQnFGbU5tZGpJVTdCSllmZWtJdE1wU0dPRlRjd3dpendkTXZkMXZvVTJ2SzNIeFZpc2VRM0hkbENHVWVRN0duUy1ad3daWks1dlBScFBHcEg4aGdfU1ExN216RUNSb2RnZTFEUkc2aHZZTDktOExObXo4UGNlQ2c5TFhvYXBvWUJ0dDBIWjJGRFU4VlNWZ0dNa1RhVFE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-0747d26b4706",
    "channel": "press",
    "author": "Gulf News",
@@ -289,13 +289,13 @@
    "engagement": null
   },
   {
-   "id": "bn-9f65e2b563b2",
+   "id": "bn-9c1c507d4841",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis",
    "time": "Wed, 01 Jul 2026 14:48:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af46fb0b5064d05b903aa05326cd85f&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af470e7d52e4282bdf009b19082e830&url=https%3a%2f%2fwww.khaleejtimes.com%2fuae%2findian-embassy-limited-consular-services-transition-new-provider&c=13005433707150303571&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -421,18 +421,6 @@
    "engagement": null
   },
   {
-   "id": "gn-2704522aa5b9",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE-India travel: Some travellers stranded, rebook flights amid airspace closures - Khaleej Times",
-   "time": "Tue, 17 Jun 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29OSXdLS01sMUxKS1k3YU9GVGhzRF9UU3NjbnYydVRyWm5jbnpGWGVCREU0NUVSOG1kMjR4bWtLVVNPaEs1eENfMUdULVJfSnlzOUc0Z0xtOFUwLVZuc3VPOG92ZVREaWxtZnRWNllQREJoTW5rM3hHNDRNbV9ENzFud19sWkVsSnVqS1ZNaERvcW5TaENUMU1TaWRkaTDSAacBQVVfeXFMUHA4SGtmYWpKMVNIQjlzSm5pcW9GRU1SempNaHd3MkxNZnBYR3hoSlM0NkctZ19VY2p6VE83c3cwSG5WVXRkSDJCZnFzMThxU3J1M2VKQW51NGt0NXlKOWhJT3BVcnppZWROamtQV3NaT1AzUW4xb0E4elBQdHVyMExOMjRHcmFZRk5sd2Q3TjFrdHpKYTFHZzA3V2UtTnVtUGlWbm43a2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c3351c8733d0",
    "channel": "press",
    "author": "Khaleej Times",
@@ -452,18 +440,6 @@
    "text": "Indian consulate in Dubai to remain closed on Wednesday - Khaleej Times",
    "time": "Tue, 13 Apr 2021 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjh5bWJNYnBWeVdCUVhSZnNZWWZYak85YnlLblc2STVzVmF4bWhwdmFpVXg0VEhvdkI3cnJQM0ZLWV9LcmNYbDB0T2FGTnF0NUVUeU5uN2xlVER6S0k1UkJXbkZXRWdhbU1SMmdEV3lzQy1JbkJVT1ZMSnZzQ21yQkpWb015SkJhbUpHMzBveTJoQdIBmgFBVV95cUxOQ3BQb2drQTRhbVZFOUdXWmVpYmZKaWlQZEQxN0JiQk1fV3dMbUFaUlVJYUtqam5KdHJ1dG9qTXZoUTFlQUlGQkx1YzZpMGdiam8yVzdpUzUxeVN2ckxPT3NIMUluallkNEVYeDdjQ04tcjMzU2ZJcFpPZVJxRDhvXzZ3dnQ2anpoX01JeFNTMnViU3RCVFRFOEdB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-533d221ca5a3",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Air India announces extra UAE flights, keeps Jeddah and Muscat routes operational on March 10 - The Times of India",
-   "time": "Tue, 10 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV21MS2lfakg5c2VqYUF4aG1BREszdjRnRlNrLXpmQ19iaVE5MEt5X3FwYWlGdHFEMDNfdElXb2I5aGhHVU91d1ByZVZpTzhBQVBXanJiSm9VQXFzSTJCdThRY1RFcG9DZkNtbHVpUlNLc0ExckJJVlpqdTJqRTUtdTk2RXBOR2QxWngtWWZGRUNsNi1Td18wV2o5Nl9FOThoUTJNN2RqQ1psN19jdE1CcllsQVhfeWs3Rmd3cHFZNWNzem9kbkJjdzB3RVExYVVlbUdST3lrSlZQVmtQN1RxZWdIS2t0T3hHWTVIV0Nmd1RIN294WkJHRlNQYXJUQkl1ZmJQSUVKREHSAY4CQVVfeXFMT0t5b1AzNEkwOVZEbVhiMVlvcG5WQ3l4ZkxSX1dDMzFRRTNxLW1sV2U1ZEpfa3ZHQU53VDNWa0hBVnF6YjMtVkJsck9LM2JXUjdNQ2xJejFFbnBFam9RNkFoS04xaXM4NzcweGtPZlk1dnFhbUZXa19iV015SEhrWEpXejVRUF9fbzdVRzd3eExweXBrNGpodVhnMElFR01HdENqTVFNTnFCUk1DbDFLMUNWakhmYlRsc1I5N3VYVlVEOHNaSzlzLWM2c2liMHd1Zl9fSDRBSjAyOU03WTFTZlBkelRuQ0VEckxHazVUQjFOQUxNa3cyTXhYM3lEb1diX0ZNa1ZyeFhKdFJLbkpB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -512,6 +488,30 @@
    "text": "Indian passport service controversy: What Indian expats in UAE must know now - Gulf News",
    "time": "Tue, 07 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dtY29tMkdtRy1KM0EtWm15MFZxNzgzeUlFUHdPLTBoVU1jejQtQU9WeHZKWi0zTHpJWFFoLWVvWnQ2TFVXN0JLeHQ5SDkwYmJKQnlEMGxFaW1KQTI2UzBiSTZtdU1KSkhUVms2UGllS3IyeXRxNkwwdzZxRFhqYk5hckJHVjhCaUVCTkxDaUdma1lKZGFtTmxubmRiRnpJU1JBWXEwakZHWi1Yc0RfR3Rn0gHCAUFVX3lxTE1qNmhyX3d1cVhybUpiYWhuYW9JVHp0RE9lQjFoQmtSQUJYbFRRMTA2cUhpaU9UamFNbFBDQ2RtYnlybmNROEVDVkxvYVBJbEdiMGFEc0JNRnVQTUpVY2VqT0o2eVMtNDBBQW9KMWxQSUZrMmRVMHgyTDdPY1gybkN6T1F0OUVjWWtxaUF5czNQTXo4NjJMMWN2QmtJNWc2Q0xRbE1qcGx0aHhMZVdyVFpXS25PZjVZaldqWXF4SDRPaTFB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-b43a392451a2",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "Air India and Air India Express add 16 flights to UAE - Arabian Business",
+   "time": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVl0N3J3NjAwR2JrOVBMSlgwcGJsaFhwblR4TXRpQWl3NnkxR1ZNWmV2emNIZGJrMm5HbDd5NDE4aUdPcTJ1TlFkWHlJc3pUcWNuZkNUSWxxeGFHOHhHdlBwMGUxQ3RjcHloSXNkZUJveGc5c1lhZk1kV1NDUE1kWkttRTV3aGM1ZHlNMTdvT2JGQzFrRXR5WDZ0YVNac1hPaHNJMmNpTQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-dfa7966acb7d",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "UAE-India flights: Air India Express adds more flights on Middle East routes - Khaleej Times",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1poTW5lZ3JNYldKWmdJckdaUklyRllMWTd1aFQ5Uk9FbXBTUG1HS0pGdU1vRzVJNlIyV0c4bEVEbmF3MXFRNUVEaWRhdHNReG9qTnZRTUktWXVTRXlWMWllMmN5YV9tU3g5QnhJNksyeUZnX0ZGRjJSazVoc0xVdkNGTXBtQkl1NmxSNk0wOVE4NnF4MHRDNm84WTU3a2xENGVhX0xlajlyQlRlQjBIcDl4Y9IBuwFBVV95cUxPdUI0Y2E0SlU1NkFPQkJnUVFEWDVmdGV6aHNUbngydEZQS21jaWVxOUYwdXlTS0ZLTDVoaGZJN1VqWTlNa0xqaFk5Y0tzQkowTnZLTVBtTmJyR1lISk1FbmdGZmg5R05jREtFS0NkdU84Vk1sRVhnVDFmdDBKdWxfakxxblplc2R2cnVVakRUWHo1clNsTWJKaXhrNkFyMklpa01zckJlNzBDOGluMS1uaHhQRFN4TklZS0tr?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
