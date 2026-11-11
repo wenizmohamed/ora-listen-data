@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T22:12:54Z",
-  "total_verified": 200,
+  "generated_at": "2026-11-11T22:18:05Z",
+  "total_verified": 199,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 200,
+  "verified_mentions": 199,
   "sentiment": {
-   "positive": 7,
+   "positive": 6,
    "neutral": 182,
    "negative": 11
   },
   "channels": {
-   "press": 194,
+   "press": 193,
    "official": 6
   },
   "negative_alerts": 11,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 90
+   "count": 91
   },
   {
    "topic": "flights",
@@ -40,7 +40,7 @@
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 33
   },
   {
    "topic": "khaleej times",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0e91b8e63628",
+   "id": "bn-831d5283cf33",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4e85c38d54f2484c66c0d16abb113&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4e99b184b418693f18637a7033a59&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -409,18 +409,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a3de1da1a80b",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "Indian passport services in UAE: Everything expats need to know after embassy extends emergency-only applications - Arabian Business",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5naHBxVWRtSGxkWGVoQVcwekIwV3NSUEx3NGpMczV6WjZBcllCcUpxcTFDenFqalpQdjY3TVR3eHhyMHB5RzF4d20xMUtyYXRyN0pOd0hrbl9NenZrdXBPY3ltZ284TUhCV3ZwelphRmlJdlh1MXc?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-610377ab0854",
    "channel": "press",
    "author": "The National",
@@ -536,6 +524,18 @@
    "text": "Indian consulate in Dubai to remain closed on Wednesday - Khaleej Times",
    "time": "Tue, 13 Apr 2021 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjh5bWJNYnBWeVdCUVhSZnNZWWZYak85YnlLblc2STVzVmF4bWhwdmFpVXg0VEhvdkI3cnJQM0ZLWV9LcmNYbDB0T2FGTnF0NUVUeU5uN2xlVER6S0k1UkJXbkZXRWdhbU1SMmdEV3lzQy1JbkJVT1ZMSnZzQ21yQkpWb015SkJhbUpHMzBveTJoQdIBmgFBVV95cUxOQ3BQb2drQTRhbVZFOUdXWmVpYmZKaWlQZEQxN0JiQk1fV3dMbUFaUlVJYUtqam5KdHJ1dG9qTXZoUTFlQUlGQkx1YzZpMGdiam8yVzdpUzUxeVN2ckxPT3NIMUluallkNEVYeDdjQ04tcjMzU2ZJcFpPZVJxRDhvXzZ3dnQ2anpoX01JeFNTMnViU3RCVFRFOEdB?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-533d221ca5a3",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "Air India announces extra UAE flights, keeps Jeddah and Muscat routes operational on March 10 - The Times of India",
+   "time": "Tue, 10 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV21MS2lfakg5c2VqYUF4aG1BREszdjRnRlNrLXpmQ19iaVE5MEt5X3FwYWlGdHFEMDNfdElXb2I5aGhHVU91d1ByZVZpTzhBQVBXanJiSm9VQXFzSTJCdThRY1RFcG9DZkNtbHVpUlNLc0ExckJJVlpqdTJqRTUtdTk2RXBOR2QxWngtWWZGRUNsNi1Td18wV2o5Nl9FOThoUTJNN2RqQ1psN19jdE1CcllsQVhfeWs3Rmd3cHFZNWNzem9kbkJjdzB3RVExYVVlbUdST3lrSlZQVmtQN1RxZWdIS2t0T3hHWTVIV0Nmd1RIN294WkJHRlNQYXJUQkl1ZmJQSUVKREHSAY4CQVVfeXFMT0t5b1AzNEkwOVZEbVhiMVlvcG5WQ3l4ZkxSX1dDMzFRRTNxLW1sV2U1ZEpfa3ZHQU53VDNWa0hBVnF6YjMtVkJsck9LM2JXUjdNQ2xJejFFbnBFam9RNkFoS04xaXM4NzcweGtPZlk1dnFhbUZXa19iV015SEhrWEpXejVRUF9fbzdVRzd3eExweXBrNGpodVhnMElFR01HdENqTVFNTnFCUk1DbDFLMUNWakhmYlRsc1I5N3VYVlVEOHNaSzlzLWM2c2liMHd1Zl9fSDRBSjAyOU03WTFTZlBkelRuQ0VEckxHazVUQjFOQUxNa3cyTXhYM3lEb1diX0ZNa1ZyeFhKdFJLbkpB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
