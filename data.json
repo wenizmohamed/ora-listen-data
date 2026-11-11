@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T20:28:56Z",
-  "total_verified": 197,
+  "generated_at": "2026-11-11T20:34:07Z",
+  "total_verified": 198,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 197,
+  "verified_mentions": 198,
   "sentiment": {
    "positive": 7,
-   "neutral": 179,
+   "neutral": 180,
    "negative": 11
   },
   "channels": {
-   "press": 191,
+   "press": 192,
    "official": 6
   },
   "negative_alerts": 11,
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e7c1d48d0521",
+   "id": "bn-e76ac6152ff1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d0062da5436a9a08078197370383&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d13d4cbf41ee97da6255e8ae0129&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -236,6 +236,18 @@
    "text": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11 - Gulf News",
    "time": "Wed, 11 Nov 2026 07:43:39 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2xpX0ZYME5aYWY3MXpJNng5ck1nMUlKM3dETDE3TzZoZXFUQWpaMEIyOWV1NnJjQ3NwNzJuNEs0ZEpkUmRXSkhQbDlJbEtUQmF4ZExIN0hid09Wc1VVZ2pqRG1xRUl0ZU5Hb2g1UUdOUEowNFlfZnZlZUJhcGtFa1hhMXZ0R0VTbVgwSUwyMHgySlVwWE5Uc2lCYXZvOFJaNktXNXBnb2ZPTzBTanFGQXlHcHNJOWhhbkpHUWpyZG9iR2JWNkdXellyQ0Y1TmVaTHR4bDRMWkN6YXRwS09rcNIB8wFBVV95cUxPbHVic2ZscFRRbF9zYkhDdHlRVE5FUERGbVEzanlXaTI1enVQMDZFYjVXT1FuSkhtdVFFN3BrWkdYUzlxN2lETXNzdDBCZ0xVdi1MS1dvZE1Mc1lRSkZfeHBXbndMd0RLck1qNXIzYms1elpVRGNzSFJvMmQxdU1zNkhoNjNDenRTZU85cnFCWmRFVGYxVFVVZWs5N2RMX3ZmcVdZWDFTQTNUamZBTXNIUXpUb3hPNDRqcGJkaDd2dEVRNEZiQktIT0NBWDBGUkpaVFdsRHZya3BZYk5veUR0OFlOaGdHY094Q0VQMmNVNDFoa1k?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d684d19d3c08",
+   "channel": "press",
+   "author": "Condé Nast Traveller Middle East",
+   "role": "press",
+   "text": "Dubai and Middle East flight disruption: latest airline cancellations as Saudi Arabia faces fresh missile attacks - Condé Nast Traveller Middle East",
+   "time": "Wed, 11 Nov 2026 06:07:37 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdWVWWkVkXzRmQzYxcEFtZHZwUmVUZmNVdE8yVlNWeG1sdWhvQkhwamlMaUgwTEY4QXhpdzR2UlQ0cHF0NlRnZHVlRlhlSjk1TzhleGE2RkRmczhOOXdlemdTZGhzZzBsd3dUek1tMzBaeFBNV0NWMEVab0JzZHBQai1YdDYtMXJROWVBazM1R1hTMUVWX0dLMUFWbklIemtFamVpQXl6aG5zakZyRG9icGFRRUVtUklxLXgwTXhlellHazM1UnYtcWlSZzM5YXd5LWc3NWtwS3ZjQTJlQkdNV0Zn?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Air India, Air India Express adds 32 UAE flights amid regional tension - Gulf News",
    "time": "Tue, 10 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUlsWk51b1YwRTh0U3I4dFNaT2xHZ0ZTS1pvcXNDMFpEV3NERUIxbDZyM0M2XzZoNUgwQzJna1BEY3hvcHdUb1BmMEY2WXh1X0VfNV8xTHhrcjFHVmNFZWVoa2E1RHJJR2p3NUVjaF96WGdUSHRRZ295akRLSUlqQ3BiWlB5dFQ1SDhZTmZZU3U5cWo5XzhkTHVERHFXLTVzN2M3dlUwZXdiN1BaYW00MXZLaFcwLXAyazNZMA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1876c7653ee7",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
-   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
