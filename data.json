@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T21:05:22Z",
-  "total_verified": 199,
+  "generated_at": "2026-11-11T21:10:33Z",
+  "total_verified": 200,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 199,
+  "verified_mentions": 200,
   "sentiment": {
    "positive": 7,
-   "neutral": 181,
+   "neutral": 182,
    "negative": 11
   },
   "channels": {
-   "press": 193,
+   "press": 194,
    "official": 6
   },
   "negative_alerts": 11,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 89
+   "count": 90
   },
   {
    "topic": "flights",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-892b52972a98",
+   "id": "bn-51af0d51016f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d890c0174b058f4ee74412107cb9&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4d9c62c2d4747a200fdb47cdfb5e2&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -224,6 +224,18 @@
    "text": "Indian Embassy in Saudi Arabia warns of fake attestation services - Khaleej Times",
    "time": "Wed, 11 Nov 2026 16:58:40 GMT",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzk3Rm5NTDdzX0hqUXlhcVdFTzFwTWRlMHdEd3FlMWhYVHBpZFBFUnlWbzFmT0ZTMlJnTXlZU3dSS2RYUVBBSzE5cWRsUEVjTzgzcER1LVQwNDBZcnZNMVZlQk5pT01GRkIyZHVxbjl4TzZLbXZXM01lR2I1S1hQUlNUVnB5V29zMWY3eGVValp0TG5RYVFvbkNNXzRCeEh5NHMtTlVVUzd3TkdNYlHSAbYBQVVfeXFMT1BRV1BfOVdEUDRuODl6M1BSREFPZE9pZXZaTXZORVFHalNmUmxXdUwtRHMzS0NUaWFUbGdudktUWk9TSmVpN19hVHJ1dk1pclVhMXM1RXU2MnhydzhWX2xvN3FjMzRPT3FDVlNseDEwX2RZaGY2S2haUXBXM1Zydk5ibUJ0RVd1Y3ZfMlBlSEFUdHZmRG5aZkVKdEhjbXJicks3LUlUc2RBelRORll3eWxKdnUxemc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-81bc0635fcb7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "India's new visa rules: Tourist visa replaced, 70% less paperwork - Gulf News",
+   "time": "Wed, 11 Nov 2026 16:11:39 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXdJSkt1V1R6Y1UxTUxoMmRacnZ0RGpRV2FjSGdMalJkSnNxeDhZLUd0MXhUaDRVOEE2d1J3UkxWelNOTnFmUDZfWVp6UGRvUldNTl9fZDBJLVd1UzZiOU9FWEVfdlBpZ0FuLUxCaVU5Q3Fod2JVbWZyMHJfNU8yV0laam5UTFdZczZvYnhXVVc4YWxDdlZLclY5STlaeEFPUlVsalcteHJjc3VxNlhDTdIBxgFBVV95cUxObnZQY0xESzBCcDJVU29KVHFjU2dCeFBnVGREU2pvRER0S2FGc0Zjd0VXYll2ckJZZUZLQnZzV2xqbGJEQVQxb3E2RksxQjVRcm5nOERTM2owVkRBcUs0YTM5Nms3SXVyeE5IRjF3U1JIMzFKdDZzSXpFV0Y0dDBwNkNtM3pBekNYa2FJdjBLbFh3dUh4c2dpSzJBUzBFMl9BQ1VFeXA1WXZUalhia08tdm45U2N1RTAydUc4cFRtbGo2V1dXLXc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian consulate in Dubai to remain closed on Wednesday - Khaleej Times",
    "time": "Tue, 13 Apr 2021 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjh5bWJNYnBWeVdCUVhSZnNZWWZYak85YnlLblc2STVzVmF4bWhwdmFpVXg0VEhvdkI3cnJQM0ZLWV9LcmNYbDB0T2FGTnF0NUVUeU5uN2xlVER6S0k1UkJXbkZXRWdhbU1SMmdEV3lzQy1JbkJVT1ZMSnZzQ21yQkpWb015SkJhbUpHMzBveTJoQdIBmgFBVV95cUxOQ3BQb2drQTRhbVZFOUdXWmVpYmZKaWlQZEQxN0JiQk1fV3dMbUFaUlVJYUtqam5KdHJ1dG9qTXZoUTFlQUlGQkx1YzZpMGdiam8yVzdpUzUxeVN2ckxPT3NIMUluallkNEVYeDdjQ04tcjMzU2ZJcFpPZVJxRDhvXzZ3dnQ2anpoX01JeFNTMnViU3RCVFRFOEdB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-533d221ca5a3",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Air India announces extra UAE flights, keeps Jeddah and Muscat routes operational on March 10 - The Times of India",
-   "time": "Tue, 10 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV21MS2lfakg5c2VqYUF4aG1BREszdjRnRlNrLXpmQ19iaVE5MEt5X3FwYWlGdHFEMDNfdElXb2I5aGhHVU91d1ByZVZpTzhBQVBXanJiSm9VQXFzSTJCdThRY1RFcG9DZkNtbHVpUlNLc0ExckJJVlpqdTJqRTUtdTk2RXBOR2QxWngtWWZGRUNsNi1Td18wV2o5Nl9FOThoUTJNN2RqQ1psN19jdE1CcllsQVhfeWs3Rmd3cHFZNWNzem9kbkJjdzB3RVExYVVlbUdST3lrSlZQVmtQN1RxZWdIS2t0T3hHWTVIV0Nmd1RIN294WkJHRlNQYXJUQkl1ZmJQSUVKREHSAY4CQVVfeXFMT0t5b1AzNEkwOVZEbVhiMVlvcG5WQ3l4ZkxSX1dDMzFRRTNxLW1sV2U1ZEpfa3ZHQU53VDNWa0hBVnF6YjMtVkJsck9LM2JXUjdNQ2xJejFFbnBFam9RNkFoS04xaXM4NzcweGtPZlk1dnFhbUZXa19iV015SEhrWEpXejVRUF9fbzdVRzd3eExweXBrNGpodVhnMElFR01HdENqTVFNTnFCUk1DbDFLMUNWakhmYlRsc1I5N3VYVlVEOHNaSzlzLWM2c2liMHd1Zl9fSDRBSjAyOU03WTFTZlBkelRuQ0VEckxHazVUQjFOQUxNa3cyTXhYM3lEb1diX0ZNa1ZyeFhKdFJLbkpB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
