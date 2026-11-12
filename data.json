@@ -1,34 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-11-12T09:51:52Z",
-  "total_verified": 198,
+  "generated_at": "2026-11-12T09:57:04Z",
+  "total_verified": 197,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 198,
+  "verified_mentions": 197,
   "sentiment": {
    "positive": 6,
    "neutral": 180,
-   "negative": 12
+   "negative": 11
   },
   "channels": {
-   "press": 192,
+   "press": 191,
    "official": 6
   },
-  "negative_alerts": 12,
+  "negative_alerts": 11,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 89
+   "count": 90
   },
   {
    "topic": "flights",
@@ -36,7 +34,7 @@
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 41
   },
   {
    "topic": "services",
@@ -44,11 +42,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 28
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 28
   },
   {
    "topic": "express",
@@ -97,13 +95,13 @@
    "engagement": null
   },
   {
-   "id": "bn-3cfcba2d02da",
+   "id": "bn-bfe7d61cf88b",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af58c35ef63445ca6b77e2f56404102&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af58d6c247143b0b344cd4b9b624276&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -145,18 +143,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1baca4fefc31",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open - Gulf News",
-   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanF1b1BHZkFyNmRWeFVkUGFrdThRS1VyM2ZhSHlFSXhtZ2lvQVFFVkNsU2RuMkUxRF9RVGhHc2d6Nk1zX09STGhEdlpNRGtNRy12WXlSSENmOUJWZjNwY0JRRlRWRGxHc1JJb0NJaXVkUEdRckFnZ0VleDFXSDNhLWxtMFNRTVdGMnZsVlpDU2FqZXNoVU1xUVRQOWJ3TzVQZGdDMUFYQmxKVVdMYk1YSzZEeVRoOElnSjVBV01RWdIBzwFBVV95cUxQRzFvb0g5cGtwT3dJbjdFcVN4YTlpcWN0QWxSMjk5NWx5VmdDczg3V1NXQmdBZnJXZ05NVFFhSlRIS3VNOVI2ZmNXWGtyXzdDTlVwZ0w4aktaT21hbHA3Z0pTclZ3WGl1SXZaNTEtblJkOGdjZnV2MndhYXZ6QzJXZEdOQ2tzX3dOQk1YcDliVmF6b1Jzakd1b2RORFNiNnZHRl9STGFhWHNKU256OXpYTFdGbUxocGJwYmFYZ0tWNUpEd3BEUkdJWDd6aEdTZ1U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f118eb945c59",
    "channel": "press",
    "author": "Khaleej Times",
@@ -164,6 +150,18 @@
    "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1baca4fefc31",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open - Gulf News",
+   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanF1b1BHZkFyNmRWeFVkUGFrdThRS1VyM2ZhSHlFSXhtZ2lvQVFFVkNsU2RuMkUxRF9RVGhHc2d6Nk1zX09STGhEdlpNRGtNRy12WXlSSENmOUJWZjNwY0JRRlRWRGxHc1JJb0NJaXVkUEdRckFnZ0VleDFXSDNhLWxtMFNRTVdGMnZsVlpDU2FqZXNoVU1xUVRQOWJ3TzVQZGdDMUFYQmxKVVdMYk1YSzZEeVRoOElnSjVBV01RWdIBzwFBVV95cUxQRzFvb0g5cGtwT3dJbjdFcVN4YTlpcWN0QWxSMjk5NWx5VmdDczg3V1NXQmdBZnJXZ05NVFFhSlRIS3VNOVI2ZmNXWGtyXzdDTlVwZ0w4aktaT21hbHA3Z0pTclZ3WGl1SXZaNTEtblJkOGdjZnV2MndhYXZ6QzJXZEdOQ2tzX3dOQk1YcDliVmF6b1Jzakd1b2RORFNiNnZHRl9STGFhWHNKU256OXpYTFdGbUxocGJwYmFYZ0tWNUpEd3BEUkdJWDd6aEdTZ1U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -189,18 +187,6 @@
    "time": "Wed, 18 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWVPSTYtU3ozQU9GVjkwT0lETHYtRllpbjZ2c192dWRtdEc0dzBjV2ZvS2JpWkswTFN3NGcxbm5oaFBPU2o2V0Vqb2NCc2JPaGJWbk5ocWhWZXFMdnZBa296bUczODFfSFhsSmdsSlZfbTd6Q1ZKc01XT1hwUHpneUJ0QmFsOVAzeUdvZExIVlNGQ0pPWm1USGdlMjV3Si0tYkZXdEgzV2lZNWNSSnB2RkVzMDMxY0M4U1ZFNTRsN1IybjdPVjZtYtIB2wFBVV95cUxQcVk2NzhhMFpWbHQtUVowTDlEcnF2NEtNNXRLSzZEUG1JUjRRa1RrYlg5NElxUDRqOEZsSlBkMUpyaHdTZWhueEdYeGlqOTg0Wkh0R2lVWWUxSm1pUl9DNGNkaGZWSExZd3ByQi1FdGpYLWdoZmhHdUxYSWdQUWFrMUs0WVZjVi1VRWlKQTRxQms4S2VIRDNONW1QZDdnQ1RyYTM2Y0JCaTRnaUV3REt2U0tUTGRxUzhBNWVlWnNfQjFWd09tdDNDRENUTDBBdDVnZ2pBeUdHWDRtQ2s?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -469,6 +455,18 @@
    "engagement": null
   },
   {
+   "id": "gn-b531c4c6beda",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Coronavirus: Indian Consulate mobilises medical volunteers for Dubai isolation facility - Gulf News",
+   "time": "Tue, 21 Apr 2020 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUlkdklNRllBcVd1Unl1RFJFa2FMeW1ScHNTSkhzcFRmTkJnZi14MDhZWU13SlpuN2ZOZzZzVzhDclo4S0Rlek9tZGltUmV1TFN0YXRqbzNxUWVDLU9adVJkVXNHNkhwM2lyVVhZbm9udnZUNy1jeW5mUS1CS1dTTnFCaW1ORXZ6ZzE5NWF5ZjhCdTh2aGRvRTRxYUt6aU81WHduaUhLb2c0cjB1SlRaWDNmaGo0Z0lReXhpNW5kQdIBzwFBVV95cUxNV1lWb1FTNFVtcGp0SVM2V0F3TmI0S2thaXdQOTFPNEJGeHdTMEg2YTRwX1pHUkl2UUY4QU9RaF9qMEhqOTJCYkI1QjBNRXF5bG5DRnVMdXdUMUpqR0RJTlBsYmpDb1pXMklZRmxnSml3bnpBd1NTUDY3RFlWdHBlVzlkajVLa21wVm00bHJSeHFQYlpiUk9ZRjkyVklvYTZrZ19WcHRYTF9ZUFc3MlFFUk52aDg4NmZpOHhnTWVJZHVnRDltVXVubnZYZkE1ZjA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-2704522aa5b9",
    "channel": "press",
    "author": "Khaleej Times",
@@ -615,18 +613,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7ec08afce812",
    "channel": "press",
    "author": "Gulf News",
@@ -658,6 +644,18 @@
    "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
    "time": "Fri, 20 May 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c9575a3ee00d",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "UAE midnight crash: Several dead in Fujairah after truck hits multiple vehicles, police issues warning - The Times of India",
+   "time": "Thu, 12 Nov 2026 07:51:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUUwNkRmTkxMY0wyVWxmdkFmbE55c01ZQXNLOWxvVEVXWjRHTDlCbXFqaFR1dm9VbjgtRVc0ZDhZSGxEYUdkeGY2VjNCNmdrc0FSclUyY0JxRzJVNlZVRkdvcUFmOGZVa3RpYzJsTlhQN2NkaHpCbUNUck5mTWlwUFpORFAxNjRaY3dNV25SdjFpalhsUTNYN1FMVzVsSXJ6QjJTLXVyZXp0eFA4dVRGNkdOb1RnT25jOENFN3V0bV9XenBhMWYyZl9oUmk4TkswdjFtbjJwLTFDZFpXWWlEX09PcExUMHlFdzg0RVBVOW4xVzFxRFFYV1RvdjV2bkhENkM40gGIAkFVX3lxTE5MSmVNaVo3NnpDQ0pZRkVpN0REUDc2OUg1ZFdsa0gyc20zN3kyV3Q0T1dHdTFsQk5oRTZoYjA4bnFPdi00S0lEenZGa2R1QUgwTWRVdHFhUnFpc2ZZR0Y4OE9ubzdZSWh1WjZsVEt1ZWd0SFpaN0lYY0F2aGg4NTR6X0k4NGJ2ejJXZ1FXMkVLN194d2dsQW84bGp3OXBRMkdHUHlfLVN4eG44TTdmU01uc1JpRU5jbHRJQjh4eEw3OWtLek4yQ3hxU2VZaUUtU0NBR013a0FfTUhVcmowbDlYRHhrYjdyUkx4QUxUdFhNTV9QTmNBd3NkMTdkYkFyUGRGdXFrbDNweA?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
