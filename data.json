@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-12T00:43:46Z",
-  "total_verified": 200,
+  "generated_at": "2026-11-12T00:48:56Z",
+  "total_verified": 197,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 200,
+  "verified_mentions": 197,
   "sentiment": {
-   "positive": 7,
-   "neutral": 181,
+   "positive": 6,
+   "neutral": 179,
    "negative": 12
   },
   "channels": {
-   "press": 194,
+   "press": 191,
    "official": 6
   },
   "negative_alerts": 12,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 94
+   "count": 90
   },
   {
    "topic": "flights",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 41
+   "count": 42
   },
   {
    "topic": "services",
@@ -44,11 +44,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 30
+   "count": 31
   },
   {
    "topic": "khaleej",
-   "count": 30
+   "count": 31
   },
   {
    "topic": "express",
@@ -56,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 20
   }
  ],
  "mentions": [
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0d4b1f7b17e8",
+   "id": "bn-118ad6c53014",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af50bc0dddf41919f6c1920a24f3d3c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af50cf669eb48ea8a20308e146f9435&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -117,18 +117,6 @@
    "time": "Wed, 27 May 2026 22:37:35 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b93efcb98ba7",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai launches free interactive course on digital literacy, AI applications - Gulf News",
-   "time": "Wed, 26 Mar 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkFDQlY1SWw1RV9aNUZXaVJUb0ZMa0dHNVYtWkxHT2tOUVBFeXZMV3I4U2hkMnRadEFUTEhxRzMxenpMTFVuSHAtaHlES250Y3VzMmF4S19oVHZuLVhSS3IyU25iQzluOTJ4a1k2ZnBMS3ZGSXV5cE10bGFlQmhaVzA2WHlQd2ZaWlFQaEV4YXo3eWY2ZHk0YTRTUHZ4V2xrbkVFOVlySExZa3FsOFdScU9qWkZyZHlHQUlPZlBaUE9QNDNmNWkyU3VGLWdNajBYaWdhTDRjcDdCZw?oc=5",
-   "sentiment": "positive",
    "verified": true,
    "engagement": null
   },
@@ -539,6 +527,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-1876c7653ee7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
+   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -639,6 +639,18 @@
    "engagement": null
   },
   {
+   "id": "gn-06f14caee54c",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Scam alert: Indian Consulate in Dubai tells expats who to contact for repatriation help - Gulf News",
+   "time": "Thu, 21 Aug 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUJZWkRTdmpVckdLb0Q0T1dab0lGOHF6Y0VjMll0MVF2cVNVZENDRUpHSjBpTXpLUVdiQ3ZOQ1RQWVBmOV93TDdPcVU0eGREWFUwaG1nNEV4LUZKaEg1ZVpfcG1lM0lYUVhNTEdkOUtpZ1lIUVZHUy05d1VId2xPcFpTa3RBcjlESmNuQ1MwU2hzM2piLV9fdVZTTjdQYU1mRVB6dEIyWG1MV0ZsNzRTMFFON0JIZ3hxX1FSNFpqdk8?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-0b2fb200b002",
    "channel": "press",
    "author": "Gulf News",
@@ -646,18 +658,6 @@
    "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
    "time": "Fri, 20 May 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a4c92011e014",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai to issue tatkal passport same day - Gulf News",
-   "time": "Fri, 10 Jan 2020 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEUtVTF5Z2FYS1ZZNk1mLXpCT1VxWklsRFZPRjc3b2o0TGd6NFVBMzBsQ1dfRGROajU2VFVnVE5uVFBpeWpoc2VfeHZOdVdRV19kdUMzMXlQRGlYeXBEVHpnUHRSNF9wQVpjUklpRWtRb0o3eXhNTWFMcU5QY0d4d3Q1X3BvbHVCSHZxZ0VfSGxaWUphUFc4aVdfb9IBqwFBVV95cUxNYndHTFBLb2FKOS1XdjFEbnNmMkNVMUhsS2lMU0trZVg5dTV4QXF3Q2VFS284bnBvenROTW1IM0NoRFBMelVsaE1Ya1pfQ0lZNHp3T0ZQOGtEVHhWM2lZVEppOTd0bHRlVlJldkhzSzJhZGNHR0w0V1VDRnM4M2U5a3lnbzUwZDhaV09hMEtJT1lXb0hNMXpGaThQYmRyOHIwR3pmZmdUZERhVU0?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
