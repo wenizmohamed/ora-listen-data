@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-12T01:20:07Z",
-  "total_verified": 197,
+  "generated_at": "2026-11-12T01:25:42Z",
+  "total_verified": 191,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 197,
+  "verified_mentions": 191,
   "sentiment": {
    "positive": 6,
-   "neutral": 179,
+   "neutral": 173,
    "negative": 12
   },
   "channels": {
-   "press": 191,
-   "official": 6
+   "press": 191
   },
   "negative_alerts": 12,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 16
   }
  ],
  "mentions": [
@@ -97,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-89630ca32bd9",
+   "id": "bn-dd88d58a725d",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5143f617c429180bd0eaae2429a5b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5157cff5c48fb9f0850225c3d7d55&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
