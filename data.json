@@ -1,26 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-12T07:41:38Z",
+  "generated_at": "2026-11-12T07:46:49Z",
   "total_verified": 196,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
   "verified_mentions": 196,
   "sentiment": {
    "positive": 6,
-   "neutral": 180,
-   "negative": 10
+   "neutral": 179,
+   "negative": 11
   },
   "channels": {
    "press": 190,
    "official": 6
   },
-  "negative_alerts": 10,
+  "negative_alerts": 11,
   "handles_active": 2
  },
  "topics": [
@@ -38,7 +40,7 @@
   },
   {
    "topic": "services",
-   "count": 33
+   "count": 34
   },
   {
    "topic": "khaleej times",
@@ -95,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-0dc62c90eec3",
+   "id": "bn-ee9ab4df3125",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56daff98f4e46a925504e2d39b2e8&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af56ee6336141d0b137d0aaee9db4fb&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -246,18 +248,6 @@
    "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
    "time": "Wed, 11 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -537,6 +527,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-469c315ba625",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "By appointment only: Indian Consulate in Dubai says no walk-ins for passport services - Khaleej Times",
+   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDhaQmZDd1cwQ0pjTWVuUWJiaENnSGVZdzAtcDU4N0IyZ1dvb29KQ3Z4SERsRFdvbWs3eXNpdXY1c3dpLUhFMDZBd09ySHF0LVNWZkhRQWJWYXl5TXpRZ1ZZTUVnT3JpTGFEeEJNeW9kbjdJTnZ6WU90YXBRZ0M1ajlOa1IyV3VaTTJJcDNINkRmZHBDWEs5ZGZqdjBXYU9NOXR1V0h0UdIBrwFBVV95cUxQNFBtN1FYcWVGVU1CUUl3LTgtZ2NpNGdtX0QzajFiU1dFNzAzNnBkUTlCanBKdFJ6T1Y0S214anlkNUZoVDlLTE55bzh1cU9sM092cVUwc2syN3hqR1N5MUpqZ2hYTXREZTZEd1c2czlxX1R6YV9YSkR1eTFoWV9vX1VjN1VXeVRuMjl2cm93NzU0VUhOaWp5bi1EaDA0Mjc2bFZZd1dvWjBuQ0psaklZ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -649,13 +651,13 @@
    "engagement": null
   },
   {
-   "id": "gn-2853d472f742",
+   "id": "gn-d46ae6e1122e",
    "channel": "press",
-   "author": "Livemint",
+   "author": "Arabian Business",
    "role": "press",
-   "text": "Air India, IndiGo issue April 2 advisory: UAE flights resume, Dubai–Abu Dhabi routes partially operational - Livemint",
-   "time": "Thu, 02 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3M1TWotR1FKYVZZX1N2UHZRNWM2Y0R1YTBxVnYxNjVlS2xpTTdnVXJWRnpXWGNoWE0tS282ZXR4Q3kyTGtra2R0YmlzaWNobFZDNUtmU2VDRzdfenIyTkcya1ZDc2ZMSXBRVjVuWnhfMW00ZEVRS3VIUGl5eU9JN0J3TjYtS2tiWnN0R0JOYWRJWEVSN1NEcXNxTGdTeUF1SWJvRWZpNUU1M3dIcUd1VHFxQXMxODBxQkd3Y1VjOG5SMzhWdDQycnRoRHRJUHJwQWJzYWR4azB4clBxWHkzUXBwWnBFZHFMV1ZXUVJhU0bSAfYBQVVfeXFMUFZWY09mcTBpQzBQdW9URnc1XzVTN21ldGlva0NBRk5pZ25PRl9Rb3hNNDVDRlhkYnFjenk4SUpSQXJHWWdTTnNsZUptTlVudjdrMTdCWlFDVS1pUWlHVXYtNzMxdWdfQnJNQkxlRVF6NmFZRU9EdE1pbzM4bFpYNnQ1RE5jMzlETEVpbnBGMUM1OWVIR29kVl95SFo3YTVhTXJiNGkyUlJGSURBZFN3N0lHOFNITnNGNFJFNXBMWWtPdEZEOEdBRGxIR2dKdXp6Vm5Ba2luU3dMZjRXdDVHSXFrbVNFMzJfcHA5bm1WR2ZsTk5EMGdR?oc=5",
+   "text": "Air India West Asia flights March 21: Full list of UAE, Jeddah, Muscat services and suspended routes - Arabian Business",
+   "time": "Sat, 21 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnlPaGdBZERWMGdCZExuc3hWdU9WTnB5R1ZRSVdpcDFFeGQ4SHdyZkltY29WZEtVOElPUzAzd0RWWk9EaVhSM0pvd3NxbFJkZnNidTJZWW8xME5yXzlMVW95aHpBQ0cyQXBMS1gza3F2RGJUMnJtdlBoNG5nSzVULWNnalhtU0JuQi0tOEs5MlZvSUpaYUpiaEtJcDFLUlZ3SXkxZVMzaklUeXN5MzFNYjRkbUg1N2xHWjdILXJRaHFwdnAyX1N3cFhTZ2I0UjlJaWpOc3E0OC1tbVdNSVFPUUFB?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
