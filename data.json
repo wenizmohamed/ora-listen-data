@@ -1,41 +1,42 @@
 {
  "meta": {
-  "generated_at": "2026-11-12T04:55:52Z",
-  "total_verified": 190,
+  "generated_at": "2026-11-12T05:01:02Z",
+  "total_verified": 196,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 190,
+  "verified_mentions": 196,
   "sentiment": {
    "positive": 6,
-   "neutral": 173,
+   "neutral": 179,
    "negative": 11
   },
   "channels": {
-   "press": 190
+   "press": 190,
+   "official": 6
   },
   "negative_alerts": 11,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 91
+   "count": 89
   },
   {
    "topic": "flights",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "passport",
-   "count": 41
+   "count": 42
   },
   {
    "topic": "services",
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 16
+   "count": 20
   }
  ],
  "mentions": [
@@ -96,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b64998d978d8",
+   "id": "bn-b8af7869d441",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af546bef0204c059e3b158157527184&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5480bc47b4e569fe1d0996459c6bf&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -144,18 +145,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1baca4fefc31",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open - Gulf News",
-   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanF1b1BHZkFyNmRWeFVkUGFrdThRS1VyM2ZhSHlFSXhtZ2lvQVFFVkNsU2RuMkUxRF9RVGhHc2d6Nk1zX09STGhEdlpNRGtNRy12WXlSSENmOUJWZjNwY0JRRlRWRGxHc1JJb0NJaXVkUEdRckFnZ0VleDFXSDNhLWxtMFNRTVdGMnZsVlpDU2FqZXNoVU1xUVRQOWJ3TzVQZGdDMUFYQmxKVVdMYk1YSzZEeVRoOElnSjVBV01RWdIBzwFBVV95cUxQRzFvb0g5cGtwT3dJbjdFcVN4YTlpcWN0QWxSMjk5NWx5VmdDczg3V1NXQmdBZnJXZ05NVFFhSlRIS3VNOVI2ZmNXWGtyXzdDTlVwZ0w4aktaT21hbHA3Z0pTclZ3WGl1SXZaNTEtblJkOGdjZnV2MndhYXZ6QzJXZEdOQ2tzX3dOQk1YcDliVmF6b1Jzakd1b2RORFNiNnZHRl9STGFhWHNKU256OXpYTFdGbUxocGJwYmFYZ0tWNUpEd3BEUkdJWDd6aEdTZ1U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f118eb945c59",
    "channel": "press",
    "author": "Khaleej Times",
@@ -168,6 +157,18 @@
    "engagement": null
   },
   {
+   "id": "gn-1baca4fefc31",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open - Gulf News",
+   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanF1b1BHZkFyNmRWeFVkUGFrdThRS1VyM2ZhSHlFSXhtZ2lvQVFFVkNsU2RuMkUxRF9RVGhHc2d6Nk1zX09STGhEdlpNRGtNRy12WXlSSENmOUJWZjNwY0JRRlRWRGxHc1JJb0NJaXVkUEdRckFnZ0VleDFXSDNhLWxtMFNRTVdGMnZsVlpDU2FqZXNoVU1xUVRQOWJ3TzVQZGdDMUFYQmxKVVdMYk1YSzZEeVRoOElnSjVBV01RWdIBzwFBVV95cUxQRzFvb0g5cGtwT3dJbjdFcVN4YTlpcWN0QWxSMjk5NWx5VmdDczg3V1NXQmdBZnJXZ05NVFFhSlRIS3VNOVI2ZmNXWGtyXzdDTlVwZ0w4aktaT21hbHA3Z0pTclZ3WGl1SXZaNTEtblJkOGdjZnV2MndhYXZ6QzJXZEdOQ2tzX3dOQk1YcDliVmF6b1Jzakd1b2RORFNiNnZHRl9STGFhWHNKU256OXpYTFdGbUxocGJwYmFYZ0tWNUpEd3BEUkdJWDd6aEdTZ1U?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-ace823aaf70c",
    "channel": "press",
    "author": "Gulf News",
@@ -175,18 +176,6 @@
    "text": "India widens visa-on-arrival access for UAE travellers - Gulf News",
    "time": "Wed, 19 Nov 2025 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdE1YNks2MFlZb3JNaUlxV2ZoVWNZVmhaY1kxb2RlMWo5bS1QbnlXbGpNZGpvcXhuYzN0dGZQOEFVeDJXZzlBNzRNd1NXTmtOZms4OC1xQ1VpTFUtWHlUYm5pTnJ6SzN1RVRVTzV2OEx5bzdXX2ZUa0g1UkRmUEI4cXQtOWdNZWxrYVpGN0M2bTd0WkJwVTlBb3ZMMGRLTlJPUzFDUXNIMEHSAbsBQVVfeXFMT0dyMFBtNnREOElaVjJuM21OaXpxUmk4Y3Z0clUtRE9HSVJfaER6LURoRlYwRmxYNUNSalhTQlhnMDJfcW11TGxuWmRuTmRrbGRNZldua25VYXJkZXRzNnJmZVpDa01kdGl1OHZUdWtFcjVRUVR2dVZQcDBuWF9vTmtsekxkQlJJMlJudVVTZUpYcDBGdkJHMkgybk5HZXdmQVVOY2FzMldMMlFlMTR3QXpmclN2X0ZrRnczVQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c1a23955dfb7",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
-   "time": "Wed, 19 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -535,6 +524,18 @@
    "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
    "time": "Tue, 08 Oct 2024 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-469c315ba625",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "By appointment only: Indian Consulate in Dubai says no walk-ins for passport services - Khaleej Times",
+   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDhaQmZDd1cwQ0pjTWVuUWJiaENnSGVZdzAtcDU4N0IyZ1dvb29KQ3Z4SERsRFdvbWs3eXNpdXY1c3dpLUhFMDZBd09ySHF0LVNWZkhRQWJWYXl5TXpRZ1ZZTUVnT3JpTGFEeEJNeW9kbjdJTnZ6WU90YXBRZ0M1ajlOa1IyV3VaTTJJcDNINkRmZHBDWEs5ZGZqdjBXYU9NOXR1V0h0UdIBrwFBVV95cUxQNFBtN1FYcWVGVU1CUUl3LTgtZ2NpNGdtX0QzajFiU1dFNzAzNnBkUTlCanBKdFJ6T1Y0S214anlkNUZoVDlLTE55bzh1cU9sM092cVUwc2syN3hqR1N5MUpqZ2hYTXREZTZEd1c2czlxX1R6YV9YSkR1eTFoWV9vX1VjN1VXeVRuMjl2cm93NzU0VUhOaWp5bi1EaDA0Mjc2bFZZd1dvWjBuQ0psaklZ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
