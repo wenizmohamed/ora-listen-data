@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T05:00:29Z",
-  "total_verified": 203,
+  "generated_at": "2026-11-13T05:05:39Z",
+  "total_verified": 202,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 203,
+  "verified_mentions": 202,
   "sentiment": {
    "positive": 6,
-   "neutral": 182,
+   "neutral": 181,
    "negative": 15
   },
   "channels": {
-   "press": 197,
+   "press": 196,
    "official": 6
   },
   "negative_alerts": 15,
@@ -32,7 +32,7 @@
   },
   {
    "topic": "flights",
-   "count": 54
+   "count": 53
   },
   {
    "topic": "passport",
@@ -52,7 +52,7 @@
   },
   {
    "topic": "express",
-   "count": 27
+   "count": 26
   },
   {
    "topic": "advisory",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-77468cbe6780",
+   "id": "bn-242a19a85899",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6996cbdd347138d57f363a9188342&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af69aa2c6cf445191b4d2e4454a34f1&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -229,6 +229,18 @@
    "engagement": null
   },
   {
+   "id": "gn-7c248b5ddd74",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
+   "time": "Wed, 11 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-5d8079037a6f",
    "channel": "press",
    "author": "Gulf News",
@@ -241,13 +253,13 @@
    "engagement": null
   },
   {
-   "id": "gn-c7524b6da74e",
+   "id": "gn-cb3c08c175d4",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
    "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-6fa0917223c4",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Air India Express expands India-UAE flights, adds more Gulf connectivity this winter - Gulf News",
-   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWw4RkxGTkR3OHNrUlJFUTBJcHMwbkVuQVlTeHRwX1Y4WXRyQ1JVcmJMcHNsQjFVaE5Yb1ItRUpRdGpOWEYwNWdmRDVzNzVhb0swVk5Ha0tPelIwb1ZmeXFsaGF3Q2xhX1ZPSzlCbW5nU0djR0x4Wk5XUVphRHZXT0hOTS1CbGtPVlVyanRORUNzRjdPVEV5djNzZEVxWnFyU3luSldRQ25ZNTN5MjBOTDNLWTB4QTJpTGp2TGIzXzJWNUtFeEw3TzNOWnNiSFXSAeIBQVVfeXFMT0xISzI4Z2RCNFVTel9QRUQ4SElQRDBwQ3BRSjhnenpOWGhfVXBKLTM3c3NHV0pFbmJSbk5scndLYkdBSksxSk8xdXRYTXowSlJkOGMtMDVhRnFodENldHZ3QlVQQVhZV2JEY1dIWm1kcU1sb0VoR2xOZ2VaV3lVZVc3c0t5dWk1VW02R054ZlFXSjUtaTdZNWRWZ3F3NWpuUElvN0M4T3hnYlVpTnhRVzJyekw2cXZCYnZzSzF0LTNiUUZJQWtRTmtGVG1TanlDb3JzMXJqNVJubEdIN05HenBZUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -567,18 +567,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a52754f1ddfd",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
-   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-1c60f8097ce1",
    "channel": "press",
    "author": "Khaleej Times",
@@ -586,6 +574,18 @@
    "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
    "time": "Thu, 18 Sep 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a52754f1ddfd",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
+   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
