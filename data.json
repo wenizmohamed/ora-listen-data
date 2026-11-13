@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T12:19:21Z",
-  "total_verified": 208,
+  "generated_at": "2026-11-13T12:24:54Z",
+  "total_verified": 202,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 208,
+  "verified_mentions": 202,
   "sentiment": {
    "positive": 10,
-   "neutral": 184,
+   "neutral": 178,
    "negative": 14
   },
   "channels": {
-   "press": 202,
-   "official": 6
+   "press": 202
   },
   "negative_alerts": 14,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 18
+   "count": 14
   }
  ],
  "mentions": [
