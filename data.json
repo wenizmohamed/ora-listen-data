@@ -1,33 +1,34 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T04:44:47Z",
-  "total_verified": 197,
+  "generated_at": "2026-11-13T04:49:58Z",
+  "total_verified": 204,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 197,
+  "verified_mentions": 204,
   "sentiment": {
    "positive": 6,
-   "neutral": 176,
+   "neutral": 183,
    "negative": 15
   },
   "channels": {
-   "press": 197
+   "press": 198,
+   "official": 6
   },
   "negative_alerts": 15,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 91
+   "count": 92
   },
   {
    "topic": "flights",
@@ -35,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 43
   },
   {
    "topic": "services",
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 15
+   "count": 19
   }
  ],
  "mentions": [
@@ -96,13 +97,25 @@
    "engagement": null
   },
   {
-   "id": "bn-0d2168f60c7c",
+   "id": "bn-be8d94fc4910",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af695a6c454495b8fad294995505407&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af696f5f1f24110a6df5bbf78eb0647&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-645ef9fa226e",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE address in Indian passport: Consulate clarifies expats' doubts - Gulf News",
+   "time": "Wed, 28 Oct 2020 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0Vfa1AyaklPbmh4aWk4WldiU3BnclltSlZhQlZtRDk2TTdsM3B4WENtQVl5NVZHZ05VS290SGZ3NXdjZDdvU25kOVJwdWhlbUg2Y21pXzllMjdHWUVsRUplbGQ2Qks1UFl5aF9ldVFsVUs5RTUtRTJnTzdqdlZ6S0c4ZGNZbTFyWDdLekpCU3B4bjhYNExycFNxYXAwYnR3TUHSAbIBQVVfeXFMTkFFMHVHRTRZYVJ1a1h4MzFuemlzNnY4LTFKZFpOMklBclowSmRlb1NzTWRaRllSMUd3UmNXUFJmRllITkxnNUtCZ1RyemVKdjdfd0loZV9FeEY0djVsUW9EaldDdHNJQXZDeVE3dEgxY20tdlA0TTJQc3BhX1BhZlJWdVBBZVhzOXhIaEpqWkJ6cUp5N1NidTg5V0VFVkJaVUIxU2R1dTltaUJMazlzVzNCUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -240,13 +253,13 @@
    "engagement": null
   },
   {
-   "id": "gn-cb3c08c175d4",
+   "id": "gn-c7524b6da74e",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
    "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -463,18 +476,6 @@
    "text": "Indian consulate in Dubai to remain closed on Wednesday - Khaleej Times",
    "time": "Tue, 13 Apr 2021 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjh5bWJNYnBWeVdCUVhSZnNZWWZYak85YnlLblc2STVzVmF4bWhwdmFpVXg0VEhvdkI3cnJQM0ZLWV9LcmNYbDB0T2FGTnF0NUVUeU5uN2xlVER6S0k1UkJXbkZXRWdhbU1SMmdEV3lzQy1JbkJVT1ZMSnZzQ21yQkpWb015SkJhbUpHMzBveTJoQdIBmgFBVV95cUxOQ3BQb2drQTRhbVZFOUdXWmVpYmZKaWlQZEQxN0JiQk1fV3dMbUFaUlVJYUtqam5KdHJ1dG9qTXZoUTFlQUlGQkx1YzZpMGdiam8yVzdpUzUxeVN2ckxPT3NIMUluallkNEVYeDdjQ04tcjMzU2ZJcFpPZVJxRDhvXzZ3dnQ2anpoX01JeFNTMnViU3RCVFRFOEdB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-bd10ea6eb943",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "UAE Minister leads Indian Consulate’s Community Run under Dubai Fitness Challenge - DD News",
-   "time": "Tue, 10 Nov 2026 18:35:06 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmc2SE9pRUYxdmFiREFCNGtoYkEzQk84R3RqWldXNEladS1ZMzk4V3pOZlpodGo5WlYzeUo4NGdJMlB6Xy1Td1AxaDlFNHJmOVd6OE81RzNXbFQwXzBmVzY1aHozWGRxaVJiTUdRLVRGOElzWkpfQlFtMlNVakYxYlVKSXhLNDZCMmZxbU5hRWIxMjkzMDhKYWI4bmpmbWZxbUhQbG12dTZPdw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
