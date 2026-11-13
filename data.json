@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T19:53:32Z",
-  "total_verified": 206,
+  "generated_at": "2026-11-13T19:59:06Z",
+  "total_verified": 201,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 206,
+  "verified_mentions": 201,
   "sentiment": {
    "positive": 10,
-   "neutral": 182,
+   "neutral": 177,
    "negative": 14
   },
   "channels": {
-   "press": 200,
-   "official": 6
+   "press": 201
   },
   "negative_alerts": 14,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 94
+   "count": 93
   },
   {
    "topic": "flights",
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 18
+   "count": 14
   }
  ],
  "mentions": [
@@ -97,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-78b545713555",
+   "id": "bn-f28f46978369",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af76ab0da304364833a811630c2fa20&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af76bf070154c2795a71287f9cc5a4e&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -224,18 +223,6 @@
    "text": "Air India and Air India Express ramp up GCC operations with additional flights - Gulf News",
    "time": "Wed, 18 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWVPSTYtU3ozQU9GVjkwT0lETHYtRllpbjZ2c192dWRtdEc0dzBjV2ZvS2JpWkswTFN3NGcxbm5oaFBPU2o2V0Vqb2NCc2JPaGJWbk5ocWhWZXFMdnZBa296bUczODFfSFhsSmdsSlZfbTd6Q1ZKc01XT1hwUHpneUJ0QmFsOVAzeUdvZExIVlNGQ0pPWm1USGdlMjV3Si0tYkZXdEgzV2lZNWNSSnB2RkVzMDMxY0M4U1ZFNTRsN1IybjdPVjZtYtIB2wFBVV95cUxQcVk2NzhhMFpWbHQtUVowTDlEcnF2NEtNNXRLSzZEUG1JUjRRa1RrYlg5NElxUDRqOEZsSlBkMUpyaHdTZWhueEdYeGlqOTg0Wkh0R2lVWWUxSm1pUl9DNGNkaGZWSExZd3ByQi1FdGpYLWdoZmhHdUxYSWdQUWFrMUs0WVZjVi1VRWlKQTRxQms4S2VIRDNONW1QZDdnQ1RyYTM2Y0JCaTRnaUV3REt2U0tUTGRxUzhBNWVlWnNfQjFWd09tdDNDRENUTDBBdDVnZ2pBeUdHWDRtQ2s?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c91dc2be06a6",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Embassy in UAE issues warning against new scam by imposters faking its social media handles - Gulf News",
-   "time": "Wed, 17 Aug 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY29WUFdNWUlFZkwxb0tTVGk4TzU2dFVvV1FSQ3hhcTkxVkh6cTZWa2pFeG0zMkRnd2tnbkpJTlpQY3o0a2JWWUU4bWxhVU1ncEJ6M05Ua25hVjlCS0dOMGtMTmMxOC1ZNlNMOHU4c1V6NDU3a3J5bzdQaFZwVndTWjlRSkNZQWdnWUlVenRhSUNoQXlOZUVzNENJdG42QTBNVWR4cy1YcV9EeGVfOFZuY2g3Z2NYMjJ0RExOWC16MjNtQWJpVS11M2ZLYW9Rc3M?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +523,18 @@
    "text": "By appointment only: Indian Consulate in Dubai says no walk-ins for passport services - Khaleej Times",
    "time": "Tue, 07 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDhaQmZDd1cwQ0pjTWVuUWJiaENnSGVZdzAtcDU4N0IyZ1dvb29KQ3Z4SERsRFdvbWs3eXNpdXY1c3dpLUhFMDZBd09ySHF0LVNWZkhRQWJWYXl5TXpRZ1ZZTUVnT3JpTGFEeEJNeW9kbjdJTnZ6WU90YXBRZ0M1ajlOa1IyV3VaTTJJcDNINkRmZHBDWEs5ZGZqdjBXYU9NOXR1V0h0UdIBrwFBVV95cUxQNFBtN1FYcWVGVU1CUUl3LTgtZ2NpNGdtX0QzajFiU1dFNzAzNnBkUTlCanBKdFJ6T1Y0S214anlkNUZoVDlLTE55bzh1cU9sM092cVUwc2syN3hqR1N5MUpqZ2hYTXREZTZEd1c2czlxX1R6YV9YSkR1eTFoWV9vX1VjN1VXeVRuMjl2cm93NzU0VUhOaWp5bi1EaDA0Mjc2bFZZd1dvWjBuQ0psaklZ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-209a2e9038f8",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian passport service controversy: What Indian expats in UAE must know now - Gulf News",
+   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dtY29tMkdtRy1KM0EtWm15MFZxNzgzeUlFUHdPLTBoVU1jejQtQU9WeHZKWi0zTHpJWFFoLWVvWnQ2TFVXN0JLeHQ5SDkwYmJKQnlEMGxFaW1KQTI2UzBiSTZtdU1KSkhUVms2UGllS3IyeXRxNkwwdzZxRFhqYk5hckJHVjhCaUVCTkxDaUdma1lKZGFtTmxubmRiRnpJU1JBWXEwakZHWi1Yc0RfR3Rn0gHCAUFVX3lxTE1qNmhyX3d1cVhybUpiYWhuYW9JVHp0RE9lQjFoQmtSQUJYbFRRMTA2cUhpaU9UamFNbFBDQ2RtYnlybmNROEVDVkxvYVBJbEdiMGFEc0JNRnVQTUpVY2VqT0o2eVMtNDBBQW9KMWxQSUZrMmRVMHgyTDdPY1gybkN6T1F0OUVjWWtxaUF5czNQTXo4NjJMMWN2QmtJNWc2Q0xRbE1qcGx0aHhMZVdyVFpXS25PZjVZaldqWXF4SDRPaTFB?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
