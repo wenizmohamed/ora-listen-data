@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T21:39:37Z",
-  "total_verified": 205,
+  "generated_at": "2026-11-13T21:45:18Z",
+  "total_verified": 202,
   "channels_live": [
    "press"
   ],
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 205,
+  "verified_mentions": 202,
   "sentiment": {
    "positive": 10,
-   "neutral": 181,
+   "neutral": 178,
    "negative": 14
   },
   "channels": {
-   "press": 205
+   "press": 202
   },
   "negative_alerts": 14,
   "handles_active": 1
@@ -27,19 +27,19 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 97
+   "count": 94
   },
   {
    "topic": "flights",
-   "count": 57
+   "count": 58
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 43
   },
   {
    "topic": "services",
-   "count": 33
+   "count": 31
   },
   {
    "topic": "express",
@@ -47,15 +47,15 @@
   },
   {
    "topic": "khaleej times",
-   "count": 24
+   "count": 26
   },
   {
    "topic": "khaleej",
-   "count": 24
+   "count": 26
   },
   {
-   "topic": "business",
-   "count": 13
+   "topic": "advisory",
+   "count": 14
   }
  ],
  "mentions": [
@@ -96,13 +96,25 @@
    "engagement": null
   },
   {
-   "id": "bn-cb22dd5ec5a7",
+   "id": "bn-7fab5613f6ab",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7837f3ac74639b7aa9c9fe1b48f0e&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af784d467694a6b89165d824f14a639&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-645ef9fa226e",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE address in Indian passport: Consulate clarifies expats' doubts - Gulf News",
+   "time": "Wed, 28 Oct 2020 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0Vfa1AyaklPbmh4aWk4WldiU3BnclltSlZhQlZtRDk2TTdsM3B4WENtQVl5NVZHZ05VS290SGZ3NXdjZDdvU25kOVJwdWhlbUg2Y21pXzllMjdHWUVsRUplbGQ2Qks1UFl5aF9ldVFsVUs5RTUtRTJnTzdqdlZ6S0c4ZGNZbTFyWDdLekpCU3B4bjhYNExycFNxYXAwYnR3TUHSAbIBQVVfeXFMTkFFMHVHRTRZYVJ1a1h4MzFuemlzNnY4LTFKZFpOMklBclowSmRlb1NzTWRaRllSMUd3UmNXUFJmRllITkxnNUtCZ1RyemVKdjdfd0loZV9FeEY0djVsUW9EaldDdHNJQXZDeVE3dEgxY20tdlA0TTJQc3BhX1BhZlJWdVBBZVhzOXhIaEpqWkJ6cUp5N1NidTg5V0VFVkJaVUIxU2R1dTltaUJMazlzVzNCUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -115,6 +127,18 @@
    "text": "UAE Honours Indian Embassy, Consulate at MoFA Excellence Awards - News On AIR",
    "time": "Wed, 27 May 2026 22:37:35 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d74d66241f97",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "UAE: Indian Consulate to organise walk-in passport service camp - Khaleej Times",
+   "time": "Wed, 25 May 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHVLa3BKbjJXajBURlNDbEtXcnVlTkQzZFVscG9TTV9wMnVoZS1JWjhpNTlNXzZxWW83MEl0eUQ5c0FnWjFMcDRXRWg4ZXZkMjB4NnJDRnRiMVQ0Q0lRN3RNN2o3bmJWS2dJR2xBbUZZTzVQdnRsdjJIdE1JYlZSX2RGSTNrUUZLZHYxUk9OQ3NaeXBjY3hhb1VXONIBowFBVV95cUxQR0paRWlhOVM2bkFLSk4xbmlXOVRPdlNlWGV6dFNqdW1rMmdUbi14YzdEbGpEZXRLcENnOHJ3ZHd6eFA1R3J0Q0Q5WW5PUzRPLUdyaUNvTkpJQUxzcnE2NTNlUVhIS2U4bGVGRjBKX2M5R1p4bzRWOElIZFVQb19uYUJ0RkpMbllKVXNVZ1VoQXpFbV92dlgxc2JrRWdwTTBLWTMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -264,18 +288,6 @@
    "engagement": null
   },
   {
-   "id": "gn-0747d26b4706",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Want to work with Indian Consulate in Dubai for over Dh8,500 salary? Here is a job vacancy - Gulf News",
-   "time": "Wed, 03 Mar 2021 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWFRxUkNUMWNoR050b18xT01kVUVDbnZQdXVtYXpTODVPdF9PYjZBQlg0ZXJUYTZzUjV0Q1RvaGU4SGVxSWFNOWZjUmZkbVF5a0dsTW52VU81alFTVnlSUl81U3pXQi13T1FYZnozcU4zUG8zVUttQjhhdXJ3VHV0RUJqWEtxSE9YaXYzNVBJTm1wb25ndDcwYlJfMzVUaW5FSFU3c3lpTW1KX2dwOHlkRjh3Q1lsZWZhQ2ROdW9vTC00UdIB0gFBVV95cUxQU1VidU5yMHNnYmNuY09oWXNCQ05BUHdxeVo2TzF0SjVVazl0VmVxVkZXeGdWVjdXWEswQlQ0Vk1femJZcnlTbUh4dHlPZXV3ajE5SGRTX2VIZXlNMGtvWXphRU5FN3ExWGsyV0phVFZBLWVnWld2Ri1MWUVHcTc1X2JwWkNxLXlwYkJ3dUEwTzZpQzc0RUo1bXZGTlpVZGVJMDY1RUNkM1hicGIwY1JvVzdHRmp3dDZ5VXh2TG1XeS0zQUlsZnVjZmVseVowZDlVenc?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c9f09a0a23ec",
    "channel": "press",
    "author": "Khaleej Times",
@@ -307,18 +319,6 @@
    "text": "Indian Consulate in Dubai facilitated 15,000 UAE amnesty seekers - Gulf News",
    "time": "Wed, 01 Jan 2025 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB0gGzAUFVX3lxTE1QZnJHcEVTRWVOSmNMWnFZN2Jia1dJaDhDeXNrN3Juc0E5X1MyWUhVUjJRcFl1VGkxNjhkaERoZ1JqNXBQb3Q3OXE4VnJ6TWVjenBKcVYyeG52NFBNSDhYcWN1S3lmd3Q2a0JmQzFKSXFoYkNLcjlVWEt5OFVaanJfcWwySnk4dDYzYTEzSXpoU0gwY3F5OUtPdlFIRUp1cHhNRFE1UnJNemlhbWJSbzBZQ1pJ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-5b41ac567dbd",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Indian Consulate in Dubai allows Class 12 students to get NRI certificates through one-time walk-in on Ap - The Times of India",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPN3RuaE1FX05sMzJfbUFkXzk0VmdlSWJBeExHczkzV25xWFVLdUlsYW03aTRjM2cwLUV3WG0yQVg0UHdadjRaNUxSMDhlWExmS1I3TWx0WkpoYmF5VXFCWGFqaVB3Qld6T2pUOFZoZ2dXRGpQdEdjQ21RNGpVYko4OXZiNGJFTGRieF8tMWh1YnpFRjU2MGs0ekhHN2l0b3I2a196RXU2eEIyZ1VsdTBnT2lCdXhzd003RjRlQ1VpM1VLemxUQWI1MHg2dnNyczE0aG5QM0FoN01pWW5WOFd3bEdseHRKRU9fOXg3dXNaY2J0dmRDLXI1ZFhBaDU5d2trcFpTTndvUkdOa1pDVElrQmxOVlFEcWxKT0NUVHhyemRyaFJ6SEHSAasCQVVfeXFMTnlvcGlkRk9McnR2MzMySUZGVUFMM09YaFg2OEprTHFMcE8xejk5UmlxYVpkVTlMVkhtaVZrMmlnT1hEb0pRWV9UV2JJaTVTVTJKSGhRRG5fTDlsWGtPUjAzMkpJR00zT2hTQkYyellrQ2MzVkZLOXFTUjhlelAxUVpCQ0FIYnd3VmJoSXJRM0ZnbGpGNVNfMmE0UGZlSmY0RVRfTk5pZnk2SEVtTVNGdjZYc3JDek1hMVRfZXhuN3pTR1dLcjczeGJSQ1hDZDhqTGI4RmZjd0JiNHJxckpzM0dpRGx2UENYZnZ4Y2NXQ2Z5dUZHWTBvNmt4VHB0QWhLSXgyMlM4Y1NQWW5WSElzNTNnSG5GZ291bWJXMmVjTklWZkhkSXBjUkFTZnc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -432,13 +432,13 @@
    "engagement": null
   },
   {
-   "id": "gn-d86f65965898",
+   "id": "gn-b531c4c6beda",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
-   "text": "Indian Consulate Dubai team wins 8th Diplomat Cricket Championship hosted by Skyline University College - Gulf News",
-   "time": "Tue, 23 Jan 2024 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaUZwNUZGNENNUDI5Z3l4TEloR2hmT0NKNGNIRzZKeVNlNGJOOTV6NFZqWXQxdkRuWWdPemMwSWRlc05GRjhtLTBFMUZ4c0loVXUtNHdHLXpreUk2RDFzaWtLQUt0YTJNOGh2ZkJVZUZiTENwQkhDc0p6NUpOMGI5bTVHakU2YUZNQ0YxN2VDRGhyZ3ZJaXc4UHdraEc5S0lWSDgtVTJCRmIzdEtzVWNPM19qY0xMa3RSZ0VPX2Y0SHdfeHhHU0wtUVRTQVE5M1kxMkE2SV9RWFFmTUMxNTdXN2ZtUWI2S1ZMcnhHY0UwemhJUzQ2dzdF0gGKAkFVX3lxTE5tS3lYUkgtYkgyYi0xMlVrazlPTEtxek0yTldOSVJXaDNYdHNfZFJCTWtIa3hfOFpNQ1M4eFA2ZGpGeFZwVDZrb2lYdlVqeUFfREVpbXRXMmNvVE1JSTdZTmFDYW1qanZ3aFJtbldFX3FaMV9xVUJUSDgxQ2FZRUJmOEEzaEN4WDNMSEpXQjNLeEVRTWFQUzM4bWdsNVk0NUZlQkpsRmZIbF82cHNoWUFxenplNmtxT2F5MGZCYUJJWlkza0xRNDJ2b0FxV19SeWU2SkdFU0UtNm5HM3MxNkJiX3ppeUE4TnoxdzBKUzhwNTFrOHNMZjdja09fMVRjU1I2aWRraHlVandR?oc=5",
+   "text": "Coronavirus: Indian Consulate mobilises medical volunteers for Dubai isolation facility - Gulf News",
+   "time": "Tue, 21 Apr 2020 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUlkdklNRllBcVd1Unl1RFJFa2FMeW1ScHNTSkhzcFRmTkJnZi14MDhZWU13SlpuN2ZOZzZzVzhDclo4S0Rlek9tZGltUmV1TFN0YXRqbzNxUWVDLU9adVJkVXNHNkhwM2lyVVhZbm9udnZUNy1jeW5mUS1CS1dTTnFCaW1ORXZ6ZzE5NWF5ZjhCdTh2aGRvRTRxYUt6aU81WHduaUhLb2c0cjB1SlRaWDNmaGo0Z0lReXhpNW5kQdIBzwFBVV95cUxNV1lWb1FTNFVtcGp0SVM2V0F3TmI0S2thaXdQOTFPNEJGeHdTMEg2YTRwX1pHUkl2UUY4QU9RaF9qMEhqOTJCYkI1QjBNRXF5bG5DRnVMdXdUMUpqR0RJTlBsYmpDb1pXMklZRmxnSml3bnpBd1NTUDY3RFlWdHBlVzlkajVLa21wVm00bHJSeHFQYlpiUk9ZRjkyVklvYTZrZ19WcHRYTF9ZUFc3MlFFUk52aDg4NmZpOHhnTWVJZHVnRDltVXVubnZYZkE1ZjA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -638,6 +638,18 @@
    "engagement": null
   },
   {
+   "id": "gn-698978bde6a1",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Indian Missions in the UAE Issue Detailed Guidelines on two-month amnesty scheme - News On AIR",
+   "time": "Mon, 02 Sep 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2dyejdQTHI0VG5taTVKNVY2U2d2MGFHSlF6Y3FjME9fUXRmOVpFMzRXNll0WDVhZGtkb2RvRzlweHpQRHg1ZHk5Slp3ekp3SWFITC1YOE0yOXRyZ0NMRDB0eDBfak9SZFhPa005THFha19zUmVua2RzcUstNTdNaGtWUEhpcTV2dlQzMzZTV3ZLWURy?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-0b2fb200b002",
    "channel": "press",
    "author": "Gulf News",
@@ -645,18 +657,6 @@
    "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
    "time": "Fri, 20 May 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-f7c11b5a9e50",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai to hold Passport Seva Camp on June 26 - Gulf News",
-   "time": "Sat, 18 Jun 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTlOdE1tNWRVOF9semxpOVp0aHVlSmQ5RWY1VjNWam8wR0pndmV5VXJCVWNDZkloUUtBMnUxUFY3RGtSVTh2bnA1YzRkVGYxQ3JpS0pkNDRDV04tNXhLV092NFJQcTJfWVg1cjltNTZJRHFucEp2OEVLRlhTRlBGZWNjeDJYcURUQmx4aUNfem5mSi1IMVlYY3M0aHVFbFpX0gGwAUFVX3lxTE1BdW9hTnV6cW03VGE4aWM5Y3Q1MTZCYmNWQ3M0VHpFWnhvXzFmTTI1ZmdINzJUMGJqdTd4aW1yRThhaWNHT3owZnhBODA5dkdHSU9NRmNxbXF2MUdfZXJjb2ExZW5ESjdkVXI1R2xPVmFKdmhSeVpvQ1ZNMFJYWmpYZXZuVW1xRHpveng5b3VMLUdVUmJvNXQ0ZG1xaEN3Tks4eGRHTzlrSG1LVDhILW0z?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
