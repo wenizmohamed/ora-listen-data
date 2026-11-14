@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T11:04:58Z",
-  "total_verified": 211,
+  "generated_at": "2026-11-14T11:10:32Z",
+  "total_verified": 210,
   "channels_live": [
    "press"
   ],
@@ -12,16 +12,16 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 211,
+  "verified_mentions": 210,
   "sentiment": {
    "positive": 9,
-   "neutral": 188,
-   "negative": 14
+   "neutral": 186,
+   "negative": 15
   },
   "channels": {
-   "press": 211
+   "press": 210
   },
-  "negative_alerts": 14,
+  "negative_alerts": 15,
   "handles_active": 1
  },
  "topics": [
@@ -35,11 +35,11 @@
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 40
   },
   {
    "topic": "services",
-   "count": 33
+   "count": 32
   },
   {
    "topic": "express",
@@ -47,11 +47,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 26
+   "count": 25
   },
   {
    "topic": "khaleej",
-   "count": 26
+   "count": 25
   },
   {
    "topic": "against",
@@ -96,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-6059a259ca31",
+   "id": "bn-22e290823638",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84042dd7d48cfa271a9786be44841&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84190bf20420d8cff9eafa5376684&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -348,18 +348,6 @@
    "engagement": null
   },
   {
-   "id": "gn-e911168925b5",
-   "channel": "press",
-   "author": "curlytales.com",
-   "role": "press",
-   "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-610377ab0854",
    "channel": "press",
    "author": "The National",
@@ -538,6 +526,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-b71c00c30c50",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Captain Machchhar making ‘steady progress’: Indian embassy in UAE - DD News",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGtOR1JUNW14RE1CWUItTC1vT1ViX0pqMWNIWlh1WmhZM0lOQjFfQnIyTVVybnA1Q29aRnRGc0JLMFNSVm5ERFJGcHhFMWxfSlVRUElzenB1T3Z2cV9WUUswMGZmaHJqLTBndUlDMUp1Y1RfVERaN21wOEpNZE1BLVVwMGx5OXBjVmVaSlloQk5WbjZJdVVqZG1sUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -566,13 +566,13 @@
    "engagement": null
   },
   {
-   "id": "gn-1c60f8097ce1",
+   "id": "gn-6a695575b53e",
    "channel": "press",
-   "author": "Khaleej Times",
+   "author": "News On AIR",
    "role": "press",
-   "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
-   "time": "Thu, 18 Sep 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
+   "text": "Indian Embassy in UAE Condoles Death of Indian National in Abu Dhabi Incident - News On AIR",
+   "time": "Sat, 23 May 2026 20:38:13 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmIyNTNmQk1sZ3lWUnR4dEs2S3FTWEo4elh4aUFSbUFFOUlNY2UxdUxZQzA2dk1LQWkyT2F1MW5vUXBETHVyTnVtbzdmbk1ZTmNhd0d2aDlEZ1JyajcxaVFYOTM1bUozeGVhc1BMX3hiZjVBX1pEZ2ZGRWVPakRnaEF3aU5POUxDV1ZtODFkUkRJN1JaSWVDb3pCSXV2VkozY0pObjB3?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -585,6 +585,18 @@
    "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
    "time": "Mon, 27 Oct 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1c60f8097ce1",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
+   "time": "Thu, 18 Sep 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -645,18 +657,6 @@
    "text": "Indian Missions in the UAE Issue Detailed Guidelines on two-month amnesty scheme - News On AIR",
    "time": "Mon, 02 Sep 2024 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2dyejdQTHI0VG5taTVKNVY2U2d2MGFHSlF6Y3FjME9fUXRmOVpFMzRXNll0WDVhZGtkb2RvRzlweHpQRHg1ZHk5Slp3ekp3SWFITC1YOE0yOXRyZ0NMRDB0eDBfak9SZFhPa005THFha19zUmVua2RzcUstNTdNaGtWUEhpcTV2dlQzMzZTV3ZLWURy?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-0b2fb200b002",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
-   "time": "Fri, 20 May 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
