@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T01:23:00Z",
-  "total_verified": 202,
+  "generated_at": "2026-11-14T01:28:34Z",
+  "total_verified": 203,
   "channels_live": [
    "press"
   ],
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 202,
+  "verified_mentions": 203,
   "sentiment": {
    "positive": 10,
-   "neutral": 178,
+   "neutral": 179,
    "negative": 14
   },
   "channels": {
-   "press": 202
+   "press": 203
   },
   "negative_alerts": 14,
   "handles_active": 1
@@ -35,11 +35,15 @@
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 43
   },
   {
    "topic": "services",
    "count": 32
+  },
+  {
+   "topic": "express",
+   "count": 27
   },
   {
    "topic": "khaleej times",
@@ -50,12 +54,8 @@
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 26
-  },
-  {
    "topic": "against",
-   "count": 13
+   "count": 14
   }
  ],
  "mentions": [
@@ -96,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-9e1d7198ef5a",
+   "id": "bn-5a01022c1ba8",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7b7da8b4146e0a6d9ad7ba17d1e9e&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7b928625142f78269ee9e33b91154&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -228,6 +228,18 @@
    "engagement": null
   },
   {
+   "id": "gn-c91dc2be06a6",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Embassy in UAE issues warning against new scam by imposters faking its social media handles - Gulf News",
+   "time": "Wed, 17 Aug 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY29WUFdNWUlFZkwxb0tTVGk4TzU2dFVvV1FSQ3hhcTkxVkh6cTZWa2pFeG0zMkRnd2tnbkpJTlpQY3o0a2JWWUU4bWxhVU1ncEJ6M05Ua25hVjlCS0dOMGtMTmMxOC1ZNlNMOHU4c1V6NDU3a3J5bzdQaFZwVndTWjlRSkNZQWdnWUlVenRhSUNoQXlOZUVzNENJdG42QTBNVWR4cy1YcV9EeGVfOFZuY2g3Z2NYMjJ0RExOWC16MjNtQWJpVS11M2ZLYW9Rc3M?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-1f7198bcbce2",
    "channel": "press",
    "author": "Gulf News",
@@ -247,18 +259,6 @@
    "text": "Dubai and Middle East flight disruption: latest airline cancellations as Saudi Arabia faces fresh missile attacks - Condé Nast Traveller Middle East",
    "time": "Wed, 11 Nov 2026 06:07:37 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdWVWWkVkXzRmQzYxcEFtZHZwUmVUZmNVdE8yVlNWeG1sdWhvQkhwamlMaUgwTEY4QXhpdzR2UlQ0cHF0NlRnZHVlRlhlSjk1TzhleGE2RkRmczhOOXdlemdTZGhzZzBsd3dUek1tMzBaeFBNV0NWMEVab0JzZHBQai1YdDYtMXJROWVBazM1R1hTMUVWX0dLMUFWbklIemtFamVpQXl6aG5zakZyRG9icGFRRUVtUklxLXgwTXhlellHazM1UnYtcWlSZzM5YXd5LWc3NWtwS3ZjQTJlQkdNV0Zn?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7c248b5ddd74",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
-   "time": "Wed, 11 Mar 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
