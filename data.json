@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T06:08:49Z",
-  "total_verified": 215,
+  "generated_at": "2026-11-14T06:14:23Z",
+  "total_verified": 210,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 215,
+  "verified_mentions": 210,
   "sentiment": {
    "positive": 10,
-   "neutral": 190,
+   "neutral": 185,
    "negative": 15
   },
   "channels": {
-   "press": 209,
-   "official": 6
+   "press": 210
   },
   "negative_alerts": 15,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 95
+   "count": 94
   },
   {
    "topic": "flights",
@@ -43,6 +42,10 @@
    "count": 34
   },
   {
+   "topic": "express",
+   "count": 27
+  },
+  {
    "topic": "khaleej times",
    "count": 26
   },
@@ -51,12 +54,8 @@
    "count": 26
   },
   {
-   "topic": "express",
-   "count": 26
-  },
-  {
-   "topic": "advisory",
-   "count": 17
+   "topic": "against",
+   "count": 14
   }
  ],
  "mentions": [
@@ -97,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-fabb5311755d",
+   "id": "bn-7078094d7c41",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7fae3f27f49889d2cc9f31110d068&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7fc26ec954355a01460b6507cf7c8&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
