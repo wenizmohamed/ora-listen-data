@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-15T21:09:15Z",
-  "total_verified": 217,
+  "generated_at": "2026-11-15T21:14:26Z",
+  "total_verified": 219,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 217,
+  "verified_mentions": 219,
   "sentiment": {
    "positive": 10,
-   "neutral": 193,
-   "negative": 14
+   "neutral": 194,
+   "negative": 15
   },
   "channels": {
-   "press": 211,
+   "press": 213,
    "official": 6
   },
-  "negative_alerts": 14,
+  "negative_alerts": 15,
   "handles_active": 2
  },
  "topics": [
@@ -48,11 +48,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "khaleej",
-   "count": 23
+   "count": 24
   },
   {
    "topic": "advisory",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-1dea18cafd9a",
+   "id": "bn-170524c7df86",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa1f766dc04844a9da1ab63562c00c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa20ad01734c818d5e3d28c5a9c299&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -225,6 +225,18 @@
    "time": "Wed, 17 Aug 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY29WUFdNWUlFZkwxb0tTVGk4TzU2dFVvV1FSQ3hhcTkxVkh6cTZWa2pFeG0zMkRnd2tnbkpJTlpQY3o0a2JWWUU4bWxhVU1ncEJ6M05Ua25hVjlCS0dOMGtMTmMxOC1ZNlNMOHU4c1V6NDU3a3J5bzdQaFZwVndTWjlRSkNZQWdnWUlVenRhSUNoQXlOZUVzNENJdG42QTBNVWR4cy1YcV9EeGVfOFZuY2g3Z2NYMjJ0RExOWC16MjNtQWJpVS11M2ZLYW9Rc3M?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c72da6bc4351",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -527,18 +539,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-6fa0917223c4",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Air India Express expands India-UAE flights, adds more Gulf connectivity this winter - Gulf News",
-   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWw4RkxGTkR3OHNrUlJFUTBJcHMwbkVuQVlTeHRwX1Y4WXRyQ1JVcmJMcHNsQjFVaE5Yb1ItRUpRdGpOWEYwNWdmRDVzNzVhb0swVk5Ha0tPelIwb1ZmeXFsaGF3Q2xhX1ZPSzlCbW5nU0djR0x4Wk5XUVphRHZXT0hOTS1CbGtPVlVyanRORUNzRjdPVEV5djNzZEVxWnFyU3luSldRQ25ZNTN5MjBOTDNLWTB4QTJpTGp2TGIzXzJWNUtFeEw3TzNOWnNiSFXSAeIBQVVfeXFMT0xISzI4Z2RCNFVTel9QRUQ4SElQRDBwQ3BRSjhnenpOWGhfVXBKLTM3c3NHV0pFbmJSbk5scndLYkdBSksxSk8xdXRYTXowSlJkOGMtMDVhRnFodENldHZ3QlVQQVhZV2JEY1dIWm1kcU1sb0VoR2xOZ2VaV3lVZVc3c0t5dWk1VW02R054ZlFXSjUtaTdZNWRWZ3F3NWpuUElvN0M4T3hnYlVpTnhRVzJyekw2cXZCYnZzSzF0LTNiUUZJQWtRTmtGVG1TanlDb3JzMXJqNVJubEdIN05HenBZUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -651,13 +651,13 @@
    "engagement": null
   },
   {
-   "id": "gn-698978bde6a1",
+   "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "News On AIR",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Indian Missions in the UAE Issue Detailed Guidelines on two-month amnesty scheme - News On AIR",
-   "time": "Mon, 02 Sep 2024 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2dyejdQTHI0VG5taTVKNVY2U2d2MGFHSlF6Y3FjME9fUXRmOVpFMzRXNll0WDVhZGtkb2RvRzlweHpQRHg1ZHk5Slp3ekp3SWFITC1YOE0yOXRyZ0NMRDB0eDBfak9SZFhPa005THFha19zUmVua2RzcUstNTdNaGtWUEhpcTV2dlQzMzZTV3ZLWURy?oc=5",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
