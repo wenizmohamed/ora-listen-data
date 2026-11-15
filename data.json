@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-15T09:17:32Z",
-  "total_verified": 219,
+  "generated_at": "2026-11-15T09:23:07Z",
+  "total_verified": 213,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 219,
+  "verified_mentions": 213,
   "sentiment": {
    "positive": 9,
-   "neutral": 194,
+   "neutral": 188,
    "negative": 16
   },
   "channels": {
-   "press": 213,
-   "official": 6
+   "press": 213
   },
   "negative_alerts": 16,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -48,15 +47,15 @@
   },
   {
    "topic": "khaleej times",
-   "count": 25
+   "count": 24
   },
   {
    "topic": "khaleej",
-   "count": 25
+   "count": 24
   },
   {
-   "topic": "advisory",
-   "count": 17
+   "topic": "against",
+   "count": 13
   }
  ],
  "mentions": [
@@ -97,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c0e5754b723a",
+   "id": "bn-fe05a9415750",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af978a8963c417f9e44f8e50bce9430&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af979e0caf8446a94163c672f4f0e8b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -152,6 +151,18 @@
    "text": "UAE: Indian Consulate to organise walk-in passport service camp - Khaleej Times",
    "time": "Wed, 25 May 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHVLa3BKbjJXajBURlNDbEtXcnVlTkQzZFVscG9TTV9wMnVoZS1JWjhpNTlNXzZxWW83MEl0eUQ5c0FnWjFMcDRXRWg4ZXZkMjB4NnJDRnRiMVQ0Q0lRN3RNN2o3bmJWS2dJR2xBbUZZTzVQdnRsdjJIdE1JYlZSX2RGSTNrUUZLZHYxUk9OQ3NaeXBjY3hhb1VXONIBowFBVV95cUxQR0paRWlhOVM2bkFLSk4xbmlXOVRPdlNlWGV6dFNqdW1rMmdUbi14YzdEbGpEZXRLcENnOHJ3ZHd6eFA1R3J0Q0Q5WW5PUzRPLUdyaUNvTkpJQUxzcnE2NTNlUVhIS2U4bGVGRjBKX2M5R1p4bzRWOElIZFVQb19uYUJ0RkpMbllKVXNVZ1VoQXpFbV92dlgxc2JrRWdwTTBLWTMw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a4b5cabc343c",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "Air India and IndiGo resume flights to UAE following temporary suspension amid Israel-Iran conflict - thenationalnews.com",
+   "time": "Wed, 25 Jun 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTFFTGxHV1BWUGNlMlkwVWxWMEJTUTV4ajV6MENrbXk5QnNWbzZWbHBlak5ST2s3YjlqaE5BZ3NMQ051S2dXYjJRZmVUQjdSTE9xcWduc2dUUENXaUcydnc0dTRjMERzU0gyWENXckI0VWZzREwxZElhRGdSYVJ3a1BoVHBMY182RjZpQzZNa3BjZVRPVjhsQkwycGFweEpTdVZ3OTNMOWZKeTAtTDc5eW12YU1WbXRGX0sxbHJ6NkNpOTdjdEcxRldzeENHXzE3cDVFUE9leGRQbzhCR2ZCeEFpa2U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -464,18 +475,6 @@
    "text": "Coronavirus: Indian Consulate mobilises medical volunteers for Dubai isolation facility - Gulf News",
    "time": "Tue, 21 Apr 2020 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUlkdklNRllBcVd1Unl1RFJFa2FMeW1ScHNTSkhzcFRmTkJnZi14MDhZWU13SlpuN2ZOZzZzVzhDclo4S0Rlek9tZGltUmV1TFN0YXRqbzNxUWVDLU9adVJkVXNHNkhwM2lyVVhZbm9udnZUNy1jeW5mUS1CS1dTTnFCaW1ORXZ6ZzE5NWF5ZjhCdTh2aGRvRTRxYUt6aU81WHduaUhLb2c0cjB1SlRaWDNmaGo0Z0lReXhpNW5kQdIBzwFBVV95cUxNV1lWb1FTNFVtcGp0SVM2V0F3TmI0S2thaXdQOTFPNEJGeHdTMEg2YTRwX1pHUkl2UUY4QU9RaF9qMEhqOTJCYkI1QjBNRXF5bG5DRnVMdXdUMUpqR0RJTlBsYmpDb1pXMklZRmxnSml3bnpBd1NTUDY3RFlWdHBlVzlkajVLa21wVm00bHJSeHFQYlpiUk9ZRjkyVklvYTZrZ19WcHRYTF9ZUFc3MlFFUk52aDg4NmZpOHhnTWVJZHVnRDltVXVubnZYZkE1ZjA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-2704522aa5b9",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE-India travel: Some travellers stranded, rebook flights amid airspace closures - Khaleej Times",
-   "time": "Tue, 17 Jun 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29OSXdLS01sMUxKS1k3YU9GVGhzRF9UU3NjbnYydVRyWm5jbnpGWGVCREU0NUVSOG1kMjR4bWtLVVNPaEs1eENfMUdULVJfSnlzOUc0Z0xtOFUwLVZuc3VPOG92ZVREaWxtZnRWNllQREJoTW5rM3hHNDRNbV9ENzFud19sWkVsSnVqS1ZNaERvcW5TaENUMU1TaWRkaTDSAacBQVVfeXFMUHA4SGtmYWpKMVNIQjlzSm5pcW9GRU1SempNaHd3MkxNZnBYR3hoSlM0NkctZ19VY2p6VE83c3cwSG5WVXRkSDJCZnFzMThxU3J1M2VKQW51NGt0NXlKOWhJT3BVcnppZWROamtQV3NaT1AzUW4xb0E4elBQdHVyMExOMjRHcmFZRk5sd2Q3TjFrdHpKYTFHZzA3V2UtTnVtUGlWbm43a2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
