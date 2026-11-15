@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-15T16:44:27Z",
-  "total_verified": 220,
+  "generated_at": "2026-11-15T16:50:02Z",
+  "total_verified": 213,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 220,
+  "verified_mentions": 213,
   "sentiment": {
    "positive": 10,
-   "neutral": 195,
-   "negative": 15
+   "neutral": 187,
+   "negative": 16
   },
   "channels": {
-   "press": 214,
-   "official": 6
+   "press": 213
   },
-  "negative_alerts": 15,
-  "handles_active": 2
+  "negative_alerts": 16,
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 99
+   "count": 98
   },
   {
    "topic": "flights",
@@ -55,8 +54,8 @@
    "count": 24
   },
   {
-   "topic": "advisory",
-   "count": 17
+   "topic": "passport services",
+   "count": 14
   }
  ],
  "mentions": [
@@ -85,25 +84,25 @@
    "engagement": null
   },
   {
-   "id": "gn-129461931ff2",
+   "id": "gn-f2ead5e5b350",
    "channel": "press",
-   "author": "curlytales.com",
+   "author": "Curly Tales",
    "role": "press",
-   "text": "Indian Consulate General In UAE Issues Advisory On The Importance Of Medical Insurance For Travellers - curlytales.com",
-   "time": "Wed, 28 Oct 2026 06:31:52 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnhRU3RucnBoQnlTeHc0OTlZN1VDbXZnbUxVWXQzdTJIODdZWXU4dlJDREJfaWQ4cUVBb2Nvci1fZW4tMWRCQU5xUzZjR19sc0swS1FwdmVqcjlXY0Frc3FMdTFPSDNsQXI0Ym1RZWhFc0x1dDJQcDZLdzJZc2RheWlGTjZiSm10a3dURWRyZTZNV29pOEhMbi1yUkdDOUx1RUdKV0xXeTJjd2gxWktwZjE4UlpLVTE1NHNxMUdST1pjclVXempKOGdHNUpLUFNfcDlfa0JDa0JhZ3d3?oc=5",
+   "text": "Indian Consulate General In UAE Issues Advisory On The Importance Of Medical Insurance For Travellers - Curly Tales",
+   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnhRU3RucnBoQnlTeHc0OTlZN1VDbXZnbUxVWXQzdTJIODdZWXU4dlJDREJfaWQ4cUVBb2Nvci1fZW4tMWRCQU5xUzZjR19sc0swS1FwdmVqcjlXY0Frc3FMdTFPSDNsQXI0Ym1RZWhFc0x1dDJQcDZLdzJZc2RheWlGTjZiSm10a3dURWRyZTZNV29pOEhMbi1yUkdDOUx1RUdKV0xXeTJjd2gxWktwZjE4UlpLVTE1NHNxMUdST1pjclVXempKOGdHNUpLUFNfcDlfa0JDa0JhZ3d30gHiAUFVX3lxTE1ZRHdRczFYOHZ5M0wyWi1NYWdnM2llemZpdE5VTTdNTFlLZTI0dExOeVJ1dUxNSzBObE5zb0tVUGFnTm1SRV9HVGdha2owMXFPbkVZZVZIUFhGMkdCNnBRcnowN0wxb3FWS3RaTFlzc3VFQmVNV0RuZDlZUmM2bnktTXhQVlBXWldYYXZ6TWxnTkVsaXluNEk4amYtVXIwTVY3NXBHMHlyQzhmVTZKclJOR3V3cTh1Z3JsZllkX1N5TmdlQXBEZnFMeXhxbWhnTXRwY1ctak1xMDZkeHhaM1hoNHc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-3e1a34d0e46f",
+   "id": "bn-0332e6ba4b94",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9e163da3f4bc19cf1d6e22a59d5ad&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9e29e5095409b87456cf9d4113cde&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -116,18 +115,6 @@
    "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
    "time": "Wed, 28 Oct 2026 03:38:02 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-645ef9fa226e",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "UAE address in Indian passport: Consulate clarifies expats' doubts - Gulf News",
-   "time": "Wed, 28 Oct 2020 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0Vfa1AyaklPbmh4aWk4WldiU3BnclltSlZhQlZtRDk2TTdsM3B4WENtQVl5NVZHZ05VS290SGZ3NXdjZDdvU25kOVJwdWhlbUg2Y21pXzllMjdHWUVsRUplbGQ2Qks1UFl5aF9ldVFsVUs5RTUtRTJnTzdqdlZ6S0c4ZGNZbTFyWDdLekpCU3B4bjhYNExycFNxYXAwYnR3TUHSAbIBQVVfeXFMTkFFMHVHRTRZYVJ1a1h4MzFuemlzNnY4LTFKZFpOMklBclowSmRlb1NzTWRaRllSMUd3UmNXUFJmRllITkxnNUtCZ1RyemVKdjdfd0loZV9FeEY0djVsUW9EaldDdHNJQXZDeVE3dEgxY20tdlA0TTJQc3BhX1BhZlJWdVBBZVhzOXhIaEpqWkJ6cUp5N1NidTg5V0VFVkJaVUIxU2R1dTltaUJMazlzVzNCUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -539,6 +526,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-b71c00c30c50",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Captain Machchhar making ‘steady progress’: Indian embassy in UAE - DD News",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGtOR1JUNW14RE1CWUItTC1vT1ViX0pqMWNIWlh1WmhZM0lOQjFfQnIyTVVybnA1Q29aRnRGc0JLMFNSVm5ERFJGcHhFMWxfSlVRUElzenB1T3Z2cV9WUUswMGZmaHJqLTBndUlDMUp1Y1RfVERaN21wOEpNZE1BLVVwMGx5OXBjVmVaSlloQk5WbjZJdVVqZG1sUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -639,18 +638,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7ec08afce812",
    "channel": "press",
    "author": "Gulf News",
@@ -658,6 +645,18 @@
    "text": "Indian Consulate in Dubai confirms sailor’s death at sea, offers assistance - Gulf News",
    "time": "Fri, 08 May 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlgyd3VOaEFBZ0VxOXNHSHMwVEFyeXFIZHozSjVIeUYyaFNmLU41TXpNOXkzcnM2WWgwWUxiZlJBWjhSdnVDelFYMHpkcmY3aGFxZWhOWklOcXlIZFVWYVVuYUFicDkydWt3Z283ZlFVdGxVZHBOM19zbFhvTnA2X1ZlRjJodG9LcDdaRFBzUTZ3OEJBNjBjMTRzQk1jMXUzOTZYbzFuOUVHQllHcXVz?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c72da6bc4351",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
