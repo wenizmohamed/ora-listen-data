@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-15T07:38:23Z",
-  "total_verified": 219,
+  "generated_at": "2026-11-15T07:43:36Z",
+  "total_verified": 220,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 219,
+  "verified_mentions": 220,
   "sentiment": {
    "positive": 9,
-   "neutral": 194,
+   "neutral": 195,
    "negative": 16
   },
   "channels": {
-   "press": 213,
+   "press": 214,
    "official": 6
   },
   "negative_alerts": 16,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 97
+   "count": 98
   },
   {
    "topic": "flights",
@@ -48,11 +48,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 25
+   "count": 24
   },
   {
    "topic": "khaleej",
-   "count": 25
+   "count": 24
   },
   {
    "topic": "advisory",
@@ -97,13 +97,13 @@
    "engagement": null
   },
   {
-   "id": "bn-640c580ecfe2",
+   "id": "bn-b7b2f67d8444",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9616b61364722b8b73bd18fa2379c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af962a1066c4d8595035d9ea965645f&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -445,6 +445,18 @@
    "engagement": null
   },
   {
+   "id": "gn-3204ea3b6c1d",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Ethiopian volcano eruption: Air India cancels flights to Dubai, Dammam, Doha - Gulf News",
+   "time": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb29tUXNERk5TWUZfOXhEV1pfRTlxeFE5bVltMXlNemNvYjhmMktkQXZtdC1tdXJ4RDJXeldWQmF4S2hieWJWVmtDVGxXX05JY1pJeGw4a2ZNUk5GTzIzZXU5TW5DSEU2b01rTWxWMHM1THpBTjZ1Yzhaa3RQOG00c0M3bHk2bWhGU2ZIX29yZUZyLXlzNnZIbU8tNjc3VnNydlBVS1RJRGpCbUg3Y1M3QlRrZGEwSzRWOG5TZWRHU2tYUdIB1AFBVV95cUxOWURBTTVkUndBTHJqd0tHNEpLX1czT21SZWZMRlVXNVhkV1hiNjFnM0pTNFhhRVNhMGVkeVZiRFdUQjRsZEhiRFlVdi1oMndXY1pLbFluQjJBODFNNE9zU05qV0hvbFJUdUJtVjlHcF9oeTEtQ3pFUzV3R3d4djg1QXhKMzdINUpuc1lpWXhmN1JlZkxYV1FlMFpUVmlrRGZLS0ZsTFowcHE3ZmlCR0ZLMmZvNEhtRWFrb2NPSWdGdXZrdVBURTRjaE5jbmgtWkxTVjFwcg?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-a887263e1336",
    "channel": "press",
    "author": "Gulf News",
@@ -464,18 +476,6 @@
    "text": "Coronavirus: Indian Consulate mobilises medical volunteers for Dubai isolation facility - Gulf News",
    "time": "Tue, 21 Apr 2020 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUlkdklNRllBcVd1Unl1RFJFa2FMeW1ScHNTSkhzcFRmTkJnZi14MDhZWU13SlpuN2ZOZzZzVzhDclo4S0Rlek9tZGltUmV1TFN0YXRqbzNxUWVDLU9adVJkVXNHNkhwM2lyVVhZbm9udnZUNy1jeW5mUS1CS1dTTnFCaW1ORXZ6ZzE5NWF5ZjhCdTh2aGRvRTRxYUt6aU81WHduaUhLb2c0cjB1SlRaWDNmaGo0Z0lReXhpNW5kQdIBzwFBVV95cUxNV1lWb1FTNFVtcGp0SVM2V0F3TmI0S2thaXdQOTFPNEJGeHdTMEg2YTRwX1pHUkl2UUY4QU9RaF9qMEhqOTJCYkI1QjBNRXF5bG5DRnVMdXdUMUpqR0RJTlBsYmpDb1pXMklZRmxnSml3bnpBd1NTUDY3RFlWdHBlVzlkajVLa21wVm00bHJSeHFQYlpiUk9ZRjkyVklvYTZrZ19WcHRYTF9ZUFc3MlFFUk52aDg4NmZpOHhnTWVJZHVnRDltVXVubnZYZkE1ZjA?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-2704522aa5b9",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE-India travel: Some travellers stranded, rebook flights amid airspace closures - Khaleej Times",
-   "time": "Tue, 17 Jun 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29OSXdLS01sMUxKS1k3YU9GVGhzRF9UU3NjbnYydVRyWm5jbnpGWGVCREU0NUVSOG1kMjR4bWtLVVNPaEs1eENfMUdULVJfSnlzOUc0Z0xtOFUwLVZuc3VPOG92ZVREaWxtZnRWNllQREJoTW5rM3hHNDRNbV9ENzFud19sWkVsSnVqS1ZNaERvcW5TaENUMU1TaWRkaTDSAacBQVVfeXFMUHA4SGtmYWpKMVNIQjlzSm5pcW9GRU1SempNaHd3MkxNZnBYR3hoSlM0NkctZ19VY2p6VE83c3cwSG5WVXRkSDJCZnFzMThxU3J1M2VKQW51NGt0NXlKOWhJT3BVcnppZWROamtQV3NaT1AzUW4xb0E4elBQdHVyMExOMjRHcmFZRk5sd2Q3TjFrdHpKYTFHZzA3V2UtTnVtUGlWbm43a2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
