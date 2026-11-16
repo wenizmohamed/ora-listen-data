@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T06:43:12Z",
-  "total_verified": 219,
+  "generated_at": "2026-11-16T06:48:45Z",
+  "total_verified": 214,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 219,
+  "verified_mentions": 214,
   "sentiment": {
    "positive": 10,
-   "neutral": 193,
+   "neutral": 188,
    "negative": 16
   },
   "channels": {
-   "press": 213,
-   "official": 6
+   "press": 214
   },
   "negative_alerts": 16,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 98
+   "count": 99
   },
   {
    "topic": "flights",
@@ -36,7 +35,7 @@
   },
   {
    "topic": "passport",
-   "count": 41
+   "count": 42
   },
   {
    "topic": "services",
@@ -55,8 +54,8 @@
    "count": 24
   },
   {
-   "topic": "advisory",
-   "count": 18
+   "topic": "against",
+   "count": 14
   }
  ],
  "mentions": [
@@ -97,13 +96,13 @@
    "engagement": null
   },
   {
-   "id": "bn-311c9d29f05c",
+   "id": "bn-3a9d96b29909",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa5faf64b4502a1103f30655992e0&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa730fa374c07a03b082b6e219d7b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
