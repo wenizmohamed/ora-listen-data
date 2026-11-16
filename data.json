@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T04:17:11Z",
+  "generated_at": "2026-11-16T04:22:37Z",
   "total_verified": 220,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -71,18 +73,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a90552fa539d",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
-   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7053aef5a5a8",
    "channel": "press",
    "author": "Arabian Business",
@@ -107,13 +97,25 @@
    "engagement": null
   },
   {
-   "id": "bn-2059c77de3b0",
+   "id": "bn-9c779cd811c3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa83c254814963bcb81397530680d0&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa84fb1e04492fbf0219b415d07c4a&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a90552fa539d",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
+   "time": "Wed, 28 Oct 2026 03:38:02 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
