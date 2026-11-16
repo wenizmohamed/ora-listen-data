@@ -1,62 +1,63 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T22:47:42Z",
-  "total_verified": 224,
+  "generated_at": "2026-11-16T22:52:53Z",
+  "total_verified": 146,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "google_news[\"Indian Consulate\" D]: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 224,
+  "verified_mentions": 146,
   "sentiment": {
-   "positive": 10,
-   "neutral": 198,
-   "negative": 16
+   "positive": 5,
+   "neutral": 135,
+   "negative": 6
   },
   "channels": {
-   "press": 218,
+   "press": 140,
    "official": 6
   },
-  "negative_alerts": 16,
+  "negative_alerts": 6,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 98
+   "count": 69
   },
   {
    "topic": "flights",
-   "count": 58
+   "count": 55
   },
   {
    "topic": "passport",
-   "count": 43
-  },
-  {
-   "topic": "services",
-   "count": 34
+   "count": 24
   },
   {
    "topic": "express",
-   "count": 27
+   "count": 23
+  },
+  {
+   "topic": "services",
+   "count": 21
   },
   {
    "topic": "khaleej times",
-   "count": 25
+   "count": 13
   },
   {
    "topic": "khaleej",
-   "count": 25
+   "count": 13
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 13
   }
  ],
  "mentions": [
@@ -85,25 +86,25 @@
    "engagement": null
   },
   {
-   "id": "gn-f2ead5e5b350",
+   "id": "gn-a90552fa539d",
    "channel": "press",
-   "author": "Curly Tales",
+   "author": "DD News",
    "role": "press",
-   "text": "Indian Consulate General In UAE Issues Advisory On The Importance Of Medical Insurance For Travellers - Curly Tales",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
    "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnhRU3RucnBoQnlTeHc0OTlZN1VDbXZnbUxVWXQzdTJIODdZWXU4dlJDREJfaWQ4cUVBb2Nvci1fZW4tMWRCQU5xUzZjR19sc0swS1FwdmVqcjlXY0Frc3FMdTFPSDNsQXI0Ym1RZWhFc0x1dDJQcDZLdzJZc2RheWlGTjZiSm10a3dURWRyZTZNV29pOEhMbi1yUkdDOUx1RUdKV0xXeTJjd2gxWktwZjE4UlpLVTE1NHNxMUdST1pjclVXempKOGdHNUpLUFNfcDlfa0JDa0JhZ3d30gHiAUFVX3lxTE1ZRHdRczFYOHZ5M0wyWi1NYWdnM2llemZpdE5VTTdNTFlLZTI0dExOeVJ1dUxNSzBObE5zb0tVUGFnTm1SRV9HVGdha2owMXFPbkVZZVZIUFhGMkdCNnBRcnowN0wxb3FWS3RaTFlzc3VFQmVNV0RuZDlZUmM2bnktTXhQVlBXWldYYXZ6TWxnTkVsaXluNEk4amYtVXIwTVY3NXBHMHlyQzhmVTZKclJOR3V3cTh1Z3JsZllkX1N5TmdlQXBEZnFMeXhxbWhnTXRwY1ctak1xMDZkeHhaM1hoNHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-222253ddd509",
+   "id": "bn-4300453eb658",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb88068541435298a47a8bf7489e0f&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb893ed2fb4522bbf42b48678cb446&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -116,18 +117,6 @@
    "text": "UAE Honours Indian Embassy, Consulate at MoFA Excellence Awards - News On AIR",
    "time": "Wed, 27 May 2026 22:37:35 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-d74d66241f97",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE: Indian Consulate to organise walk-in passport service camp - Khaleej Times",
-   "time": "Wed, 25 May 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHVLa3BKbjJXajBURlNDbEtXcnVlTkQzZFVscG9TTV9wMnVoZS1JWjhpNTlNXzZxWW83MEl0eUQ5c0FnWjFMcDRXRWg4ZXZkMjB4NnJDRnRiMVQ0Q0lRN3RNN2o3bmJWS2dJR2xBbUZZTzVQdnRsdjJIdE1JYlZSX2RGSTNrUUZLZHYxUk9OQ3NaeXBjY3hhb1VXONIBowFBVV95cUxQR0paRWlhOVM2bkFLSk4xbmlXOVRPdlNlWGV6dFNqdW1rMmdUbi14YzdEbGpEZXRLcENnOHJ3ZHd6eFA1R3J0Q0Q5WW5PUzRPLUdyaUNvTkpJQUxzcnE2NTNlUVhIS2U4bGVGRjBKX2M5R1p4bzRWOElIZFVQb19uYUJ0RkpMbllKVXNVZ1VoQXpFbV92dlgxc2JrRWdwTTBLWTMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -217,18 +206,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c72da6bc4351",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7c248b5ddd74",
    "channel": "press",
    "author": "Gulf News",
@@ -265,37 +242,13 @@
    "engagement": null
   },
   {
-   "id": "gn-c7524b6da74e",
+   "id": "gn-f633835546e3",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-f448775ba783",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c9f09a0a23ec",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE jobs: Indian consulate Dubai lists opening, Dh8,500 salary - Khaleej Times",
-   "time": "Wed, 03 Mar 2021 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RlZU5LNUFlcjdqbU9IT21KUTBIWXZyQTlGV3RKdEJJRHVVeUFVT2xXdnl1NThpc1VucWV4QkQ3NDlkV1g2WEh1dDdIQVF5dEtsNUJEcHdoOHViNHN5S2cwNjI5dGZ3d0RwRWgtbGZQT20wVXlkYk5ScXBLRVI3b19kR2MwMXQ1MkI3RkItUk9UUF8wemc00gGfAUFVX3lxTFBWeFdrTlBiX25FamxpMlVSTFoxRFhtTUhfWG0tT1hDS29qRy1vR0k2UUFBX2FxeEZDcnNFRUdROXpYVHJQbFp1R21iU3hOWEp0VE5MVlRqQjlpX3RoZ3JYblFOaWxwc2w3X2ktaDNXLThtYzAtSDBzV3ZFRkRLRzdqT3RPeVBWZjNzMFl2eUVlWXRMa25DS2Rpc2dfYlY1aw?oc=5",
+   "text": "IndiGo, Air India plan 58 flights on March 4 amid airspace disruptions - Gulf News",
+   "time": "Wed, 04 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTNQUUt4aWpvUVg5bnhRMGxNYjFuNGFjRC1BN0pvTzZCMmxTcjVlcmtqRDdqUFJuYktwUHgtQ0pyMXVZNXlmTGNpR1JKT2hOZXJNVnlWbFgxYWw3Zm5kU1ZlUG4xX2g2UEpkUTdxcnU5dEdFSklEeVhNcmZ0Wm5xM1VaXzFTamlRWFh0Tjc5c002bzdYYlVzMWZKRFV0Q3c3b2dDSXdBbHgzUk84RklJbVV4TURNN2VCWXRaS9IBzwFBVV95cUxQN3NjVUJJd2tnV1RQd1dGS3YtRVQ0enVYSmpEbkFMQV96N0pSbWxnTkhiTEJmSTR3MU95WUdwWno5SnpaNkRTOFRweXpMUjBjN0NtMThoYUd2R3FGb1c3X3BVQ0dqUl9IRGhobWJHRnZkYUF2Wk9MMVBxVzVITml3aVFXU0xscVA0TjNQS2dFN0VVbHhZdzVzU0JDcWs5emx4X2FSZFlnMEhTUHVCVnNMckJSUkxyV0NMUFBjX09xTDZiZjd6cXVWMDBVci1GY2s?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -308,30 +261,6 @@
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-26c1800a85f1",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai facilitated 15,000 UAE amnesty seekers - Gulf News",
-   "time": "Wed, 01 Jan 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB0gGzAUFVX3lxTE1QZnJHcEVTRWVOSmNMWnFZN2Jia1dJaDhDeXNrN3Juc0E5X1MyWUhVUjJRcFl1VGkxNjhkaERoZ1JqNXBQb3Q3OXE4VnJ6TWVjenBKcVYyeG52NFBNSDhYcWN1S3lmd3Q2a0JmQzFKSXFoYkNLcjlVWEt5OFVaanJfcWwySnk4dDYzYTEzSXpoU0gwY3F5OUtPdlFIRUp1cHhNRFE1UnJNemlhbWJSbzBZQ1pJ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cb6f38514826",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -397,18 +326,6 @@
    "engagement": null
   },
   {
-   "id": "gn-176824c0686f",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - News On AIR",
-   "time": "Tue, 29 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV4RjNjU2MxR0NzR3NDU095ZkhIUWRyRm8wc3g1cDhtZ3FBN2hORGNlS3ZSUnJFcDlTMGJzMHg4b1FjNXJmVkpUMG8xeXlkYm5EcjZGNFZjaFJsRkRCNmhWT1dMcURnLVJjaHNmaGl1bUtZRU1OeWhGdDZBelJ5OXI5RjJOaktnbkRiQ29vVFp6QTRKdWFvM3R1Rkk3ekdYUmdlT3NnVTJvRWc1WEE?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-ffffb079e884",
    "channel": "press",
    "author": "News On AIR",
@@ -429,18 +346,6 @@
    "time": "Tue, 27 Oct 2026 13:17:33 GMT",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc084SlV0cExtNHRpeGtKODNEaUtvVG1jaWFEZ2xucE9McmFjck9rTTJqVmh3ODdVd3lmazNnMVNERFBCWE9fSUNrTDhaM1JEOGoycHlBbXZWT0RvZmVSTGNLWWd3UXpRSlQxZVhKVWVUOUwwdGN4eUc3bHdxWnlleVRxcWRWeGROYVFlV0lVOVIyTDlVMjZTNnh4UERoclVhdmgtN2RHVnpCYTFDVEN3LUhXWDhjSE13Y3BSc2tCTlRvUXdGbkRwckFn?oc=5",
    "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a59f6d340667",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian missions in UAE issue advisory for expats and visitors - Gulf News",
-   "time": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWdqd0lvWjJnNjNUcU1ockV1OUpDUExNbXAxeG5oUHV4VEV1dnZEMS10eW5xS292Z0JLZjVHOG40LURJc3ZHR0UyNXZfc2xQUEctMGxGcDA4dFc2T1hHQjVveG1ROGxiSndQQ1B6Y0hWQjdnZldOT2hkMV9FVWlOZXBwYUdCS25wU1FYZXFaU1BVbGRFTmhWbTNkclpFV0XSAa8BQVVfeXFMTkUxdVRvamtweEFxVFlLNU1hRTNWOUFnLW5VUnlQZWpKTlU3NFl3czdwR3d4UWREY0hzMVBMY0hGYUJrdTI5b0pjV0VkMFlMTkJYRHhGWWwxQ3F0WHBLenkzaEdvREdTYi1pTFpmTThNa3ZpYmVRQjBnMW93V2lzbi1QT3RhT2tHaXVoQk1SOER2VjhHNTF1Y0x0Mm1RSDd0OVE0dU9zbEZ1V3FBM2Ezdw?oc=5",
-   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -493,42 +398,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1876c7653ee7",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
-   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-469c315ba625",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "By appointment only: Indian Consulate in Dubai says no walk-ins for passport services - Khaleej Times",
-   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDhaQmZDd1cwQ0pjTWVuUWJiaENnSGVZdzAtcDU4N0IyZ1dvb29KQ3Z4SERsRFdvbWs3eXNpdXY1c3dpLUhFMDZBd09ySHF0LVNWZkhRQWJWYXl5TXpRZ1ZZTUVnT3JpTGFEeEJNeW9kbjdJTnZ6WU90YXBRZ0M1ajlOa1IyV3VaTTJJcDNINkRmZHBDWEs5ZGZqdjBXYU9NOXR1V0h0UdIBrwFBVV95cUxQNFBtN1FYcWVGVU1CUUl3LTgtZ2NpNGdtX0QzajFiU1dFNzAzNnBkUTlCanBKdFJ6T1Y0S214anlkNUZoVDlLTE55bzh1cU9sM092cVUwc2syN3hqR1N5MUpqZ2hYTXREZTZEd1c2czlxX1R6YV9YSkR1eTFoWV9vX1VjN1VXeVRuMjl2cm93NzU0VUhOaWp5bi1EaDA0Mjc2bFZZd1dvWjBuQ0psaklZ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-209a2e9038f8",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian passport service controversy: What Indian expats in UAE must know now - Gulf News",
-   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dtY29tMkdtRy1KM0EtWm15MFZxNzgzeUlFUHdPLTBoVU1jejQtQU9WeHZKWi0zTHpJWFFoLWVvWnQ2TFVXN0JLeHQ5SDkwYmJKQnlEMGxFaW1KQTI2UzBiSTZtdU1KSkhUVms2UGllS3IyeXRxNkwwdzZxRFhqYk5hckJHVjhCaUVCTkxDaUdma1lKZGFtTmxubmRiRnpJU1JBWXEwakZHWi1Yc0RfR3Rn0gHCAUFVX3lxTE1qNmhyX3d1cVhybUpiYWhuYW9JVHp0RE9lQjFoQmtSQUJYbFRRMTA2cUhpaU9UamFNbFBDQ2RtYnlybmNROEVDVkxvYVBJbEdiMGFEc0JNRnVQTUpVY2VqT0o2eVMtNDBBQW9KMWxQSUZrMmRVMHgyTDdPY1gybkN6T1F0OUVjWWtxaUF5czNQTXo4NjJMMWN2QmtJNWc2Q0xRbE1qcGx0aHhMZVdyVFpXS25PZjVZaldqWXF4SDRPaTFB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-b71c00c30c50",
    "channel": "press",
    "author": "DD News",
@@ -537,6 +406,138 @@
    "time": "Tue, 06 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGtOR1JUNW14RE1CWUItTC1vT1ViX0pqMWNIWlh1WmhZM0lOQjFfQnIyTVVybnA1Q29aRnRGc0JLMFNSVm5ERFJGcHhFMWxfSlVRUElzenB1T3Z2cV9WUUswMGZmaHJqLTBndUlDMUp1Y1RfVERaN21wOEpNZE1BLVVwMGx5OXBjVmVaSlloQk5WbjZJdVVqZG1sUQ?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-6fa0917223c4",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Air India Express expands India-UAE flights, adds more Gulf connectivity this winter - Gulf News",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWw4RkxGTkR3OHNrUlJFUTBJcHMwbkVuQVlTeHRwX1Y4WXRyQ1JVcmJMcHNsQjFVaE5Yb1ItRUpRdGpOWEYwNWdmRDVzNzVhb0swVk5Ha0tPelIwb1ZmeXFsaGF3Q2xhX1ZPSzlCbW5nU0djR0x4Wk5XUVphRHZXT0hOTS1CbGtPVlVyanRORUNzRjdPVEV5djNzZEVxWnFyU3luSldRQ25ZNTN5MjBOTDNLWTB4QTJpTGp2TGIzXzJWNUtFeEw3TzNOWnNiSFXSAeIBQVVfeXFMT0xISzI4Z2RCNFVTel9QRUQ4SElQRDBwQ3BRSjhnenpOWGhfVXBKLTM3c3NHV0pFbmJSbk5scndLYkdBSksxSk8xdXRYTXowSlJkOGMtMDVhRnFodENldHZ3QlVQQVhZV2JEY1dIWm1kcU1sb0VoR2xOZ2VaV3lVZVc3c0t5dWk1VW02R054ZlFXSjUtaTdZNWRWZ3F3NWpuUElvN0M4T3hnYlVpTnhRVzJyekw2cXZCYnZzSzF0LTNiUUZJQWtRTmtGVG1TanlDb3JzMXJqNVJubEdIN05HenBZUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-4728705d80bb",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Changes for India holiday travellers: Your guide on latest rules and what to check before flying - Gulf News",
+   "time": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1B6Y3RfY2hjRXp1ZHVYakpTNkY3WXZhVDB1OTNYQ0hQTTBMN1BIVjRWSEp6T3JfeXE5M3Y4X2NLSlVWWWJhOVE5MmZrYWpydHl2YmNYbHZQWU1kc1VKTFB0SHNvUVRJcUUxWWhNaEJtM2d0UFhCdHJTTk9LR3d4OWFuNkl1Znd6STFyWS1aRFZobkZETG0ycVBHTzFmSVctcklDLVMtbmE3UGJnY0RHMm9FZ2NWSTVFZjg0NnFRWDhKbnV6TGZZMkc5dnlCVUl5R2fSAecBQVVfeXFMTnRXSHliOXpsMEpBMTRadjZMUmNWbFBYclc4WFllUkFzVmdJU2pzX2l6Ml9zZG5Rb0tJaFhIR19uLTI1cDMzUDU2TFYtcmdxOGZwS0lMYmJjN2F5Nk02OVhqbEU4dkdsT0lJeWpxVFZjMWR1dmx2TUhHazVuUlRiUlpXeVFHRzV1ZnRxX0kyLWVmZFNoTWJZeXZRRFRiZU9EeS1OYmhRN1VHdVY5LVRTNF9vdjduSG9yU3lHelA1ZFItaUJQS2M2TWpXQWptMlRYRllRLVVkZHBhczNUUG5zY3JRbVliQ0dj?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d38b59fa71de",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE-India flights: Which new destinations can you now fly to from Abu Dhabi? - Gulf News",
+   "time": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUZGVEJzS3FPS1V6QjN3LXpKZkVLejhhZVNIWXVlRnRYUEk1SnM2Y1VhN1h1TGhWZjhIa2NJZjVnZ0kxWi1HRkI2MXBLbnZsWTBpc1FPSjB6UGVBVDVRLXZFUFhsSVkxM2p1QzVVMldMRkdlX1d4T3JacExTRDU1S3ctT1kzdGpoclNVR1hWVUpieGNQT085X1V1eGt2SDFvWlRsSS1peHFIakc2ZDItcGVEMFRZRG5GeE5WUVZMR0cweFXSAdYBQVVfeXFMT08tX2l5SV90bGFMMWFJYkFLblp5dEI1LTdsMmNuckFTNFZMYVNCMkw2bVRJRThBT1N6b2JhNjFONzZneXRyV180X0VuUU82MEFIcnZwSEl3WHVvVEZaT0t0dzFzTGd6TXlzeTdLMVFUUzN4cWxvaHFHWHotQ2VNMDBvX2dfS1pmaVZNNnVjcC1CQlV5aFRVZmpHWFZkOXZqdWJ3UVoyTmxxNjgwdFA1VDhuM3VSTVdiSTJkRUtRaVEtT2puelRYdXdNWDBPN3BSb01rcU1jdw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-fd2a281b711c",
+   "channel": "press",
+   "author": "The Times of India",
+   "role": "press",
+   "text": "'Avoid unnecessary travel, remain vigilant': Indian embassy in UAE urges Indian nationals amid Middle Eas - The Times of India",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNckxacndram5GeHZPeEU3bG1fNkZYYlBYMkNqOUVFblFWcUlUS2JTNmZoXzVHc1NKRFBIU3hVZUNackdlYU00RV9PN3FvT21NN2JpZ0hKc1FEemw0bVcwc3ZoRXVoWmo2c1N0cF9CMDRlNkRoTUNKZkNBSEdNNWFBczR6WjNIbll4VTc0Vy1jV3F2aFFyTW9ZeE1GZFFLeUpGSWtfZzhJbFNZNHJLVVlTMVlicHAyYmpCMGpKWml0REZJZVQzVTVkVWVObENXdDBmREtwZVRzWjdfaXVHRHg4ODM1VWJKOTREZFdISnc1MFVaUEs0TWNwYVk2SnNTa0ltMlNSM1hRY09EX3hyT1FNeFRkTlR0NkxFZXlz0gGgAkFVX3lxTFBOTjhjLUt2amplY0J0dXZUN2JTa1FXaGRXY0Y4UzV0bWtGMDRjdTAyN3pUZjRsT3pfU2lHM0wybzNyVGtCVUtIWi03TFBrQ08waXR6NWJuLUVtMzJZbmFzTkRxNWlSN0dFZ3pFWDJPLVEzY053QjZkMU5faUlwMzJuMENJR080XzZNYWpKdTVzYXVHX25IdER0b0pkVlUwbzc3UVNENEpZbWdvemNNd3I1ek9tRTdXYlYyR1JVcGZVdkdqQWVSOS13MDlGTnRTOTRlaTd4TFJ4YzZ3YW5iQ0t1M2xrRHBBZ3QwNW1VeS01cHBLVW9qYU15UXNPMW5zbnlEd3VYVkZ4OFlWLVVEWEpWZzlrR1VtVjV2RFhxMFBUMA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5d5d7328fb83",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "'We are here for you': Indian Embassy reassures UAE community amid conflict - Khaleej Times",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUNJRFV6OFB3dUFrczR1ZjFvU25LejZPM1gtemM1cHp1cVJMZ0VUWUtBcEhlSUdSaW55SHJ5ZTMwQXp3WDBQeHl1SDZFMm9BZ2J1SzFSbF9vYjNURW1pWnpBQWt0NlQ2b3IzQVpJaGV2Ylp0LXhlSDNRZkxLdEdXQUJZTkNVSl9xLWVtUzN30gGWAUFVX3lxTE9MN1k4VWM4T092NUVSZVZBamRKcVNnSk1EQnVNSi1INXI0cHlHWWN0akFva09pa0stQlhoeHFkTkg0N2R1RDFKa1FXYWw2Nk1DbFFrNjQyXy1SWF9WRUpHMXlfemJnM1RMQlNGbnVaZjB4NU9wODRYRjVUV1IyRmJ1OFN3cDVCMHh2cktSaG5WdkU0THVkQQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f1695984fd0b",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Should Indian expats in UAE register with Indian Embassy in Abu Dhabi? - Gulf News",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0hIck1lRW9mQ3VzM2xwOW90blZEdmF4UWZPcXlhUDZiNWcwVVhlRHdfQ0o4bURManlzd01BTW1RQ0d5QjRwYmpxbFJTTEdtWmtydkoza2RNRHgwZ0sxdGFRNHdOQmpnTVNGSXV5NEZWbXFTNlFfck9sakZlSy1rOVNvVVhsZDhzZl9scnE1ZUxnb3FZdjJNRGVBQVNmSV9PTi1IajBsN1FuZ9IBugFBVV95cUxNRERPaTBDSzZDREtoR0k4b0FHaXJnMWU0OVdKQ0ViVFplbzZ1UW1MYXhjV1hWQzBMdkNqenFfTXpCMEh6MVplek9DVC1sZDNlMnBFOE5SeHhnMjI4d2pfQ1hMRmEyOHZlV2I1MFJHZEhxX2FzdzgyRzA3TzcyU1VBalJsYkliWWpiSGpDVS0ybmxOTkxPNjRjRXRQemJjVzJteTNZdGY5Yl96VUROSTlXLUNDeXZnLXZxUUE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-b29f192af11e",
+   "channel": "press",
+   "author": "Al Jazeera",
+   "role": "press",
+   "text": "UAE resumes limited flights amid travel chaos across Middle East - Al Jazeera",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0VLaUx3eWxSbkJQVmdsYzdGUXIzdzRyWHhmMTJ5c0ktNHNPR05JanpPOTNleVFXN1NMX05xa1gwOW1oX3I4MUpkLU8zSXYzVUxCUzByelJEc0hINE5yV3B3OG1JeEUtNU1VU0VvSm1veEpMZlhkSWpIZzczQzNyaHFOSTdSUHAzbnFHRWNONEJmb1NyVE54YWZOQTJPNFJaZHplcFJMLXY1X1HSAbABQVVfeXFMTzRWTzdNOE1OdURKdVB0c2VhYUFYY3gxN01VVTQ1MzhiV1pDeld1OWlkT3V3cmloS0o1bUVRdDlUTUN6QXBNb0lwYTFndlBScXJ6Mm8xSVdGNDFEVDVvMlpqcEpoVWlnczlxNFZtZGltZFUxRi02ZXc5ZVNxR2w0eFlMTk5CSDlac3VtekhNODRXRVpHaE92ZlZjMVNmZHpsV1BSblRCLXhvSDcwRkxLQms?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f02554faf3d7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "US-Israel war on Iran Day 4: Urgent travel advisory for UAE fliers on special flights - Gulf News",
+   "time": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcTJTWlpocjI4Ump2d2xYZUxGbXI0MFplY3NZUHh0a09FVnVyMUdHUU44STNiem03T1dtbzNEejNoTllwMVV3RThnb0wwRlFUQVBxd3ZjenF2ZUtKRk1uSlBrd2tuSjNtSVVjS01VeXpUbTNmbExyNG1vQzhrWm11RFB5aEk3Y1czODIxM3U2SVNFek1aRkJ1TUpxS0lpajRyc1Q5Y01yb0laVy1lMWZ3OU1PaHRDbnhFbVpmakVfYjlpTk1ZY1NOcV9yRTBWRnot0gHjAUFVX3lxTFAyV3l0Y0MzQXE2b1BBUGMwVERNeVVFMmJkMkVtRFhKbHduUWUweXo0bXYxS25DVHlmWTVRNTJLX2hlLUtsODZwVjhVNjZKckllR05DbUloQlk1WmJoNnhiUGVSdFdkU3B3YW9VeEluXzlxM2hiWmZfVHQ5bjM4aHRLY3hQS1NBcTBacENBSXlyanZGRjFkcUk2N3RuNTEyWV9zV3hoZ28yZFVENnlKbmJmRTlUaVBDRFpuX1VLWE14SGRmWjBOLVpLTV9vUzUzYXdWZ3l5TGNQbEVVVFdtNVJpRXFN?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-6b33f5cb587a",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "Indian Embassy Warns Indians In UAE Against Sharing Face Scans, Fingerprints - NDTV",
+   "time": "Tue, 01 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUkyUXBUUjQ3ekN1MDFtbzJ3bTdXMktlRnpnMEl4dXBBcmFPUUh3ZWxaZEcxdWVDbnJNY2ZnSW5qSlNLUVNTUHAySUJyb0JIa2p3WFF3WUUzWGE3TlJNa1luQ211VERLMktQTlVNSzJyOE9uSlJ0OUxKNlpGNmw4cWhFcWplOVZQSnA4VlZHVm5VTnp6ZE8wOTk0N0lwOWhjRW1HbWczcFJReHQ5dXVMY19R0gG6AUFVX3lxTE5hVHlMT3RsTDNkQmNxRFhYWkQ4UW1SX0hWY0NKQVFOQnQxR0xhOHA2NVV3NzM3T1FGbTlKbUo2ZkJBdFFMQ2M2VlppbXhsRTJsYXgyZFAyX0NnY01IUVlPNVJGNEQzb1ZMOFJ6dDZqczlDeThlNmNucHYxZng5cGNnTkQyZU4tYS1zQ25WdFprenpKdDU5eXN5bkNBQzctdUJsSlNYeGl4enNHbUZGX3FOYzh5eWJNVFNXQQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c364903301cc",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Air India Express boosts UAE flights as Gulf routes resume from April 30 - Gulf News",
+   "time": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0JwZnRSSTZYajhLbmItRDluZ2tDS3QydnlQWmhGTUl5SURvd0c4d0dlWTFyY1p4b29qLXJXdEZ0WHh6R2tPZ0VmUGtBOWRUaFdtb3NFNnVkQW5fWnduT2ZFMTdPYklQMlpyVU9qN1M5S1B5c01rMmU4WHgtZjM3cVhtU3ZNbmR4ZHZNU0NsNjdoRkFub05rSGxHZm5XRlM1WHF3d19WUmM3SnFFdm9HNWVmWlpTNjB2b2E4TVpGMXXSAdMBQVVfeXFMT2xmdHUyTkh5MzNxcVJWSHMxYVAwT3c1MkQ1TExWVFZPUGxZc1BsRWpUUEYyQVN1U01LSEVuZ2VQR2xaQmZVTHlfQWtZRG5SM21qY0VpOTVNTnk1dkoxNGdBZUtPWXlqZzU3U2x4VGZjcG1JTWZYNWNqWklXR1d0dTFWY3Jnd21yT1J4X0paUEdWc2R6bThCQ1FPTFQ3MXU5X1pBZFIyTkZPM2hoZWxBVzUzaXJrQjZOUE9VTlVSNFFMZ0tXaW1mUHRVWGVyenNLYUpTRQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-3540237d4108",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE gets direct air link to Northeast India as Air India Express launches new flight to this destination - Gulf News",
+   "time": "Thu, 25 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONG9sR1AwYjg0a1N5bWxiRThkQ0RndFNWSUtsaGk0QTJpbVl3VlNJdFVUWXpPQVBxd3QwTWkyUGgwc2V1ZC14TDlyekpRSzAxNE83d0RFdVJoVGtJeENGcHJLQnZUQXkycVdHMWxzcElvMmhYZGd2SmlEVjJDWEo4ZkdibFN1UENBT2tnNTZ3SHFkdmY1a1FFYWtoYkxSVVBKMXdDdHNFT0FlQTZlSHJoNTNRcU1PY2hZbVJ1ZjMzZ2dyTlhWTjVoMDVpSG5oUDM5NTdiTzM1bVlZWmc4bGJ2V1Vn?oc=5",
+   "sentiment": "positive",
    "verified": true,
    "engagement": null
   }
@@ -550,18 +551,6 @@
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-08e49102df87",
-   "channel": "press",
-   "author": "News On AIR",
-   "role": "press",
-   "text": "Indian Embassies in West Asia urge Indian nationals to follow advisories issued by them | Akashvani News - News On AIR",
-   "time": "Fri, 29 May 2026 23:42:27 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVd0YVZjSEdSdjN0bF9UNGhiYlJldnBSTTNJYVppbVJDMERsa2tuU2FoX3h3WDRSbHhLSUhOQXhISUlHWUxZR1NfaW9ZT1ctdGdRdWdaTGpDallCdnFSSHRVSXJjNENTdTNTSFN4ZFlybzBHTWpUZWQ0aVhoOFB0dllXTzRUMnhpRExJUURqMDJ4MzlnU2k1RzlKS1ZkMi1zWXFXQWJyMzNLQjBOT2IzY3Y5Yw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -622,42 +611,6 @@
    "text": "Embassy issued this alert to Indian expats in UAE - Dubai Eye 103.8",
    "time": "Thu, 09 May 2019 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC1wLXJXLXc1QS1YbGhZR1JzZWtScjhLd2pmaC1pcVVpVmtWbEpTUzlGcE1ScGZJOVYxbTNVdTdFZlR4Q00xNWFTWklKYm13dVBXOC1kUWVVRFVuZE5UcFhJcC1jdW1sOXlpM1RRUjNpWmpOS0EwUm0wN3VPdUozY2N2bXJ4WDBfVW5kNkFMSkRhUGoyQ1AyNGNn?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a59f6d340667",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian missions in UAE issue advisory for expats and visitors - Gulf News",
-   "time": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWdqd0lvWjJnNjNUcU1ockV1OUpDUExNbXAxeG5oUHV4VEV1dnZEMS10eW5xS292Z0JLZjVHOG40LURJc3ZHR0UyNXZfc2xQUEctMGxGcDA4dFc2T1hHQjVveG1ROGxiSndQQ1B6Y0hWQjdnZldOT2hkMV9FVWlOZXBwYUdCS25wU1FYZXFaU1BVbGRFTmhWbTNkclpFV0XSAa8BQVVfeXFMTkUxdVRvamtweEFxVFlLNU1hRTNWOUFnLW5VUnlQZWpKTlU3NFl3czdwR3d4UWREY0hzMVBMY0hGYUJrdTI5b0pjV0VkMFlMTkJYRHhGWWwxQ3F0WHBLenkzaEdvREdTYi1pTFpmTThNa3ZpYmVRQjBnMW93V2lzbi1QT3RhT2tHaXVoQk1SOER2VjhHNTF1Y0x0Mm1RSDd0OVE0dU9zbEZ1V3FBM2Ezdw?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-76ba35e3eca7",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Fujairah accident: Indian nationals among dead, UAE ministry warns against rumours - Gulf Business",
-   "time": "Thu, 12 Nov 2026 10:24:38 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG1WRjhqWTZXaTlRb1p1NmNCTXJZeW0zSngwQ2tiS0FNWFYybkwyYlBmdGJvNzd3dWFZTEI2RGFGZmk0OVUxNkxIcFpRRVRyTVdtdGYxeXlONzlLQUtNZC1RUGJKaHlUV3VrMnNuT29DZTZOWi1kYWl6Z2dOQTcycTdZOHlidElzS1pvcTJZWGExbnJnZWowS3RQUktIMjF6dXBVOTNka1k2Nm5lNzdkeTZoUWNsand5NWg0?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7ec08afce812",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms sailor’s death at sea, offers assistance - Gulf News",
-   "time": "Fri, 08 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlgyd3VOaEFBZ0VxOXNHSHMwVEFyeXFIZHozSjVIeUYyaFNmLU41TXpNOXkzcnM2WWgwWUxiZlJBWjhSdnVDelFYMHpkcmY3aGFxZWhOWklOcXlIZFVWYVVuYUFicDkydWt3Z283ZlFVdGxVZHBOM19zbFhvTnA2X1ZlRjJodG9LcDdaRFBzUTZ3OEJBNjBjMTRzQk1jMXUzOTZYbzFuOUVHQllHcXVz?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
