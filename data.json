@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T19:33:04Z",
+  "generated_at": "2026-11-16T19:38:16Z",
   "total_verified": 221,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-edf7f97e85b1",
+   "id": "bn-bb665296bfc2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5a6937bf49319d4fea43a0ba7fad&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb5ba05c7a4109ba92d8b0533cab2c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
