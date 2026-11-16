@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T04:06:47Z",
-  "total_verified": 220,
+  "generated_at": "2026-11-16T04:12:00Z",
+  "total_verified": 221,
   "channels_live": [
    "official",
    "press"
@@ -12,17 +12,17 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 220,
+  "verified_mentions": 221,
   "sentiment": {
    "positive": 10,
    "neutral": 194,
-   "negative": 16
+   "negative": 17
   },
   "channels": {
-   "press": 214,
+   "press": 215,
    "official": 6
   },
-  "negative_alerts": 16,
+  "negative_alerts": 17,
   "handles_active": 2
  },
  "topics": [
@@ -36,11 +36,11 @@
   },
   {
    "topic": "passport",
-   "count": 42
+   "count": 41
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 33
   },
   {
    "topic": "express",
@@ -48,11 +48,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 24
+   "count": 23
   },
   {
    "topic": "khaleej",
-   "count": 24
+   "count": 23
   },
   {
    "topic": "advisory",
@@ -68,18 +68,6 @@
    "text": "UAE: Indian Embassy announces Open House to address grievances of Indian expats - Gulf News",
    "time": "Wed, 30 Apr 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm1EdG5BVWxpaUxfbGRkZFVNVU9CQWRTZ2ZZa1Noa1RZcmtNa3d1OTcxYW1NZWRQaDVheDJ4Ym1CWW16WEFJdFNDc3JzVzh4WkNIN0ZFbjFHeW92bGpJekVlVVFkUjdCMUxjZUVDVXVjYUV4TXQ3b0NxU25RYk52SVBDTzRqbGFneHFKTW9MbGdKQVFCWU8ybzlwNUJZTlQtRC1pamhjdEFZTmdvZTNBNHBUTnVxd9IBxgFBVV95cUxQaWJVTVhoeGhrU0NQTzVwcjNNOTFIeTc2bXhNVms1MW81LTdBR1VobV9QZFFCaHJEZEtydHhHUkZfYzh5Tjl0MzBMcjRYT0tqcElLVmpRWlotRHh3VDNrdXlWLV9mSS1EQ3gxVmxyMkx2N2hnelMwb1gxS1NOXzBtbTBDNDZPUkhJdVE2c0lFd01GY1NIZkUzTURxTzU4aWgxUDcxdkp6eVJUNi14Y2FHVjVISGJMQy1wNW5JdGtPeTdHM19NR2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a90552fa539d",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
-   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -109,13 +97,25 @@
    "engagement": null
   },
   {
-   "id": "bn-791782eb26df",
+   "id": "bn-6397067bb11f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa8150fa234540b7f3bdf7642e9ca3&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa828ae80d428587e919bbea6888ea&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a90552fa539d",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
+   "time": "Wed, 28 Oct 2026 03:38:02 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -325,18 +325,6 @@
    "engagement": null
   },
   {
-   "id": "gn-bd96955b9812",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-e911168925b5",
    "channel": "press",
    "author": "curlytales.com",
@@ -344,6 +332,18 @@
    "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-bd96955b9812",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -567,6 +567,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6a695575b53e",
+   "channel": "press",
+   "author": "News On AIR",
+   "role": "press",
+   "text": "Indian Embassy in UAE Condoles Death of Indian National in Abu Dhabi Incident - News On AIR",
+   "time": "Sat, 23 May 2026 20:38:13 GMT",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmIyNTNmQk1sZ3lWUnR4dEs2S3FTWEo4elh4aUFSbUFFOUlNY2UxdUxZQzA2dk1LQWkyT2F1MW5vUXBETHVyTnVtbzdmbk1ZTmNhd0d2aDlEZ1JyajcxaVFYOTM1bUozeGVhc1BMX3hiZjVBX1pEZ2ZGRWVPakRnaEF3aU5POUxDV1ZtODFkUkRJN1JaSWVDb3pCSXV2VkozY0pObjB3?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-1c60f8097ce1",
    "channel": "press",
    "author": "Khaleej Times",
@@ -634,18 +646,6 @@
    "text": "Fujairah accident: Indian nationals among dead, UAE ministry warns against rumours - Gulf Business",
    "time": "Thu, 12 Nov 2026 10:24:38 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG1WRjhqWTZXaTlRb1p1NmNCTXJZeW0zSngwQ2tiS0FNWFYybkwyYlBmdGJvNzd3dWFZTEI2RGFGZmk0OVUxNkxIcFpRRVRyTVdtdGYxeXlONzlLQUtNZC1RUGJKaHlUV3VrMnNuT29DZTZOWi1kYWl6Z2dOQTcycTdZOHlidElzS1pvcTJZWGExbnJnZWowS3RQUktIMjF6dXBVOTNka1k2Nm5lNzdkeTZoUWNsand5NWg0?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-7ec08afce812",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms sailor’s death at sea, offers assistance - Gulf News",
-   "time": "Fri, 08 May 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlgyd3VOaEFBZ0VxOXNHSHMwVEFyeXFIZHozSjVIeUYyaFNmLU41TXpNOXkzcnM2WWgwWUxiZlJBWjhSdnVDelFYMHpkcmY3aGFxZWhOWklOcXlIZFVWYVVuYUFicDkydWt3Z283ZlFVdGxVZHBOM19zbFhvTnA2X1ZlRjJodG9LcDdaRFBzUTZ3OEJBNjBjMTRzQk1jMXUzOTZYbzFuOUVHQllHcXVz?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
