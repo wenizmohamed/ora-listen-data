@@ -1,34 +1,35 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T22:11:26Z",
-  "total_verified": 161,
+  "generated_at": "2026-11-16T22:16:37Z",
+  "total_verified": 167,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
    "x_official: HTTP Error 429: Too Many Requests",
-   "google_news[\"Indian Embassy\" UAE]: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "google_news[\"Indian Embassy\" UAE]: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 161,
+  "verified_mentions": 167,
   "sentiment": {
    "positive": 9,
-   "neutral": 142,
+   "neutral": 148,
    "negative": 10
   },
   "channels": {
-   "press": 161
+   "press": 161,
+   "official": 6
   },
   "negative_alerts": 10,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 82
+   "count": 83
   },
   {
    "topic": "flights",
@@ -44,7 +45,7 @@
   },
   {
    "topic": "services",
-   "count": 17
+   "count": 18
   },
   {
    "topic": "fujairah",
@@ -73,13 +74,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f82164dca8f5",
+   "id": "bn-327ffe782294",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb7f704e264fa482c8aba3110e5557&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb80bdab6c437ca1bcb69a9eec44b4&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -176,18 +177,6 @@
    "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
    "time": "Wed, 11 Mar 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -536,6 +525,18 @@
    "text": "Air India Express boosts UAE flights as Gulf routes resume from April 30 - Gulf News",
    "time": "Thu, 30 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0JwZnRSSTZYajhLbmItRDluZ2tDS3QydnlQWmhGTUl5SURvd0c4d0dlWTFyY1p4b29qLXJXdEZ0WHh6R2tPZ0VmUGtBOWRUaFdtb3NFNnVkQW5fWnduT2ZFMTdPYklQMlpyVU9qN1M5S1B5c01rMmU4WHgtZjM3cVhtU3ZNbmR4ZHZNU0NsNjdoRkFub05rSGxHZm5XRlM1WHF3d19WUmM3SnFFdm9HNWVmWlpTNjB2b2E4TVpGMXXSAdMBQVVfeXFMT2xmdHUyTkh5MzNxcVJWSHMxYVAwT3c1MkQ1TExWVFZPUGxZc1BsRWpUUEYyQVN1U01LSEVuZ2VQR2xaQmZVTHlfQWtZRG5SM21qY0VpOTVNTnk1dkoxNGdBZUtPWXlqZzU3U2x4VGZjcG1JTWZYNWNqWklXR1d0dTFWY3Jnd21yT1J4X0paUEdWc2R6bThCQ1FPTFQ3MXU5X1pBZFIyTkZPM2hoZWxBVzUzaXJrQjZOUE9VTlVSNFFMZ0tXaW1mUHRVWGVyenNLYUpTRQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-47db439a9f3b",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai issues new passport application rule for Indian expats in UAE - Gulf News",
+   "time": "Thu, 28 Aug 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlhwcU9BZFpaRGU5VzFzSWVuekUwQjFnMUdEOG1BbFVKT2dxblRHOWlOY3RIWVRKS24xSS1DODh4MzVRdlpwY0dyazJDNjV3MHdNbjNTZk9nM3NMeWlYcEFXeTdFOEZWRjgtTWVMZl8wVlVHTXE5dU9OdjVjWGZmN0RLWEZvNDlpYnNKaUJhLW0wREVlTmg0QjEwOXVvXzFnWndxYWhqZV8waHJza0dxSF9wTldsQWRE0gHIAUFVX3lxTFBhTkJkU0tlWkpYM0U0SlptZGtlYVdlVW5sUzlPZW9KbVhfbFd4QTg3YXVWZzBFN2dKNm5KSmJncVQzME12OW1NamF6bnJTb3B6dnBZdHk0SFJiTjZ0MjcxVnNPMHRXSndzTXltMW1uSjZvMTJjNV9pOEgwa3dRTTQ2bDA2bTZEUW95c242TmpmNVRxSnlIRnRzWXg2RGlmV1lXS1lPS0lYZ0RUa2xNaTRBZXVYZDJoUlE0Zm11Q0ZialRmODdFYXlu?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
