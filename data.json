@@ -1,11 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T06:04:21Z",
+  "generated_at": "2026-11-17T06:09:54Z",
   "total_verified": 149,
   "channels_live": [
    "press"
   ],
   "errors": [
+   "x_official: HTTP Error 429: Too Many Requests",
    "google_news[India UAE flights OR]: HTTP Error 429: Too Many Requests",
    "embassy_site: The read operation timed out"
   ],
@@ -39,11 +40,11 @@
   },
   {
    "topic": "khaleej times",
-   "count": 22
+   "count": 23
   },
   {
    "topic": "khaleej",
-   "count": 22
+   "count": 23
   },
   {
    "topic": "passport services",
@@ -72,18 +73,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a90552fa539d",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
-   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-7053aef5a5a8",
    "channel": "press",
    "author": "Arabian Business",
@@ -91,6 +80,18 @@
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens - Arabian Business",
    "time": "Wed, 28 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkx5R2dOODR3c3o5TGdMMldfX1VMNE1uYmtYM0NKRFplZUNscXVaVWJWU05KQ2dxazg5OWhtTldza2hnZkhqWEpNVG0tOVlfZEJHeWk3bTlYVXg2UlF2ZHpyQW40cnltMUJRX1c1N2hTNDFXY3VVTldNd25vSEhfSlVLZUdGU0Q1SmprOG5USENHMzZ2QUp3ZElYOHd1V3k0ekJ0UHNCUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a90552fa539d",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
+   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -108,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-4c360783e206",
+   "id": "bn-48d9374ea097",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbee46d5a14207a571327692d2204b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afbef93647a4794bb8e9fbb58564b2d&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -151,6 +152,18 @@
    "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c91dc2be06a6",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Embassy in UAE issues warning against new scam by imposters faking its social media handles - Gulf News",
+   "time": "Wed, 17 Aug 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY29WUFdNWUlFZkwxb0tTVGk4TzU2dFVvV1FSQ3hhcTkxVkh6cTZWa2pFeG0zMkRnd2tnbkpJTlpQY3o0a2JWWUU4bWxhVU1ncEJ6M05Ua25hVjlCS0dOMGtMTmMxOC1ZNlNMOHU4c1V6NDU3a3J5bzdQaFZwVndTWjlRSkNZQWdnWUlVenRhSUNoQXlOZUVzNENJdG42QTBNVWR4cy1YcV9EeGVfOFZuY2g3Z2NYMjJ0RExOWC16MjNtQWJpVS11M2ZLYW9Rc3M?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -523,18 +536,6 @@
    "text": "Single name on passports? Indian Consulate clarifies UAE travel rule - Dubai Eye 103.8",
    "time": "Thu, 24 Nov 2022 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXRZU3BrTWJSTENNQWk3ZUFEZjQtdzBSTkxMZHhUVEQ3MU1yQ2pJaXB0Rk5xNnpkNWJqdHVMT0F0UGFGVDVDcGE4S3Zhcm9jbjZQN0JRNWdid2tHTlRJZ191TFJKdGRBYkdyVEpjdjBRNld1NFpEOEQwRUZXRzlzWWpNaWFETFFHYVlFOUlLYzlYVFd0RGFUVEZPakVSVzRCRHhUV0VEREJuRzk4?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-e25d44d9a2db",
-   "channel": "press",
-   "author": "ARN News Centre",
-   "role": "press",
-   "text": "Single name on passports? Indian Consulate clarifies UAE travel rule - ARN News Centre",
-   "time": "Thu, 24 Nov 2022 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVElXTTIzWmdsa0dOWWZwQjlHU0RfUUVSZm84Mktab3dnUy1aTGN0YnFCUm1MemdydkZzWVpSaUNOQlZvcEJ5Nkt3N1BJS19XMkFfX2RuRUlBRHQzTHJQMGNXbGZ0WmpfZFNoaXhCMzRaZmNfTVpkTDI3XzlaRXpyN0dfcE5TZWxrVlpEZWFycDZSWTA2VzBTQTJSZHg2ZTRvSE55RkloRmZIdw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
