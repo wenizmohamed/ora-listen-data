@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T16:04:00Z",
+  "generated_at": "2026-11-17T16:09:11Z",
   "total_verified": 223,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
@@ -107,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-1e8ab0fb286b",
+   "id": "bn-b1d63d358ab3",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7ae707f94267aeef9c365f90129b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc7c1e2c5b437faf6d562081cabbc1&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -347,18 +349,6 @@
    "engagement": null
   },
   {
-   "id": "gn-18d1924e4693",
-   "channel": "press",
-   "author": "Business Today",
-   "role": "press",
-   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-bd96955b9812",
    "channel": "press",
    "author": "Gulf News",
@@ -378,6 +368,18 @@
    "text": "Indian Embassy In UAE Extends Suspension Of Regular Passport And Visa Appointments - curlytales.com",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak9iNjFwa1Bvd2VwY2JtMjhIQkllZFJFQmtRbE4zVzlPWjBnWkg0NVQyd2hrQndYamZ5RGlHXzNrLUpOYkdUQWZyekt3ZENSUmduRmVPR3RLeGhoVjhUa0VMWTg2Unlza2NQUzIxVEhFV2ZFZjVXc0FDbmdsXzZ6a1hkbkppbk8yVVFFV3kteXdJSWhSWjRiSFBMS25OZzBybHI4Mkd5Wnc4V3hPZzNaZjFlZXB1SFVQRzhOQ0xzenloZEE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-18d1924e4693",
+   "channel": "press",
+   "author": "Business Today",
+   "role": "press",
+   "text": "Indian embassy in UAE extends passport, visa services suspension till this date: Check details - Business Today",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZktLR3cyNGdMTmZtclAxRlg4cFdpRkNhYXlZZUlydklXN1BsaDcxNEdRZWM1eEdmam5QRjdEbmNwem1MUmduSkt3cjM5WExzMUJ0M1VaQVVocXFmTldKNzl2Q0g0b2E2VlYwUUN2Rms2WWQwNlBvLUFVcmdsbGNMUkhSYjNzWG1VV3lIenJPRnE5cUp1MkRPajh2TmdnWXpUbTE4b1ItaXlRTHZCVW9pS3hyT0l4bTZsMDAwZDVwejdVS3hzakkyOUR3TlFNVVN3NUg0ODh1M25PQWpEU2pUMGM1NUxkOWd2THfSAe8BQVVfeXFMUFJEUExBUjRmMVBMY2M0T0ctc1VOci1fUTF2MW5XYlU4TVJ3bUVILXF0VllsOHhhSmVnV3BtaElxMDZnUXd6XzNRaDJpYTk2d0hWY19PeDJjVS1peHhLbnh0SVRPdDJnOWI5ckJRTVZVUG9ETzE5aGIwX0dqemRMQjlQcERyQnM1eHdDa3JrR1BfVmNld3RMV1FESEtzRzZzUEtDMGVacE10VmhHQ2htMWlOWkpQRjRLc3JGMmhaODJ6Z0tDYy1vS1lwbklpYkVHSGhNVmI0UkpWV1pLWXRteFZGYS10dEU3NlZHeEVrNWM?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -565,18 +567,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a52754f1ddfd",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
-   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-1c60f8097ce1",
    "channel": "press",
    "author": "Khaleej Times",
@@ -584,6 +574,18 @@
    "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
    "time": "Thu, 18 Sep 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a52754f1ddfd",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
+   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
