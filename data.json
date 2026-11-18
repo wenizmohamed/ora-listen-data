@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T15:40:04Z",
-  "total_verified": 219,
+  "generated_at": "2026-11-18T15:45:39Z",
+  "total_verified": 213,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 219,
+  "verified_mentions": 213,
   "sentiment": {
    "positive": 11,
-   "neutral": 196,
+   "neutral": 190,
    "negative": 12
   },
   "channels": {
-   "press": 213,
-   "official": 6
+   "press": 213
   },
   "negative_alerts": 12,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 16
   }
  ],
  "mentions": [
@@ -109,13 +108,13 @@
    "engagement": null
   },
   {
-   "id": "bn-dffd575620b8",
+   "id": "bn-86c11e563750",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc6c72d1b4524bd5609c360b64d74&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc80a5a2f419b950f4f436ef565a8&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -469,13 +468,13 @@
    "engagement": null
   },
   {
-   "id": "bn-dd40201ccee2",
+   "id": "bn-b69c58a4380c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE Embassy Attestation Services in India & Apostille Services – Fast and Reliable Document Verification",
    "time": "Tue, 17 Nov 2026 21:32:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc6c72d1b4524bd5609c360b64d74&url=https%3a%2f%2fsmestreet.in%2fglobal%2fuae-embassy-attestation-services-in-india-apostille-services-fast-and-reliable-document-verification-12819226&c=7411790835268459040&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdc80a5a2f419b950f4f436ef565a8&url=https%3a%2f%2fsmestreet.in%2fglobal%2fuae-embassy-attestation-services-in-india-apostille-services-fast-and-reliable-document-verification-12819226&c=7411790835268459040&mkt=ar-ae",
    "sentiment": "positive",
    "verified": true,
    "engagement": null
