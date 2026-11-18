@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T13:34:14Z",
-  "total_verified": 219,
+  "generated_at": "2026-11-18T13:39:48Z",
+  "total_verified": 214,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 219,
+  "verified_mentions": 214,
   "sentiment": {
    "positive": 10,
-   "neutral": 197,
+   "neutral": 192,
    "negative": 12
   },
   "channels": {
-   "press": 213,
-   "official": 6
+   "press": 214
   },
   "negative_alerts": 12,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -40,11 +39,7 @@
   },
   {
    "topic": "services",
-   "count": 35
-  },
-  {
-   "topic": "express",
-   "count": 26
+   "count": 36
   },
   {
    "topic": "khaleej times",
@@ -55,8 +50,12 @@
    "count": 25
   },
   {
+   "topic": "express",
+   "count": 25
+  },
+  {
    "topic": "advisory",
-   "count": 20
+   "count": 16
   }
  ],
  "mentions": [
@@ -109,13 +108,13 @@
    "engagement": null
   },
   {
-   "id": "bn-49048c0414f2",
+   "id": "bn-5f0066ba6d7c",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afda9535e3e486e86b84b8e2154dd46&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afdaa8b47f74158acbe1d461ea6a1c0&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
