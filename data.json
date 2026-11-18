@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T04:02:00Z",
-  "total_verified": 217,
+  "generated_at": "2026-11-18T04:07:11Z",
+  "total_verified": 223,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 217,
+  "verified_mentions": 223,
   "sentiment": {
    "positive": 10,
-   "neutral": 193,
+   "neutral": 199,
    "negative": 14
   },
   "channels": {
-   "press": 217
+   "press": 217,
+   "official": 6
   },
   "negative_alerts": 14,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -42,10 +43,6 @@
    "count": 35
   },
   {
-   "topic": "express",
-   "count": 26
-  },
-  {
    "topic": "khaleej times",
    "count": 25
   },
@@ -54,8 +51,12 @@
    "count": 25
   },
   {
+   "topic": "express",
+   "count": 25
+  },
+  {
    "topic": "advisory",
-   "count": 15
+   "count": 19
   }
  ],
  "mentions": [
@@ -108,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-61db7e9fd20a",
+   "id": "bn-70c7796b328f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd231e29894745a7c3fcd28c43d766&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd246c9ace45dbb7b420e78ca55207&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
