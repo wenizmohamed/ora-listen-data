@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T08:22:48Z",
-  "total_verified": 212,
+  "generated_at": "2026-11-19T08:28:22Z",
+  "total_verified": 206,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: The read operation timed out"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 212,
+  "verified_mentions": 206,
   "sentiment": {
    "positive": 8,
-   "neutral": 192,
+   "neutral": 186,
    "negative": 12
   },
   "channels": {
-   "press": 206,
-   "official": 6
+   "press": 206
   },
   "negative_alerts": 12,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -56,7 +55,7 @@
   },
   {
    "topic": "advisory",
-   "count": 19
+   "count": 15
   }
  ],
  "mentions": [
@@ -68,18 +67,6 @@
    "text": "UAE: Indian Embassy announces Open House to address grievances of Indian expats - Gulf News",
    "time": "Wed, 30 Apr 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm1EdG5BVWxpaUxfbGRkZFVNVU9CQWRTZ2ZZa1Noa1RZcmtNa3d1OTcxYW1NZWRQaDVheDJ4Ym1CWW16WEFJdFNDc3JzVzh4WkNIN0ZFbjFHeW92bGpJekVlVVFkUjdCMUxjZUVDVXVjYUV4TXQ3b0NxU25RYk52SVBDTzRqbGFneHFKTW9MbGdKQVFCWU8ybzlwNUJZTlQtRC1pamhjdEFZTmdvZTNBNHBUTnVxd9IBxgFBVV95cUxQaWJVTVhoeGhrU0NQTzVwcjNNOTFIeTc2bXhNVms1MW81LTdBR1VobV9QZFFCaHJEZEtydHhHUkZfYzh5Tjl0MzBMcjRYT0tqcElLVmpRWlotRHh3VDNrdXlWLV9mSS1EQ3gxVmxyMkx2N2hnelMwb1gxS1NOXzBtbTBDNDZPUkhJdVE2c0lFd01GY1NIZkUzTURxTzU4aWgxUDcxdkp6eVJUNi14Y2FHVjVISGJMQy1wNW5JdGtPeTdHM19NR2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a90552fa539d",
-   "channel": "press",
-   "author": "DD News",
-   "role": "press",
-   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
-   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -97,6 +84,18 @@
    "engagement": null
   },
   {
+   "id": "gn-a90552fa539d",
+   "channel": "press",
+   "author": "DD News",
+   "role": "press",
+   "text": "Indian Embassy, Consulate in UAE advise nationals take adequate medical insurance - DD News",
+   "time": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmpfd0VIaURmSnZSTVhUX2hZbzdoVVJDaDg0Y3VCRzgtaEd6ajg0U3VxNldsWTd4eEE3bXZlbjBiMG5fLV9WaUNjZFpwMEYyeXcyMFdVUF9QZEV0LUtoN2QzMEVqeDBfcFlyM0VKcE9ocVk5bnZkY3NlWkM2LTVncTM4c1RUSmxUdUEwRkl0VGsxWUxVN2dra2hZX1hhdzA5cGdpRnRNLVRlZw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-f2ead5e5b350",
    "channel": "press",
    "author": "Curly Tales",
@@ -109,13 +108,13 @@
    "engagement": null
   },
   {
-   "id": "bn-cf9c04c63072",
+   "id": "bn-fc1437bd2b88",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb1d4bf7d42bfbe8c1202a9b63342&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afeb30c63af43a9a0b2a74920810374&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -188,6 +187,18 @@
    "text": "UAE flights status update: Etihad, flydubai extend Saudi cancellations as Gulf attacks escalate on November 18 - Gulf News",
    "time": "Wed, 18 Nov 2026 08:24:22 GMT",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGJfdGd2ZUFuUFZXUnlVaFBDYnd0RDRIc21vZ0FkMEVGWFozbWlYVjBob1FYZzF6UFluZmE0RlR5d2hudVMybHc2TlJSRE1ULXFUSkVVQmRIMDFydlZKR2VqamdJcnRzS1pwb0dORzdTZF9iQ0ZoM0QwZG1laE8xRzNaeW1IdTlyMkdOZlN2WWVyRkN0WWZGZjFOSTZvSE5tNUc0MGdORGZWeUxUcGZzTFV1bDQ0cGlPVndwMldqYThHcWIzamNKb2VINDY3YVdHaHV5dFY4Z25semJrVktjRnpIUlNVaUtSMVBFbks3Z9IBhAJBVV95cUxNU0VTalJZcUdmOEFoQXhGS1ZHTTFmZS1yYTliN1FZZjUwU2ZwRHd6eXhXTklXMm95QU5kNDlXazJGMGVWekFmSllUVDRweEdHck5xd0RWRmRrbjB1Q19WSkxxd2hTM1BWVUFVQWJjdzZnMkpmRmtWMzhEbXg5TUFPdEMyUGtucE50MV9rdEJ1NDc4eFZqV25WekxHMFFHaUZmdFV0dzZkc2hKUkNCMnFaTWpTczlnT09rLXoza0JQRWtPZHhmcmtRcjRTUmM2Tm44aUR6eFc5SS1pQVNFS25JYm8tajJPc0RFa2dJUk9ST1VxYmR4aEk0R01sQUhJeUxiQy1CNA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5cf8a371a96d",
+   "channel": "press",
+   "author": "Condé Nast Traveller Middle East",
+   "role": "press",
+   "text": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue - Condé Nast Traveller Middle East",
+   "time": "Wed, 18 Nov 2026 07:26:30 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFpHY2ZpZFJZUHN3X2xYakdpS1JacUEzOHV4c2pUQmZrc0tvaEZiSlJoaVZ4Y3FnVUpNTGRnZTRhclBncU96YmNfMTA3SWpDT0ZrcFloeE0tekJ2cF8tQ3JGZ052UG1ZMk10VTh4X2NfNXNWQ0RJSTBzNEY3X3JRX2JsRkl5Y0RuSUNGbVR4LTVUZi0wMVFHc1JmM1JHT1lFYkEwVTNBUGg1WVRZZkdSU2xLcVUwNlUtZWNHekl4Y1k2d0d0dnc2aDQ0OHoxd0MzTzJ0M3Z0Rm5wb0IzUVl0eU5oQXU?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -527,29 +538,17 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-209a2e9038f8",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian passport service controversy: What Indian expats in UAE must know now - Gulf News",
-   "time": "Tue, 07 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dtY29tMkdtRy1KM0EtWm15MFZxNzgzeUlFUHdPLTBoVU1jejQtQU9WeHZKWi0zTHpJWFFoLWVvWnQ2TFVXN0JLeHQ5SDkwYmJKQnlEMGxFaW1KQTI2UzBiSTZtdU1KSkhUVms2UGllS3IyeXRxNkwwdzZxRFhqYk5hckJHVjhCaUVCTkxDaUdma1lKZGFtTmxubmRiRnpJU1JBWXEwakZHWi1Yc0RfR3Rn0gHCAUFVX3lxTE1qNmhyX3d1cVhybUpiYWhuYW9JVHp0RE9lQjFoQmtSQUJYbFRRMTA2cUhpaU9UamFNbFBDQ2RtYnlybmNROEVDVkxvYVBJbEdiMGFEc0JNRnVQTUpVY2VqT0o2eVMtNDBBQW9KMWxQSUZrMmRVMHgyTDdPY1gybkN6T1F0OUVjWWtxaUF5czNQTXo4NjJMMWN2QmtJNWc2Q0xRbE1qcGx0aHhMZVdyVFpXS25PZjVZaldqWXF4SDRPaTFB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
   {
-   "id": "gn-875abf8eead0",
+   "id": "gn-6b7075a3eece",
    "channel": "press",
    "author": "Khaleej Times",
    "role": "press",
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
