@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T17:18:38Z",
-  "total_verified": 209,
+  "generated_at": "2026-11-19T17:23:52Z",
+  "total_verified": 215,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 209,
+  "verified_mentions": 215,
   "sentiment": {
    "positive": 8,
-   "neutral": 188,
+   "neutral": 194,
    "negative": 13
   },
   "channels": {
-   "press": 209
+   "press": 209,
+   "official": 6
   },
   "negative_alerts": 13,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -54,8 +55,8 @@
    "count": 24
   },
   {
-   "topic": "passport services",
-   "count": 15
+   "topic": "advisory",
+   "count": 19
   }
  ],
  "mentions": [
