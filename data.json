@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T05:59:52Z",
-  "total_verified": 207,
+  "generated_at": "2026-11-19T06:05:06Z",
+  "total_verified": 213,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 207,
+  "verified_mentions": 213,
   "sentiment": {
    "positive": 8,
-   "neutral": 187,
+   "neutral": 193,
    "negative": 12
   },
   "channels": {
-   "press": 207
+   "press": 207,
+   "official": 6
   },
   "negative_alerts": 12,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 16
+   "count": 20
   }
  ],
  "mentions": [
@@ -108,13 +109,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b1b6f5b1e1ae",
+   "id": "bn-4f2f0ed0c3a7",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe903fba6c490095e3c2d0db9b86de&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe918eda714e3faead85edd11b6e1b&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -240,18 +241,6 @@
    "engagement": null
   },
   {
-   "id": "gn-c7524b6da74e",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-f448775ba783",
    "channel": "press",
    "author": "Khaleej Times",
@@ -259,6 +248,18 @@
    "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c7524b6da74e",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
