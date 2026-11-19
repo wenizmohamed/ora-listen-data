@@ -1,34 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T10:24:18Z",
-  "total_verified": 213,
+  "generated_at": "2026-11-19T10:29:53Z",
+  "total_verified": 207,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: <urlopen error _ssl.c:1063: The handshake operation timed out>"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 213,
+  "verified_mentions": 207,
   "sentiment": {
-   "positive": 8,
-   "neutral": 193,
+   "positive": 9,
+   "neutral": 186,
    "negative": 12
   },
   "channels": {
-   "press": 207,
-   "official": 6
+   "press": 207
   },
   "negative_alerts": 12,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 100
+   "count": 99
   },
   {
    "topic": "flights",
@@ -43,10 +42,6 @@
    "count": 35
   },
   {
-   "topic": "express",
-   "count": 26
-  },
-  {
    "topic": "khaleej times",
    "count": 25
   },
@@ -55,8 +50,12 @@
    "count": 25
   },
   {
+   "topic": "express",
+   "count": 25
+  },
+  {
    "topic": "advisory",
-   "count": 19
+   "count": 15
   }
  ],
  "mentions": [
@@ -109,13 +108,13 @@
    "engagement": null
   },
   {
-   "id": "bn-b4a3a6ef5774",
+   "id": "bn-b1b14b0754d9",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afece467e4d467b8b64f5906f1a121c&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afecf879c5242fa85ac3c8246e46d89&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -543,13 +542,13 @@
  ],
  "alerts": [
   {
-   "id": "gn-6b7075a3eece",
+   "id": "gn-875abf8eead0",
    "channel": "press",
    "author": "Khaleej Times",
    "role": "press",
    "text": "Indian embassy in UAE to suspend regular consular appointments for 5 days - Khaleej Times",
    "time": "Fri, 19 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1B6OW1SMEcwaGlYTks0dnlvVmFIcW5ybWxIUkw4U3MxTXQ2YWJLT0xLbnpEYTM2eW0xQUM0eUFPcWR2WExRM0ppWXFzWU42WkY2bHhwUmlieldocWplYXR3M09vS3hGVHdSdTRtZDd3RU5xTjZuYnFKZW4taW4wZWxsTnRHM1hIUlVnN1lFXy13dHhiRXR4UGpEMHRBUXFVU2RjekxFYjdieTRMZWY4UnVORHjSAbwBQVVfeXFMTXpnWW1Ea0xweGtrS2tOd2VPNVg0QUlBMnpvdkNYRTRZZkN2TE1lSzhMZDBobDRxc2lZVmRlZVpuUEo2QklCUEh0NHBJTTVsaFFkSEg1dnQtV0hPb2hJeFhrd2NWSDdXTFZWUEFYeDdEaGduY2NCR0pxOEhIMjJUd00tZG5va3YxTnJZLTlzb0YtSmQ5RExvOUs2YklYWE9hYmFYVW12NGJMX1lNREMwdUJFaHRUakpqTGlrbnM?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
