@@ -1,29 +1,28 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T04:38:05Z",
-  "total_verified": 199,
+  "generated_at": "2026-11-19T04:43:39Z",
+  "total_verified": 192,
   "channels_live": [
-   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests",
+   "embassy_site: <urlopen error _ssl.c:1063: The handshake operation timed out>"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 199,
+  "verified_mentions": 192,
   "sentiment": {
    "positive": 8,
-   "neutral": 180,
+   "neutral": 173,
    "negative": 11
   },
   "channels": {
-   "press": 193,
-   "official": 6
+   "press": 192
   },
   "negative_alerts": 11,
-  "handles_active": 2
+  "handles_active": 1
  },
  "topics": [
   {
@@ -32,7 +31,7 @@
   },
   {
    "topic": "flights",
-   "count": 59
+   "count": 58
   },
   {
    "topic": "passport",
@@ -52,11 +51,11 @@
   },
   {
    "topic": "express",
-   "count": 24
+   "count": 25
   },
   {
    "topic": "advisory",
-   "count": 20
+   "count": 16
   }
  ],
  "mentions": [
@@ -109,13 +108,13 @@
    "engagement": null
   },
   {
-   "id": "bn-c7b317c56b1a",
+   "id": "bn-ad6c4d71f577",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian Embassy in UAE issues travel insurance warning to citizens",
    "time": "Wed, 28 Oct 2026 04:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7d1a958b4ecba3db6a8b43726a94&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe7e62262743f8a1fbc49ad140076a&url=https%3a%2f%2fwww.arabianbusiness.com%2fabnews%2findian-embassy-in-uae-issues-travel-insurance-warning-to-citizens&c=6433451009633711606&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
