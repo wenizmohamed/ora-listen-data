@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-20T00:40:27Z",
-  "total_verified": 198,
+  "generated_at": "2026-11-20T00:45:54Z",
+  "total_verified": 214,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 198,
+  "verified_mentions": 214,
   "sentiment": {
    "positive": 8,
-   "neutral": 179,
-   "negative": 11
+   "neutral": 193,
+   "negative": 13
   },
   "channels": {
-   "press": 192,
+   "press": 208,
    "official": 6
   },
-  "negative_alerts": 11,
+  "negative_alerts": 13,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 94
+   "count": 97
   },
   {
    "topic": "flights",
@@ -52,7 +52,7 @@
   },
   {
    "topic": "express",
-   "count": 24
+   "count": 25
   },
   {
    "topic": "advisory",
@@ -241,18 +241,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f448775ba783",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
-   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c7524b6da74e",
    "channel": "press",
    "author": "Gulf News",
@@ -260,6 +248,18 @@
    "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f448775ba783",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -603,6 +603,18 @@
    "engagement": null
   },
   {
+   "id": "gn-bfc3e02a337a",
+   "channel": "press",
+   "author": "Dubai Eye 103.8",
+   "role": "press",
+   "text": "Embassy issued this alert to Indian expats in UAE - Dubai Eye 103.8",
+   "time": "Thu, 09 May 2019 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC1wLXJXLXc1QS1YbGhZR1JzZWtScjhLd2pmaC1pcVVpVmtWbEpTUzlGcE1ScGZJOVYxbTNVdTdFZlR4Q00xNWFTWklKYm13dVBXOC1kUWVVRFVuZE5UcFhJcC1jdW1sOXlpM1RRUjNpWmpOS0EwUm0wN3VPdUozY2N2bXJ4WDBfVW5kNkFMSkRhUGoyQ1AyNGNn?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-a59f6d340667",
    "channel": "press",
    "author": "Gulf News",
@@ -646,18 +658,6 @@
    "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
    "time": "Fri, 20 May 2022 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-f7c11b5a9e50",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai to hold Passport Seva Camp on June 26 - Gulf News",
-   "time": "Sat, 18 Jun 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTlOdE1tNWRVOF9semxpOVp0aHVlSmQ5RWY1VjNWam8wR0pndmV5VXJCVWNDZkloUUtBMnUxUFY3RGtSVTh2bnA1YzRkVGYxQ3JpS0pkNDRDV04tNXhLV092NFJQcTJfWVg1cjltNTZJRHFucEp2OEVLRlhTRlBGZWNjeDJYcURUQmx4aUNfem5mSi1IMVlYY3M0aHVFbFpX0gGwAUFVX3lxTE1BdW9hTnV6cW03VGE4aWM5Y3Q1MTZCYmNWQ3M0VHpFWnhvXzFmTTI1ZmdINzJUMGJqdTd4aW1yRThhaWNHT3owZnhBODA5dkdHSU9NRmNxbXF2MUdfZXJjb2ExZW5ESjdkVXI1R2xPVmFKdmhSeVpvQ1ZNMFJYWmpYZXZuVW1xRHpveng5b3VMLUdVUmJvNXQ0ZG1xaEN3Tks4eGRHTzlrSG1LVDhILW0z?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
