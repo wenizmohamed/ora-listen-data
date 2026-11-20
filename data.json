@@ -1,12 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-20T02:07:21Z",
+  "generated_at": "2026-11-20T02:12:34Z",
   "total_verified": 214,
   "channels_live": [
    "official",
    "press"
   ],
-  "errors": [],
+  "errors": [
+   "x_official: HTTP Error 429: Too Many Requests"
+  ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
