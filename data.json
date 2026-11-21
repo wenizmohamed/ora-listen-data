@@ -1,28 +1,29 @@
 {
  "meta": {
-  "generated_at": "2026-11-21T11:40:26Z",
-  "total_verified": 197,
+  "generated_at": "2026-11-21T11:45:38Z",
+  "total_verified": 203,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 197,
+  "verified_mentions": 203,
   "sentiment": {
    "positive": 7,
-   "neutral": 180,
+   "neutral": 186,
    "negative": 10
   },
   "channels": {
-   "press": 197
+   "press": 197,
+   "official": 6
   },
   "negative_alerts": 10,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 16
+   "count": 20
   }
  ],
  "mentions": [
@@ -372,13 +373,13 @@
    "engagement": null
   },
   {
-   "id": "bn-93d705fb24cb",
+   "id": "bn-6e6b19380837",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b018311afc045a988210df3ee53b5dc&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01845f14dd4c538ee9766d8ffc9611&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
