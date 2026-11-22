@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-22T06:45:21Z",
-  "total_verified": 213,
+  "generated_at": "2026-11-22T06:50:32Z",
+  "total_verified": 212,
   "channels_live": [
    "official",
    "press"
@@ -12,23 +12,23 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 213,
+  "verified_mentions": 212,
   "sentiment": {
    "positive": 7,
-   "neutral": 196,
-   "negative": 10
+   "neutral": 194,
+   "negative": 11
   },
   "channels": {
-   "press": 207,
+   "press": 206,
    "official": 6
   },
-  "negative_alerts": 10,
+  "negative_alerts": 11,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 96
+   "count": 95
   },
   {
    "topic": "flights",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 44
+   "count": 43
   },
   {
    "topic": "services",
@@ -361,25 +361,13 @@
    "engagement": null
   },
   {
-   "id": "bn-e3d590efa318",
+   "id": "bn-6b9e267024fd",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b028f7cb7c14ca285ca836439061c9c&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-bd96955b9812",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0290b47ad44016a4a33f753c6f20c9&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -539,6 +527,18 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
+  },
+  {
+   "id": "gn-1876c7653ee7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
+   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
   }
  ],
  "alerts": [
@@ -627,6 +627,18 @@
    "engagement": null
   },
   {
+   "id": "gn-d91144e11b54",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai to hold ‘open house’ - Gulf News",
+   "time": "Fri, 03 May 2024 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFwa3VXNjItaHIzampGUWUzdDQ4bVNyQlZjNWlaVml1Mk5qMlFuLVQwSkJSSnBROUU0aDZTMV94ZlJsblBuVk85S0lDb2YxZTB0TTZraDlNMVR1aTNoTHptaUFPdjZxOUVHWUYwM3lFcXR5MlRIVzNKSWlSNU1aRDM5ek1LT1o4bHlvSTB6dzE1SHAybFl30gGqAUFVX3lxTE15bl9aTUx3WFBuZE54YS1HdDBQNU1JX0dhUnQ0bktldWFvdVYtZV9MdlJtSjJyVHNISnFBVFhpNlRpQkdKLXM2eTNYNGJNcFB2dGc4ZjhRSGJSOTRVQ2JIRXdNUmJ2V1Z3TkZwTGVmSHBFMF9xclVhSWxiOWlKR25pakVSTTNMWGpEbFlXT2k4ZHVYa2ZBUkluVFEwQ1g5c0RPekYtUmhNaV9n?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-0b2fb200b002",
    "channel": "press",
    "author": "Gulf News",
@@ -646,18 +658,6 @@
    "text": "Indian Consulate in Dubai to issue tatkal passport same day - Gulf News",
    "time": "Fri, 10 Jan 2020 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEUtVTF5Z2FYS1ZZNk1mLXpCT1VxWklsRFZPRjc3b2o0TGd6NFVBMzBsQ1dfRGROajU2VFVnVE5uVFBpeWpoc2VfeHZOdVdRV19kdUMzMXlQRGlYeXBEVHpnUHRSNF9wQVpjUklpRWtRb0o3eXhNTWFMcU5QY0d4d3Q1X3BvbHVCSHZxZ0VfSGxaWUphUFc4aVdfb9IBqwFBVV95cUxNYndHTFBLb2FKOS1XdjFEbnNmMkNVMUhsS2lMU0trZVg5dTV4QXF3Q2VFS284bnBvenROTW1IM0NoRFBMelVsaE1Ya1pfQ0lZNHp3T0ZQOGtEVHhWM2lZVEppOTd0bHRlVlJldkhzSzJhZGNHR0w0V1VDRnM4M2U5a3lnbzUwZDhaV09hMEtJT1lXb0hNMXpGaThQYmRyOHIwR3pmZmdUZERhVU0?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-919b43dbe4d8",
-   "channel": "press",
-   "author": "NewsBytes",
-   "role": "press",
-   "text": "UAE: Indians among 14 dead after 23-vehicle collision - NewsBytes",
-   "time": "Fri, 13 Nov 2026 02:46:38 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS21Ia3hlUzZXbU5tUDJzUmo2a3N1blFVQ1Nsc1c5N1Ezb0pTVFI1MHlhMUpETWE4NXBuWlBTZDVaSHVvUTNiZDdjX0xyaHlPdkh4UDVObVVTczNnUHBLWUQ0ZHQzdFk4VU5CdjUwZVp1OGhja0hldEl4MXhYRjhwLS1vdGlUUm9tMXk2aGgtS190eW8?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
