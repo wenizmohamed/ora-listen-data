@@ -1,33 +1,34 @@
 {
  "meta": {
-  "generated_at": "2026-11-22T11:32:25Z",
-  "total_verified": 202,
+  "generated_at": "2026-11-22T11:37:36Z",
+  "total_verified": 208,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 202,
+  "verified_mentions": 208,
   "sentiment": {
    "positive": 6,
-   "neutral": 186,
+   "neutral": 192,
    "negative": 10
   },
   "channels": {
-   "press": 202
+   "press": 202,
+   "official": 6
   },
   "negative_alerts": 10,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 97
+   "count": 95
   },
   {
    "topic": "flights",
@@ -55,7 +56,7 @@
   },
   {
    "topic": "advisory",
-   "count": 15
+   "count": 19
   }
  ],
  "mentions": [
@@ -132,6 +133,18 @@
    "engagement": null
   },
   {
+   "id": "gn-a4b5cabc343c",
+   "channel": "press",
+   "author": "thenationalnews.com",
+   "role": "press",
+   "text": "Air India and IndiGo resume flights to UAE following temporary suspension amid Israel-Iran conflict - thenationalnews.com",
+   "time": "Wed, 25 Jun 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTFFTGxHV1BWUGNlMlkwVWxWMEJTUTV4ajV6MENrbXk5QnNWbzZWbHBlak5ST2s3YjlqaE5BZ3NMQ051S2dXYjJRZmVUQjdSTE9xcWduc2dUUENXaUcydnc0dTRjMERzU0gyWENXckI0VWZzREwxZElhRGdSYVJ3a1BoVHBMY182RjZpQzZNa3BjZVRPVjhsQkwycGFweEpTdVZ3OTNMOWZKeTAtTDc5eW12YU1WbXRGX0sxbHJ6NkNpOTdjdEcxRldzeENHXzE3cDVFUE9leGRQbzhCR2ZCeEFpa2U?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-d23479aca4cd",
    "channel": "press",
    "author": "Gulf News",
@@ -163,18 +176,6 @@
    "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-ace823aaf70c",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "India widens visa-on-arrival access for UAE travellers - Gulf News",
-   "time": "Wed, 19 Nov 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdE1YNks2MFlZb3JNaUlxV2ZoVWNZVmhaY1kxb2RlMWo5bS1QbnlXbGpNZGpvcXhuYzN0dGZQOEFVeDJXZzlBNzRNd1NXTmtOZms4OC1xQ1VpTFUtWHlUYm5pTnJ6SzN1RVRVTzV2OEx5bzdXX2ZUa0g1UkRmUEI4cXQtOWdNZWxrYVpGN0M2bTd0WkJwVTlBb3ZMMGRLTlJPUzFDUXNIMEHSAbsBQVVfeXFMT0dyMFBtNnREOElaVjJuM21OaXpxUmk4Y3Z0clUtRE9HSVJfaER6LURoRlYwRmxYNUNSalhTQlhnMDJfcW11TGxuWmRuTmRrbGRNZldua25VYXJkZXRzNnJmZVpDa01kdGl1OHZUdWtFcjVRUVR2dVZQcDBuWF9vTmtsekxkQlJJMlJudVVTZUpYcDBGdkJHMkgybk5HZXdmQVVOY2FzMldMMlFlMTR3QXpmclN2X0ZrRnczVQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -360,13 +361,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5185f9ce7ecc",
+   "id": "bn-0b0596d5e66f",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d2ae3d4b46ee8dce21375c2d1925&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d3fb5e92438f83e6213c16a9c1ab&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
