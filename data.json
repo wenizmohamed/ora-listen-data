@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-22T03:17:03Z",
-  "total_verified": 213,
+  "generated_at": "2026-11-22T03:22:15Z",
+  "total_verified": 214,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 213,
+  "verified_mentions": 214,
   "sentiment": {
    "positive": 7,
-   "neutral": 196,
+   "neutral": 197,
    "negative": 10
   },
   "channels": {
-   "press": 207,
+   "press": 208,
    "official": 6
   },
   "negative_alerts": 10,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 95
+   "count": 96
   },
   {
    "topic": "flights",
@@ -36,7 +36,7 @@
   },
   {
    "topic": "passport",
-   "count": 43
+   "count": 45
   },
   {
    "topic": "services",
@@ -349,13 +349,25 @@
    "engagement": null
   },
   {
-   "id": "bn-37776dabc1cb",
+   "id": "bn-bc4a25217a43",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b025eab2cc84ea99ae310e653eb4171&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b025fe332774ccb93dec56163dc7226&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-bd96955b9812",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
+   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -524,18 +536,6 @@
    "text": "Indian Embassy issues advisory asking citizens stranded in UAE to return home - Gulf News",
    "time": "Tue, 09 Feb 2021 08:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUJYSEtkS0VHU3RwRWxlcHRVLTl2T2FtMm85R2FRVmJfVlBxd1Zwa2tUeW9UYnoxZHJMVzFNb3pMVW5lUVR3ZnA1UWEyWVlFd2xvOFJjWHVINlpNYmNrUW1GZ1d2S0tiMmtKM0pIVEdYdkNlaTV4SWVoVmh1aVl2aU45M0gyQnZtdVpoc2JSYWhfalZCeWg1Q1Z2SjJYa0FhNnQzOTlsMzRuNFk4Y3JGZEUwQQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1876c7653ee7",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai relocates attestation services office to larger facility - Gulf News",
-   "time": "Tue, 08 Oct 2024 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTNTaVRsRTVGNnN1X2huc1hJR293SDZSOWF0U20wNFhnQzVSV2NiV0lGYVNlNGRZa0xQN0xHMnBsZW93b0dSbXdvdy1vRWJ6djdsd2pYZVA1MzFra3ZmV2FaVmNIdXVHbzRFdFpXUFpud2VlUWRQRzk2eFBjN3FIWHllWmZQcGczSlo0WngzWnZSUXZPc1RFVWQ2SE5JZXFBRFl1RUp0NUFkZ1dwQkxTVllhbXVFVGxQVFN4WVhBQW9uRHFpdWdVYU1KZEstekR1UHl2ODNja05HZ1XSAe4BQVVfeXFMUFpGZmhXUHRrclNXTEdYN0lqWnI3dVJjb0RlaERLZFJjM01VR2g1bWVZd2FCTWdOUENjZnlIU0lGZGU1Y291XzJoZlVpbHNMODZSLTBaYlhfSG5qaERzTUtmY0VCQWZjNVladzFuUmdoNFo4M1lTR3RGZWIwYU1KRS1QNE9TYVZXY0VaV3djNjRCS0hSTWNOa3BlZVNKQTBFSUVrOXZVdWR2YUk2WXd6Q0gzUUJleGpqWnlLVUJwcmQ0ejNTUjQxNG9yMGRFdkpSd2pZM2RRdWZySmxrVE01THgwSjdHdTQyU0d2T1NSUQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
