@@ -1,57 +1,58 @@
 {
  "meta": {
-  "generated_at": "2026-11-24T18:39:58Z",
-  "total_verified": 280,
+  "generated_at": "2026-11-24T18:45:11Z",
+  "total_verified": 288,
   "channels_live": [
+   "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "embassy_site: The read operation timed out"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 280,
+  "verified_mentions": 288,
   "sentiment": {
-   "positive": 18,
-   "neutral": 238,
+   "positive": 16,
+   "neutral": 248,
    "negative": 24
   },
   "channels": {
-   "press": 280
+   "press": 282,
+   "official": 6
   },
   "negative_alerts": 24,
-  "handles_active": 1
+  "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 75
+   "count": 76
   },
   {
    "topic": "flights",
-   "count": 62
+   "count": 68
   },
   {
    "topic": "passport",
-   "count": 52
+   "count": 51
   },
   {
    "topic": "services",
-   "count": 37
+   "count": 38
   },
   {
    "topic": "business",
-   "count": 33
+   "count": 36
   },
   {
    "topic": "flydubai",
-   "count": 29
+   "count": 30
   },
   {
    "topic": "indians",
-   "count": 28
+   "count": 27
   },
   {
    "topic": "khaleej times",
@@ -264,6 +265,18 @@
    "engagement": null
   },
   {
+   "id": "gn-27672edd7eff",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Air India Express cancels flights to three UAE airports on March 15 - Gulf Business",
+   "time": "Wed, 15 Apr 2026 02:48:53 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUgwRER1Rm1HdWN5NjBJeTFuUUlNZ1R5LTBHak5veWw5TUM1S1ltY2tMbFpoQ2VtTGpxb1FMMjlYbUNqZmxNM2R5TTY0dTYwVG53bDNNOFB2TXBnMnNmNjdBRjVpNEJfSjlXN09lTUdkSjhIajF0YlJFNDFwZ2lkeHVCS3U2YXJkNzlUMlR0cjEyR3Roellrbk5wQ0pvblJvd2JvVzlnX0p5YVo3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-28b74f98f1da",
    "channel": "press",
    "author": "Gulf Business",
@@ -295,6 +308,18 @@
    "text": "UAE flights update: Emirates, Etihad, flydubai delays and cancellations; UK travel disruption - Gulf News",
    "time": "Wed, 09 Sep 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ090Ni1jcnNWeTVVNWlZaDFsWkQ0a3psOEJCVjZFRXlidjhuTFEzYmtNTWkzY1NFdmtid1dmQ21DRndWakVycEtPYkppWEdzMGJud2JYT2RPb2FRWFdjaHJIc0Vyck8yYmRCelJvanlBV1ZOa3F5QW9MU3NqanBZSElJZC04WXloUWFhclJ3NDkwdE5zRmd6MmhDS3UxNEFJZXNYTVZwNmIwazhPdmJzZWVqTkx0SUFEQXhxbU9KWE00VkRsNUNDVkRYMXhncVlTa1VLYXExNNIB6gFBVV95cUxQa2p2ODVITGVaa0ZYQ01EOG8xbkpaYmRfRUtQcFF5Y2Zsa1J3c2RHa3U1NU9UUjREeExTOUVNYnBudFQ3dnIydVBWUnlIdWM3NFVsX01RbnVfRUVxYzM3ZTBXTmV0eGpDcHBZblhWUVZFa0huS3hCeml5Wi03amNyNy1sQVB0UkRfMUpCSGRPYl9QYzRnS0xEd09yNVAxYXFYS1V4S2l0SEVBWTFVSzVDTEZQMTd1eXJnYUhHbmF3QnpwdjJ1Qm1xVUdyQ3o0TmdTM2hBdUViQ04wdHN0aC00VHlpYTVrcTFfQVE?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c02a11702332",
+   "channel": "press",
+   "author": "The National",
+   "role": "press",
+   "text": "Dubai and Abu Dhabi flight cancellations and delays after Heathrow outage and fresh Iran strikes - The National",
+   "time": "Wed, 09 Sep 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTBJekxMWmRvdEtRVnNEaUN5MVVPY1FVN3hneUVDcVZxaVhaYU45ckdqdllnTGdwZTRWMHVuQ2JmN3hwTG93MjRYWGpSVTk0eFAwbEt1cUI2U2FaMVBpQk5kLU5GdWVYNE9BXzlwRmlPVW1NMHRwbGRWVGs5d1JTb2ZsbGhGb1pVeEliRFZRS2xHSGxlRlkyeXRR?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -511,30 +536,6 @@
    "text": "UAE flights latest April 28: Emirates and Etihad give fresh updates - Arabian Business",
    "time": "Tue, 28 Apr 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUpiUGtnZDJ4ZGctQU9uTTFSbjVJWlBfemljdkZpZWgyaTRGNUZmcmxJUXlmLXhsVUpwdlcyZHJ6bGcxUm5DNFZQTTRyZEdOTDVMYTMwbkdxVVNjbGl6enRWUWVTczl2Z0NCY05xd01QWnpKeXVHQ3hrSElmUjdVdHozXzl1czdwN1FHeDdoT093VGJXOEpWanNiYnl0T0Vwbm82T3Z2bzg4NXVVQlR5cG1vcTRyZ3Bx?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-23eb91b72a7b",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Indian Embassy closes four passport, visa service centres in UAE: Here’s where to go instead - Gulf Business",
-   "time": "Tue, 27 Oct 2026 13:17:33 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc084SlV0cExtNHRpeGtKODNEaUtvVG1jaWFEZ2xucE9McmFjck9rTTJqVmh3ODdVd3lmazNnMVNERFBCWE9fSUNrTDhaM1JEOGoycHlBbXZWT0RvZmVSTGNLWWd3UXpRSlQxZVhKVWVUOUwwdGN4eUc3bHdxWnlleVRxcWRWeGROYVFlV0lVOVIyTDlVMjZTNnh4UERoclVhdmgtN2RHVnpCYTFDVEN3LUhXWDhjSE13Y3BSc2tCTlRvUXdGbkRwckFn?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-ee9d4e46741d",
-   "channel": "press",
-   "author": "Telangana Today",
-   "role": "press",
-   "text": "Indian nationals among 11 killed in UAE road accident - Telangana Today",
-   "time": "Tue, 24 Nov 2026 17:32:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXak45Vks0c3hGM3ZpS1ZKQUZIbUZaUk91ZEhoOWREczRJMFNFQ2pXR3FJOF9fdHF3M0lpWE55MFJuWGdpS0pwSWFiT21za0hTNWVUZU9DNmJ3U1MzeDJWY3FBRmF6c3k2YUxwank4VjYyRGxBbTMtUzVEeWx4U2c?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
