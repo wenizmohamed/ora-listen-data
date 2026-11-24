@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-24T14:19:31Z",
-  "total_verified": 204,
+  "generated_at": "2026-11-24T14:24:48Z",
+  "total_verified": 205,
   "channels_live": [
    "official",
    "press"
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 204,
+  "verified_mentions": 205,
   "sentiment": {
    "positive": 6,
-   "neutral": 188,
+   "neutral": 189,
    "negative": 10
   },
   "channels": {
-   "press": 198,
+   "press": 199,
    "official": 6
   },
   "negative_alerts": 10,
@@ -28,7 +28,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 98
+   "count": 99
   },
   {
    "topic": "flights",
@@ -36,11 +36,11 @@
   },
   {
    "topic": "passport",
-   "count": 44
+   "count": 45
   },
   {
    "topic": "services",
-   "count": 31
+   "count": 32
   },
   {
    "topic": "khaleej times",
@@ -145,18 +145,6 @@
    "engagement": null
   },
   {
-   "id": "gn-f118eb945c59",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
-   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-1baca4fefc31",
    "channel": "press",
    "author": "Gulf News",
@@ -164,6 +152,18 @@
    "text": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open - Gulf News",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanF1b1BHZkFyNmRWeFVkUGFrdThRS1VyM2ZhSHlFSXhtZ2lvQVFFVkNsU2RuMkUxRF9RVGhHc2d6Nk1zX09STGhEdlpNRGtNRy12WXlSSENmOUJWZjNwY0JRRlRWRGxHc1JJb0NJaXVkUEdRckFnZ0VleDFXSDNhLWxtMFNRTVdGMnZsVlpDU2FqZXNoVU1xUVRQOWJ3TzVQZGdDMUFYQmxKVVdMYk1YSzZEeVRoOElnSjVBV01RWdIBzwFBVV95cUxQRzFvb0g5cGtwT3dJbjdFcVN4YTlpcWN0QWxSMjk5NWx5VmdDczg3V1NXQmdBZnJXZ05NVFFhSlRIS3VNOVI2ZmNXWGtyXzdDTlVwZ0w4aktaT21hbHA3Z0pTclZ3WGl1SXZaNTEtblJkOGdjZnV2MndhYXZ6QzJXZEdOQ2tzX3dOQk1YcDliVmF6b1Jzakd1b2RORFNiNnZHRl9STGFhWHNKU256OXpYTFdGbUxocGJwYmFYZ0tWNUpEd3BEUkdJWDd6aEdTZ1U?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f118eb945c59",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
+   "time": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -349,13 +349,13 @@
    "engagement": null
   },
   {
-   "id": "bn-f3e2924c8cdd",
+   "id": "bn-39fd81c1ebe4",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "New passport fees announced for Indian expats in UAE from July 1",
    "time": "Tue, 30 Jun 2026 11:56:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b059cf14f1d45a98d28a9b0c205ce4e&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b059e287f3445bfa5ef05a12ece2791&url=https%3a%2f%2fgulfnews.com%2fuae%2fnew-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283&c=15389376470530141793&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -567,18 +567,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a52754f1ddfd",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
-   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-1c60f8097ce1",
    "channel": "press",
    "author": "Khaleej Times",
@@ -586,6 +574,18 @@
    "text": "Indian Embassy in Abu Dhabi to hold open house; closed for consular services for 2 hours - Khaleej Times",
    "time": "Thu, 18 Sep 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dUUwd05aUmxrV3RRZkxwSDlaRy1kZG01MlkzckI5d01mN3VhWk1nakNVY2NUUkJkdlI1OU5tM2pmUVdjTldVQ3ZPRXEzTy0zLTV2bHdINjU1WVdKZG1xMnVZVWR4OWt3M21MTnRDWHhPbW5xQnhB0gF_QVVfeXFMTkZyUEx1Q3hOeWM5SWFXSHhQd0ZpQWU1ZjZuSGZIZ1JhYU1vYmJZeFIwU0tZallEX2wwZzU2U1VhejVkZnZOSGozSTUxV3BsaFhCMkxTTzl1aE1wbXYzZTI4X3B4VmxfTFg3WUVtVUZjaHpPUDhZOFJySGVzRXlLWQ?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-a52754f1ddfd",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Alert for Indian expats in UAE: Indian Embassy, Consulate announce launch of new website for e-passport with chip - Gulf News",
+   "time": "Mon, 27 Oct 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNV9rU2EtNURhakcxZWRlVkNfaURsQ1dJSWpaZDJXVi1kOUl3M1pqZFFLampRT0NHVFExSUtaaUtOUmE4dDlacW1sYkFlaU9sTi02M0pfVU1qd3MzU0pxUFU5b1RDQXd5Z1RGdVFSR2FmU3JhQkhJOUVJNVJNLWFkdVRQSkQwOWFaSE1zdnV5dENjanhNRGl1Um9WOXRFS0p0OE94WW9RdHJUTW9lamtxTnl1ZmlOZDlKVXF6Si00NGhfSEVKX1dVSHI5RHhVVHREOF9SODlR0gHmAUFVX3lxTFBFdzlCWjFvZUpZR2o2V0lHRXVPVEw2MHdrZXl4WDV5WFYya3U5VnR0RFFvVUZPczNOc1c3dXZHY0dFZ0FsQThfMkhGQTNBdWtfb2d3VENzMHVzWlRydlc2ck5lNlV0ZEotRWRoZ1VXSDVnS01qZEdSWnpqSURnRHFtUE9IR0YySkxvSVB5cWJ3TWlqZGs4ejJ0VmplVE9xcDlkdWZsMGV0eU5mZGhvX1BjSVBwemRRV3JJWEdhT1prX3VFUVJuTmpFX1VaMjE1SHdYTzY0VGxxX0Q3VGRQWElNOEhqVHp3?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
