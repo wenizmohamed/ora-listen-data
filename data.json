@@ -1,63 +1,62 @@
 {
  "meta": {
-  "generated_at": "2026-11-25T14:41:23Z",
-  "total_verified": 203,
+  "generated_at": "2026-11-25T14:46:40Z",
+  "total_verified": 268,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "google_news[India UAE flights OR]: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 203,
+  "verified_mentions": 268,
   "sentiment": {
-   "positive": 14,
-   "neutral": 169,
-   "negative": 20
+   "positive": 18,
+   "neutral": 229,
+   "negative": 21
   },
   "channels": {
-   "press": 197,
+   "press": 262,
    "official": 6
   },
-  "negative_alerts": 20,
+  "negative_alerts": 21,
   "handles_active": 2
  },
  "topics": [
   {
+   "topic": "gulf news",
+   "count": 82
+  },
+  {
    "topic": "passport",
-   "count": 48
+   "count": 50
+  },
+  {
+   "topic": "flights",
+   "count": 50
   },
   {
    "topic": "services",
-   "count": 36
+   "count": 39
   },
   {
-   "topic": "gulf news",
-   "count": 35
+   "topic": "express",
+   "count": 34
+  },
+  {
+   "topic": "khaleej times",
+   "count": 22
+  },
+  {
+   "topic": "khaleej",
+   "count": 22
   },
   {
    "topic": "indians",
    "count": 20
-  },
-  {
-   "topic": "khaleej times",
-   "count": 20
-  },
-  {
-   "topic": "khaleej",
-   "count": 20
-  },
-  {
-   "topic": "flydubai",
-   "count": 19
-  },
-  {
-   "topic": "machchhar",
-   "count": 18
   }
  ],
  "mentions": [
@@ -146,13 +145,13 @@
    "engagement": null
   },
   {
-   "id": "bn-7b004b707e6d",
+   "id": "bn-656ec5f39da2",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian nationals among 13 killed in bus-truck collision in UAE's Ras Al Khaimah",
    "time": "Wed, 25 Nov 2026 03:16:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f3862d834208aed3df77c0624205&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f4ce27bb4d01ac9048232d09a665&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -201,6 +200,54 @@
    "text": "Indian Embassy in UAE shuts 4 consular service centres from October 22 - Khaleej Times",
    "time": "Wed, 21 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzQxaXowVGtvdDRHUWt3d0F3blVsMmpZSHZJOENTZEV1b3RrUnRIeUhyQW4wQl9JMFhSTEJiQkIwUEZ6Yk1VTjdWYVByNEtXZlBsWGgxVG1CZlBZMllTTXBITVgzVl9vVnR2Z2pZaEx5ZDhRUHowRUlDbmV6N2pNQktzd2RfT3dQVGlBdGdyWnI5RnFfMUpiN25RTdIBowFBVV95cUxQLUNpNjI0Mm5iUVEyZEhKeEZnblJmeC1GSUFjY2MxaFJKSWtJcHY1MlZRS3drbmJhNHVvaFhlel93RFFaNW1Dd3JzdERaWkQxWHF2SlE3OV96dGo4Z1pwMjJXRFhEejdZOFB1c3VnaWtxYzRUZWRpdHg1Vk5wV3pjUkxrRFAxSmItSlN1SXJmaldnY2J3bXc3QmxvQ09BaE5KQnRz?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-ace823aaf70c",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "India widens visa-on-arrival access for UAE travellers - Gulf News",
+   "time": "Wed, 19 Nov 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdE1YNks2MFlZb3JNaUlxV2ZoVWNZVmhaY1kxb2RlMWo5bS1QbnlXbGpNZGpvcXhuYzN0dGZQOEFVeDJXZzlBNzRNd1NXTmtOZms4OC1xQ1VpTFUtWHlUYm5pTnJ6SzN1RVRVTzV2OEx5bzdXX2ZUa0g1UkRmUEI4cXQtOWdNZWxrYVpGN0M2bTd0WkJwVTlBb3ZMMGRLTlJPUzFDUXNIMEHSAbsBQVVfeXFMT0dyMFBtNnREOElaVjJuM21OaXpxUmk4Y3Z0clUtRE9HSVJfaER6LURoRlYwRmxYNUNSalhTQlhnMDJfcW11TGxuWmRuTmRrbGRNZldua25VYXJkZXRzNnJmZVpDa01kdGl1OHZUdWtFcjVRUVR2dVZQcDBuWF9vTmtsekxkQlJJMlJudVVTZUpYcDBGdkJHMkgybk5HZXdmQVVOY2FzMldMMlFlMTR3QXpmclN2X0ZrRnczVQ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-2b64cdcd538e",
+   "channel": "press",
+   "author": "وزارة الخارجية الإماراتية",
+   "role": "press",
+   "text": "UAE Expands Visa on Arrival for Indian Nationals - وزارة الخارجية الإماراتية",
+   "time": "Wed, 19 Feb 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJFOF9rN0hVbG9INktYMzJwQk9ZVkdzUkhSNUVFZ3oyd2ZiNWN1aklkZzZObTAxZ3F6bzhEbl91U1NWbVRGQVkxQzFvUzU3VTRpRkNYYzk1Zm1fckFzM2daTnJyOUd0NGVSS2xqcEtab3F3c2JhSlg1dDRoYU5fbEFDV2FQREU?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c1a23955dfb7",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
+   "time": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-fe7ffdf627c1",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Air India and Air India Express ramp up GCC operations with additional flights - Gulf News",
+   "time": "Wed, 18 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWVPSTYtU3ozQU9GVjkwT0lETHYtRllpbjZ2c192dWRtdEc0dzBjV2ZvS2JpWkswTFN3NGcxbm5oaFBPU2o2V0Vqb2NCc2JPaGJWbk5ocWhWZXFMdnZBa296bUczODFfSFhsSmdsSlZfbTd6Q1ZKc01XT1hwUHpneUJ0QmFsOVAzeUdvZExIVlNGQ0pPWm1USGdlMjV3Si0tYkZXdEgzV2lZNWNSSnB2RkVzMDMxY0M4U1ZFNTRsN1IybjdPVjZtYtIB2wFBVV95cUxQcVk2NzhhMFpWbHQtUVowTDlEcnF2NEtNNXRLSzZEUG1JUjRRa1RrYlg5NElxUDRqOEZsSlBkMUpyaHdTZWhueEdYeGlqOTg0Wkh0R2lVWWUxSm1pUl9DNGNkaGZWSExZd3ByQi1FdGpYLWdoZmhHdUxYSWdQUWFrMUs0WVZjVi1VRWlKQTRxQms4S2VIRDNONW1QZDdnQ1RyYTM2Y0JCaTRnaUV3REt2U0tUTGRxUzhBNWVlWnNfQjFWd09tdDNDRENUTDBBdDVnZ2pBeUdHWDRtQ2s?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -278,6 +325,30 @@
    "engagement": null
   },
   {
+   "id": "gn-7c248b5ddd74",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
+   "time": "Wed, 11 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1bd59d219ab1",
+   "channel": "press",
+   "author": "Arabian Business",
+   "role": "press",
+   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
+   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-ccd74692468c",
    "channel": "press",
    "author": "India News Network",
@@ -286,6 +357,18 @@
    "time": "Wed, 07 Oct 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1lMUVQa2YtZmw4bkh0TzQ3UUlzSW1CaDk4UlgzTVNhYmR4LTdWN1FNRWhYdE5rOVVDcy1McVVRTzgtdm4ybVdMamJoT25vclk4cXFWNzlQR3FRNWIzUTFvVmNiSC1pMEwwR013VlpSUkx1MlU2NWt6ajN0bV85UEtFSDdCYXpmcmdLMU9CWC0wbEJzU3dSU25CYmZzdE5LUURMNHRnZ0Q?oc=5",
    "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5d8079037a6f",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE travel: Dubai flights disrupted amid India-Pakistan tensions - Gulf News",
+   "time": "Wed, 07 May 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzJwTGh1ZDhiNVp5TmdMV1Uwc093Z3c0Q3JDWU1DUnY4WnFOZ3kwSVFJR1lWdkVwcDFuMVVxZkNxLTlYdm8yRnRxbXR3anNpeGNNQkJwdFBmdEc5anEwb0NpSXV3VTN1MXIzMkNvN0VVUnVXN3hFM2pKYTZlLWhsZzBJSzRPZE03QmhTaDF4TmVCMzRSYU5UbnV3V2xlYVJMLVNLOXg1X3MxQUkybWFHeE85dm7SAccBQVVfeXFMTlktdEZlU3pyUlZqa1BHWTJrTTJPS2dpa1YzWDJiTzF5cnVQX051VXFhQjljMnVkWXFQR1hJUWhwSm12bS0ya1g0ajJhTHhDTmlFN0pjdTFaRTk5RDNhVUV1QkVjekx6MWx3MERtOE1lYVB3WkRqelBjR0hjWDI4ejl1NkZGTGxaY3IyZ2ZuNHphX1V4REgzb3A3RlNWc3dXS3ZZeXVhOWZJSTg3QUhuaFRvbmVEbi1KR0t4ODMwNGJsdklyQjV0bw?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -321,6 +404,18 @@
    "text": "Indian Consulate confirms identity of Dubai showroom explosion victim - Gulf Business",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJHTlRIZU1YYUF0ak94R3UxR0J2SWYxNDB4TTAweHBOWFlId2JWYV9XNG4xTnNUR0dWYmNxcXZ4RDB5c1laTzZSNjJEZHMwZEdTUzlmZ0ZrZUcwdHdJUndPX0dlVS1GYlpNWllzVFR2RHptX0dGNjh0d3ZGWGpScEM3MXA3YXVHRjBuU0dCcDlraDI5RUZQdFh0a0diN095bVJaNmNVdHA?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-f633835546e3",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "IndiGo, Air India plan 58 flights on March 4 amid airspace disruptions - Gulf News",
+   "time": "Wed, 04 Mar 2026 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTNQUUt4aWpvUVg5bnhRMGxNYjFuNGFjRC1BN0pvTzZCMmxTcjVlcmtqRDdqUFJuYktwUHgtQ0pyMXVZNXlmTGNpR1JKT2hOZXJNVnlWbFgxYWw3Zm5kU1ZlUG4xX2g2UEpkUTdxcnU5dEdFSklEeVhNcmZ0Wm5xM1VaXzFTamlRWFh0Tjc5c002bzdYYlVzMWZKRFV0Q3c3b2dDSXdBbHgzUk84RklJbVV4TURNN2VCWXRaS9IBzwFBVV95cUxQN3NjVUJJd2tnV1RQd1dGS3YtRVQ0enVYSmpEbkFMQV96N0pSbWxnTkhiTEJmSTR3MU95WUdwWno5SnpaNkRTOFRweXpMUjBjN0NtMThoYUd2R3FGb1c3X3BVQ0dqUl9IRGhobWJHRnZkYUF2Wk9MMVBxVzVITml3aVFXU0xscVA0TjNQS2dFN0VVbHhZdzVzU0JDcWs5emx4X2FSZFlnMEhTUHVCVnNMckJSUkxyV0NMUFBjX09xTDZiZjd6cXVWMDBVci1GY2s?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -434,109 +529,13 @@
    "engagement": null
   },
   {
-   "id": "bn-2b7361b13ded",
+   "id": "bn-3bfa7f99e497",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian nationals among 13 killed in Ras Al Khaimah bus-truck crash",
    "time": "Tue, 24 Nov 2026 22:17:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f3862d834208aed3df77c0624205&url=https%3a%2f%2feconomictimes.indiatimes.com%2fnri%2flatest-updates%2findian-nationals-among-13-killed-in-ras-al-khaimah-bus-truck-crash%2farticleshow%2f136150470.cms&c=8623385747522606240&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-e8e2954503ad",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indians among 13 dead as passenger bus crashes into parked truck in UAE",
-   "time": "Tue, 24 Nov 2026 20:37:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f3862d834208aed3df77c0624205&url=https%3a%2f%2fwww.connectedtoindia.com%2findians-among-13-dead-as-passenger-bus-crashes-into-parked-truck-in-uae%2f&c=8336849567114925089&mkt=ar-ae",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-ee9d4e46741d",
-   "channel": "press",
-   "author": "Telangana Today",
-   "role": "press",
-   "text": "Indian nationals among 11 killed in UAE road accident - Telangana Today",
-   "time": "Tue, 24 Nov 2026 17:32:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXak45Vks0c3hGM3ZpS1ZKQUZIbUZaUk91ZEhoOWREczRJMFNFQ2pXR3FJOF9fdHF3M0lpWE55MFJuWGdpS0pwSWFiT21za0hTNWVUZU9DNmJ3U1MzeDJWY3FBRmF6c3k2YUxwank4VjYyRGxBbTMtUzVEeWx4U2c?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-92781b690913",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Indians among 13 killed in UAE bus-truck crash, 14 injured - The Times of India",
-   "time": "Tue, 24 Nov 2026 16:33:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmVTVlM4VUtUeDNvMEgxOEYyb243Z1dnTm1wd2tzNHpneHQxQ1dQcTVYaXF4RjgxTTZCOHdBbVlSaGRsdjY2Sy1OM2hFZDJjbV8wN1p3c3ZOMG9GTTNTVW9NdkJuSkx6YmlPVkhZWUx1blBfWFRQbDE3cEVDTXA1UDNlWkUyZWRBMWl4OGREd21DMVZYMjVyMmppX09iaEdOUGdVVUxMYi1kMVhQcUEwUnZqZXhBMG9EczlsTUxGTXlvSWfSAcgBQVVfeXFMTzdpby1SaXhTTzdyZGs0TnZ1V1RyTDNBZVVrbzZrZmRHNnpkcnlpaUJXaW5YM3hhYkxZSkQtWVBnSVl1T0M3ZWdiS0xLY1U2d2g4TGxsLXpKdjd1S0Q3RVhXUzZDcl9RenJGZ1VtcnRxSDUwbWVlZ0RVOHFob0UxZ0RSb1k2SEszZG1VY2NCUXR5SWVsMFZ0SEVTeG9JNTExUGZENDNhcllLRk95cFhNLTBZS0Z4MUJWUmEyT0t0ekxjZkNVeGNaWmU?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-1442dc92e8cf",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "Indians among 13 killed in UAE’s Ras Al Khaimah bus-truck collision - The Indian Express",
-   "time": "Tue, 24 Nov 2026 15:47:56 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEhLc0JTVmxOSGNkZkFoeWwyWmZ4NlFGOHdleVh0eHlGTndHV0l6M1RBZUpndGRlVTFDQjZfNkpVaHNaX003T0lpbXA5WHRkRjZoRGhZQjFoZmZpcXVRWU5IOVkxM282OVZYVHlhLTdlbS1DMFVTZDZtY09YclRvenI2T2dpUzAtZUVzTlJpZjRwY19PdE1reXNzcnFuWXNxOFA4cTAwZkUwUzhE0gGsAUFVX3lxTE9ISEtzQlNWbE5IY2RmQWh5bDJaZng2UUY4d2V5WHR4eUZOd0dXSXozVEFlSmd0ZGVVMUNCNl82SlVoc1pfTTdPSWltcDlYdGRGNmhEaFlCMWhmZmlxdVFZTkg5WTEzbzY5VlhUeWEtN2VtLUMwVVNkNm1jT1hyVG96cjZPZ2lTMC1lRXNOUmlmNHBjX090TWt5c3NycW5Zc3E4UDhxMDBmRTBTOEQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c1c17c91751b",
-   "channel": "press",
-   "author": "Moneycontrol.com",
-   "role": "press",
-   "text": "Indians among 13 killed in bus-truck collision in UAE's Ras Al Khaimah, consulate reaches out to... - Moneycontrol.com",
-   "time": "Tue, 24 Nov 2026 15:33:36 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUzhscjRlN1JqMlFFNTd2YTgtUnl6RmZnM2d2N01NcFZkajF3ajNOYU9KUDlUX2RuMnpOWnlQNUc1OXRSQ0lsU1JnY1Izd0VYM0hYSEQwdVVqeDhCUmRmMTBhT3paVXFNN2JITklEUnYwTmhTemlIeXlSekJlWThhM05JV2R1XzZwU2pWZWZBbHlSd0V6ekZfbXJRQS1XTG4ya2Y3QkxuTjMzd0hMbkMxekpmTGVpM2VPSmtHUzJUSnotcnhhZDh0Z1l5VXRwb2N2M0FVTXppVjJlYlNIX203dmV3aG11a3k1bEZPUnowakktUUpBdTlqadIB-AFBVV95cUxPUzhscjRlN1JqMlFFNTd2YTgtUnl6RmZnM2d2N01NcFZkajF3ajNOYU9KUDlUX2RuMnpOWnlQNUc1OXRSQ0lsU1JnY1Izd0VYM0hYSEQwdVVqeDhCUmRmMTBhT3paVXFNN2JITklEUnYwTmhTemlIeXlSekJlWThhM05JV2R1XzZwU2pWZWZBbHlSd0V6ekZfbXJRQS1XTG4ya2Y3QkxuTjMzd0hMbkMxekpmTGVpM2VPSmtHUzJUSnotcnhhZDh0Z1l5VXRwb2N2M0FVTXppVjJlYlNIX203dmV3aG11a3k1bEZPUnowakktUUpBdTlqaQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-fb6966c00417",
-   "channel": "press",
-   "author": "NDTV",
-   "role": "press",
-   "text": "Indians Among 13 Killed In Bus-Truck Collision In UAE - NDTV",
-   "time": "Tue, 24 Nov 2026 15:22:31 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTNBSE1LUUhpRWd0azRBNGJ1dUFjQUpUbFZXM2pxRG84SkNvWW45aXdOZkpkbnhEN2wtZDZHVXBsd1lvbWd1NnNQVXcydUo5QWpxR3h3RjRYaktWWkNwMmpicVRhTEJiWWtfdU5TOE9HM2xqcHNaVE94OHdTdTlPSG5lemJRaUdXdWpMbW1OaGJNOUZSTndKMHBR0gGiAUFVX3lxTE1Vbm56ZWxrSWd1cnJZNFhWUnhjbDBKQ3ItUERRTW1kWFNsdWNDVFlNS3NROGZHNXNEaE4wRGE0WW9HN3NHa0M3ZmZ4SGRhc2JoS2VaakRVS2oyYlVvOTNLZTNEclVzSkw1ZTNWc1JMVWtSbmkxTFBfbXhuS1FRbmtNcmFVSTdpWmNFRHhEcWNlMWZWWmlXZnNrREdPaXN5ejRsZw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a0c03e3694f6",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Indians among 13 killed in UAE bus-truck collision, second accident in 2 weeks - India Today",
-   "time": "Tue, 24 Nov 2026 15:16:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR253UjY0RmZENUp1cE1mb2VpMFozRXNxQTV2YVZ3dTQ5TWdFYmpsZHY4ZzhjcjNJSEgySVpfYzU1OHJzcFlpdDFPUnpJZDI1ekZKeW9qN05jVzZ1VFpadzAtZGhvZnQ3YzdCR1pzaGFfczVkM0NGZnR3YmkzSTBVbWZ3eXBQUVRGVE8wWktJX195RDNQalVJTmJnNWkzQlRCVXB0cEhXUmFWWkQxek1nR0dwLTdzOGFjUHVJeEVreGRsei1iWFlNMlU1a3lhaEo4amVxM9IB1AFBVV95cUxPR253UjY0RmZENUp1cE1mb2VpMFozRXNxQTV2YVZ3dTQ5TWdFYmpsZHY4ZzhjcjNJSEgySVpfYzU1OHJzcFlpdDFPUnpJZDI1ekZKeW9qN05jVzZ1VFpadzAtZGhvZnQ3YzdCR1pzaGFfczVkM0NGZnR3YmkzSTBVbWZ3eXBQUVRGVE8wWktJX195RDNQalVJTmJnNWkzQlRCVXB0cEhXUmFWWkQxek1nR0dwLTdzOGFjUHVJeEVreGRsei1iWFlNMlU1a3lhaEo4amVxMw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-d2db4b112077",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indian nationals among 11 killed in UAE road accident",
-   "time": "Tue, 24 Nov 2026 15:02:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f3862d834208aed3df77c0624205&url=https%3a%2f%2ftelanganatoday.com%2findian-nationals-killed-in-ras-al-khaimah-crash&c=3861443978305218338&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f4ce27bb4d01ac9048232d09a665&url=https%3a%2f%2feconomictimes.indiatimes.com%2fnri%2flatest-updates%2findian-nationals-among-13-killed-in-ras-al-khaimah-bus-truck-crash%2farticleshow%2f136150470.cms&c=8623385747522606240&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
