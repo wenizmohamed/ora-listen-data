@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-25T10:56:07Z",
-  "total_verified": 270,
+  "generated_at": "2026-11-25T11:01:19Z",
+  "total_verified": 267,
   "channels_live": [
    "official",
    "press"
@@ -12,51 +12,51 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 270,
+  "verified_mentions": 267,
   "sentiment": {
-   "positive": 9,
-   "neutral": 235,
-   "negative": 26
+   "positive": 10,
+   "neutral": 232,
+   "negative": 25
   },
   "channels": {
-   "press": 264,
+   "press": 261,
    "official": 6
   },
-  "negative_alerts": 26,
+  "negative_alerts": 25,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 77
+   "count": 76
   },
   {
    "topic": "flights",
-   "count": 67
+   "count": 59
   },
   {
    "topic": "passport",
-   "count": 41
-  },
-  {
-   "topic": "business",
-   "count": 34
+   "count": 44
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 35
+  },
+  {
+   "topic": "business",
+   "count": 31
   },
   {
    "topic": "khaleej times",
-   "count": 26
+   "count": 27
   },
   {
    "topic": "khaleej",
-   "count": 26
+   "count": 27
   },
   {
-   "topic": "express",
-   "count": 26
+   "topic": "indians",
+   "count": 23
   }
  ],
  "mentions": [
@@ -80,6 +80,18 @@
    "text": "UAE: Indian Embassy announces Open House to address grievances of Indian expats - Gulf News",
    "time": "Wed, 30 Apr 2025 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm1EdG5BVWxpaUxfbGRkZFVNVU9CQWRTZ2ZZa1Noa1RZcmtNa3d1OTcxYW1NZWRQaDVheDJ4Ym1CWW16WEFJdFNDc3JzVzh4WkNIN0ZFbjFHeW92bGpJekVlVVFkUjdCMUxjZUVDVXVjYUV4TXQ3b0NxU25RYk52SVBDTzRqbGFneHFKTW9MbGdKQVFCWU8ybzlwNUJZTlQtRC1pamhjdEFZTmdvZTNBNHBUTnVxd9IBxgFBVV95cUxQaWJVTVhoeGhrU0NQTzVwcjNNOTFIeTc2bXhNVms1MW81LTdBR1VobV9QZFFCaHJEZEtydHhHUkZfYzh5Tjl0MzBMcjRYT0tqcElLVmpRWlotRHh3VDNrdXlWLV9mSS1EQ3gxVmxyMkx2N2hnelMwb1gxS1NOXzBtbTBDNDZPUkhJdVE2c0lFd01GY1NIZkUzTURxTzU4aWgxUDcxdkp6eVJUNi14Y2FHVjVISGJMQy1wNW5JdGtPeTdHM19NR2c?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-682fa3120fe9",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
+   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -145,13 +157,13 @@
    "engagement": null
   },
   {
-   "id": "bn-813bd9efbeb6",
+   "id": "bn-09ce8ec64494",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "UAE road accident horror: Indians among 13 dead as bus crashes into parked truck",
    "time": "Wed, 25 Nov 2026 01:52:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bec41ce14a38bdb1071cf1154179&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-road-accident-horror-indians-among-13-dead-as-bus-crashes-into-parked-truck%2far-AA2ib0aq&c=5484575426455496162&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bffc48c2465699bbb761819d84f7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fuae-road-accident-horror-indians-among-13-dead-as-bus-crashes-into-parked-truck%2far-AA2ib0aq&c=5484575426455496162&mkt=ar-ae",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
@@ -284,18 +296,6 @@
    "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
    "time": "Wed, 15 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-27672edd7eff",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Air India Express cancels flights to three UAE airports on March 15 - Gulf Business",
-   "time": "Wed, 15 Apr 2026 02:48:53 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUgwRER1Rm1HdWN5NjBJeTFuUUlNZ1R5LTBHak5veWw5TUM1S1ltY2tMbFpoQ2VtTGpxb1FMMjlYbUNqZmxNM2R5TTY0dTYwVG53bDNNOFB2TXBnMnNmNjdBRjVpNEJfSjlXN09lTUdkSjhIajF0YlJFNDFwZ2lkeHVCS3U2YXJkNzlUMlR0cjEyR3Roellrbk5wQ0pvblJvd2JvVzlnX0p5YVo3?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
