@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-26T19:10:30Z",
-  "total_verified": 249,
+  "generated_at": "2026-11-26T19:16:06Z",
+  "total_verified": 250,
   "channels_live": [
    "press"
   ],
@@ -12,14 +12,14 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 249,
+  "verified_mentions": 250,
   "sentiment": {
    "positive": 7,
-   "neutral": 214,
+   "neutral": 215,
    "negative": 28
   },
   "channels": {
-   "press": 249
+   "press": 250
   },
   "negative_alerts": 28,
   "handles_active": 1
@@ -27,7 +27,7 @@
  "topics": [
   {
    "topic": "gulf news",
-   "count": 74
+   "count": 73
   },
   {
    "topic": "flights",
@@ -39,15 +39,11 @@
   },
   {
    "topic": "indians",
-   "count": 38
+   "count": 39
   },
   {
    "topic": "services",
    "count": 33
-  },
-  {
-   "topic": "khaimah",
-   "count": 29
   },
   {
    "topic": "khaleej times",
@@ -55,6 +51,10 @@
   },
   {
    "topic": "khaleej",
+   "count": 28
+  },
+  {
+   "topic": "khaimah",
    "count": 28
   }
  ],
@@ -128,6 +128,18 @@
    "time": "Wed, 25 Nov 2026 17:26:16 GMT",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVZ2UlJMaHh1d2R1Q3MzOGs3QXVyMFdsS0t6TjFuTWpLaktqcUc3QWU5NXdkOTVrNU5ZeW1HalRYYU5GYWszV1o3U3o4eDBJNjhaR29kVWo5Vl9qemtybHRiMmY3Ym40eTZXT3huS09GVWI4MHZaUEs4eWhuS01zQVY5QXlJazBGRE1OMkFwVkR3VzNZNGtCcFFHUHJEbEdqeVVJLUlUVGkyeE4wcXZHYmM1UmZBWmdEMGMtZGNEc9IBxAFBVV95cUxOYjhDbkZjUkJsNlRXekpFUVEzWG1nc0Zwdk9OU0U1YU9ZU3B6dWdOdXlkNTB1R0kxdUVNV3pTSnpOYmxXN3R4YXhIWkhwOE13QXVDejlnUF9RUTBBZ0QyYS1ndzN6TUpQVHAybHlkdVp1T1FXUFZOWXlvdFpxOGlSZERSSVgtNHVoME84SkVUVm5oTU1nakJhTkFMaXlMeGxpNHhPeThYYUZvQzZmaTk5NVozNVE3ZGtkLUkzd3NxZjFNUklk?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-015d26868388",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE bus accident leaves 13 dead, including Indians; what we know",
+   "time": "Wed, 25 Nov 2026 17:18:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08855e026b40ea85f8be6045090aa5&url=https%3a%2f%2fwww.financialexpress.com%2fworld-news%2fuae-bus-accident-leaves-13-dead-including-indians-what-we-know%2f4394044%2f&c=2903558330717326108&mkt=ar-ae",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -276,13 +288,13 @@
    "engagement": null
   },
   {
-   "id": "bn-326f4d2c4198",
+   "id": "bn-7172cad42da1",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian nationals among 13 killed in bus-truck collision in UAE's Ras Al Khaimah",
    "time": "Wed, 25 Nov 2026 03:16:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08840e00aa48ca94fea4019d792b09&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08855e026b40ea85f8be6045090aa5&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -408,6 +420,18 @@
    "engagement": null
   },
   {
+   "id": "gn-cfed75ae1994",
+   "channel": "press",
+   "author": "Gulf Business",
+   "role": "press",
+   "text": "Flying to Europe this summer? EU aviation body issues warning over GCC flights - Gulf Business",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFEQTYya0V2U3hqUU16ajY0ajJCSkpSdE9TVzRxcnhxTDIzZzU5T0ctd2EwcUlSdHFwem1PbW9QZW56dEVQZ1RnVnBtb3NHaC1PNEJ1WVo2Z2Qtb2l2RUxKSThiOW1xRV9hTGpPZlk3VDgwdGxxZWRneDdlLWtWXzEyUUJaRmhlbXAwMTdQcDNrRkUwRHB1RXE2YnBSS21aX09YNC1CUm5OMkZuR3c3dkN5M0xjaVpo?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-28b74f98f1da",
    "channel": "press",
    "author": "Gulf Business",
@@ -514,30 +538,6 @@
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
-  },
-  {
-   "id": "gn-26c1800a85f1",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai facilitated 15,000 UAE amnesty seekers - Gulf News",
-   "time": "Wed, 01 Jan 2025 08:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB0gGzAUFVX3lxTE1QZnJHcEVTRWVOSmNMWnFZN2Jia1dJaDhDeXNrN3Juc0E5X1MyWUhVUjJRcFl1VGkxNjhkaERoZ1JqNXBQb3Q3OXE4VnJ6TWVjenBKcVYyeG52NFBNSDhYcWN1S3lmd3Q2a0JmQzFKSXFoYkNLcjlVWEt5OFVaanJfcWwySnk4dDYzYTEzSXpoU0gwY3F5OUtPdlFIRUp1cHhNRFE1UnJNemlhbWJSbzBZQ1pJ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cb6f38514826",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
   }
  ],
  "alerts": [
@@ -602,18 +602,6 @@
    "engagement": null
   },
   {
-   "id": "gn-bfc3e02a337a",
-   "channel": "press",
-   "author": "Dubai Eye 103.8",
-   "role": "press",
-   "text": "Embassy issued this alert to Indian expats in UAE - Dubai Eye 103.8",
-   "time": "Thu, 09 May 2019 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC1wLXJXLXc1QS1YbGhZR1JzZWtScjhLd2pmaC1pcVVpVmtWbEpTUzlGcE1ScGZJOVYxbTNVdTdFZlR4Q00xNWFTWklKYm13dVBXOC1kUWVVRFVuZE5UcFhJcC1jdW1sOXlpM1RRUjNpWmpOS0EwUm0wN3VPdUozY2N2bXJ4WDBfVW5kNkFMSkRhUGoyQ1AyNGNn?oc=5",
-   "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-98b3d94991fd",
    "channel": "press",
    "author": "Connected to India",
@@ -657,6 +645,18 @@
    "text": "Indian Consulate in Dubai to hold ‘open house’ - Gulf News",
    "time": "Fri, 03 May 2024 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFwa3VXNjItaHIzampGUWUzdDQ4bVNyQlZjNWlaVml1Mk5qMlFuLVQwSkJSSnBROUU0aDZTMV94ZlJsblBuVk85S0lDb2YxZTB0TTZraDlNMVR1aTNoTHptaUFPdjZxOUVHWUYwM3lFcXR5MlRIVzNKSWlSNU1aRDM5ek1LT1o4bHlvSTB6dzE1SHAybFl30gGqAUFVX3lxTE15bl9aTUx3WFBuZE54YS1HdDBQNU1JX0dhUnQ0bktldWFvdVYtZV9MdlJtSjJyVHNISnFBVFhpNlRpQkdKLXM2eTNYNGJNcFB2dGc4ZjhRSGJSOTRVQ2JIRXdNUmJ2V1Z3TkZwTGVmSHBFMF9xclVhSWxiOWlKR25pakVSTTNMWGpEbFlXT2k4ZHVYa2ZBUkluVFEwQ1g5c0RPekYtUmhNaV9n?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0b2fb200b002",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai to hold walk-in camps for emergency passport renewal - Gulf News",
+   "time": "Fri, 20 May 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGI5QXNhQXk4cDl2QnhoazA0QkRwazIzOUF1c0ZXYjFSTHBLMEFFUHpSdDQ4YzNoS0ktY3NiNHJhbWlxcE4yNm1OSUxxdVJJeWV0TUNvckhWUzBKR2VOZUZwS0ZpUnR5MUljdXQ5WEVrMGEteWVEZGpvQVBHeUs3R004c2sydXBZWi1lMEhrcUltSDNMLVU0emVuYkJydWdVSzlzUWc5a0pBOElSb3lZM3RRZTPSAcQBQVVfeXFMT29aYW11b2JScXpzeXplVFNfMHo4ZnVtRnNWQ2s0VFY3TXUtWm16cGRoWTBfMjZKS3Y2bmpjRXhWeXRGekI3QlNzYWx2bjlxQUY2MkxHcGJpT293aXUtTlR5S0k3al92bjdTaHhld2ZfYmtGLUNUZE9KM19TZlhzR3dyQVBBcTlqNWEyVHJEZnBCYXMzM1FyZUVrenlzWk5oczNJSWlTSm1qUjAyMVhMbGZwVjBDNkg3aEp1aWtsT0NxWTdubg?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
