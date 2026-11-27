@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated_at": "2026-11-27T12:50:04Z",
-  "total_verified": 267,
+  "generated_at": "2026-11-27T12:55:18Z",
+  "total_verified": 263,
   "channels_live": [
    "official",
    "press"
@@ -12,39 +12,39 @@
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 267,
+  "verified_mentions": 263,
   "sentiment": {
-   "positive": 9,
-   "neutral": 232,
-   "negative": 26
+   "positive": 10,
+   "neutral": 226,
+   "negative": 27
   },
   "channels": {
-   "press": 261,
+   "press": 257,
    "official": 6
   },
-  "negative_alerts": 26,
+  "negative_alerts": 27,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 76
-  },
-  {
-   "topic": "flights",
-   "count": 60
+   "count": 70
   },
   {
    "topic": "passport",
-   "count": 43
+   "count": 45
+  },
+  {
+   "topic": "flights",
+   "count": 45
   },
   {
    "topic": "services",
-   "count": 34
+   "count": 35
   },
   {
    "topic": "business",
-   "count": 31
+   "count": 29
   },
   {
    "topic": "khaleej times",
@@ -55,8 +55,8 @@
    "count": 27
   },
   {
-   "topic": "express",
-   "count": 21
+   "topic": "indians",
+   "count": 25
   }
  ],
  "mentions": [
@@ -97,18 +97,6 @@
    "engagement": null
   },
   {
-   "id": "gn-a45a59970d40",
-   "channel": "press",
-   "author": "ET TravelWorld",
-   "role": "press",
-   "text": "Air India, IndiGo plan to resume Qatar flights soon - ET TravelWorld",
-   "time": "Wed, 29 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVAxLWpFNjVEcTJPTlB1dlVCMWhJYmFlR0FCS0ZkbGlwNHprUXZIenY2V29mdE1ORVdYbWk3aVlMQmpHd01oRGpmNjhNVHpYdkNtUk55WnpkQVdVdldyMEpTMDVBMWhFTU9TN0VsTUl4N243YlA2TWQ1dE9QUVV5d0owb3dsRFFNRVdkdmRrbFBrb2RFUVpDQXYyMHU1UkJFZ0psTjBBRE4tS0lIWjdaN2xtZ2lYbVAwMkpJQkdPdWNnR0lHckl1UUN0LWtrVnF3d0Z3ZWlpMzJvY0Z0TWItN0tEbDBPR1Vqc2drTWVPSTNrM09zMzFBaXU2Q3lhVFpvMHR3dTd4a9IBjAJBVV95cUxOcEJCcHcyd3dLRW1FcmFFOGhUUnRWZkdwUFFHMHJSVkwtLXBLSlA3dUVaejVzc1lCN0Z0ck5YT1BheURQcUlFeFdzTmhBVm5VcmYxMktoUExBM2U0RUd2Zk1YaFF6UVk3bjMxTmlqOVA0ZFV5VE9MenEzRUstYUloWHdwVWxoUkJrWGFyVkt0VEhBTEtsOUpzaGVjZkJCTGRHOV82UUVHVUF4Vi1aRFducnJvTFZ4bDFPMTlFVnRXVXFQMlk4VEpzVWtseVJHT2o3bzk5bVpBTGJhT3pJaV9CWXRCQzJyblhhSEtYTVZsZmIzc01XWU83MjUzcVNpMVQySHhFV1h3SldPX3FX?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-34f8d29fe582",
    "channel": "press",
    "author": "Gulf Business",
@@ -141,6 +129,18 @@
    "time": "Wed, 27 May 2026 22:37:35 GMT",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlZZeHF6a2xydTk0SllkVnpDTmQ3NURiOWxhY3lyNnptSWZYVzJ3Mnp0RGMtbDVhRE5VNEpLRTR3M0ZCT3RVa3lNYjNYbmVmZTVWZFFucDdjTXM5SEJCM1JnRXpMbncyT1RfVWktaEhsT05HTnUzRURtMXlnYjdvT2lWbGdlQUJaMThQeXh3M1BmUQ?oc=5",
    "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-98bbe04971f0",
+   "channel": "press",
+   "author": "Bing News",
+   "role": "press",
+   "text": "UAE bus accident leaves 13 dead, including Indians; what we know",
+   "time": "Wed, 25 Nov 2026 17:18:00 GMT",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097db388e241219dd7a4c1c09176fa&url=https%3a%2f%2fwww.financialexpress.com%2fworld-news%2fuae-bus-accident-leaves-13-dead-including-indians-what-we-know%2f4394044%2f&c=2903558330717326108&mkt=ar-ae",
+   "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
@@ -193,13 +193,13 @@
    "engagement": null
   },
   {
-   "id": "bn-5cb1eed2d345",
+   "id": "bn-e2bbd0d316cc",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian nationals among 13 killed in bus-truck collision in UAE's Ras Al Khaimah",
    "time": "Wed, 25 Nov 2026 03:16:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097c77053845dd95b1a3e5f60ebd01&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097db388e241219dd7a4c1c09176fa&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -225,6 +225,30 @@
    "time": "Wed, 22 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXNMMk1tSUJKT3hZaGxKOVVxdGEzdUx5MVJtVDczTmdqSGVaSTRUa2c0VVFDZnA3SjNrY3NkeE5vU3hnT1NQamRRUG1SN2xVMVhhRmJkdS1zc01ZVEh2T3lCVzNaT25UUVE5RkZUOW85UWZxSjJqZDhZWDFRYjBUMThrNklhME1lYnhjdkRPWXV3SktnQXFMdHNQNk12c1U4YW1NTjdJYXJxUndoV1NBZmZ4MlBxVWZ6ak5SNVphOG5XTFBLcG02WA?oc=5",
    "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-d23479aca4cd",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "1,146 weekly flights: UAE and India eye even stronger aviation and tourism ties - Gulf News",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUG5DczlJWUMtQ0lEZnYwNG5zUVE0V3M2eFM3SEo1OE5JcGRlZDloTVktU0h0NFhiV0dhMERLQlNtYmgtc1lHdVpPaEpfZXNCNHAwb1p3TWtiR3RWYVhDZV9OSHRqZjBXa0ZnVm1yQjVKdHhyYVpOam84T09BTW1DSUZUMGVDd1Q5UU1nZ291Qy1qd21jS01YRjJaelBIZENacml1TTRmc3dsRVZsbzYzbVVMcExWNy1aMDBiZ2xBN1I3X2hCLVHSAdgBQVVfeXFMT0k3ZktRelNfRlN6STJ6RG43WEJGSTlmVmVmeW4tZWJMZ0xFLUl2aVdJZ1h0a01IVHZsU3BySXdzLS05RHhoYXNTbnlxZ1JZNzVFYm9lT081VDA0d3ZTcXVzejREWWFTRTF5VGdZUTNodXNvVWZvRjlGRGdhVE83cUFSSU9GVFBUZnpKUHg4a3pXd1VsaTk0Ym1YVTZXMVpFZzUwWG4wN0NXRXB3R21zcWx2WklMSURmNlRHSEliaTdnR3Qtb2I0ZnZpS1ZBUWlTU2ZQNzlBOUtB?oc=5",
+   "sentiment": "positive",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-36ab06ef0afd",
+   "channel": "press",
+   "author": "NDTV",
+   "role": "press",
+   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
+   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTTSAcgBQVVfeXFMTWZneC0zUmNwNl85cG1YdThrMTFyZUN4TzIwYmMwOUVKTVUzVktEUktQYUxSSlNVR2swQkkyV2ZOVW56TFpZQTdpTVhHLWdHakI2MW9JQkNSNmJEQ1k4am9VMjZKOEgxMTM1WHI3enBGOS1WUnVwT1VVWldFYTZXanNzRWVaTjlPTEZZR2FsbDB1Z3kwUEZ6R0c5LWZqRGJEcllBbjdpUjFOYndUcUpFS1RTbExoSFhRYkhSTG5xM3FVU3ZKRXRPWVc?oc=5",
+   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
@@ -349,18 +373,6 @@
    "engagement": null
   },
   {
-   "id": "gn-1bd59d219ab1",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights April 8: Etihad issues update and Air India adds 16 more flights - Arabian Business",
-   "time": "Wed, 08 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlyeW95UFZnMDZvMUFjTVlMUGczdmgwMjliRzM3U1I2bU1zU2F3NHZmdmNJcFZNWE1oODIyVjNsU3VuRkJURDI0b3YtQk4talRnVXVzRElpZW9GTnJva2ZvWE1OWkdNWDlzSUlzWHBQb3Y4QVRqdUVla3pEal9JRkh0bDRmakVtdTZOdFZnREhrQzhzMzd0R1g2MUhpSnFhRlVKb3FZSU9wTVJNYXI5RDEtei1VcDVDU09WN04yNHY1ZlVI?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
    "id": "gn-c7524b6da74e",
    "channel": "press",
    "author": "Gulf News",
@@ -452,18 +464,6 @@
    "text": "Indian embassy in UAE to offer limited consular services on walk-in basis - Khaleej Times",
    "time": "Wed, 01 Jul 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzhJUW15bi1vcXJFdXY1eWJOWFBWLVhBc0pMYjV6LXJVSU1WZnNXa1Y3czJlQmc3RERKNGJMUmZQZmN5S0pFa3BZdDJiVVpyQkFuaTRCcHYtaHpwSzhJY1BEVWl3R1dvX0Y1Y1psTUEwN2Y4RlprR3NOSnN5dWU3MS1vWXBrTUZ1ZHdyNk5vdkRuS19LZEFpSEpIZm0zUdIBpgFBVV95cUxQTHdGUWJTYUdyUm1DZGpranBGcjh5dEttbFBRZ0F3M0wtYkZPenFsN1liZjQzODJ4cS0xZEIzRTNMdTVrTU03TjFqTU14d3BqTEtRVENCNGR1VzhNUHBHeGc3SFU4MkFlVUdXZmZkNDRPenpTVVdOeTY1VlBVTUxFT1lzcEFOQjJmZHBRMlVwM1k1TEtUQ1ZXcng1T0Yyd1Z3c2hENWJ3?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-0c0245e9e655",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Dubai Airports Update April 1: Air India group to run 30 flights; IndiGo shares list of scheduled flights - The Times of India",
-   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkRqWTh5dE4xOEJfME80T2FLZ0pRUGg5TXlpT2dMbkVuU3h4WDdKamY1SFRMVXE5OHdSeVQzZXBBN2toVGdCTE1YYlpITEtzVHVCOE5YWk52VzE2cHdxRmFrU0lkQU1qb0NIVExlVnB5dzhJV29uYnBNaDU5YXJhMlRla251eGVZdEVqTW5WRVhWZzFJR3AxcWw3VWVTb0k1NkpKVkE5Um9OXzdLOHdOYU9FNkJKQVRzNWxmeVZBdmJWMDNacmlpaFV0SHI3WFZjNTBHMVVCeld5WFUtOXVJSjVtY1FEamdCdjl1ZFdsNzAxNU9xaURhLTRrMlQ3Z2s4QnJfdktJUU5Ga3Q5NXo4U0g4UXhUcExabTNpUkF4T3hWZ1JVZlRqNVhpemxPdnkzZ0hZR2xsVFlESUY5SkR2YjVtRdIByAJBVV95cUxPWWpNcnVfS1Noam1wQ1BMaFQ2eFZ4bmFHY0RaRTY0Y1k1TE5lelB0OGpUYTNqckZ0MmktX1BYbXdiSjUwSmEwalBJdE9qQktHd1Q1OEk0cXM3RDRXaUswTWMxb21ib2pCRmpQVGNGZGtlc1lENGswVjBlZU8zbXpjcHFNSUNrTVJBbEhHejR3UVd6VEE3Zl9RMm9PbHdReFJqWGlfUzZuaU5WcWlqdDhjVGVZSV95VG9YRWI1SWl2RmdoOWg5Y3E3UC1vaWwtMnhTcGxCdFdPaW91cUtqQW1IbG5oMU1tSVlnMEx3aExMWTBHSWU1OHV0Ul9rM3ZCQ09BX1IzV05KUF9UdGcwZFRFNERIY242NXdqQnRsa244d2hCbnZmUnJzVVQtQVJSQUVOcXE2d21faV9PMFFTaE1GYkZ1RGVuZEs5?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
