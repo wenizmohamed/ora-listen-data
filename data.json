@@ -1,63 +1,62 @@
 {
  "meta": {
-  "generated_at": "2026-11-27T23:51:12Z",
-  "total_verified": 171,
+  "generated_at": "2026-11-27T23:56:24Z",
+  "total_verified": 232,
   "channels_live": [
    "official",
    "press"
   ],
   "errors": [
-   "x_official: HTTP Error 429: Too Many Requests",
-   "google_news[\"Indian Consulate\" D]: HTTP Error 429: Too Many Requests"
+   "x_official: HTTP Error 429: Too Many Requests"
   ],
   "note": "All mentions in this file were fetched live from public sources by the Ora agent. No fabricated entries."
  },
  "kpis": {
-  "verified_mentions": 171,
+  "verified_mentions": 232,
   "sentiment": {
-   "positive": 6,
-   "neutral": 148,
-   "negative": 17
+   "positive": 8,
+   "neutral": 202,
+   "negative": 22
   },
   "channels": {
-   "press": 165,
+   "press": 226,
    "official": 6
   },
-  "negative_alerts": 17,
+  "negative_alerts": 22,
   "handles_active": 2
  },
  "topics": [
   {
    "topic": "gulf news",
-   "count": 47
+   "count": 95
   },
   {
    "topic": "flights",
-   "count": 45
+   "count": 56
   },
   {
    "topic": "passport",
-   "count": 28
+   "count": 43
   },
   {
-   "topic": "business",
-   "count": 25
+   "topic": "indians",
+   "count": 33
   },
   {
    "topic": "services",
-   "count": 21
+   "count": 32
   },
   {
-   "topic": "emirates",
-   "count": 19
+   "topic": "khaleej times",
+   "count": 30
   },
   {
-   "topic": "emirates etihad",
-   "count": 17
+   "topic": "khaleej",
+   "count": 30
   },
   {
-   "topic": "arabian business",
-   "count": 15
+   "topic": "khaimah",
+   "count": 28
   }
  ],
  "mentions": [
@@ -74,25 +73,13 @@
    "engagement": null
   },
   {
-   "id": "gn-682fa3120fe9",
+   "id": "gn-f2ead5e5b350",
    "channel": "press",
-   "author": "NDTV",
+   "author": "Curly Tales",
    "role": "press",
-   "text": "\"Serious Challenge\": Pakistan's Business Community Claims Silent Visa Ban By UAE - NDTV",
-   "time": "Wed, 29 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGRHRWZzVWpHR2ljcGd4ekVIWkhERmVGMXZnSEVNQU1UWVRkUkprdlFFc3VIV2NwZjN5czkyT1Exejk3N3FUY0RndWNFN0hSLU50ZGFKSFAyTF9oVDlvbVpzOWdKb0JnWTlMUloxeXNqRXF2MC12aHluaGN5Z3dBQmVreEhEODdPdU54eFRwSXZhV1VyLWh4aTN4aWc0WFN3UWs0TWkwQXhnY25zeS1IU29XUU5hWlQw0gHAAUFVX3lxTFBtSjN3cEl1bVg0VFc1cHVxUEk2TV9CVlpLTlpPU3pRZUYtb01TLWJscGhsVHdOMVV2SHFpQzczSVh4OEdPRWsxT093Sm5HQ1lrSjl0U0EySDRpVXl6VXpOcFo2djduOWpwWTlFX0loV2tsY0JGbkNHVkV6bVFGYlpJTV8tUndKcFAzVkplX25sM0psYmFWUlZEVjdJdGktMjhVS1B2SGpvS005T0JSMW5LM09Ia2hmSzJIc1QzcEIxVQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-34f8d29fe582",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Air India Express expands India network from Abu Dhabi with two new routes - Gulf Business",
+   "text": "Indian Consulate General In UAE Issues Advisory On The Importance Of Medical Insurance For Travellers - Curly Tales",
    "time": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdnRSRTVjMEcyOEZ0TWVYT05MV2FZd1h4TnRWaVIwLTBXODJnaGxGZDhaUHFOUDNlcXhfaFJNODliZlhCZmsyTVlaUlZPbU84Z2dFcWlBNEsySllqVldNQVhUMi1DdUxpWER2eERtQ055azZ5WGREczJsY1JJMHJtYTNhRTViVVZOOTFOOV9JUnlFSlVHYTRBaTJLdHpBN3YwVG5aNG1aNVJNY0lXOXFvUlJwWGM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnhRU3RucnBoQnlTeHc0OTlZN1VDbXZnbUxVWXQzdTJIODdZWXU4dlJDREJfaWQ4cUVBb2Nvci1fZW4tMWRCQU5xUzZjR19sc0swS1FwdmVqcjlXY0Frc3FMdTFPSDNsQXI0Ym1RZWhFc0x1dDJQcDZLdzJZc2RheWlGTjZiSm10a3dURWRyZTZNV29pOEhMbi1yUkdDOUx1RUdKV0xXeTJjd2gxWktwZjE4UlpLVTE1NHNxMUdST1pjclVXempKOGdHNUpLUFNfcDlfa0JDa0JhZ3d30gHiAUFVX3lxTE1ZRHdRczFYOHZ5M0wyWi1NYWdnM2llemZpdE5VTTdNTFlLZTI0dExOeVJ1dUxNSzBObE5zb0tVUGFnTm1SRV9HVGdha2owMXFPbkVZZVZIUFhGMkdCNnBRcnowN0wxb3FWS3RaTFlzc3VFQmVNV0RuZDlZUmM2bnktTXhQVlBXWldYYXZ6TWxnTkVsaXluNEk4amYtVXIwTVY3NXBHMHlyQzhmVTZKclJOR3V3cTh1Z3JsZllkX1N5TmdlQXBEZnFMeXhxbWhnTXRwY1ctak1xMDZkeHhaM1hoNHc?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -110,6 +97,18 @@
    "engagement": null
   },
   {
+   "id": "gn-6b4a3845248e",
+   "channel": "press",
+   "author": "Firstpost",
+   "role": "press",
+   "text": "Indian envoy meets families of UAE bus-truck crash victims in Ras Al Khaimah - Firstpost",
+   "time": "Wed, 25 Nov 2026 17:26:16 GMT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVZ2UlJMaHh1d2R1Q3MzOGs3QXVyMFdsS0t6TjFuTWpLaktqcUc3QWU5NXdkOTVrNU5ZeW1HalRYYU5GYWszV1o3U3o4eDBJNjhaR29kVWo5Vl9qemtybHRiMmY3Ym40eTZXT3huS09GVWI4MHZaUEs4eWhuS01zQVY5QXlJazBGRE1OMkFwVkR3VzNZNGtCcFFHUHJEbEdqeVVJLUlUVGkyeE4wcXZHYmM1UmZBWmdEMGMtZGNEc9IBxAFBVV95cUxOYjhDbkZjUkJsNlRXekpFUVEzWG1nc0Zwdk9OU0U1YU9ZU3B6dWdOdXlkNTB1R0kxdUVNV3pTSnpOYmxXN3R4YXhIWkhwOE13QXVDejlnUF9RUTBBZ0QyYS1ndzN6TUpQVHAybHlkdVp1T1FXUFZOWXlvdFpxOGlSZERSSVgtNHVoME84SkVUVm5oTU1nakJhTkFMaXlMeGxpNHhPeThYYUZvQzZmaTk5NVozNVE3ZGtkLUkzd3NxZjFNUklk?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-5e08f5ea23ab",
    "channel": "press",
    "author": "Gulf News",
@@ -117,6 +116,18 @@
    "text": "Ras Al Khaimah accident: Four Indian families from Kerala identify relatives killed in UAE bus-truck crash - Gulf News",
    "time": "Wed, 25 Nov 2026 14:22:07 GMT",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSE1PdTRkbHRfUzhOQXB0WW9SOVF1VHRsRkpGSWRtUnVnbGVrcVVjQmFVMUE1UVhrQ29tTlBuMzBDNlBlVFd0QmRxNTV4TWlFc25iSjBVckJ6R0tCR1lxdkFvTTdFUjVpZkU2c2RmSGJwUlhJMFREMC12M2ZubVFHYWgyS1lpb0lmeU4wRkJYOHVHYVdGZ0pULUZDQ2VmdHVsRGFYM2kzUFdEX0t1Vm1aS1U0REIzd085QUpRbmUyM2JvM3pReTkzV3dnSG50NlJkZ0pTQ3NYMDdLQdIB6gFBVV95cUxPMTVHSmxUNG02OXgzRUp1ZVN0ZHgtNG9kb0RuVTU4WFMwOW5vX0dGcjBmVFhweldLM1liWlhzQlpweTJXdzhHa213MFNzYkZWZkZYVFdGZ1NMenotVEJEZTNReDY4SVN2YjVhNWMwa1EybTBlaUZ0WjVScnRpWDBkNzhkVFpQUjVidjIzcTN6Vy1Ia3pEUkM0MWpsZ2phOUpncTR5Nkt1WEhFblFnV1hMdWhjY1daM2hTMUhhbHZCQ0sweU9MTFdINVVSRDBfemZ1ZzBleXhyZDN4MW9fZlZhOUQ0S2tBc2lLU3c?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-8bad8a743eae",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Ras Al Khaimah accident: Indian Consul General in Dubai visits families of UAE bus-truck crash victims - Gulf News",
+   "time": "Wed, 25 Nov 2026 12:58:59 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0E3ZEJjdTN1UWhiSUVjV2Fhdm42SnROcDdWSzEta2NqN3U0NUJOUUpFTDM4ZXpuU1FFUm95ZEtMNHFzQzZMTzNSajQzaW01TDd1SzVOTzNRZ0JNamtUV2djME1Pc3pfZ180alFMeEprcEV5RUxzUEQ4VnFUcGVOSlZKVFkxZ2FpVlpjSnY4RzdhQ0g2M1o4UzlyZHpXZmhWWE94djQ1WDE1YW1wRjZZbHMxMl81M1lXWTY0RnlQd2g1bndFVzloZXl1dV9zYm1SV1huX9IB5AFBVV95cUxPS1ZWS0RxSlB6ZzNKbUp3eTB3NE1FR3JNX0FaOXFMNHptWTBKRkozQm8tWTdKTEdHdUJuOWw4V3JaUl85eHRUZ3NYUzl3VUloNjI1aTdrTWxNUy1TZnQzLUEwTk10MFV5alVxSmJiWS16QlllbUlnMGtmQU5uLXY5SExiVnhnS0tqazQxVXNjeUtkVkZVMms3Tjl1SVAyQVNHcktKU28wY0JnY3lkT3RUUlNwdi1OSkJLQnRlN1JzSjk1WlBvT0JZN3FwcnF6VzJDbXhablRKbEpmblNPQWFjaG5UbUI?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -134,49 +145,121 @@
    "engagement": null
   },
   {
-   "id": "bn-e2cb776f591f",
+   "id": "gn-105883812cea",
+   "channel": "press",
+   "author": "The Siasat Daily",
+   "role": "press",
+   "text": "Indians among 13 killed in UAE bus-truck collision - The Siasat Daily",
+   "time": "Wed, 25 Nov 2026 09:12:35 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDVfLVpjbW1rbndRN2lJRGswM2NLaTZJcWVhVkFKZS1KQU1kTVZZY3JZTW9nVVhrTV9Md1pxNkFqeV9kZ0tXT2ROd1JRenBZQUxFdldxQ1RBUDREYlNqSkxubjhHZ1hBY0NPZk83SmhYbkNNSEdPUkZLVnF1dXJReEtzQy0xZjlvZVHSAY8BQVVfeXFMT2g0WTVTRkVpdzVCUTBmbFZTX21qXzJxRlV6RWVXWkxFRndMcktVTWI0ZDNzZXZ5YjJrOU8wUjZ3RF9GX2lTS250WjhwOXBhZnFZZlpGSXFzRGlhSnpoS3BQdjlyb1oyM0pvcjZTbE1lSFFPbnlqalZqWjBrN2tSbGY3VGxsajc3cFdicWllOUk?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-9b4acd00f511",
+   "channel": "press",
+   "author": "The Hindustan Gazette",
+   "role": "press",
+   "text": "13 Killed in Bus-Truck Collision in UAE; Indians Among Victims - The Hindustan Gazette",
+   "time": "Wed, 25 Nov 2026 07:41:56 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1NmZE90QmxSWGc5YURaZzN3Mnd5VldJbzBlM1VCMTlVaHQwRmdDbGZtMG5QcEl3SWMwRVJNUmllR191dnpNZ2hqVmZma0NmWjhIZXR6Zkk2eDU2QW1Gczhwak1rSXU5d3R0cENhQ0F4T1dBenBXM1VES3k2TzdyZ0kweWZMRDdJZGNveFl5WXFmN25hbWFIMk5iajBGakhYRkpVX0dsTTlQZll5?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-74c09b1a1d77",
+   "channel": "press",
+   "author": "Kalinga TV",
+   "role": "press",
+   "text": "Indians among 13 killed after passenger bus rams into truck stranded on UAE'sRas Al Khaimah - Kalinga TV",
+   "time": "Wed, 25 Nov 2026 06:24:32 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnE5NGtsaDZ2T2xLb1R5X3NsRHlpZzBmeGdReUw4a3JUX180VEkzbEJNRHJkSDd3Sng0bjg0R0pkQ1lOZDZnNFRPS2VDQ2kyUUtiYi1pM0FPSEVhWElTS2ZxVVZiZWNjaEFkVlJOakZ2RE5EWmJWU001TEtfLVZ6QzdLMTQ2dlJYeWllS0p0bVAzYUF6UkpWamZTcUJGNzcxaENxbVlKTDRITXZHWEJsUUc2eFlsRVhTT0cw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c1996aaa8771",
+   "channel": "press",
+   "author": "The Economic Times",
+   "role": "press",
+   "text": "Indian nationals among 13 killed in Ras Al Khaimah bus-truck crash - The Economic Times",
+   "time": "Wed, 25 Nov 2026 06:17:47 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlNaMEtnRFVVcjcwektORWVhdzZBNDJkX3BMcHpIWmFxSGVjUkVhUE93YnA3WG9IY0hzZGc4eTFhUHR6Qkx1MW9CLVFqVU9XWXgyeEdUTzVOVjdTNEVUb3VDR0lGVnJILTRPcmd2ejdGZEdHLXJMOVhrLXJ3bTlSLXhrSmlCRE5RU2NjYXRzMU5YSlJFWnNMWkVwd2JIeFFvelMxZWlqYUt3d3JfUllfM0w2MUZxWW9YOEhWdDRYU2w3VWp0aXFVem5aNGxFcUFuZ0M4S1BR0gHbAUFVX3lxTE9WTUpjTXp5Rmd0MEoyamNSQ2RDLVdoMWwyTlpJX3JVRVRySS1tOThlYkx3RHgzSXRPenBRVm5SV0lTenBGcmxRZjV1Wk1FV3FvWTlMRHQ5ODJ1ay1RcHlhWWtPSDE2a1JFelVLWWVMMHIxc0tkZTFLMmh3MFplaGRZb1NaNERYNXdlU2NqbldEaVppUV9UbWo4WUl6a2xlWXhNbUdlczg0N21hdWpHM0NnMzRuWkZ5U2NKekE1Wnl6Q29pNUhObHhhUUZhUUdHbE15X0RWMklUNXBLcw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-1470c9994825",
+   "channel": "press",
+   "author": "NRI Affairs",
+   "role": "press",
+   "text": "Indians among 13 killed as bus hits stationary truck in Ras Al Khaimah - NRI Affairs",
+   "time": "Wed, 25 Nov 2026 05:50:19 GMT",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JZDF1NlBuODVENjVyWmhWM3hYeFNHOUI4S3VRRmJ3OU4xNmRpUVZsNW8yaEtSbldKcVBFb05YLVM0TTBTSzVOUUpvUnpIRUUwMDFnbEFIcVVHSUFhcklhcS0wLTlRc3Q2dU5mckFUV0k?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-98b3d94991fd",
+   "channel": "press",
+   "author": "Connected to India",
+   "role": "press",
+   "text": "Indians among 13 dead as passenger bus crashes into parked truck in UAE - Connected to India",
+   "time": "Wed, 25 Nov 2026 04:36:29 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUlVN3lHSlIwV1liOGJWQUwxaUpIMmg4T1dxOFRsNmhGbUJiRkxodmJPcUlGMUdQcFJ1T1hNcW1maXE0Y0pOYnFYWEpnMUlIXzRqRUd2aXl1M0tnU2lCMDhzV0NocmpGNS1MS245UzJkcE1oRWt4c2dWa1BTMXNHVmVNblZvcV9zaFF6QWxXZzVRUF9IRmFPN0xDS2hPZEZwVFVka1FQdTY?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-fd7ede9e77ed",
+   "channel": "press",
+   "author": "Tupaki English",
+   "role": "press",
+   "text": "UAE Road Accident Claims 13 Lives, Indians Among the Dead - Tupaki English",
+   "time": "Wed, 25 Nov 2026 04:23:53 GMT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3lnM0tmczcwU0hlSjR0Qy1Oa2Jtb0FITU84MENPcWhNeTlyMFBaM2h2UFE0VEgzRnp5anNFX3pMM3NhSW0tclY3TFVBTXNVbUVlS2doSjlwSnl2ZkdRVmUyTy1lR1VZZnpNYnRRZjBqRVM4YkdXQzRiaWxocDJHZWZSYkhhaklVSC11STk0Mk3SAZYBQVVfeXFMT0t3WmFyM0dVc21oYVZqS0phbjdaM0d1V0hyc29yMkN1Z0J3ZlZTMGg5bEFQaW11Ml9ldDhvMXhMV18xS3BNM1JHVmgzZVhuY3Y5bkRuV1lsSm5adG9RMm9RMldzQkl4RDFvcXBweGJMVmZGZ0pWQ3diY1BZNUd3cmdtdUtqOUE2bzFQZkRBNzViVmlhMXRn?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "bn-37226908e47e",
    "channel": "press",
    "author": "Bing News",
    "role": "press",
    "text": "Indian nationals among 13 killed in bus-truck collision in UAE's Ras Al Khaimah",
    "time": "Wed, 25 Nov 2026 03:16:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a176d8aa440b8bbe02e431c8bf28d&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a18a52853473ca264ce142a0620c3&url=https%3a%2f%2fwww.ptcnews.tv%2fworld-news%2findian-nationals-among-13-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah-4432124&c=15978165833310647112&mkt=ar-ae",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-84326d5dd1db",
+   "id": "gn-d74d66241f97",
    "channel": "press",
-   "author": "Curly Tales",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "UAE Flights Face Delays & Cancellations Today, Check Your Flight Before Heading To The Airport - Curly Tales",
-   "time": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2paQlBsSnU1a2NuTlFiclF2MTNhbnotcnA0SENOQWJRTVFfNzhQWWpXSGpXRjdmVld0dk5xSHl5dXY1ay12YmFlSWhod0FIcTc2XzFac1BVd2ZUOFAtN3QzTVlfRjI1SFRkVTNlZ0M4V1VKbGtVTHViTmtYT1dlMHlEWW1TZlpRN0Jlb3R3THRBYks5QnlTSDFPaXVEcDVBbGpQNGViRWN4alAwR05Fbm8talZCb3VrT3M1eFl1dzkyTlV3T3BHWVNjZ0VQNG_SAdQBQVVfeXFMTnNMeURnTXVzTkJkeldJVGFKdGRoVVo4YklDQXBpZ3VMU3pTTUo2NHVYbk9Na0lPWUtzSnhMMndYYmJ4enZMQlNvbDVFb1pUTFJnSF80ejh6cVl3UFk1VFE5ZTFEeVE2b0hjYlN2UVY5Y2xtbU9fQXlWWElmbjR2a2xvNGtzemU2cDJ5SmxlVUNkclpTdUJHdUUxRWpDY2pRS3hGc3pxYVcwTzZZVEtNQVA5dDZnU0hqT0lBQ29FNXpRZVdSUHV3WDBqQUxKY1VtQjVkT1U?oc=5",
+   "text": "UAE: Indian Consulate to organise walk-in passport service camp - Khaleej Times",
+   "time": "Wed, 25 May 2022 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHVLa3BKbjJXajBURlNDbEtXcnVlTkQzZFVscG9TTV9wMnVoZS1JWjhpNTlNXzZxWW83MEl0eUQ5c0FnWjFMcDRXRWg4ZXZkMjB4NnJDRnRiMVQ0Q0lRN3RNN2o3bmJWS2dJR2xBbUZZTzVQdnRsdjJIdE1JYlZSX2RGSTNrUUZLZHYxUk9OQ3NaeXBjY3hhb1VXONIBowFBVV95cUxQR0paRWlhOVM2bkFLSk4xbmlXOVRPdlNlWGV6dFNqdW1rMmdUbi14YzdEbGpEZXRLcENnOHJ3ZHd6eFA1R3J0Q0Q5WW5PUzRPLUdyaUNvTkpJQUxzcnE2NTNlUVhIS2U4bGVGRjBKX2M5R1p4bzRWOElIZFVQb19uYUJ0RkpMbllKVXNVZ1VoQXpFbV92dlgxc2JrRWdwTTBLWTMw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-d23479aca4cd",
+   "id": "gn-a4b5cabc343c",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "thenationalnews.com",
    "role": "press",
-   "text": "1,146 weekly flights: UAE and India eye even stronger aviation and tourism ties - Gulf News",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUG5DczlJWUMtQ0lEZnYwNG5zUVE0V3M2eFM3SEo1OE5JcGRlZDloTVktU0h0NFhiV0dhMERLQlNtYmgtc1lHdVpPaEpfZXNCNHAwb1p3TWtiR3RWYVhDZV9OSHRqZjBXa0ZnVm1yQjVKdHhyYVpOam84T09BTW1DSUZUMGVDd1Q5UU1nZ291Qy1qd21jS01YRjJaelBIZENacml1TTRmc3dsRVZsbzYzbVVMcExWNy1aMDBiZ2xBN1I3X2hCLVHSAdgBQVVfeXFMT0k3ZktRelNfRlN6STJ6RG43WEJGSTlmVmVmeW4tZWJMZ0xFLUl2aVdJZ1h0a01IVHZsU3BySXdzLS05RHhoYXNTbnlxZ1JZNzVFYm9lT081VDA0d3ZTcXVzejREWWFTRTF5VGdZUTNodXNvVWZvRjlGRGdhVE83cUFSSU9GVFBUZnpKUHg4a3pXd1VsaTk0Ym1YVTZXMVpFZzUwWG4wN0NXRXB3R21zcWx2WklMSURmNlRHSEliaTdnR3Qtb2I0ZnZpS1ZBUWlTU2ZQNzlBOUtB?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-36ab06ef0afd",
-   "channel": "press",
-   "author": "NDTV",
-   "role": "press",
-   "text": "UAE Visa On Arrival For Indians: Who Qualifies, What It Costs And The Documents You Need - NDTV",
-   "time": "Wed, 22 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFVpU3lmNEw2YlVDTzhTN2hqVExnUzdIdDBUZk12RDZmVTROSC1FZzMyMWhhVWY0YklXSUN0c2RSakt1dVFaQXBrUDdNWElPbExfWnpieE9EVW52RWlXdzdCSGUtaF9sd3doWXcwYUlyaDFzM0hvQ1FDSmp3VlBjcEJFdy1EcmxRLVh6emxwemcxLTlTcUZYWkM2T2NsRlhES1gtT2tUeDl3T0xJU0dISktsZ0hOYWozMkxsYWNpLTTSAcgBQVVfeXFMTWZneC0zUmNwNl85cG1YdThrMTFyZUN4TzIwYmMwOUVKTVUzVktEUktQYUxSSlNVR2swQkkyV2ZOVW56TFpZQTdpTVhHLWdHakI2MW9JQkNSNmJEQ1k4am9VMjZKOEgxMTM1WHI3enBGOS1WUnVwT1VVWldFYTZXanNzRWVaTjlPTEZZR2FsbDB1Z3kwUEZ6R0c5LWZqRGJEcllBbjdpUjFOYndUcUpFS1RTbExoSFhRYkhSTG5xM3FVU3ZKRXRPWVc?oc=5",
+   "text": "Air India and IndiGo resume flights to UAE following temporary suspension amid Israel-Iran conflict - thenationalnews.com",
+   "time": "Wed, 25 Jun 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTFFTGxHV1BWUGNlMlkwVWxWMEJTUTV4ajV6MENrbXk5QnNWbzZWbHBlak5ST2s3YjlqaE5BZ3NMQ051S2dXYjJRZmVUQjdSTE9xcWduc2dUUENXaUcydnc0dTRjMERzU0gyWENXckI0VWZzREwxZElhRGdSYVJ3a1BoVHBMY182RjZpQzZNa3BjZVRPVjhsQkwycGFweEpTdVZ3OTNMOWZKeTAtTDc5eW12YU1WbXRGX0sxbHJ6NkNpOTdjdEcxRldzeENHXzE3cDVFUE9leGRQbzhCR2ZCeEFpa2U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -206,6 +289,18 @@
    "engagement": null
   },
   {
+   "id": "gn-2b64cdcd538e",
+   "channel": "press",
+   "author": "وزارة الخارجية الإماراتية",
+   "role": "press",
+   "text": "UAE Expands Visa on Arrival for Indian Nationals - وزارة الخارجية الإماراتية",
+   "time": "Wed, 19 Feb 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJFOF9rN0hVbG9INktYMzJwQk9ZVkdzUkhSNUVFZ3oyd2ZiNWN1aklkZzZObTAxZ3F6bzhEbl91U1NWbVRGQVkxQzFvUzU3VTRpRkNYYzk1Zm1fckFzM2daTnJyOUd0NGVSS2xqcEtab3F3c2JhSlg1dDRoYU5fbEFDV2FQREU?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-c1a23955dfb7",
    "channel": "press",
    "author": "Gulf News",
@@ -218,85 +313,97 @@
    "engagement": null
   },
   {
-   "id": "gn-ece3c1e007c8",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "Why UAE has abruptly cancelled visas of 5,000 Bangladeshis - India Today",
-   "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRPZ21EQzcybmVUejdsUWN0WHhtNlM1dWVaR045N2dPQVJrZjVZdnE4VWlRc196eGIxYkw1bGdYMllZbW50NHZObW9iYk5pVDFUWGV5V1hiQ3FrQmJxYnV6SEIwR0VUXy02WG5OSE5GOEhxbXotLS1INDNmMW9taXZkNm1RUmpRSjdXYXZDRVlTRmwzRW1QOG02bW5QQUJ6eUFBdzBHRHNPVHpCaDdQb1BkZTNaOEVPTVNNYW9wUdIBxAFBVV95cUxOajVVZHJoNW9CQ3B5dXpoUGtlRFJ3N3BzbHYtbU5TUmdYazd3cmJ5WTdiVXpabTZGMU9yS3ZMWU8yUnIzRHpoRjI4d1hCZDU3ZTl6RlVBdzdYOXhIZmNGTWh4WVJOWFd4LWFldlM3eE1nTjZ4N2JBeHZ1TmFhWGY2TlNmazNtekVES092UzFFSkcxMTl3azBpN2w5bGh2ODNQMEQzTnFKUXV0V3g4UVRYOEtPTzVxQTkxVXUyX21KUnR1Umh1?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-ce7fb0a54865",
-   "channel": "press",
-   "author": "Arabian Business",
-   "role": "press",
-   "text": "UAE flights latest: Etihad and Riyadh Air among airlines to announce new routes - Arabian Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVVnMDdWdVJmVHViZUhjN0gzaFRZcmVkeDhIa2xfRlV1X1pzeTNEMG1xQVFGbC1HUGtGd2FIY2p2NVozSF9DMVZyR0RQYnlLbnFFZWlnZjdjWmdIOUZLT0NXZmdhLVIyOWRjVXlMLWxhNFMzMW95Q1FSblI1Z2tWcEV5Q0JBaDM1eWpZMksyQU0?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-cfed75ae1994",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Flying to Europe this summer? EU aviation body issues warning over GCC flights - Gulf Business",
-   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFEQTYya0V2U3hqUU16ajY0ajJCSkpSdE9TVzRxcnhxTDIzZzU5T0ctd2EwcUlSdHFwem1PbW9QZW56dEVQZ1RnVnBtb3NHaC1PNEJ1WVo2Z2Qtb2l2RUxKSThiOW1xRV9hTGpPZlk3VDgwdGxxZWRneDdlLWtWXzEyUUJaRmhlbXAwMTdQcDNrRkUwRHB1RXE2YnBSS21aX09YNC1CUm5OMkZuR3c3dkN5M0xjaVpo?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-28b74f98f1da",
-   "channel": "press",
-   "author": "Gulf Business",
-   "role": "press",
-   "text": "Air India captain tests positive for marijuana after turbulence scare - Gulf Business",
-   "time": "Wed, 12 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekExejRoS25xWWJzZlA3ci1YNzQxdVZhc0pQUHhxSklNVjdqcVdhR3MyWlE0TE4xUmRrblFhbmtGOXBLWlAzRTgtZzhuWnZDaEpEbzYwR28ySFBFQVZmc0E3V1FLVEhaODRKMk03WVZaRG5CSkZLbVNiTGRnTktCb1hHa2xUQnhsNHhRR0VHdE9xOUlNUGRxNVpHRkJ0dHRIMm5RdEF0QUQyX282eVE?oc=5",
-   "sentiment": "positive",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-494d0c821c6a",
+   "id": "gn-fe7ffdf627c1",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
-   "text": "UAE flights update: Emirates, Etihad, flydubai delays and cancellations; UK travel disruption - Gulf News",
-   "time": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ090Ni1jcnNWeTVVNWlZaDFsWkQ0a3psOEJCVjZFRXlidjhuTFEzYmtNTWkzY1NFdmtid1dmQ21DRndWakVycEtPYkppWEdzMGJud2JYT2RPb2FRWFdjaHJIc0Vyck8yYmRCelJvanlBV1ZOa3F5QW9MU3NqanBZSElJZC04WXloUWFhclJ3NDkwdE5zRmd6MmhDS3UxNEFJZXNYTVZwNmIwazhPdmJzZWVqTkx0SUFEQXhxbU9KWE00VkRsNUNDVkRYMXhncVlTa1VLYXExNNIB6gFBVV95cUxQa2p2ODVITGVaa0ZYQ01EOG8xbkpaYmRfRUtQcFF5Y2Zsa1J3c2RHa3U1NU9UUjREeExTOUVNYnBudFQ3dnIydVBWUnlIdWM3NFVsX01RbnVfRUVxYzM3ZTBXTmV0eGpDcHBZblhWUVZFa0huS3hCeml5Wi03amNyNy1sQVB0UkRfMUpCSGRPYl9QYzRnS0xEd09yNVAxYXFYS1V4S2l0SEVBWTFVSzVDTEZQMTd1eXJnYUhHbmF3QnpwdjJ1Qm1xVUdyQ3o0TmdTM2hBdUViQ04wdHN0aC00VHlpYTVrcTFfQVE?oc=5",
+   "text": "Air India and Air India Express ramp up GCC operations with additional flights - Gulf News",
+   "time": "Wed, 18 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWVPSTYtU3ozQU9GVjkwT0lETHYtRllpbjZ2c192dWRtdEc0dzBjV2ZvS2JpWkswTFN3NGcxbm5oaFBPU2o2V0Vqb2NCc2JPaGJWbk5ocWhWZXFMdnZBa296bUczODFfSFhsSmdsSlZfbTd6Q1ZKc01XT1hwUHpneUJ0QmFsOVAzeUdvZExIVlNGQ0pPWm1USGdlMjV3Si0tYkZXdEgzV2lZNWNSSnB2RkVzMDMxY0M4U1ZFNTRsN1IybjdPVjZtYtIB2wFBVV95cUxQcVk2NzhhMFpWbHQtUVowTDlEcnF2NEtNNXRLSzZEUG1JUjRRa1RrYlg5NElxUDRqOEZsSlBkMUpyaHdTZWhueEdYeGlqOTg0Wkh0R2lVWWUxSm1pUl9DNGNkaGZWSExZd3ByQi1FdGpYLWdoZmhHdUxYSWdQUWFrMUs0WVZjVi1VRWlKQTRxQms4S2VIRDNONW1QZDdnQ1RyYTM2Y0JCaTRnaUV3REt2U0tUTGRxUzhBNWVlWnNfQjFWd09tdDNDRENUTDBBdDVnZ2pBeUdHWDRtQ2s?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-f8cc1afb443c",
+   "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "Gulf Business",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Air India Express adds these four direct routes from Abu Dhabi to India - Gulf Business",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
+   "sentiment": "negative",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-7c248b5ddd74",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE flight status March 11: Latest schedules, cancellations, and refund options - Gulf News",
+   "time": "Wed, 11 Mar 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2VpM3EzVkhCUDlPM29oQVI0WnJyUmZsNHZMTjZrOUV4RWF4V1BGb2stMl9VSWdwSlpRd1ZvcUZLYVJyY2NfMzRXT2ZJRS1JVnZNQklzQThRbUs1alI5S1p4YWNEZTVoQ3l2cFdfOEQ1dnNjT05tdVZBYXZadFFXY2tGZTFhak95Z3FEcjFNZm9CNmVZbVpkOXRtMDJqcm5zSjlzSWowN1JBcllmYmxyQ2gtWTc0dDRfWmtWWEZkandpd0tWYXfSAdgBQVVfeXFMUE1uaEFNeHl2RVV4Q19OMGFWdHktampKd1JzdFU1aTloY3I5TnBubE15RHl0di1tNDFIRWdJeGpldWtKcFlaRUR1b2Y0TUlubjRybS1NWEp5N0kycGxoMVp0TUZfNTJzNmJ2RFhSY1lLakpOTGV0NkdmNjlDdXN4bVk3Z216ZktQakRqSUx1VE1RN3Zxc2Z0dFJ1VXhnT2FtTjJ1UzQwMnVCYzNaQWF1UXhPWlhGdldFLThtbUdDWUI1YTZOX2czN1dITnp3ZXM2dm1qeUJKTk95?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-5d8079037a6f",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "UAE travel: Dubai flights disrupted amid India-Pakistan tensions - Gulf News",
+   "time": "Wed, 07 May 2025 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzJwTGh1ZDhiNVp5TmdMV1Uwc093Z3c0Q3JDWU1DUnY4WnFOZ3kwSVFJR1lWdkVwcDFuMVVxZkNxLTlYdm8yRnRxbXR3anNpeGNNQkJwdFBmdEc5anEwb0NpSXV3VTN1MXIzMkNvN0VVUnVXN3hFM2pKYTZlLWhsZzBJSzRPZE03QmhTaDF4TmVCMzRSYU5UbnV3V2xlYVJMLVNLOXg1X3MxQUkybWFHeE85dm7SAccBQVVfeXFMTlktdEZlU3pyUlZqa1BHWTJrTTJPS2dpa1YzWDJiTzF5cnVQX051VXFhQjljMnVkWXFQR1hJUWhwSm12bS0ya1g0ajJhTHhDTmlFN0pjdTFaRTk5RDNhVUV1QkVjekx6MWx3MERtOE1lYVB3WkRqelBjR0hjWDI4ejl1NkZGTGxaY3IyZ2ZuNHphX1V4REgzb3A3RlNWc3dXS3ZZeXVhOWZJSTg3QUhuaFRvbmVEbi1KR0t4ODMwNGJsdklyQjV0bw?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c7524b6da74e",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai clarifies Tatkal service for urgent applications as expats face passport delays in UAE - Gulf News",
    "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmViaEVTSEFWSG9kWEVIYU03S29YVk56YjZDdGdYNnhQQlBvckpnTzF5Zllodnc1SEpQd0hGUXlTQk9LWHNtcjRpRFZMTHV6cjhNS0RPVVRMVkIyMG1TaG5MZEoxX1BhN2w2U2JhMktDUnlOU2s2TkdwR3oycU1rQmFmLXh2dWJTU0VXQjJwdVp5dDVsaU5SOEwtakgtd2FjTVd5V0pBeXVXQW5sY1FReg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVYxMDZBbGpwZy1kcVk2Q0VHTktuNmk4blM2N2ZpajZaVndiVklCVHVVTVVmWDNYWTlEaUJuSTRtaF95OUE3YnY3LThPMWk0OEZ4OUlFX3poUkNiM2hwckhxcEhxMVVmQ041R0Y2N0FzejR6R0lfQlpEMHA1Y2ZScnJlb0swYkQxUzBDbTdLVVhrUHJQVUsyaUpvb0ZNd3hkUHRTb29QSGl5cC1MNU9kWXdwdlBNY0U3RDZoVEFhVGFyQzhvV3NRYnhScG5Jc00tV3ZUWDFlenVXeXBTQ0tvZktTNNIB8wFBVV95cUxOVmtZNG9PMVlLc21nZHNLM2ZSckhZV3ZqS29rT3RMcGVyWnJxTFNHQWlsMGFkUFYwVEdLOFhOQVcwWjZVX0ZmZXZ4aVlQWWZtMC1GUkNzcjVIeVFaUXdLU1Y1RzNKMEU2Rkp0RVdEYWZrRnMtUUdNREVvbGRZTldDYlFlR3hpYlFQZXdFei1kVlFobEtmcy1UYXY0ck4xWHllYS15WEZIUV8wSXBXSnBiNDgwVzBzVTlGNHZkZjFKLVJVTG1Cd3U1R0JNTTZXNzdDRVF0X0p3VWd2eGdSM05SNm5MNjJyeGxSMDdmQUttRVM1R0U?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-cd6616296c32",
+   "id": "gn-f448775ba783",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "Indian Consulate in Dubai confirms walk-in services open to Tatkal passport applicants - Khaleej Times",
+   "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNYNlR6ZWQ1LWVMb0tHc3FsRUlVZEdWTjFDVlBTWi1qRWRmczhoblZfTWdPb0ZKaW85NW9IeDFPWDR1RG9JSXlUS0M4bDRxZmttejAzQkpvZmJmaGcxU0liMnYxUFBkcWh2QnhuUzcyOUF2a0hDYm0zbTlBTEItQW5DeVp0bGZ4bXNrT1JsU3RqOHotZ2lGY19BWGRRZE53YktyUm1mVl8yYW5yX0s0YmJOYWzSAbwBQVVfeXFMUFNsR0hKZjFXYnZPbVBwMGRFOXF5WFJlUTFLcEQ4WnZESkFjaFNINXBBUC1oZWpzdWxsc3ZuRkdXd3FsaV9GU1V5eWJmamxkT3R0ZFZDZ2g1OGg4YWRlQUpVRU16SEdwM2F5SnFMUFBJaXRtYUpKQm9Hc2dwVElHTVBXMnpMLXBMN2lyN005QXZTcV9DVTRHN3BXME9uRW93b1p3cFNNc3lZNTlwTXdvelBqeGVrMHExUllNalY?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-0747d26b4706",
    "channel": "press",
    "author": "Gulf News",
    "role": "press",
-   "text": "UAE flight update: Emirates, Etihad, flydubai, Air Arabia cancellations as Iran tensions escalate - Gulf News",
-   "time": "Wed, 02 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTTlUS0xRR2dxNDdTa0wyQldtX05DdDdPRHJkWnloeDkyRDRIQ2VBc1RfcFl1QmlRUGY1WlRUR3VBdmJNRmtHUFNsUHhvOXhCMjNqOHNlejZyTS04S19PUGRGMVdhTXp5blJjR3VGQVRSbDhfZkppWWJGSzJKZUtNX29SSTlrbEZmaDI4VlB2VG5UNzIxU3FyMjNQVjBLdFlJa2FmZG5CZjZDM1FPWHVZRk53TDlsbDdtdkwwYnFXSUJBS1MwclhwbGlLeE5QT1NzSjZJRUZqZnh1MmZG0gHvAUFVX3lxTE5KYUtyQW83NEdCbUxHc2I1Q0xwM21Xa3U4MGFrdW5JYzF1ZTR2VXpMQS1zRzRlZXVkZDNKZkZEUTJTQndFZHFZTVhYWjVva2dVSjVZWUx5dzd6QVFNOGF2MWRvejQ2ZnhHTEpiZERyLThMSXM0QnlXVGFfUmpWaUZYZEdLTmRHUW9qS05MYlQ1cjdUUzhBMVZWN2Nkd1UwdkFwYUJ6dEt4WUZRRXkyRjNuSTFRbkcxVUR1ZnEteFNzME0xNzhYb0ExN0F1VGxCSmtXOExtR2NoZW4xb1U0Z0xMSVV5VkhsZ3hHVURGUWcw?oc=5",
+   "text": "Want to work with Indian Consulate in Dubai for over Dh8,500 salary? Here is a job vacancy - Gulf News",
+   "time": "Wed, 03 Mar 2021 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWFRxUkNUMWNoR050b18xT01kVUVDbnZQdXVtYXpTODVPdF9PYjZBQlg0ZXJUYTZzUjV0Q1RvaGU4SGVxSWFNOWZjUmZkbVF5a0dsTW52VU81alFTVnlSUl81U3pXQi13T1FYZnozcU4zUG8zVUttQjhhdXJ3VHV0RUJqWEtxSE9YaXYzNVBJTm1wb25ndDcwYlJfMzVUaW5FSFU3c3lpTW1KX2dwOHlkRjh3Q1lsZWZhQ2ROdW9vTC00UdIB0gFBVV95cUxQU1VidU5yMHNnYmNuY09oWXNCQ05BUHdxeVo2TzF0SjVVazl0VmVxVkZXeGdWVjdXWEswQlQ0Vk1femJZcnlTbUh4dHlPZXV3ajE5SGRTX2VIZXlNMGtvWXphRU5FN3ExWGsyV0phVFZBLWVnWld2Ri1MWUVHcTc1X2JwWkNxLXlwYkJ3dUEwTzZpQzc0RUo1bXZGTlpVZGVJMDY1RUNkM1hicGIwY1JvVzdHRmp3dDZ5VXh2TG1XeS0zQUlsZnVjZmVseVowZDlVenc?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-c9f09a0a23ec",
+   "channel": "press",
+   "author": "Khaleej Times",
+   "role": "press",
+   "text": "UAE jobs: Indian consulate Dubai lists opening, Dh8,500 salary - Khaleej Times",
+   "time": "Wed, 03 Mar 2021 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RlZU5LNUFlcjdqbU9IT21KUTBIWXZyQTlGV3RKdEJJRHVVeUFVT2xXdnl1NThpc1VucWV4QkQ3NDlkV1g2WEh1dDdIQVF5dEtsNUJEcHdoOHViNHN5S2cwNjI5dGZ3d0RwRWgtbGZQT20wVXlkYk5ScXBLRVI3b19kR2MwMXQ1MkI3RkItUk9UUF8wemc00gGfAUFVX3lxTFBWeFdrTlBiX25FamxpMlVSTFoxRFhtTUhfWG0tT1hDS29qRy1vR0k2UUFBX2FxeEZDcnNFRUdROXpYVHJQbFp1R21iU3hOWEp0VE5MVlRqQjlpX3RoZ3JYblFOaWxwc2w3X2ktaDNXLThtYzAtSDBzV3ZFRkRLRzdqT3RPeVBWZjNzMFl2eUVlWXRMa25DS2Rpc2dfYlY1aw?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -314,6 +421,30 @@
    "engagement": null
   },
   {
+   "id": "gn-26c1800a85f1",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai facilitated 15,000 UAE amnesty seekers - Gulf News",
+   "time": "Wed, 01 Jan 2025 08:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHVaQzlrVWZ3NkFGNVM2T0hNNlROdHJYMjEzQnd3ek9DSlpFYUNGeGhSeGNtYl80c1pOODhDdEZJanViTUxpanRyT3hLYmxKeU94aDF0bElYX2FxdmNMWW9od1pqamVldGNaV1ZkUFZUM3VsWFh5Q0Y3dGwzeXJaeU84XzJDLXJxQU5YNlRmUHZxam5EWWp6MGZ6eEliN1h0QUdB0gGzAUFVX3lxTE1QZnJHcEVTRWVOSmNMWnFZN2Jia1dJaDhDeXNrN3Juc0E5X1MyWUhVUjJRcFl1VGkxNjhkaERoZ1JqNXBQb3Q3OXE4VnJ6TWVjenBKcVYyeG52NFBNSDhYcWN1S3lmd3Q2a0JmQzFKSXFoYkNLcjlVWEt5OFVaanJfcWwySnk4dDYzYTEzSXpoU0gwY3F5OUtPdlFIRUp1cHhNRFE1UnJNemlhbWJSbzBZQ1pJ?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
+   "id": "gn-cb6f38514826",
+   "channel": "press",
+   "author": "Gulf News",
+   "role": "press",
+   "text": "Indian Consulate in Dubai issues advisory for Grade 12 students ahead of college admission - Gulf News",
+   "time": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUlVTHhsdk14bWdVclZfQ0wzUmk2M3VJS0lvS1JCRENKX2puZWtoNEhvSUxGMG01cFVyYjVtZENzeGt5WkFnZGMtYy1DVDBOaHdESE1uX3lpWENDczVHRER6TTEydGNHa1lydTNQeEFOaWJaVGNSRlFqTUxQa2djSnBOeldwTkV6MTZ4aFA4aWEwRVRKNWRUbXgyVURhZWdUSF8xSUc2T0IybERoOFd5SlBuMnU4S05GTk41cGVqQW5pbDhvSnRGYi1CbmtSaDNiUURV?oc=5",
+   "sentiment": "neutral",
+   "verified": true,
+   "engagement": null
+  },
+  {
    "id": "gn-bd96955b9812",
    "channel": "press",
    "author": "Gulf News",
@@ -321,18 +452,6 @@
    "text": "New passport fees announced for Indian expats in UAE from July 1 - Gulf News",
    "time": "Tue, 30 Jun 2026 07:00:00 GMT",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dpUTZ1SjFpVlBjSFo0aUh2UExqUkxwTV9zY2lMU1JiRDlKM19zdmpVcW1MZ1BWQTUzYTRmRmNLV3IyaWpleWhURGNzdTYyUHNzS25aeDhDbUtucEdGWUEzR195SlUyRERGZHhEYXB1cUZfRkhJc3BNOXdfVENQcWUtMU9odWhyVXNGLWFOSDJQN3QwX0VmU21mYnlMNmNxTkY00gGzAUFVX3lxTE9sT1FBYlJhd2dHWGRJUnhsaHowX3dUNy1vZjJHeHhkbUE4MDBDbFBWM3dMSnd4LWJDSmJwY3lJOVhqUE1WX1pfUkhROFJrNXZ6Y1FGbk5rR3JxcXF2aWd3LVNVWWdCZ0VaOWVlWWh3QlpBY1JELWVpWGNtSmd0RHZVMmF2M2FKNDYtbkQyb1FhRjk0M1V4REd6eER0QjEzTGlidTZYWVBWUHprZGFqV0RUUlMw?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-71559ef56b23",
-   "channel": "press",
-   "author": "Rest of World",
-   "role": "press",
-   "text": "America’s immigrant tech workers are paying an uncertainty tax - Rest of World",
-   "time": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaDZrWkRncmsxVUQtTmxHdFNuREpsbXY4SlZlSHBOOUlER0R2YlRvUWFSWThjUjJTQW9OaUcwY3Jqdncwa1l3c1dQLW14T1VvSDVpX3JOVlhGMF9VVjB1WlNJRVFwOWRjSVp5cWNwZjQ0REhjNHFwNkh4anFhZjJlNUFvNA?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -362,13 +481,13 @@
    "engagement": null
   },
   {
-   "id": "gn-64e2982f6653",
+   "id": "gn-3360efabeb18",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "DD News",
    "role": "press",
-   "text": "India-UAE Diwali, Dussehra flights: Fares from Dh945 as demand picks up - Gulf News",
-   "time": "Tue, 29 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2dfNjNPYWgzMTVzQzYtYjVJRDFlcjBKT0IxNmRILWN4dF9fci0wMGZZU2ZFSVZoc2pBRHVMTGZ6QXhwTkt3c1dpVE9nWU1yMmlJcVlsNjBVYU5fX0pkajU0ZDNhWktJeDQ2MVRLN1htNW4zQUlqZGEwVFR6SjA2NUp4cGJlRVQzaWlNS21FZnJVdVd5QVE0TkQwRXhxcEJXT0xwaWlwOE95TUxteDBsN0J5WTJ2dGtTOWh4QtIBzwFBVV95cUxPcmUtMFVEZEplUFFOYkpUSEtOV2EweW5oWm1mRGlHQkRfUG1MUXZTSGFTaGFoc0VySGZWbUFSYjJ1bEZLRlVFRXJRVWlSbUEzU1QwZHBBdTVjT25tZnZlTjQxenB2UEpvazBvdVF5cGs3MmJ0SlpjVkFGWThGWmhxZU4zUXl4UjhuODZyb2dCWkExQXVpOFd2MWF2NDd1NS1BeS1FQUxCMjRCYzUzTlZiNTd0bDR1MjROYUd1RnpwSG1TMWdral9zQ2U0bjBzZ1k?oc=5",
+   "text": "Indian Consulate in Dubai organises tree plantation drives as part of Seva Pakhwada - DD News",
+   "time": "Tue, 29 Sep 2026 03:37:18 GMT",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWJ5ZWtVaUJiMTRIZXM2NmM2VEtOcXlvZENHZEtobVB5VjludWx0eUFIWmUzODRQN3VSaXF5ZEtVV3lzbzU5U0QzSTN1bEx6THh4a1dJOTBVdGctZTA5ZmpFT0FHdkxYaVlHdW9VVUt4ZnYzbUFBVmpXNmN5cFlyWFpMMHFKOV9WYmtCQ1ctcmU3aDJLcEdOYm14Y3NlOVdQOUppV1VYMDVoWk5hNkE?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
@@ -398,146 +517,26 @@
    "engagement": null
   },
   {
-   "id": "gn-90793cba913d",
+   "id": "gn-dc452e57b52f",
    "channel": "press",
-   "author": "Gulf News",
+   "author": "Madhyamam",
    "role": "press",
-   "text": "Ras Al Khaimah bus-truck crash: Victims were returning from Oman to UAE after visa change, says travel agency - Gulf News",
-   "time": "Tue, 24 Nov 2026 17:01:12 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEE5ZFVydTBrVEpNTXRjNXQ3UlNMTDFoT2FyTGxqaFhwM1BnZW5RSmVYemRuOTMtUzNaVndvMEFyRk9rdkVtQTlENWNyMVpQUjZNc191VTBXUVAzZlY3VHVfN040OUhRMTN3bGNDT0VObXJQSDBjY3I3VXJIbDUyellpcjZqdXBTNG5peGRyWWVjUUxEbFhpa2ZWWGZmX2dJU3VmWVh6enNaMjRIZDhwZnppalhPMmhkSzZuVnMzMTFhemFhbG90dVJqbjZkNDJvQzJZaHdPNlZ0VU9U0gHsAUFVX3lxTE43UWo3bWNEZTdoUnBZaHhCcjNlaGRtVlg4N2dBUk82WE5zTG00NEJqNHF0REJfdUgybFJTNnZtaHdHa1ktUDJoN1hZMGFudUF5c21sS2lmMmRKRDBfYWFYcEdSV0x2OHl2R3dwUHNMVlZndlpWUkl3MVNlam15TnltbkZZanU5cU5Dei1ZQ09GX2FHVmNkZGlkck1KUUtCMnBTZW9MdV9rZG82OUhabHQ5dFB3X3MyZl9vWFJuUVZfemVsSjgxMHV3THBLTXh6RFJ4bjBUSUdwS0NONDc4RWlUQnhjRk41cWVqR1RY?oc=5",
+   "text": "Indian nationals among 13 killed in Ras Al Khaimah bus crash, consulate confirms - Madhyamam",
+   "time": "Tue, 24 Nov 2026 20:02:45 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkc2V1JHd2FseTVPc09DMUpxZWgtM0UweXRrOFRUVzd3UDBid0VXVU9kSFJnX3d5clo3ZHAzcDBIamdhbGw1cHVYWm9aQ3psZi1SMmJBaUhtampLaDRPS29uLXBZano4RXF3MXVoRzI0U0JnMUFJdEdzQV9PZ2xXYzgtU2t0bmUxdnBOdVd1VmhLVVg4YV92bmxQZzZMc0lOZjA2Vy1IUFo2R2t3RHdyRkNzREtmaWNDbU9GOWJXWXB5V0t2S3VqbUFSY9IB0AFBVV95cUxNMlVXMmFOT3JkZGZ5a1FrTUJnTUUwclhZU2VuSlp3Njk1N3Nlcm4wT2RiM2d6QlFTZHZCSzRmbW9sdkduSDhiUnhsRllmc1FKeUJOd0lueEFCN2cyQkgyemdRRUlPcXpyVUFIOTFON01NekFoU1hLbzFOY3Y2dlZ3azU3MVVjRWJIdmFsQ01aR3FjVkpOVm11UW5ZSUpqR2htYVo3a3BUdXpXNGkyZXIxMWIyYktNcV9CWFREbDZ3RUJyUWJtY0dUdlhvRkhxMy02?oc=5",
    "sentiment": "neutral",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "bn-a3518dc8bf4e",
+   "id": "gn-7c16806e215a",
    "channel": "press",
-   "author": "Bing News",
+   "author": "Republic World",
    "role": "press",
-   "text": "Several Indians Killed In UAE's Ras Al Khaimah Crash, Consulate Assures All Possible Help",
-   "time": "Tue, 24 Nov 2026 15:30:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a176d8aa440b8bbe02e431c8bf28d&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fseveral-indians-killed-in-uaes-ras-al-khaimah-crash-consulate-assures-all-possible-help%2far-AA2i8i4C&c=6872140763334718752&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-b0e7811c5ccd",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "13 Dead, 14 Injured in Horrifying UAE Bus-Truck Collision; Indian Nationals Among Victims as Consulate Steps In, Details Here",
-   "time": "Tue, 24 Nov 2026 09:06:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a176d8aa440b8bbe02e431c8bf28d&url=https%3a%2f%2fwww.newsx.com%2fregionals%2f13-dead-14-injured-in-horrifying-uae-bus-truck-collision-indian-nationals-among-victims-as-consulate-steps-in-details-here-294838%2f&c=14350525397905719895&mkt=ar-ae",
+   "text": "13 Dead In Ras Al Khaimah Horror Crash: Indians Among Victims As Bus With 41 Passengers Hit Parked Lorry - Republic World",
+   "time": "Tue, 24 Nov 2026 18:35:28 GMT",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZjVYbDBNS3dlSFd5VnVQQTVmYjQ5eGNOUXQzUUZZeWd4a01CRW1BclJJMGlIZ1FadU9XeTBlMm5hRGVMY3l5X19CR2lLOFp1QXhlN0JWVGZleEFMaEptMDdVNjVuU1pvQ1RkNEJGYTRESk5DLU1hR0tQVUtvQ0sxaTc1RTc3TU9EVGdTUEt1TFRuN05sdzVsc0gzUjJrZEhnd1FnRm9kSkUyVDNCN2EwOXVIajlQamhvNUVhSHg5YlY4S2FXS2Jlc242bXlsaWJtYm8zU1laM1p6SEJ4M01ZTmRoeURqODN4UVVRQzZB0gHzAUFVX3lxTE9ldGk2c1RwZjJLck1scnc4RVRoUXRQUllFVWlXR19KOXZ6UTVZeVEtdG94Umt0VEdCOVI4b2ZxQjlKVTFFQ0ZIMHFQYnFpbHJwUXpFU0U0dWtXU3I4U0RWVVZRQld5M3BUQjBDQ1NTTHZjLWZPbFJyU2RIcThoamZGRkpWTGR1Wnc5SHVYTjV1WkprRktHaWFaNTlMTTlFUE1jejVUOWFnYlhEZDFWOWlzUWNyVzFERlJvU3VwSm9WM0lLYXlHaUo0ak42d3Ayc0pWSjdoSUpURGEweGRkX3k1azhMUmk0bDdBcEVfeVo5b0w0TQ?oc=5",
    "sentiment": "negative",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "bn-dafabdf1560f",
-   "channel": "press",
-   "author": "Bing News",
-   "role": "press",
-   "text": "Indians among 13 killed in UAE bus-truck accident; Indian consulate assures all possible assistance",
-   "time": "Tue, 24 Nov 2026 07:30:00 GMT",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a176d8aa440b8bbe02e431c8bf28d&url=https%3a%2f%2fwww.hindustantimes.com%2findia-news%2findians-among-13-killed-in-uae-accident-indian-consulate-assures-all-possible-assistance-101795534235905.html&c=11268549685443750660&mkt=ar-ae",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-a3146a3455e1",
-   "channel": "press",
-   "author": "ET TravelWorld",
-   "role": "press",
-   "text": "Abu Dhabi's Zayed Intl airport to have direct flights to 22 Indian cities - ET TravelWorld",
-   "time": "Tue, 21 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV2NMbV9YV0VIMFFpZDlpNGNZRkE2YkRiTzNSa3ZKdUgxZ1ZQSXBCa1RKN0E1aHVjeFZUbkZXbTlVVXhWQ0NPbGZtZWFOOExjN05QTmtGdzNYWkhJTVJmMmZrYjBSRnpoUlR4S2xBNHl1bEw3T21jc05oVzQxRDJ0dFRBOFdCRlFxOUJXYkdTcVprMHFCaTZBcHM0WTRNVkJKaXhnVjdPcXJCRDA1Uk9JV2Vsc2hNbU05WEszd1VmRXhqOXlEd2NrNjVtRGtyV1pleWE4UG5zVFNTT3pHb1BZODdTY3Y1MXZ5VlHSAe8BQVVfeXFMTVdSYjN3SnBYUm16cFZHQUFOUkRpcmdwTUlBb05XdVRkRkRKWXVsajdoc3V0ZjRrT1ZLNXlCYkhfRzJqaU93bVRvREdOQkVXZHE0TG9XTjBKX3p0cXhmX3pkLXdoV0tGZkdOS0cxSE1IZXhSUjVvRFlGNlB0TW9IZGNhOEVYNmN3QzhNWlZhYWQtMkJEdEYxSGVEeHFTVm9jVGp4RDdGRW9vM013SXhaMVVkdzRVOFRNbEhGbnd0RjRCU2w5YUVCMGZ5NmFiTUZaY3FHMFNia2tOaE5ZRVByMTZBR3ZQQ1BUU0FZQ05wT0U?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-b70bb519e6e0",
-   "channel": "press",
-   "author": "Gulf News",
-   "role": "press",
-   "text": "Flying from the UAE today? Emirates, Etihad, Air Arabia and flydubai flight updates as war disruption continues - Gulf News",
-   "time": "Tue, 18 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVljZHFRWUFXOXBJUzRIWlBxSHIyTFh0UlNuckFvd3ZDd0otdmptMzg4Y0hRSGpEYm9FTmxsVkRlZ25Dbk1nTGhJM21tRUk1cGlDaE9ab3FzSE9DYWtWMkg3ZEkyOV9Xbk1DdFJiMFhKTlJ3UW44TXlPUjd2NmJqV2ozc1ZYM3l2VExHcFVBaE90RkhkaFZFRjR2ODVRb2xVTmh6LURMWkdZa0ZoSmtZY2RKYzdjU24zNFhRQThjSDlYczd5dlVvbUtRY3B4T2xIcHkxbXRRU2ZfSG1WckNOR3F6OTlNT3PSAfoBQVVfeXFMTXB5UnozRzhvVzFGT0dnVDUxTjJLM2hMUk9uakNEakN3MGpianZGTVBqekkyVEFtSEhrbmlnNTVXQnd3RVczSkF5M0Vha2RORVhJZmVLNVdLVFprbWZ1ZWFMNWlQNVFOSFpvRmRHbjQ2cERQV01UUndua0tqT1hlQmNhVmNIaHdvaEFqSmFoc1FrclZlamhLYnRUdXJLSFR3MGpsM3NmeUYxRG5UeDhyRHQ3dzVxb3hweHM3RllJUFdGQ1hNY3RvaU1NWmJmaTE5OFJ1RDY4UFJTc2FrVWdhMEVFUU1LYTM2RkIzTUlTYkZUS1d6QlN3U09kUQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-c3351c8733d0",
-   "channel": "press",
-   "author": "Khaleej Times",
-   "role": "press",
-   "text": "UAE: Indian Embassy issues warning over travel fraud - Khaleej Times",
-   "time": "Tue, 16 Aug 2022 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDRPWVd2clpHam5qRFhSUUhiZEpBUktjLUdTdDdDanBMeXlZRVZndlZRQ0lrV3JNcWlZalN2b3dtNVR0aFZPZmYzUUVKNm0xb0V3c1BYaS1QM2k1NTNDS2k5RDNUdWU1RURSUjVSZmpJSmtzSmF6OVJ6MWdhSnk0a3NfU0syV0R6MVluS9IBlAFBVV95cUxQaW1JR2MzaV90ZUVKLUNfbFVIdTdHeVRFQlYwUHMxaU8wYlAwRXQwNXc5QkRJQ3FMbWp4MnB6Y3BIbHlyRGNhNjZ0ZHpqUXFGYnNRaEtlM0c0ekUwbmZPdW90U1hUcWxvenp0R3p0M0lKY2QtdEtRMDdlbVdVdXhVd1ViNktfemdWbzlmZ2R6OVJsQkJT?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-9fa5836685e6",
-   "channel": "press",
-   "author": "The Indian Express",
-   "role": "press",
-   "text": "UAE traveller renews passport in just 8 minutes at Dubai airport. Watch - The Indian Express",
-   "time": "Tue, 15 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3hWQUJ0X3dfeEo3VWJtbklJTmxkRktDdFVIMjQ4T2JUclJKOWtYZnhzaVlKZnVrdHYzNEFWMmp2VDJKV3pCRzVWR2ZCbTNyb1U0RGt4NHJKbGFiWkdHRDFLOThVbEZCbjEtMGEwUE9wZ29GeWQ1anBZMXRmRE01ME9sSEk4Q19KLUtoSi1wMGZiYk5FeFQwNVpHVmtQLTRJeWk5SUFSZ3E1Q0xMT2ZHQ1Y5Ml9Ld9IBvAFBVV95cUxQZ0lOOWxoLU96VWVubGFNRnZCeFJOLWh2UmxSU3JDMGduX21nc1o0UlliWFRkQ0tZbnQ2UzVnaXp0THZTeDNqVEtGd1ltcF8ybUhQMEp0ZWtvbGZ1ZWNWOHFsSW50QmphcFlJTGZpUnhram1vbUFxNTNpcVRCZ05STTc3TjNkWm5UNDBxdVpqdHNaME5GRHVlZW5MUm45cHEzTWV1ZzdaS21tNFkzOVFxb2tQMXdmcjBtcE5yNQ?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-025c45064db9",
-   "channel": "press",
-   "author": "India Today",
-   "role": "press",
-   "text": "UAE man realises passport will expire day before trip. Dubai had an 8-minute fix - India Today",
-   "time": "Tue, 15 Sep 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3JpLWkwSjF6NE5lYkJqcEdJdURGU2JxNDI3bVBrTElFdWR0MVlWdHNHUS14SWFPeTJPNmJ1VEVWc3FxNlM1dEVlVTJhazhkUnpkNGdwZ1Q5bUJKVHVfNUwwRFYwQm9iekl5bHhYVG9ENTdRZUQzZ0JVc21fRXlDMWVRSk1ObmtLLTdfenVBenJYWjhoQnJYZlM4T0V5S3g3SzB6X2NhbmtYUEtEUFRYRDhHQnVwRHNzeVczaERuT1J5Z3dtbHRVM0lHLUNMRElua05VQ0NCUFQ0UdIB3wFBVV95cUxQXzlIanBqV3FKR3NYdE5iWkQ0R3BMcXFrUmd2aU5VX1F5MHlEMG93ZDBXcTZFcFZQbUJtUTkySlpGcmNGbE5nM0tBT3hRMGszRjB5UU5LN1lPLXRmV2JCWElHTlVfbXZJTl8zaEZUdG1Kck5iZko5bjdHZkdjdFg2eUJIeTZvc080R3RZRnJLSEpvQm5IWlZOc3RtM0EzNEY0X05uZ2JaZjI5LW1uOHNWa0ltczNsN21mcW56QzBFS2wxM01RV0FRbHM3SGczbGpNcFZrdGZmT3hhTVc3eWhr?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-00e387e39fb5",
-   "channel": "press",
-   "author": "The National",
-   "role": "press",
-   "text": "Middle East flight updates: Air Astana halts UAE flights, Jazeera Airways issues travel advisory - The National",
-   "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXEwVXNRVjJEd3lZVEI4ZDk0VXZsQl9SZjZpMjNYSXJZQXRCU2x2MzRaSU1zWW1SU2R3UndOSmJWN0txYVE2dVJmNHRMUnV1R1llUkdHWlB0U0NPemRBbm9JWXdCekc1MTlGeFdmVkwxRGhDbkdROEVsdG1vYjAxREg1NlcyTDhIRTRyN3NB?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-04f0dbb22d8c",
-   "channel": "press",
-   "author": "hrme.economictimes.indiatimes.com",
-   "role": "press",
-   "text": "Indians in UAE warned of fraudulent visa, migration agencies - hrme.economictimes.indiatimes.com",
-   "time": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcktaS1B0SEh5eEQ3NnI1dEtOVm1NNHE2MFhLMHJMUWpmWi1meUlCeEVfUU9XMlFsVnU0TU92VHVZZlJaaG5zcWF2RUhwZEJUUjFTYUxCYzhCaG0zN0hKMVVIT2F6dldPM2dBMUMwbnlzbVFhUFp2OGF5a2RlR3pYTVl2QXltbW9aaG44VUNWYUJ2NU51aVEwZDd5Vk9mRmhCaFdBQmQ0M1M4Wnk0SFE5TFFuTmthSnNtT1RRR2tpZ0d3c1XSAcgBQVVfeXFMTkJHNHJhQWFraUVaZTNtWTRxTmpHYUxvTEtBZ1dwc0xTU1lDSHdUV0t0Y2NBVmlVTVhRcFpZcHZxMVM1eEFVbHo5LVVIenFOVS02eFpjZmNMaWc4T0lrem9wVzRSNVJIVE9XVkRLRENwcTBhV1ZpSk1VWWZRWE04TzFEUjJvVTBVbzBIdzVFUUllemtxRlpGdk52LWVNTDBGN2dWa1loSElpLTBfTzJUcVNUYlp6a1FWM2ZyV3dfMm1GS3NYMmZzVC0?oc=5",
-   "sentiment": "neutral",
-   "verified": true,
-   "engagement": null
-  },
-  {
-   "id": "gn-aca26497f401",
-   "channel": "press",
-   "author": "The Times of India",
-   "role": "press",
-   "text": "Indians can get UAE visa free for 3 months: Check eligibility, rules and booking process - The Times of India",
-   "time": "Tue, 11 Aug 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeUxaamJQUjRTS1NoNmlVVThGR292ankwV21IODJGYWZTTE16THQ1dEtIN21ZZndFM3Q2ME5XMHZBYnR1azBOdmxUbFdUM0xmWFhkbFc4RGVBMXpFZ3hwRUF2LVh2eFlfOVhOOGlXUVdWU3pSOXY3S3hmSzlIdmNDMEhwOVdPSU8xbWtGWURRenJPU0J6UnBPVjVtRndkWHYwRmhCZTNaek1RNkhwZG9FQ1Nnci1vZGhyNjlnd1BMUzFMdWloZDJqX1gzTWV5cmd1U29hOWVkeDhPVkVqMVhLQUtLRFQxUmJtR2p1WktqZ2trMTJfRzB5cWZB0gH_AUFVX3lxTE1ISVJJT1V6dmw3R0xWNEllbFFmb3N6ZVktTTZYdFo3V3U0ZlhBN2pOZFAwR3JTUTB6ZTVla3hUVzM1dU9wZC10OXFJN0lkX2Z6SmlhdkF6dEd4UGx0OThGczJpZUhrSTM2OVplLXJVazBjRmpqM1NXZWVlUWl0RGp2TjR5d2lxRmRhNjlCQmpPajgxWERDVVBVdUl5QzlQeEVNTWJSNTZveEZrTnBiSU93Q0lsR0JjaEFqbllsVlZlT0Qxd2hEd21ncGEtdE1LNW9GWmxyRXhtYURhb2NGQkNybzZXYkVmS1NCRGJab3lOWUI3WDNtR21JcjZFdm5rRQ?oc=5",
-   "sentiment": "neutral",
    "verified": true,
    "engagement": null
   }
@@ -640,25 +639,25 @@
    "engagement": null
   },
   {
-   "id": "gn-da764bafc69a",
+   "id": "gn-98b3d94991fd",
    "channel": "press",
-   "author": "Al Jazeera",
+   "author": "Connected to India",
    "role": "press",
-   "text": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel - Al Jazeera",
-   "time": "Thu, 01 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOW5iR0hHVTF1YlRfNGY5QmtUYWg4NkxJTUJrVm5CaE13c1UxNE44NE1RWEJEcjlRT2NzOVRqWjlvM1FZTkgwY2ZtZUhSUnBSaDJIMWhaaTVQV2pHMU9RTzRQbm5HNFVqZy1xVFpPaUZvMTE2UGJfV3hPclFTLWVoc3RROEZXeDFLaUhUQm1ZUjc3M2xPXzh0dVpBY3F0ZHpjRGlKZmM5NXNDMGF3MUVScNIBtgFBVV95cUxNYmZOSDlwUTRuMG52elZlcWliZmlnSFlXSGdRSmJxb0JLS2l4amxseTVRNjVYZlhqbVN4X1R3amQ1LVRxbl9MVVBWMTdoR1NqdTl3eDlNTG5CbjBVZ2ppbTNmdTVDemFuWFlINkJDdEpyU0pvaHlQWVU2ZWNKMzd3VnozdEY3aVhBRHpOUnluNWxfVG05cUU3dnJYWnhwdDNERXFwbVF3QXlheWt6ZGR1VGlBM0ZtUQ?oc=5",
+   "text": "Indians among 13 dead as passenger bus crashes into parked truck in UAE - Connected to India",
+   "time": "Wed, 25 Nov 2026 04:36:29 GMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUlVN3lHSlIwV1liOGJWQUwxaUpIMmg4T1dxOFRsNmhGbUJiRkxodmJPcUlGMUdQcFJ1T1hNcW1maXE0Y0pOYnFYWEpnMUlIXzRqRUd2aXl1M0tnU2lCMDhzV0NocmpGNS1MS245UzJkcE1oRWt4c2dWa1BTMXNHVmVNblZvcV9zaFF6QWxXZzVRUF9IRmFPN0xDS2hPZEZwVFVka1FQdTY?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
   },
   {
-   "id": "gn-cb59442960ac",
+   "id": "gn-c72da6bc4351",
    "channel": "press",
-   "author": "The Indian Express",
+   "author": "Khaleej Times",
    "role": "press",
-   "text": "Riyadh airport attack: Saudi Arabia extends closure, UAE airlines cancel flights - The Indian Express",
-   "time": "Sun, 11 Oct 2026 07:00:00 GMT",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEg1Vm5DZlJ1aE1qRkJib1RZY2tjMDZHMjVhb3ppWG5qX1l1S19pZW1TNkxwaFFXenBKM0NDUnZ3SVhmT1N2b090R0N5YzQ2d2NmRlpLLXFyakFaV3NmSDRnS0szOWl0aXBHUUtPOUFVN3h3WnFWRGZCSG9wWmRfM28zaTNPWklwcVUtMW9odEtYS3JPNEREOTRhX0V1a3lheENoMTk4N1JuejZyUVl2aXhLRnVXOHZqRmxzaEtXRGdyTmRCN3pLZWY3N1pkQWRq0gHXAUFVX3lxTE9mOGJ6Yi1xOU5wQjlOQW0wNS1yeG1IQktQZkJTNEpnT0c1S2RWQk5XbzNfQjJaU0NjcGFxYVg0MDRoejVoYkp0T3p5N2JkWmRuMXdWS1lmTFhoRG1jVTJXd01pOHVHT1VESmxaby0xY3o2bHYtejNkLXFWcVlUcklncXJiZGFoMTZzRHhPZE5iaWdJcWtTVVVwczBLdU5YWkRkUVhtbkpqUGZrNER0emZ6b1ltZnM1cHlMSmZwVGEwQUpGVTVkT25TRVFTazh5STRlU3JlclFr?oc=5",
+   "text": "Indian Consulate officials in Dubai visit crew members injured in Hormuz tanker attack - Khaleej Times",
+   "time": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUZFaHlsUTVnLXdWNm9Wc19jd1VtMmlHdHM4Mmx2VUJNMjU2U0xqTi1EdnQ3a0cwUUFrY00ya0FCa29namhzSTdzS3BfSWxNQ1p0ZjVTVld2QUJpTFZSS21KbG01ZUlUdXRPYXFmeVRRXzNUck1mR2tTeXViUnUzT2x0TnIwcmJGVjM0a0p3TlFId1U1eGlvOUN5bmhXcmFTWTdNSjE3Vm1aZEtYVXFxZVlVZWpNRm1abzhEX09YMDlHTXVw0gHMAUFVX3lxTFBkdFUxWTZfcE5WdEt3ZkpWcng5c3E0U3VJbl9zZUphX1N6VEFNXzZLOWZQT2FScERaNWxfMzFhbHJzUkkyTzMxMlpEMlJBT210WXpLUW13Rm14Y05GTjFKNS1iODUyOGxQdExLU091Nk1lX3pabXlldU55TEk5aWNweExoUXdGNEhvZE1pZEVGaklYQVk4SUx3UGc5ZUd3RlpDYmN2Vk4yTVFrWXBoWFJXOThEWXJRSE41YmRpTU14WElEaG1zekFFaU9HRw?oc=5",
    "sentiment": "negative",
    "verified": true,
    "engagement": null
